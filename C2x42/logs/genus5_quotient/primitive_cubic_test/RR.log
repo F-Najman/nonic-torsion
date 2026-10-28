@@ -1,0 +1,11 @@
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 1, 0, 1, 22, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 0, 3, 1, 34, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 0, 5, 3, 11, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 1, 4, 2, 39, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=4 degree=0 class=[ 1, 4, 0, 17, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 0, 0, 0, 0, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=2 degree=0 class=[ 0, 2, 2, 40, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=2 degree=0 class=[ 0, 4, 2, 40, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 0, 0, 0, 22, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=1 degree=0 class=[ 0, 2, 4, 0, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=2 degree=0 class=[ 1, 0, 5, 38, 0 ] Edegree=5 Rdegree=5 both_orders_exact=true

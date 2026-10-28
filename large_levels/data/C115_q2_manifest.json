@@ -1,0 +1,32 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    115
+  ],
+  "method": "q2 global Hecke/gonality; odd order of exact diamond-image reduction at3",
+  "diamond": 16,
+  "diamond_order": 11,
+  "image_dimension": 400,
+  "q": 2,
+  "kq": 6,
+  "degree9_principal_bound": 54,
+  "gonality_lower_bound": "32175/512",
+  "minimum_CM_degree": 88,
+  "independent_norm_resultant_replay": true,
+  "files": {
+    "C115_q2_exclusion.tex": "7b3ae22a4abf280e36ff9aaab6cb30acce5fe638aeced483a2d2402e9b62c781",
+    "C115_image_even_orders_certified.m": "31208a09883eda72359f44340c880ba72510e93c3a8c4c4a512cb827039714d6",
+    "C115_image_even_orders_certified.log": "37bed42c92ea32158ac825bbe60108c3455626c9646c33fa7d0d9ce1b9307a27",
+    "C115_norm_order44.json": "55ff90e26642222e83d1319e6cbbd58c55701c0140a438e9757ea8c0f54c3b60",
+    "C115_norm_order11.json": "da757a630ea75fdbfb5f911785d4292ab9588f2ae01085847eb9a83d377b317e",
+    "C115_norm_order22.json": "b87b049e7285e744d57a6539f4d5c7b01c02982006063e11a01d8a304ede1f60",
+    "replay_C115_norms.py": "1b774bae23162b6792780381abc24e119c0f3e15b0681bb8af88716ee7a06e96",
+    "replay_C115_norms.log": "2f1ec70789ba5e201357150839d69868dcb15d73a286018e61b6eb9247da2b1e",
+    "C115_norm_replay.json": "72e892f0d9dfc73144d35a28c595df8502f34287765c2a3b16c78120f990fe7e",
+    "inputs/winding115.log": "a773fbb70f8abf736e80545d93e0507e46d1a4a1552388ca49eb626e3d27ced7",
+    "inputs/dcm_list_all_min_orders_X1_10k.m": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc",
+    "inputs/DN_2412.16016_main.tex": "eb539fac24689b2a44ef28f5242b3a076a2796d92d565cef0b7ff8fb6c36c7b6",
+    "winding_probe_minimal.m": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+  }
+}

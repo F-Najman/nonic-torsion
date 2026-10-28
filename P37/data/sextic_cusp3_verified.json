@@ -1,0 +1,15 @@
+{
+  "level": 37,
+  "degree": 9,
+  "source_genus": 40,
+  "alpha": "delta2-1",
+  "cotangent_image_dimension": 38,
+  "all_rational_cusps": 18,
+  "one_NC6_diamond_representative": true,
+  "tested_divisors": 1140,
+  "exceptions_count": 0,
+  "exceptions": [],
+  "geometry_sha256": "202bb7cd9b69f3210a918a75836ac5ddbcb8f2c351640ec35552843b2829ebab",
+  "elapsed_seconds": 0.019697242882102728,
+  "status": "PASS"
+}

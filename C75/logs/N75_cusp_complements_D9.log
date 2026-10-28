@@ -1,0 +1,2 @@
+[{"d": 1, "global_degree": 20, "finite_degree": 20, "global_orbits": 1}, {"d": 3, "global_degree": 20, "finite_degree": 20, "global_orbits": 1}, {"d": 5, "global_degree": 8, "finite_degree": 4, "global_orbits": 2}, {"d": 15, "global_degree": 4, "finite_degree": 4, "global_orbits": 4}, {"d": 25, "global_degree": 2, "finite_degree": 2, "global_orbits": 10}, {"d": 75, "global_degree": 1, "finite_degree": 1, "global_orbits": 20}]
+NONIC75_CUSP_COMPLEMENT_DEGREE2_PASS A7_kills_all=true

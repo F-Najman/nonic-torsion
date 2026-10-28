@@ -1,0 +1,14 @@
+{
+  "input_sha256": "41194bc9430106ec30813ef8117e7d76326dbb685c15e42572530c126cd386e2",
+  "genus": 26,
+  "plane_AF_degree": 19,
+  "basis_dimension": 26,
+  "common_input_q_precision": 1873,
+  "verified_q_precision": 130,
+  "differential_rank": 26,
+  "exact_match_to_saved_canonical_q_basis": true,
+  "minimum_term_Laurent_offset": -16,
+  "maximum_coefficient_polynomial_degree": 177,
+  "elapsed_seconds": 0.3240251580718905,
+  "status": "PASS; native exact field identities still required"
+}

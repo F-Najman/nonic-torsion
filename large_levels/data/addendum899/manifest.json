@@ -1,0 +1,24 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    899
+  ],
+  "files": {
+    "certificate.json": "2276fd5b74800181de5201d0f2ff6b4785fc144599785c18e5f8650b054fa102",
+    "certify.py": "96d479cc7d08f610c0021b61fc8074f26e19726841962f49c1322ef9a4781141",
+    "check.log": "4999d0be09450e3f7751f8cbc73d89c0ff2351b07f4ddf7fe459a62fde1b0f5b",
+    "check.m": "6479259e4017b44fb4312f07683219f6e481411c324f84ce1d8f585f2a5fafb5",
+    "dcm_list_all_min_orders_X1_10k.m": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc",
+    "krylov_N899_chi11_order140.json": "44123dd69acfdc3a39309f70183f71cd896735dfff0a249e75714b028b7ba354",
+    "krylov_N899_chi13_order84.json": "468eb3c1767aad69652ba2a4886516cd7e2b9bb0f334d3b8f934de17bfbe95a0",
+    "krylov_N899_chi16_order70.json": "911c6db1db6ed4af7802c00686031e4c0612cd9a882711e9cf21b0fdadf2b1e5",
+    "krylov_N899_chi5_order420.json": "2737f7fbab228e7dde4adaa55323241d40364bb1b3af6ccaa58a89e9ca575e4b",
+    "krylov_N899_chi6_order60.json": "fd8a3d83b9ebc9a99e115e905b5da6239a7a1b1582c6b2441e1e3e526c311ebc",
+    "krylov_N899_chi8_order210.json": "546301c5505f3df7f82a948239a49cedbf468d6172300de9f9906980f239e190",
+    "krylov_N899_chi9_order105.json": "44a2bb3aff54eb03fbf1538509675d7e5bfb728fa502d4cd9034dddff2bc5aa0",
+    "proof.tex": "fd2def565ca1468d2becf74babb2c020b0ee6e23d25461a2527cb67e1c87e477",
+    "winding899_fast.log": "48bd84437d6f55cd8bae2ad269bbcf4a84215a6f715c70cf3097d177ad797b82",
+    "winding_probe_krylov.m": "da020889a8489e545f018f02d94a9b5a319304e8a199ae25dc0b0e4f99ea5d01"
+  }
+}

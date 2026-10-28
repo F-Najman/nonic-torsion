@@ -1,0 +1,21 @@
+Loading "work/degree9/realizations/continuation/C48/portable_inputs.m"
+Loading "work/degree9/realizations/continuation/C48/retained/pair_af_place_linear.m"
+Loading "work/degree9/realizations/continuation/C48/portable_forward.m"
+Loading "work/degree9/realizations/continuation/C48/parameter9/records.m"
+Loading "work/degree9/realizations/continuation/C48/character_filter9/remaining.m"
+NONIC48_CLASS9_PROGRESS shard=0 done=25 passing=0 time=24.230
+NONIC48_CLASS9_PROGRESS shard=0 done=50 passing=0 time=44.110
+NONIC48_CLASS9_PROGRESS shard=0 done=75 passing=0 time=63.910
+NONIC48_CLASS9_PROGRESS shard=0 done=87 passing=1 time=71.270
+NONIC48_CLASS9_PROGRESS shard=0 done=91 passing=2 time=73.140
+NONIC48_CLASS9_PROGRESS shard=0 done=100 passing=2 time=79.030
+NONIC48_CLASS9_PROGRESS shard=0 done=125 passing=2 time=94.780
+NONIC48_CLASS9_PROGRESS shard=0 done=150 passing=2 time=114.260
+NONIC48_CLASS9_PROGRESS shard=0 done=175 passing=2 time=130.710
+NONIC48_CLASS9_PROGRESS shard=0 done=200 passing=2 time=146.950
+NONIC48_CLASS9_PROGRESS shard=0 done=225 passing=2 time=164.080
+NONIC48_CLASS9_PROGRESS shard=0 done=250 passing=2 time=179.490
+NONIC48_CLASS9_PROGRESS shard=0 done=275 passing=2 time=193.130
+NONIC48_CLASS9_PROGRESS shard=0 done=300 passing=2 time=210.420
+NONIC48_CLASS9_PROGRESS shard=0 done=325 passing=2 time=231.390
+NONIC48_CLASS9_DONE shard=0 tested=348 passing=2 complete=true time=245.850

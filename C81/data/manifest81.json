@@ -1,0 +1,38 @@
+{
+  "degree": 9,
+  "excluded_cyclic_orders": [
+    81
+  ],
+  "complete": true,
+  "genus": 190,
+  "rankQ": 0,
+  "rational2torsion": 0,
+  "integral_homology_rank": 380,
+  "upper2torsion_kernel_dimensions": [
+    8,
+    0
+  ],
+  "method": "Eichler--Shimura with injective dyadic specialization gives a positive Hecke correspondence identity below gonality; finite j-support cannot be closed under all cyclic2-isogenies",
+  "principal_function_degree_bound": 27,
+  "gonality_lower_bound": "236925/8192",
+  "requires_rational_cuspidal_torsion_equality": false,
+  "CM_exclusion_needed": false,
+  "finite_field_point_enumeration_needed": false,
+  "files": {
+    "certify81.py": "0589f8bbe6d3108b1d45fd8ceb552b078914b8f220a21c47d3058ec6f0aa937e",
+    "exclusion81.tex": "68b9e854d71ebe6fe206ae5cbfbbf76de6d5afc7a1f73502bf7068f03e88e878",
+    "fresh_native.log": "133ebfe2d2c0528418eb31511a4f97701265ef39ba3615a4b4fa52be2d752c00",
+    "fresh_native.m": "c393f0332d47980d7d3994071edec5f8faf058da3a87dbd216f2178516b1fb6d",
+    "hecke_finite_support.tex": "bca1dfc44b361cb4533ecebcd2d390e19f2c2bcfb6a8256b3b8e233a8e8d17bd",
+    "independent_binary_replay.log": "2cbf1eacc293ae152e7d7bca2013a3990ef85009e74a9dfac58491c48c89165d",
+    "native_exit_record.json": "a5453c96721193eda8c188375adc0baba23ff306d1a305e9e1c46b0ece6a280d",
+    "retained/rational_two_torsion_81_v2.log": "b89a479f85b45ada9c83d98c8bf430a3a0320d83fe93407d06462b29675d717c",
+    "retained/rational_two_torsion_8gb.m": "196a7636a56322564cf20b0d2b0a116b247b09b890d7d4c1ce730657fd09c1dc",
+    "retained/replay_two_torsion_81.py": "41400609cbcca7d22635b8a2591fdd437dc90d7910c4565c5c20f7e9ddcae97c",
+    "retained/two_torsion_81_replay.log": "2cbf1eacc293ae152e7d7bca2013a3990ef85009e74a9dfac58491c48c89165d",
+    "retained/two_torsion_81_v2_matrices.m": "749e763cbf441f7bb28dc98548bc0ae6fee6fec1b3cc7bbee247f07a6327bc72",
+    "retained/winding81_octic.log": "941de4c941c5cde4847403432a6edf9c7501fe7d19e0f5966fa943ae2b20282e",
+    "retained/winding_probe.m": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01",
+    "retained_provenance.json": "d440622464e90610ab82dd139b2fa8e66d2cf0e81467288cce1d75b49e767c48"
+  }
+}

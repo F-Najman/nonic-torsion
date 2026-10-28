@@ -1,0 +1,1536 @@
+                                              COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX
+                                                            MULTIPLICATION
+
+
+                                                PETE L. CLARK, PATRICK CORN, ALEX RICE, AND JAMES STANKEWICZ
+arXiv:1307.6174v2 [math.NT] 12 Nov 2013
+
+
+
+
+                                                  Abstract. We give the complete list of possible torsion subgroups of elliptic
+                                                  curves with complex multiplication over number fields of degree 1-13. Addi-
+                                                  tionally we describe the algorithm used to compute these torsion subgroups
+                                                  and its implementation.
+
+
+
+
+                                                                             1. Introduction
+                                          1.1. The main results. The goal of this paper is to present a complete list of
+                                          possible torsion subgroups of elliptic curves with complex multiplication over num-
+                                          ber fields of small degree. Our main tool is an algorithm whose input is a positive
+                                          integer d. The output is a (necessarily finite) list of isomorphism classes of finite
+                                          abelian groups G such that G is isomorphic to E(K)[tors] for some number field K
+                                          of degree d and some elliptic curve E defined over K with complex multiplication.
+                                             Our algorithm requires a complete list of imaginary quadratic fields of class
+                                          number h for all integers h which properly divide d. Fortunately, M. Watkins
+                                          [Wat04] has enumerated all imaginary quadratic fields with class number h ≤ 100,
+                                          which would in theory allow us to run our algorithm for all d ≤ 201 (and for
+                                          infinitely many other values of d, for instance all prime values).
+                                             We implemented our algorithm using the MAGMA programming language and
+                                          ran it on Unix servers in the University of Georgia Department of Mathematics. The
+                                          result, after doing some additional analysis, is a complete list of torsion subgroups
+                                          for degree d with 1 ≤ d ≤ 13. This list, for each degree d, is described in Section 4.d.
+                                             For d = 1 these computations were first done by L. Olson in 1974 [Ols74], whereas
+                                          for d = 2 and 3 they are a special case of work of H. Zimmer and his collaborators
+                                          over a ten year period from the late 1980s to the late 1990s [MSZ89], [FSWZ90],
+                                          [PWZ97]. We believe that our results are new for 4 ≤ d ≤ 13.
+                                             This work was begun during a VIGRE research group led by Pete L. Clark
+                                          and Patrick Corn and attended by Brian Cook, Steve Lane, Alex Rice, James
+                                          Stankewicz, Nathan Walters, Stephen Winburn and Ben Wyser at the University
+                                          of Georgia. Alex Rice, James Stankewicz, Nathan Walters and Ben Wyser were
+                                          partially supported by NSF VIGRE grant DMS-0738586 during this work. James
+                                          Stankewicz was also partially supported by the Van Vleck fund at Wesleyan Univer-
+                                          sity. Special thanks go to Jon Carlson, who offered use of his MAGMA server and
+                                          invaluable support with coding in MAGMA. Thanks to Bianca Viray for a helpful
+                                          discussion of the proof of Lemma 2.3. Thanks also go to Andrew Sutherland, whose
+                                          interest in this project demanded that this paper be polished into publishable form.
+
+
+                                            Date: November 6, 2018.
+                                                                                       1
+2                 P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+1.2. Connections to prior work. According to the celebrated uniform bound-
+edness theorem of L. Merel [Mer96], for any fixed d ∈ Z>0 , the supremum of the
+size of all rational torsion subgroups of all elliptic curves defined over all number
+fields of degree d is finite.
+    In 1977, B. Mazur proved uniform boundedness for d = 1 (i.e., for elliptic curves
+E/Q ) [Maz77]. Moreover, Mazur gave a complete classification of the possible
+torsion subgroups:
+                              (
+                               Z/mZ               for m = 1, . . . , 10, 12,
+                E(Q)[tors] ∈
+                               Z/2Z ⊕ Z/2mZ for m = 1, . . . , 4.
+   Work of Kamienny [Kam86], [Kam92] and of Kenku and Momose [KM88] gives
+the following result when K is a quadratic number field:
+                           
+                           
+                            Z/mZ                 for m = 1, . . . , 16, 18,
+                           
+                           Z/2Z ⊕ Z/2mZ          for m = 1, . . . , 6,
+              E(K)[tors] ∈
+                           
+                           
+                            Z/3Z ⊕ Z/mZ          for m = 3, 6,
+                             and                  Z/4Z ⊕ Z/4Z.
+                           
+
+    This and similar subsequent enumeration results over varying number fields are
+to be understood in the following sense. First, for any quadratic field K and any
+elliptic curve E/K , the torsion subgroup of E(K) is isomorphic to one of the groups
+listed. Second, for each of the groups G listed, there exists at least one quadratic
+field K and an elliptic curve E/K with E(K)[tors] ∼     = G. A complete classification
+of torsion subgroups of elliptic curves over cubic fields is not yet known.
+    Further results come from focusing on particular classes of elliptic curves. No-
+tably H. Zimmer and his collaborators have done extensive computations on tor-
+sion in elliptic curves with j-invariant in the ring of algebraic integers. In [MSZ89],
+Müller, Stroher and Zimmer proved that in the case of integral j-invariant, if K is
+a quadratic number field then
+                               
+                               Z/mZ
+                                                  for m = 1, . . . , 8, 10,
+                 E(K)[tors] ∈ Z/2Z ⊕ Z/mZ for m = 2, 4, 6,
+                               
+                                 and               Z/3Z ⊕ Z/3Z.
+                               
+
+  In [PWZ97] Pethö, Weis and Zimmer showed that if E has integral j-invariant
+and K is a cubic number field then
+                           (
+                             Z/mZ         for m = 1, . . . , 10, 14,
+             E(K)[tors] ∈
+                             Z/2Z ⊕ Z/mZ for m = 2, 4, 6.
+   Here we study elliptic curves with complex multiplication. Such curves form a
+subclass of curves with integral j-invariant [Sil94, Theorem. II.6.4], so our results
+are subsumed by the above results for d ≤ 3; but, as we will see, the CM hypothesis
+allows us to extend our computations to higher values of d, up to d = 13.
+
+                                  2. Background
+2.1. Kubert-Tate normal form. The fundamental result on which our algorithm
+rests is the following elementary theorem, which gives a parameterization of all
+elliptic curves with an N -torsion point for N ≥ 4.
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                          3
+
+
+Theorem 2.1. (Kubert) Let E be an elliptic curve over a field K and P ∈ E(K)
+a point of order at least 4. Then E has an equation of the form
+(1)                            y 2 + (1 − c)xy − by = x3 − bx2
+for some b, c ∈ K, and P = (0, 0).
+Proof. This first appeared in [Ku76]. See for instance [MSZ89], §3.                       
+   We will call the equation (1) the Kubert-Tate normal form of E, and our notation
+for a curve in Kubert-Tate normal form with parameters b, c as above will be simply
+E(b, c). The j-invariant of this elliptic curve is
+                                (16b2 + 8b(1 − c)(c + 2) + (1 − c)4 )3
+(2)                j(b, c) =                                             .
+                               b3 (16b2 − b(8c2 + 20c − 1) − c(1 − c)3 )
+Remark 1. This form is unique for a given curve with a fixed point of order at
+least 4. In practice we use this to find elliptic curves with some primitive N -torsion
+point, so an elliptic curve E may have many isomorphic Kubert-Tate normal forms,
+depending on which torsion point we choose to send to (0, 0).
+Example 1. Here are some small multiples of the point (0, 0) on E(b, c):
+                                      [2](0, 0) = (b, bc),
+                                    [3](0, 0) = (c, b − c),
+                                        b(b − c) b2 (c2 + c − b)
+                                                                 
+                         [4](0, 0) =             ,                  ,
+                                            c2           c3
+                                   bc(c2 + c − b) bc2 (b2 − bc − c3 )
+                                                                      
+                    [5](0, 0) =                    ,                     ,
+                                      (b − c)2           (b − c)3
+                       (b − c)(b2 − bc − c3 ) c(b − c)2 (2b2 − bc(c − 3) + c2 )
+                                                                               
+        [6](0, 0) =                            ,                                  ,
+                                 A2                            A3
+                             Abc((b − c)2 + Ab) (Ab)2 ((b − c)3 + c3 A)
+                                                                          
+              [7](0, 0) =                          ,                         ,
+                               (b2 − bc − c3 )2         (b2 − bc − c3 )3
+where A = b − c − c2 . In particular we see that for N ≤ 3, (0, 0) cannot be an
+N -torsion point on E(b, c).
+2.2. Modular curves. The affine modular curve Y1 (N ) for N ≥ 4 is a fine moduli
+space for pairs (E, P ) where E is an elliptic curve and P is a point of exact order
+N on E. We will search for CM-points on Y1 (N ) for various values of N ≥ 4; that
+is, points over various number fields which correspond to CM elliptic curves with
+an N -torsion point(the Y1 (N ) for 1 ≤ N ≤ 3 are coarse moduli spaces and so will
+only give us the information we desire over an algebraically closed field). Kubert
+curves give a down-to-earth way of constructing a defining equation for Y1 (N ).
+Definition 2.2. Let Q(b, c) be a rational function field, and let E/Q(b,c) denote the
+elliptic curve given by equation (1). If N ≥ 3 is an integer, let n1 , d1 , n2 , d2 ∈ Q[b, c]
+be such that (ni , di ) = 1, di is monic, and
+                                                        
+               N                    n1 (b, c)        N                    n2 (b, c)
+         x          − 1 (0, 0) =               ,x       + 1 (0, 0) =                .
+                2                    d1 (b, c)       2                    d2 (b, c)
+   Then we let fN (b, c) = n1 d2 − n2 d1 ∈ Q[b, c].
+4                     P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+Lemma 2.3. Let k be a field, let Y/k be an integral algebraic variety, let q : A → Y
+be a relative abelian variety, and let y be a closed point of Y . Then the specialization
+map s : A(K(Y )) → Ay (k(y)) is a group homomorphism.
+Proof. This result appears in [Lan91, p. 40]. Lang’s (wonderful) text is rather
+informally written: many results, including this one, are given there without proof
+or reference. For the convenience of the reader we give a proof.
+Step 1: Suppose Y is a nonsingular curve. Then A/Y is equal to the Néron model
+of its generic fiber, so the map s is a homomorphism by [BLR, Proposition I.2.8].
+Step 2: Suppose Y is a singular curve. Let π : Ỹ → Y be its normalization, and let
+ỹ be a closed point of Ỹ with π(ỹ) = y. Let Ã = π ∗ (q) → Ỹ be the pullback of the
+family to Ỹ . Then the fiber of Ã over ỹ is canonically identified with the fiber of
+A over y, and thus the specialization map s̃ : Ã(K(Ỹ )) → Aỹ (k(ỹ)) is canonically
+identified with s. We have reduced to Step 1.
+Step 3: In the general case we choose a chain of closed irreducible subvarieties
+Y0 = {y} ⊂ Y1 ⊂ . . . Yd = Y containing y, with dim Yi = i. We apply Step 2
+repeatedly, specializing from the generic point of Yi to the generic point of Yi−1 . 
+Lemma 2.4. If b0 , c0 ∈ Q and E(b0 , c0 ) is an elliptic curve given by equation (1)
+then the point (0, 0) on E(b0 , c0 ) is an N -torsion point if and only if fN (b0 , c0 ) = 0.
+Proof. By Example 1 we must have N ≥ 4.
+Step 1: Suppose [N ](0, 0) = O. We claim that [d N2 e − 1](0, 0) and [b N2 c + 1](0, 0)
+are finite and have equal x-coordinates. Indeed, if [d N2 e − 1](0, 0) = O, then (0, 0)
+is (2 − 2d N2 e + N )-torsion, i.e., 2-torsion if N is even and 1-torsion if N is odd,
+contradicting Example 1. A similar argument shows that [b N2 c + 1](0, 0) is finite.
+Moreover, we have
+                                          
+      N                    N                      N      N
+          − 1 (0, 0) +          + 1 (0, 0) =          +       (0, 0) = [N ](0, 0) = O,
+      2                     2                     2       2
+so [d N2 e − 1](0, 0)) = −[b N2 c + 1](0, 0). As for any points P, Q on a Weierstrass
+elliptic curve, P = ±Q if and only if x(P ) = x(Q), this establishes the claim.
+Now, since x([d N2 e − 1](0, 0)) = x([b N2 c + 1](0, 0)) ∈ Q, if d1 (b0 , c0 ) = 0 then
+also n1 (b0 , c0 ) = 0 hence fN (b0 , c0 ) = n1 (b0 , c0 )d2 (b0 , c0 ) − n2 (b0 , c0 )d2 (b0 , c0 ) = 0.
+Similarly if d2 (b0 , c0 ) = 0. Finally, if d1 (b0 , c0 )d2 (b0 , c0 ) 6= 0, then
+                                                                               
+              N                    n1 (b0 , c0 )    n2 (b0 , c0 )           N
+        x(          − 1 (0, 0)) =                =                 = x(         + 1 (0, 0)),
+               2                   d1 (b0 , c0 )    d2 (b0 , c0 )            2
+so fN (b0 , c0 ) = 0.
+Step 2: Suppose that fN (b0 , c0 ) = 0. Thus there must be at least one irreducible
+factor g(b, c) of fN (b, c) such that g(b0 , c0 ) = 0. Then Z = Q[b, c]/hg(b, c)i is an
+irreducible curve, and let Y be obtained from Z by removing the finite set of closed
+points on which the Kubert curve E(b0 , c0 ) becomes singular. Then E(b, c) gives a
+relative elliptic curve over Y , and the elliptic curve E(b0 , c0 ) is its specialization at
+the closed point (b0 , c0 ). By construction, [N ](0, 0) = O on the generic fiber of Y ,
+so by Lemma 2.3, [N ](0, 0) = O on E(b0 , c0 ).                                           
+Example 2. We will make use of the explicit formulas of Example 1.
+a) Let N = 4. Setting x((0, 0)) = x([3](0, 0)) gives f4 (b, c) = c.
+b) Let N = 5. The condition that (0, 0) is a 5-torsion point is b − c = 0. Setting
+x(([2](0, 0)) = x([3](0, 0)) gives f5 (b, c) = b − c.
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                       5
+
+
+c) Let N = 7. The condition that (0, 0) is a 7-torsion point is b2 − bc − c3 = 0.
+Setting x([3](0, 0)) = x([4](0, 0)) gives f7 (b, c) = b(b − c) − c(c2 ).
+     As Examples 1 and 2 illustrate, the complexity of the rational functions giving
+the coordinates of [N ](0, 0) increases rapidly with N . Our trick of computing
+[d N2 c − 1](0, 0) and [b N2 c + 1](0, 0) instead becomes a critical one to extend the
+range of our calculations.
+     In general, fN (b, c) = 0 is not the defining equation for Y1 (N ) as [N ]P = 0
+implies only that P has order d for some d|N . The polynomial fN (b, c) will have as
+irreducible factors defining equations for Y1 (d) for d | N , d > 3. However a simple
+Moebius inversion will furnish such an equation. Although we do not explicitly
+write down equations for Y1 (N ) in our algorithm, one could do so with relative
+ease. A more sophisticated version of this computation has been undertaken by
+Andrew Sutherland [Sut12].
+
+Example 3. We computed 4(0, 0) and 2(0, 0) as part of our above examples, so
+f6 (b, c) = b2 − bc − bc2 . The divisors of 6 are 1, 2, 3 and 6. Thus by Moebius
+inversion, the equation for Y1 (6) in the (b, c)-plane is b − c − c2 , a smooth plane
+curve. For higher N , Y1 (N ) is not naturally a plane curve – e.g. the genus of Y1 (N )
+will usually not be of the form (d−1)(d−2)
+                                      2      – and so there will often be singularities
+in this plane model.
+    We note in general that if d ≥ 3 and d | N then fd | fN . This is easy to see
+using the group law when d ≥ 4. For d = 3 we can see this by computing on the
+elliptic curve E(b, c) over the function field Q(b, c). Namely, if (x, y) is any non-
+identity point it is possible to compute that [3](x, y) ± (0, 0) has x-coordinate with
+b-adic valuation 1. Therefore b but not b2 divides fN (b, c) when 3 | N . Therefore
+                                                                              Q
+performing a Moebius inversion on the fN furnishes a factorization fN = d|N φd
+                                                                                 d≥3
+where if N ≥ 4 then φN (b, c) is a defining equation for Y1 (N ) in the (b, c)-plane.
+
+2.3. Complex multiplication and bounds on j-invariants. If E(b, c) is a CM
+elliptic curve defined over a number field of degree d, then its j-invariant j(b, c)
+must lie in a number field of degree dividing d. The degree of Q(j(b, c)) is equal to
+the class number of End E, which is an order in an imaginary quadratic field.
+Theorem 2.5. (Heilbronn, 1934) [Hei34] For any positive integer d, there are only
+finitely many imaginary quadratic fields with class number d.
+Corollary 2.6. For any positive integer d, there are only finitely many imaginary
+quadratic orders O such that h(O) ≤ d.
+Proof. Since every quadratic order O must be of the form Z + f OK , this follows
+from Gauss’s class number formula [Cox89, Thm 7.24].                          
+
+
+Example 4. : We find the least possible degrees for an elliptic curve over a number
+field K with 7-torsion and j-invariant 0. If we have such a curve E, we can find a
+pair (b, c) ∈ K 2 such that E ∼
+                              = E(b, c). Since j(b, c) = 0, we have
+(3)                    16b2 + 8b(1 − c)(c + 2) + (1 − c)4 = 0,
+  and since (0, 0) is a nontrivial 7-torsion point, we have
+6                 P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+
+
+                        3.0
+
+
+                        2.5
+
+
+                        2.0
+
+
+                    c 1.5
+
+
+                        1.0
+
+
+                        0.5
+
+
+                        0.0
+       !1.0       !0.5     0.0          0.5           1.0     1.5        2.0
+                      !0.5                             b
+
+
+
+
+          Figure 1. The real (b, c) such that E(b, c) has j-invariant 0.
+
+
+
+(4)                               b2 − bc − c3 = 0.
+   The real solutions to Equation 3 in the (b, c) affine plane may be seen in Figure
+1, and Equation 4 in Figure 2.
+   The resultant of these two polynomials with respect to c is
+          (b2 + b + 1)(b6 − 325b5 + 5518b4 + 3655b3 + 718b2 + 51b + 1).
+The roots of this Kubert resultant identify the intersection points of our two affine
+curves, as shown in Figure 3. We should note here that the first irreducible factor
+has no real roots. Instead, the b-coordinates of the intersection points we see are
+four of the six real roots of the second factor. In any case, looking at the first
+irreducible factor over Q, we see that we can take b = ζ3 .
+   We plug in ζ3 for b in the above polynomials and compute the greatest common
+divisor, which is c + 1. So the elliptic curve E(ζ3 , −1) has a 7-torsion point over
+        COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                                   7
+
+
+
+
+                                          2.0
+
+
+
+
+                                          1.5
+
+
+
+                                       c 1.0
+
+
+
+
+                                          0.5
+
+
+
+
+                                          0.0
+            !2                 !1                 0                  1                  2
+                                                                      b
+
+
+
+
+      Figure 2. The real (b, c) such that (0, 0) is a 7-torsion point on E(b, c).
+
+Q(ζ3 ). That is, on the curve
+                                  y 2 + 2xy − ζ3 y = x3 − ζ3 x2 ,
+the point (0, 0) is a 7-torsion point.1 Moreover, this curve acquires full 7-torsion
+over the degree-12 cyclotomic field Q(ζ21 ).
+                                                                            nj (b, c)
+   We generalize the above construction as follows: Writing j(b, c) =                  as
+                                                                             dj (b, c)
+the quotient of two polynomials, we see that there is an elliptic curve E(b, c) with
+j-invariant j0 and [N ](0, 0) = O if and only if (b, c) satisfy the equations
+(5)                                    nj (b, c) = j0 dj (b, c)
+                                       fN (b, c) = 0.
+
+   1The reader who prefers standard Weierstrass models may verify that the origin corresponds to
+the 7-torsion point (12(1 − ζ3 ), −108ζ3 ) on the isomorphic elliptic curve y 2 = x3 − (1296ζ3 + 6480).
+8                  P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+
+
+                                    3.0
+
+
+                                    2.5
+
+
+                                    2.0
+
+
+                                 c 1.5
+
+
+                                    1.0
+
+
+                                    0.5
+
+
+                                    0.0
+         !2               !1               0                1                 2
+                                    !0.5                     b
+
+
+
+
+        Figure 3. The real (b, c) such that (0, 0) is a 7-torsion point on
+        E(b, c) with j-invariant 0.
+
+
+    If there are only finitely many pairs (j0 , N ) that we have to check, then since the
+resultant of these equations with respect to c is a one-variable polynomial in b, there
+are only finitely many elliptic curves E(b, c) over a small-degree number field with
+j-invariant j0 and with (0, 0) an N -torsion point. To determine if Z/N Z ⊕ Z/nZ
+with n | N is a torsion subgroup of an elliptic curve over a small-degree number
+field, we need only check the n-th division polynomial [Sil86, Exercise 3.7] to see
+if E(b, c) acquires an additional n-torsion point over a small-degree number field.
+There are finitely many n | N and for each such n, there are algorithms to compute
+the n-th division polynomial.
+    In this way, we see how a rough algorithm for enumerating torsion subgroups of
+CM elliptic curves presents itself. Fix a degree d, so that we aim to tabulate CM
+torsion subgroups over number fields of degree d. By Heilbronn’s theorem, there
+are only finitely many j-invariants of elliptic curves with Complex Multiplication
+over all number fields of degree at most d. By Merel’s bound, we have only finitely
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                     9
+
+
+many possible torsion subgroups to check. Since there are only finitely many j0
+and N , the procedure described above terminates for each d.
+   We note here that Merel’s bound is quite large and often impractical. We mention
+it only to note that the above procedure terminates for any finite number of j-
+invariants, CM or not. In the CM case, we have much better bounds to consider.
+
+2.4. Possible torsion of CM elliptic curves. Let E be an elliptic curve over a
+number field F with CM. If E(F ) contains an N -torsion point, then the size of N
+is severely restricted by the degree of F ; the following theorems of Silverberg and
+Prasad-Yogananda can be used to give an explicit upper bound on N .
+Theorem 2.7. (Silverberg, Prasad-Yogananda) Let E be an elliptic curve over
+a number field F of degree d, and suppose that E has CM by the order O in the
+imaginary quadratic field K. Let e be the exponent of the torsion subgroup of E(F ).
+Then
+  (a) ϕ(e) ≤ w(O)d.
+  (b) If K ⊆ F , then ϕ(e) ≤ w(O)d/2.
+  (c) If K * F , then ϕ(#E(F )[tors]) ≤ w(O)d.
+Proof. See [Sbg88], [PY01]. It can be deduced from Silverberg’s work that all above
+occurrences of w(O) may be replaced with w(O)/h(O).                              
+
+   We will refer henceforth to the bounds obtained from the above theorem and
+proof as the
+           √ SPY bounds. Using merely the bound of part (a) and the well-known
+inequality N ≤ φ(N ) for N ≥ 7, we see that we need only consider values of N
+that are at most w(O)2 d2 . The SPY bounds also lead us to expect that the largest
+torsion subgroups occur when w(O) is largest, namely when j = 0, 1728.
+   Any bound on the exponent above gives a bound on the size of the torsion
+subgroup. If the exponent of E(F )[tors] is at most N , since E(C)[tors] ∼= (Q/Z)2
+                                                    2
+[Sil86, Corollary V.1.1], we have #E(F )[tors] ≤ N . In fact, there exist integers
+n | N such that E(F )[tors] ∼  = Z/N Z ⊕ Z/nZ. Moreover in that case, the Weil
+Pairing [Sil86, §III.8] shows that F ⊃ Q(ζn ) and thus ϕ(n) | [F : Q] = d.
+   In the case that E has CM by O, note that j(E) ∈ F so that Q(j(E)) ⊂ F and
+thus h(O) | [F : Q] = d. Therefore, let deg = d/h(O). The strengthening of the
+SPY bounds as noted in the proof of Theorem 2.7 implies that if e is the exponent
+of E(F )[tors] then ϕ(e) ≤ w(O) deg. Note also that if deg is odd, K 6⊂ F since K
+and Q(j(E)) are linearly disjoint.
+   If deg = 2 then we may assume that j 6= 0, 1728 because the possible groups
+in that case have already been determined [MSZ89]. Thus w(O) = 2, hence either
+E(F )[tors] is among the 12 possible torsion subgroups G such that ϕ(#G) ≤ 4 or
+F is the compositum of Q(j(E)) with K, otherwise known as the ring class field of
+O. In the latter case, we have the following.
+Theorem 2.8. (Parish) Let O be an imaginary quadratic order, j the j-invariant
+of an elliptic curve with CM by O, L = Q(j) and H the ring class field of O. Then
+if E is an elliptic curve defined over H with CM by O then E(K)[tors] contains
+only points of order 1, 2, 3, 4, or 6. Moreover, if E is defined over L then E(L)[tors]
+can only be isomorphic to one of 0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, or Z/2Z ⊕ Z/2Z.
+Proof. [Par89, §VI].                                                                 
+10                P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+   Much finer information is available in Parish’s paper. Except for j = 0 and
+Z/3Z ⊕ Z/3Z, each torsion subgroup G which is possible over a ring class field
+has ϕ(#G) ≤ 4. Note that as a further consequence, if E is an elliptic curve
+with CM by O over a number field F and [F : Q] = h(O), then the only possible
+torsion subgroups are those found in degree 1. By the Weil pairing, if E(F )[tors] ∼
+                                                                                   =
+Z/N Z ⊕ Z/nZ with n | N then ϕ(n) | d. In most cases though, ϕ(n) | deg. We
+can however determine exactly the intersection of Q(ζn ) with Q(j(O)) and thus
+get closer to the ideal that ϕ(n) | deg.
+   Let H denote the ring class field of O and G the maximal abelian sub-extension
+of H over Q, which is necessarily multi-quadratic [Cox89, §6]. Hence G0 , the
+intersection of Q(j(O)) with G, must also be multiquadratic. Since any abelian
+extension must be contained in some Q(ζm ) [Cox89, Theorem 8.8], the intersection
+of Q(ζn ) with Q(j(O)) must be contained in G0 . This G0 may be numerically
+determined via discriminants, but it is not computationally difficult to simply list
+the discriminants of the quadratic subfields of Q(j(O)), which are all necessarily
+real. If ∆ is a discriminant of a real quadratic field K, then K ⊂ Q(ζn ) if and only
+if ∆ | n [Mil08, Example V.3.11]. Finally, we may determine inductively that if
+M is a multi-quadratic field extension of degree 2m , then the number of quadratic
+sub-extensions is 2m − 1.
+Function 2.9. (CyclotomicIntersectionDegree) Let O be an imaginary quadratic
+order and n a positive integer.
+    (1) Let L = {disc(K) : [K : Q] = 2, K ⊂ Q(j(O))}, the discriminants of the
+        quadratic subfields of the multi-quadratic field G0 above.
+    (2) Let M = {D : D ∈ L, D | n}, the discriminants of the quadratic subfields
+        of G0 ∩ Q(ζn ).
+    (3) Return # M + 1.
+   These steps restrict the groups which could possibly occur as torsion subgroups
+of an elliptic curve with CM by O. We combine these steps into a function, which
+takes as input an imaginary quadratic order O, a degree d, and a list of integers
+N which could be the exponent of a torsion subgroup of an elliptic curve E over a
+number field F with CM by O. The output of this function is a list of finite abelian
+groups G such that E(F )[tors] ∼= G for an elliptic curve E with CM by O.
+Function 2.10. (PossibleGroups) Let d ∈ Z>1 , O an imaginary quadratic order
+such that h(O) | d, and L a list of positive integers N .
+                                                                    d
+    (1) Set L0 = {Z/N Z ⊕ Z/nZ : N ∈ L, n | N }, h = h(O), and deg = .
+                                                                    h
+    (2) If deg = 1 then remove Z/N Z ⊕ Z/nZ from L0 unless n = N = 2 or n = 1
+        and N ∈ {1, 2, 3, 4, 6}.
+    (3) If deg = 2 then remove Z/N Z ⊕ Z/nZ from L0 unless either (O ∼= Z[ζ3 ]
+        and (N, n) = (3, 3)) or ϕ(N n) ≤ 4.
+    (4) If deg > 1 is odd then remove Z/N Z ⊕ Z/nZ from L0 unless ϕ(N n) ≤
+        w(O) deg and ϕ(n) | d.
+    (5) If deg > 2 is even then remove Z/N Z ⊕ Z/nZ from L0 unless ϕ(n) |
+        deg ×CyclotomicIntersectionDegree(O, n) (Function 2.9).
+    (6) Return L0 .
+  In Function 2.10, you will of course get the best results when the list L is made
+up of integers N which can be an order of a torsion point on an elliptic curve E
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                        11
+
+
+                                          w(O)d
+with CM by O. Necessarily then, ϕ(N ) ≤           = w(O) deg by the SPY bounds.
+                                           h(O)
+We also have another tool for ruling out possible orders of torsion.
+Theorem 2.11. Let O be an imaginary quadratic
+                                            √      order of discriminant D and let
+D0 be the discriminant
+                      of the field K = Q(   D), so that D = f 2 D0 . If p - D is an
+                     ·
+odd prime then let       denote the Legendre symbol at p. If E is an elliptic curve
+                     p
+over a number field of degree d with CM by O with a point of order p then we have
+the following.
+            
+             D
+      • If       = 1 then (p − 1)h(OK ) | 2dw(OK ).
+           p
+             D
+      • If       = −1 then (p2 − 1)h(OK ) | 2dw(OK ).
+             p
+Proof. This was directly proven for D = D0 [CCS13, Theorem 2], and can be
+extended to the case p - D [CCS13, Proposition 25].                    
+
+   In this way, we can additionally remove large primes from the divisors of possible
+exponents. Starting from a list of integers up to w(O) deg, we can then very quickly
+sieve out impossible torsion exponents. For j = 0, performing the above procedure
+        1
+takes       of one second to find
+       100
+        [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 21, 24, 26, 28, 30, 36, 42]
+as a list of possible torsion exponents over a number field of degree 2.
+Function 2.12. (PossibleExponents) Let O be an imaginary quadratic order and
+let deg be a positive integer.
+     (1) Let L be the list of positive integers N such that ϕ(N ) ≤ w(O) deg.
+     (2) Let L0 be the set of integers N ∈ L such that if p | N is prime then p
+         satisfies the divisibility relations in Theorem 2.11 for d = h(O) deg .
+     (3) Return L0 .
+    Note however that this list is still far too large a list to use in Function 2.10. We
+apply a sieve to this list, using resultants as in Example 4, where we showed that
+7-torsion occurred over a number field of degree 2 for j = 0. We note especially
+that the Kubert Degree Sequence for j = 0 and N = 7, or the sequence of degrees of
+irreducible factors of the resultant, is [2, 6]. On the other hand, the Degree Sequence
+for j = 0 and N = 14 is [6, 18]. Therefore we may eliminate 14, 28, and 42 from our
+list of possible torsion exponents because 14-torsion is not possible for j = 0 over
+a number field of degree not divisible by 6. Computing this Degree Sequence takes
+0.03 seconds. If we recursively perform this sieve, it takes 0.24 seconds to find that
+the torsion exponents which occur for j = 0 over a number field of degree 2 are
+                                       [2, 3, 4, 6, 7].
+This may seem like a relatively short amount of time to be worried about, but for j =
+0 and a number field of degree 6 it takes 69.95 seconds to find [2, 3, 4, 6, 7, 9, 14, 19]
+as the list of torsion exponents. For degree 12 it takes over an hour. We describe
+this process, along with the adjustment we have to make for O with larger class
+numbers in the following function.
+12                     P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+Function 2.13. (SievedTorsion) Let O be an imaginary quadratic order and let deg
+be a positive integer.
+    (1) Let L = PossibleExponents(O, deg). (Function 2.12)
+    (2) For N ∈ PossibleExponents(O, deg) such that N ∈ L and N ≥ 4:
+           • Let DegSeq be the sequence of integers Degree(f )h(O) where f is
+              an irreducible factor of the resultant corresponding to N -torsion on
+              elliptic curves with CM by O.
+           • Unless m | h(O) deg for some m ∈ DegSeq, remove all multiples of N
+              from L.
+    (3) Return L.
+   We structure our computation this way to minimize the number of times that we
+need to compute multivariate resultants. While straightforward and much quicker
+than computing torsion subgroups of elliptic curves, the computation of multivari-
+ate resultants is NP-Hard [GKP10]. The memory demands for computing resultants
+over large degree number fields can also be quite substantial. All told, the longest
+computation of torsion subgroups occurred in degree 12. Computing the lists of
+possible torsion subgroups of CM elliptic curves over a number field of degree 12
+for each possible quadratic order O using the above procedure took over 10 hours.
+
+              3. Ruling out Torsion Subgroups of Elliptic Curves
+    Suppose we are given a finite group G ∼   = Z/N Z ⊕ Z/nZ and we want to test
+whether it could be a torsion subgroup of an elliptic curve E over a number field F
+of degree dividing d with CM by an imaginary quadratic order O. If there is such
+an elliptic curve such that E(F )[tors] ∼ = G, then we can find b, c ∈ F such that
+E ∼ = E(b, c), where the point (0, 0) is a point of order N . Conversely if we have
+b, c ∈ F such that E(b, c) has CM by O and (0, 0) is a point of order N , it is not
+necessarily the case that E(b, c)(F )[tors] ∼
+                                            = G. The first and easiest way for this to
+fail is if E(b, c)(F )[tors] ) G.
+Example 5. The resultant whose roots are the b such that (0, 0) is a 5-torsion
+point on E(b, c) with CM by Z[ζ4 ] is
+                           (x2 + 1)2 (x4 − 18x3 + 74x2 + 18x + 1)2 .
+However, any elliptic curve over a number field F with CM by Z[ζ4 ] has a rational
+2-torsion point for trivial reasons2. Therefore if we search for Z/5Z as a torsion
+subgroup over a degree 2 field, we find Z/10Z as the torsion subgroup of E(ζ4 , ζ4 ).
+    It of course may also happen that G ( E(F )[tors] and that they have the same
+exponent. The more typical situation is that E(F )[tors] ⊂ G. In that case, we have
+to check to see if there is an extension field L of F of degree still dividing d such
+that E(L)[tors] ∼ = G.
+    To rule this out, there are many options. Of course, we may compute all elliptic
+curves with CM by O and with an N -torsion point using the Kubert resultant
+method of Example 4, base extend each of these elliptic curves by roots of their
+n-th division polynomials and then compute the torsion subgroups of all those
+elliptic curves. For running time reasons, it is preferable to rule this out before
+ever computing an elliptic curve or especially a torsion subgroup. Although there
+     2For instance, put your elliptic curve in short Weierstrass form.
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                    13
+
+
+are many ways to compute a torsion subgroup of an elliptic curve over a number
+field, almost all of them involve reducing an elliptic curve modulo various primes in
+order to take advantage of Schoof’s algorithm [Sch95]. Unfortunately, irreducible
+factors of Kubert resultants often have non-integral coefficients, making this process
+slow and un-supported in some computer algebra systems. Even for computer
+algebra systems like magma v2-18.3 with robust support for elliptic curves over
+number fields given by non-integral polynomials, it can be very time- and memory-
+consuming to compute torsion subgroups over large degree number fields.
+    A crucial step is thus a variant of Step (5) of Function 2.10. If Z/N Z ⊕ Z/nZ ∼=
+E(L)[tors] with n | N for some field extension L of F , then we must have Q(ζn ) ⊂ L.
+Numerically we have done almost everything to numerically rule out the possibility
+that there is some field L of degree dividing d which contains both F and Q(ζn ).
+Now that we have computed F explicitly via the Kubert resultant, we can compute
+the compositum of F with Q(ζn ) and its degree over Q. If this degree does not
+divide d, then we can not base extend F to L and obtain E(L)[tors] ∼   = G. Moreover,
+we have ruled G out without computing any torsion on E.
+                                   √     
+                               1 + 3 −11
+Example 6. Let O = Z                       , let d = 12, and let G ∼ = Z/9Z ⊕ Z/9Z.
+                                    2
+Since h(O) = 2, the Kubert Degree Sequence for O and N = 9 is [6, 12, 54]. An
+elliptic curve with CM by O over the number field defined by the first irreducible
+factor or a degree two extension thereof cannot have torsion subgroup G by a quick
+standard computation. Just computing the torsion subgroup over the number field
+F given by the second irreducible factor ran for several days before quitting due to
+a lack of memory. While we could not rule out G as a torsion subgroup without
+computing with F , we found that the compositum of F with Q(ζ9 ) has degree 36
+over Q and therefore G is not a torsion subgroup of an elliptic curve with CM by
+O over a number field of degree 12.
+   We now describe the procedure for saying that a group G which could have been
+produced by Functions 2.12 and 2.10 in fact cannot appear as the torsion subgroup
+of an elliptic curve E with CM by O over a number field L of degree dividing d. We
+describe this procedure as a function which either returns True if G can be ruled
+out or False if G can occur, along with an elliptic curve E over a number field L of
+degree dividing d.
+Function 3.1. (RuledOut) Let G ∼   = Z/N Z ⊕ Z/nZ, let d be a positive integer and
+let O be an imaginary quadratic order.
+    (1) Compute the Kubert Resultant whose roots are the b ∈ Q such that E(b, c)
+                                                                           Yg
+         has CM by O and (0, 0) is a point of exact order N . Factor it as     fi .
+                                                                             i=1
+    (2) If Degree(fi )h(O) | d then let Fi denote the number field given by fi ,
+        generated over Q(j(O)) by bi . Let ci be the element of Fi (or possibly
+        an extension) such that E(bi , ci ) is our CM elliptic curve. Compute the
+        compositum of Fi with Q(ζn ) and let di be its degree over Q.
+    (3) If ci 6∈ Fi then raise an error.
+    (4) If di | d then let Ti be the torsion subgroup of E(bi , ci ). If Ti ∼ = G then
+        Return False, E(bi , ci )Fi .
+    (5) If [Fi : Q] 6= d then it may be possible to base extend E(bi , ci ) to obtain G
+        as a torsion subgroup.
+14                    P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+      (6) If Ti is a subgroup of G with the same exponent then Ti ∼= Z/N Z ⊕ Z/n0 Z
+                   0
+          where n | n | N . Compute the n-th division polynomial of E(bi , ci ), perform
+          Moebius inversion to obtain a polynomial whose roots are x-coordinates of
+                                                                 m
+                                                                 Y
+          points of exact order n, and factor that polynomial as    pj .
+                                                                        j=1
+                                d
+      (7) If Degree(pj ) |            then let Li,j be the number field given by pj , gener-
+                             [Fi : Q]
+          ated over Fi by the x-coordinate aj . Let g = y 2 + (aj (1 − ci ) − bi )y + (bi a2j −
+          a3j ), the polynomial whose roots in Q are the y-coordinates of the points on
+          E(bi , ci ) with x-coordinate aj . Let ng be the number of irreducible factors
+                                                       2
+          over Li,j of g and let ej = Degree(pj ) .
+                                                      ng
+                                   d
+      (8) If ej 6= 1 and ej |           then let Mi,j be the field given by the polynomial
+                               [Fi : Q]
+          g. Let Ti,j be the torsion subgroup of the base change of E(bi , ci ) to Mi,j .
+      (9) If Ti,j ∼= G then Return False, E(bi , ci )Mi,j .
+     (10) If for all possible i and j there is some “If . . .”’ statement which begins one
+          of Steps (2)-(9) besides Step 3 which is false, then Return True.
+
+   We note that in Step 3.1(3), it is possible that ci 6∈ Fi and thus we must have an
+error-raising statement. However, as one may intuit from Figure 3, the probability
+that two intersection points in the (b, c)-plane have the same b value is zero by the
+properties of the Zariski topology. We now give an algorithm which produces all
+torsion subgroups of elliptic curves with CM over a number field of degree d.
+
+Algorithm 3.2. Let d be a positive integer and L a list of finite groups which we
+know to be torsion subgroups of CM elliptic curves over some number field of degree
+dividing d.
+      (1) Create an associative array or dictionary A, indexed by imaginary quadratic
+          orders O such that h(O) | d and either h(O) = 1 or h(O) 6= d. Let the O-th
+          entry of A be
+                                                               
+                                                             d
+                   PossibleGroups d, O, SievedTorsion O,            .
+                                                           h(O)
+
+      (2) Let P be the union of all the sets A(O) and let R be P −L, the set of groups
+          in P which are not isomorphic to any element of L.
+      (3) Iterate over G ∈ R.
+             • If RuledOut(G, d, O) returns True for all O such that G ∈ A(O), move
+               onto the next group.
+             • If not, append G to L and go to Step (2).
+
+   When Algorithm 3.2 is completed, L is the complete list of possible torsion
+subgroups. If d = 2, then Algorithm 3.2 takes 0.87 seconds to complete when
+starting with the list given by Zimmer, Müller and Stroher, and rules out only the
+group Z/5Z. If d = 12, then if we start from Step (2) with a complete list L, the
+algorithm takes only 3.5 hours to complete for a total time of roughly 14 hours.
+Complete records of the ruling out computation may be found on stankewicz.
+net/torsion.
+      COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                  15
+
+
+4. Isomorphism classes of Torsion Subgroups of CM elliptic curves E
+4.1. K = Q.
+
+            E(Q)[tors] ∈ {0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, Z/2Z ⊕ Z/2Z}.
+
+  Examples of these are :
+                      Group         Elliptic Curve   j-invariant
+                        0            y 2 = x3 + 2         0
+                      Z/2Z           y 2 = x3 − 1         0
+                      Z/3Z          y 2 = x3 + 16         0
+                      Z/4Z          y 2 = x3 + 4x       1728
+                      Z/6Z           y 2 = x3 + 1         0
+                   Z/2Z ⊕ Z/2Z      y 2 = x3 − 4x       1728
+
+4.2. K is a number field of degree 2.
+                        
+                        Z/mZ
+                                      for m = 1, 2, 3, 4, 6, 7, 10,
+            E(K)[tors] ∈ Z/2Z ⊕ Z/mZ for m = 2, 4, 6, and
+                        
+                          Z/3Z ⊕ Z/3Z.
+                        
+
+  The only subgroups which do not occur over Q are:
+
+
+    E(K)[tors] ∈ {Z/7Z, Z/10Z, Z/2Z ⊕ Z/4Z, Z/2Z ⊕ Z/6Z, Z/3Z ⊕ Z/3Z}
+
+  Examples of these are:
+             Group          Field Extension   Elliptic Curve   j-invariant
+             Z/7Z                Q(ζ3 )         E(ζ3 , −1)          0
+             Z/10Z               Q(ζ4 )          E(ζ4 , ζ4 )      1728
+          Z/2Z ⊕ Z/4Z            Q(ζ4 )       y 2 = x3 + 4x       1728
+          Z/2Z ⊕ Z/6Z            Q(ζ3 )        y 2 = x3 + 1         0
+          Z/3Z ⊕ Z/3Z            Q(ζ3 )       y 2 = x3 + 16         0
+
+4.3. K is a number field of degree 3.
+                            (
+                              Z/mZ for m = 1, 2, 3, 4, 6, 9, 14,
+               E(K)[tors] ∈
+                              and   Z/2Z ⊕ Z/2Z.
+
+  The only subgroups which do not occur over Q are:
+
+                            E(K)[tors] ∈ {Z/9Z, Z/14Z}.
+  Examples of these are:
+    Group     Defining Polynomial    Elliptic  Curve               j-invariant
+                                            2
+                                                          
+                 3     2                −2b   + 318b − 75
+     Z/9Z       b − 99b − 90b − 9  E b,                                  0
+                                               753
+                                            2
+                                                         
+               3    2                   133b  + 749b + 54
+    Z/14Z     b + 5b + 2/7b − 1/49 E b,                                -3375
+                                               167
+    16                   P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+    4.4. K is a number field of degree 4.
+                              
+                              
+                              
+                               Z/mZ                        for m = 1, . . . , 8, 10,
+                                                                     12, 13, 21
+                              
+                              
+                              
+                              
+                  E(K)[tors] ∈ Z/2Z ⊕ Z/mZ                  for m = 2, 4, 6, 8, 10,
+                              
+                              Z/3Z ⊕ Z/mZ
+                              
+                                                           for m = 3, 6,
+                              
+                              
+                              and                          Z/4Z ⊕ Z/4Z.
+         The only subgroups which do not occur over Q or a number field of degree 2 are:
+                                                                                             
+                                   Z/5Z, Z/8Z, Z/12Z, Z/13Z, Z/21Z,
+     E(K)[tors] ∈                                                                                 .
+                         Z/2Z ⊕ Z/8Z, Z/2Z ⊕ Z/10Z, Z/4Z ⊕ Z/4Z, Z/3Z ⊕ Z/6Z
+      Examples of these are:
+    Group                 Field                                 Elliptic Curve                  j
+                           Q[b]
+    Z/5Z                                                        E(b, b)               -32768
+               (b4 − 4b3 + 46b2 + 4b + 1)
+                                                           8b3 + 36b2 + 46b + 3 3
+                                                                               
+                           Q[b]
+    Z/8Z                                             E b,                              1728
+                                     1                              13
+                 (b4 + 2b3 + b2 − b − )
+                                     8
+                                                           −6b3 + 52b2 − 70b − 9
+                                                                                 
+                           Q[b]
+    Z/12Z                                            E b,                                0
+             (b4 − 10b3 + 24b2 − 16b − 2)                             7
+                                                             3      2
+                                                                                   
+                           Q[b]                           16b + 44b + 1354b + 45
+    Z/13Z                                           E b,                                 0
+              (b + 4b + 78b2 + 13b + 1)
+                4      3
+                                                                 483       3
+                                                                                 
+                                                                    371952e +
+                              Q[e]                                           2
+                                                                  3373488e    + 
+    Z/21Z                                            y 2 = x3 − 
+                                                                 3777840e+ 
+                                                                                        0
+                      (e4 − e3 + 2e + 1)
+                                                                    1228608
+  Z/2Z⊕                      Q[b]                                                 
+                                                     E b, 32b3 − 108b2 + 58b + 6      287496
+ Z/8Z           (b4 − 4b3 + 4b2 − b − 1/8)
+  Z/2Z⊕                    Q(ζ4 )[x]
+                                                                    E(ζ4 , ζ4 )               1728
+  Z/10Z                              ζ4
+                       (x2 − ζ4 x − )
+                                   2
+  Z/4Z⊕                      Q[x]
+                                                                 E(−1/8, 0)                   1728
+   Z/4Z                    (x4 + 1)
+                                                                √        √      !
+                            √ √
+       
+  Z/3Z⊕                                                        6 3 + 10 2 3 + 3
+                         Q( 3, −3)                      E              ,                      1728
+   Z/6Z                                                           3         3
+
+    4.5. K is a number field of degree 5.
+              E(K)[tors] ∈ {0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, Z/11Z, Z/2Z ⊕ Z/2Z}
+       The only subgroup which does not occur over Q is Z/11Z, which occurs over
+    the maximal real subfield of Q(ζ11 ). This occurs for j = −32768 in E(b, c) with the
+    following quantities. Hereon, unless otherwise stated, elliptic curves will be given
+    by the values of b and c.
+
+       3Although j(Z[2i]) = 287496 and j(Z[i]) = 1728 and so it would be reasonable to expect
+    two curves over number fields of the same degree with those j-invariants and respective torsion
+    subgroups Z/2Z ⊕ Z/8Z and Z/8Z to be isogenous, this is not the case. Indeed the two fields are
+    not isomorphic.
+      COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                     17
+
+
+          Field Extension                        b                        c
+                Q[e]                   4     3        2               3
+                                    −7e − 2e + 16e − e − 1         2e − 4e + 1
+    (e − e − 4e3 + 3e2 + 3e − 1)
+      5   4
+
+
+
+4.6. K is a number field of degree 6.
+                       
+                       
+                       
+                       Z/mZ               for m = 1, 2, 3, 4, 6, 7, 9, 10,
+                                                    14, 18, 19, 26,
+                       
+                       
+                       
+                       
+           E(K)[tors] ∈ Z/2Z ⊕ Z/mZ        for m = 2, 4, 6, 14,
+                       
+                       Z/3Z ⊕ Z/mZ
+                       
+                                          for m = 3, 6, 9,
+                       
+                       
+                       and                Z/6Z ⊕ Z/6Z.
+
+   The only subgroups which do not occur over Q or a number field of degree 2 or
+3 are:
+
+                                                                                
+                                    Z/18Z, Z/19Z, Z/26Z
+ E(K)[tors] ∈                                                                        .
+                    Z/2Z ⊕ Z/14Z, Z/3Z ⊕ Z/6Z, Z/3Z ⊕ Z/9Z, Z/6Z ⊕ Z/6Z
+
+  Examples of these are:
+   Group Z/18Z
+   j, F ield 8000, Q[e]/(e6 − 2e5 + 3e4 − 2e3 + 2e2 + 1)
+             1
+   b         9
+                 28e5 − 79e4 + 86e3 − 30e2 + 11e− 31
+             1
+   c         3
+                 −8e5 + 7e4 − e3 − 8e2 − 9e − 5
+   Group Z/19Z
+   j, F ield 0, Q[e]/(e6 + e4 − e3 − 2e2 + e + 1)
+   b         2e5 − e4 + 2e3 − 4e2 + 2
+   c         2e5 − 2e4 + 4e3 − 4e2 − 2e + 3
+   Group Z/26Z
+   j, F ield 1728, Q[e]/(e6 − e4 + 2e3 − 2e + 1)
+              1
+                  53e5 + 6e4 − 70e3 + 75e2 + 5e − 136
+                                                        
+   b         13
+              1
+                  −49e5 − 44e4 + 14e3 − 78e2 − 65e + 46
+                                                           
+   c         13
+
+    Group           Field √
+                            Extension           Elliptic  Curve        j
+                                                  133b2 + 749b + 54
+                                                                    
+      Z/2Z⊕             Q( −7)[b]
+                   3      2
+                                             E b,                     -3375
+    Z/14Z  (b + 5b + 2/7b − 1/49)                       167
+      Z/3Z⊕                    √
+                       Q(ζ3 , 3 −16)              y 2 = x3 + 16         0
+       Z/6Z
+                                √
+            
+      Z/6Z⊕
+                         Q(ζ3 , 3 4)               y 2 = x3 + 1         0
+       Z/6Z
+                                                  −2b2 + 318b − 75
+                                                                 
+      Z/3Z⊕               Q(ζ3 )[b]
+                     3       2
+                                             E b,                       0
+       Z/9Z         b − 99b − 90b − 9                     753
+
+
+4.7. K is a number field of degree 7.
+
+           E(K)[tors] ∈ {0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, Z/2Z ⊕ Z/2Z}.
+
+  No subgroups occur in degree 7 which do not occur over Q.
+18                P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+4.8. K is a number field of degree 8.
+                   
+                   
+                    Z/mZ           for m = 1, . . . , 8, 10, 12, 13,
+                   
+                                              15, 16, 20, 21, 28, 30, 34, 39,
+                   
+                   
+                   
+                   
+                   
+                   Z/2Z ⊕ Z/mZ     for m = 2, 4, 6, 8, 10, 12, 16, 20,
+      E(K)[tors] ∈
+                   
+                   
+                    Z/4Z ⊕ Z/mZ    m = 4, 8, 12,
+                     Z/mZ ⊕ Z/mZ    for m = 3, 5, 6,
+                   
+                   
+                   
+                   
+                   
+                     Z/mZ ⊕ Z/2mZ for m = 3, 5.
+                   
+
+   The only subgroups which do not occur over Q or a number field of degree
+dividing 8 are:
+
+                                                               
+                    
+                      Z/15Z, Z/16Z, Z/20Z, Z/30Z, Z/34Z, Z/39Z 
+                                                                
+                      Z/2Z ⊕ Z/12Z, Z/2Z ⊕ Z/16Z, Z/2Z ⊕ Z/20Z
+                                                               
+       E(K)[tors] ∈                                               .
+                    
+                      Z/6Z ⊕ Z/6Z, Z/4Z ⊕ Z/8Z, Z/4Z ⊕ Z/12Z  
+                              Z/5Z ⊕ Z/5Z, Z/5Z ⊕ Z/10Z
+                                                               
+
+   We give examples of these and hereon, unless otherwise stated, their fields of
+definition will be given only by the defining polynomial over Q.
+    Group Z/15Z
+                    8
+    j, F ield 0, e   − 3e7 − 2e6 + 9e5 − 6e3 − 2e2 − 3e+ 1 = 0
+                 1      599e7 − 303e6 − 1758e5 + 786e4
+    b           61       +1411e3 + 632e2 + 755e − 307
+                 1
+                       −8e7 + 68e6 + 8e5 − 238e4 + 28e3 + 260e2 + 50e − 7
+                                                                                
+    c           61
+    Group Z/16Z
+    j, F ield 16581375, e8 − 2e7 + 6e6 − 9e5 + 10e4 − 8e3 + 6e2 − 3e + 1 = 0 
+                1
+    b           2
+                     −16e7 + 131e6 − 234e5 + 268e4 − 227e3 + 175e2 −       90e + 28
+                1        7      6       5       4      3       2
+    c           2
+                     −e    + 7e   − 15e   + 16e   − 14e  + 10e   − 6e + 1
+    Group Z/20Z
+    j, F ield 287496, e8 − 4e7 + 6e6 − 8e4 + 8e3 − 4e + 2 = 0
+    b           280e7 − 876e6 + 873e5 + 873e4 − 1553e3 + 710e2 + 762e − 487
+    c           −25e7 + 82e6 − 88e5 − 71e4 + 154e3 − 77e2 − 66e + 55
+    Group Z/30Z
+    j         j 2 + 191025j − 121287375 = 0
+    F ield      e8 
+                   − 3e7 − 2e6 + 9e5 − 6e3 − 2e2 − 3e + 1 =      0
+               1       −1926e7 + 7953e6 − 4967e5 − 12311e4
+    b
+              61         +13878e3 − 2797e2 + 7188e − 1853
+               1
+                      97e7 − 367e6 + 147e5 + 583e4 − 492e3 + 172e2 − 286e + 62
+                                                                                     
+    c
+              61
+    Group Z/34Z
+    j, F ield 1728, e8 + 4e7 + 7e6 + 8e5 + 8e4 + 6e3 + 4e2 + 2e + 1 = 0
+                 1
+    b           17
+                       −11e7 − 34e6 − 38e5 − 16e4 − 11e3 − 11e2 − e + 3 
+                 1
+    c           17
+                       9e7 + 31e6 + 59e5 + 60e4 + 50e3 + 30e2 + 25e + 6
+    Group Z/39Z
+    j, F ield 0, e8 − 2e6 − 3e5 + 3e4 + 3e3 − 2e2 + 1 = 0
+    b           −12e7 − 25e6 + 7e5 + 82e4 + 77e3 − 47e2 − 95e − 35
+    c           −8e7 − 4e6 + 18e5 + 34e4 − 14e3 − 46e2 + 13
+       COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION                   19
+
+
+   Group Z/2Z ⊕ Z/12Z
+                      8      7     6      5     4     3       2
+                  e − 4e7 + 2e +6 8e − 8e5 + 4e − 416e
+   j, F ield 54000,                                          + 16e − 2 = 0
+              1     −1083e + 2865e + 1673e − 6205e
+   b         13        −5e3 − 4167e2 + 11397e − 1570 
+                    −306e7 + 805e6 + 500e5 − 1801e4
+                 
+              1
+   c         13      +27e3 − 1218e2 + 3282e − 453
+   Group Z/2Z ⊕ Z/16Z
+   j, F ield −3375, e8 + 3e7 + 6e6 + 8e5 + 10e4 + 9e3 + 6e2 + 2e + 1 =0
+             1
+   b         2
+                  20e7 + 47e6 + 79e5 + 96e4 + 110e3 + 89e2 + 26e + 18
+             1
+   c         2
+                  7e7 + 12e6 + 22e5 + 22e4 + 30e3 + 17e2 + 7e + 3
+   Group Z/2Z ⊕ Z/20Z
+   j, F ield 1728, e8 − 4e7 + 6e6 − 8e4 + 8e3 − 4e + 2 = 0
+   b         −5e7 + 17e6 − 20e5 − 12e4 + 34e3 − 21e2 − 15e + 13
+   c         −4e7 + 13e6 − 13e5 − 13e4 + 24e3 − 8e2 − 10e + 7
+   Group Z/6Z ⊕ Z/6Z
+   j, F ield −3375, e8 + 3e7 + 4e6 + 3e5 + 3e4 + 3e3 + 4e2 + 3e + 1 = 0
+              1        7       6        5         4       3      2
+                                                                                
+   b         15 132e + 513e + 681e + 267e + 143e + 629e + 602e            + 193
+              1
+                   −21e7 − 39e6 − 3e5 + 29e4 − 39e3 − 32e2 + 9e + 11
+                                                                        
+   c         15
+   Group Z/4Z ⊕ Z/8Z
+   j, F ield −3375, e8 − e6 − 2e5 + e4 + 8e3 + 12e2 + 8e + 2 = 0
+              1
+                   103e7 − 85e6 − 43e5 − 153e4 + 222e3 + 655e2 + 663e + 235
+                                                                                
+   b         11
+              1
+   c         11
+                   63e7 − 27e6 − 64e5 − 86e4 + 114e3 + 452e2 + 534e + 206
+   Group Z/4Z ⊕ Z/12Z
+   j, F ield 0, e8 − 2e7 + 2e6 − 2e5 + 7e4 − 10e3 + 8e2 − 4e + 1 = 0
+              1
+                   −32e7 + 66e6 − 53e5 + 57e4 − 220e3 + 320e2 − 188e + 115
+                                                                               
+   b         11
+              1
+   c         11
+                   −28e7 + 66e6 − 56e5 + 54e4 − 198e3 + 324e2 − 214e + 91
+   Group, Field Z/5Z ⊕ Z/5Z, Q(ζ15 )
+                         7       6     5       3
+   j, b = c        (0, 4ζ15 + 2ζ15 − 2ζ15  − 2ζ15 + 4ζ15 + 1)
+   Group, Field Z/5Z ⊕ Z/10Z, Q(ζ20 )
+   j, b = c        (1728, ζ4 )
+
+4.9. K is a number field of degree 9.
+                        (
+                         Z/mZ for m = 1, 2, 3, 4, 6, 9, 14, 18, 19, 27,
+           E(K)[tors] ∈
+                         and    Z/2Z ⊕ Z/2Z.
+
+  The subgroups which do not occur over Q or a number field of degree 3 are:
+
+                      E(K)[tors] ∈ {Z/18Z, Z/19Z, Z/27Z}.
+  Examples of these are:
+   Group Z/18Z
+   j      54000
+             9
+   F ield   e − 3e8 + 3e7 − 6e6 + 12e5 − 3e4 − 15e3 + 15e2
+                                                        − 6e + 1 = 0
+           1        8       7        6       5       4
+                217e − 235e + 202e − 904e + 841e
+   b
+           3        +971e3 − 1364e2 + 617e − 113
+           1
+               7e8 − 8e7 + 7e6 − 31e5 + 32e4 + 29e3 − 50e2 + 25e − 5
+                                                                     
+   c
+           3
+20                  P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+      Group Z/19Z
+      j      −884736
+      F ield  e9 − e8 − 8e7 + 7e6 + 21e5 − 15e4 − 20e3 + 10e2 + 5e − 1 = 0
+      b      −31e8 + 73e7 + 112e6 − 319e5 − 80e4 + 397e3 − 26e2 − 139e + 22
+      c        −2e8 + 16e6 − 4e5 − 38e4 + 14e3 + 26e2 − 10e + 1
+      Group4 Z/27Z
+      j       −12288000
+                9     7
+      F ield  e − 9e +   27e5 − 30e3 + 9e − 1 = 0
+                 −4282e − 507e7 + 38492e6 + 4523e5 − 115156e4
+                        8
+                                                                  
+      b
+                     −13456e3 + 126990e2 + 14789e − 36852
+                16e + 2e7 − 140e6 − 18e5 + 410e4 + 54e3 − 444e2 − 58e + 125
+                   8
+                                                                             
+      c
+
+
+4.10. K is a number field of degree 10.
+                  
+                  Z/mZ
+                                 for m = 1, 2, 3, 4, 6, 7, 10, 11, 22, 31, 50,
+      E(K)[tors] ∈ Z/2Z ⊕ Z/mZ for m = 2, 4, 6, 22,
+                  
+                    and           Z/3Z ⊕ Z/3Z.
+                  
+
+   The only subgroups which do not occur over Q or a number field of degree 2 or
+5 are:
+
+
+               E(K)[tors] ∈ {Z/22Z, Z/31Z, Z/50Z, Z/2Z ⊕ Z/22Z}.
+
+     Examples of these are:
+      Group Z/22Z
+      j      16581375
+      F ield e10 − e9 + 2e8 − 4e7 + 5e6 − 3e5 + 3e4 − 6e3 + 7e2 − 4e + 1 
+                                                                          =0
+                 −184243e9 + 88117e8 − 299927e7 + 589670e6 − 568675e5
+      b                      4
+              +223462e        − 395246e3 + 908033e2 − 759722e
+                                                              + 279034
+                       9        8        7        6        5
+                 1905e − 643e + 3210e − 5564e + 5493e
+      c
+                 −1825e4 + 4191e3 − 8721e2 + 7124e − 2426
+      Group Z/31Z
+      j      0
+      F ield e10 + 2e8 − 3e7 + 3e6 − 7e5 + 8e4 − 7e3 +    2
+                                                        7e − 4e + 1 = 0
+                     9        8      7       6      5
+                  43e − 33e + 45e − 222e + 133e
+      b                 4
+                 −335e    + 508e3 − 326e2 + 368e − 252
+                   24e + 10e8 + 50e7 − 54e6 + 44e5
+                      9
+             
+      c
+                 −148e4 + 130e3 − 104e2 + 122e − 43
+      Group Z/50Z
+      j      1728
+      F ield   e10 − 4e9 + 9e8 − 14e7 + 15e6 − 10e5 + 3e4 + 2e3 − 2e2 + 1= 0
+      b         20e8 − 59e7 + 87e6 − 79e5 + 31e4 + 17e3 − 12e2 + 4e +8
+      c         e9 − 6e8 + 10e7 − 10e6 + 7e5 − e4 − e3 − 2e2 − 2e − 1
+
+
+   4The discriminant of the CM order is -27 and the SPY bounds are sharp here. Typically when
+the SPY bounds are sharp, gcd(disc(O), N ) > 1.
+      COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION               21
+
+
+   Group Z/2Z ⊕ Z/22Z
+   j      −3375
+   F ield e10 − e9 + 2e8 − 4e7 + 5e6 − 3e5 + 3e
+                                                4
+                                                  − 6e3 + 7e2 − 4e + 1 = 0
+                  9     8      7      6      5
+             −14e + 4e − 22e + 41e − 35e
+   b
+               +9e4 − 30e3 + 63e2 − 46e + 10
+            −6e9 + 5e8 − 9e7 + 23e6 − 22e5 + 10e4 − 13e3 + 33e2 − 32e + 11
+                                                                           
+   c
+
+
+4.11. K is a number field of degree 11.
+
+           E(K)[tors] ∈ {0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, Z/2Z ⊕ Z/2Z}.
+
+  No subgroups occur in degree 11 which do not occur over Q.
+
+
+4.12. K is a number field of degree 12.
+                
+                Z/mZ
+                
+                                 for m = 1, . . . , 10, 12, 13, 14
+                                           18, 19, 21, 26, 37, 42, 57,
+                
+                
+                
+                
+    E(K)[tors] ∈ Z/2Z ⊕ Z/mZ for m = 2, 4, 6, 8, 10, 12, 14, 18, 26, 28, 42,
+                
+                  Z/3Z ⊕ Z/mZ for m = 3, 6, 9, 12, 18, 21,
+                
+                
+                
+                
+                
+                Z/mZ ⊕ Z/mZ for m = 4, 6, 7.
+
+   The only subgroups which do not occur over a number field of degree dividing
+12 are:
+
+                         
+                         Z/mZ
+                         
+                         
+                                           for m = 28, 37, 42, 57,
+                         Z/2Z ⊕ Z/mZ      for m = 12, 18, 26, 28, 42,
+            E(K)[tors] ∈
+                         Z/3Z ⊕ Z/mZ
+                                          for m = 12, 18, 21,
+                         
+                           and             Z/7Z ⊕ Z/7Z.
+                         
+
+  These are:
+   Group Z/28Z
+   j       54000
+                  e12 − 4e11 + 8e10 − 6e9 − 7e8 + 20e7
+   F ield          6      5
+             −18e − 4e 11  + 25e4 − 8e3 − 6e2 + 2e + 1 = 0
+                       110e − 95e10 − 24e9 − 47e8 − 19e7 − 232e6
+                                                                    
+              1
+   b
+            402  −119e5 + 1480e4 + 369e3 − 1017e2 + 149e + 197 
+              1      116e11 − 423e10 + 853e9 − 655e8 − 768e7 + 2238e6
+   c
+            402        −1982e5 − 766e4 + 2806e3 − 277e2 − 441e − 3
+   Group Z/37Z
+   j       0
+                  e12 − 4e11 + 11e10 − 21e9 + 32e8 − 40e7
+   F ield          6        5     4
+                 − 46e11 + 40e 10
+             +45e                   − 26e3 + 12e2 − 4e + 1 = 0
+                   −196e + 657e − 1789e9 + 3384e8 − 5292e7 + 6890e6
+                                                                        
+             1
+   b
+            37       −7695e5 + 7154e4 − 4851e3 + 2221e2 − 773e + 181
+                   24e11 − 162e10 + 432e9 − 952e8 + 1462e7 − 1928e6
+                                                                      
+             1
+   c
+            37     +2090e5 − 2060e4 + 1630e3 − 870e2 + 294e − 109
+22                    P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+      Group Z/42Z5
+      j      54000
+                  e12 − 4e11 + 8e10 − 11e9 + 13e8 − 14e7
+      F ield         6       5     4      3      2
+             +15e −1114e + 7e10 + 3e − 5e         +e+1=0
+                 1416e − 6140e + 13362e − 19953e8 + 24872e7 − 27802e6
+                                               9
+                                                                              
+      b                      5
+              +30076e         − 29333e4 + 19087e3 − 1483e2 − 7097e
+                                                                   + 4041
+                 27e − 138e10 + 342e9 − 563e8 + 754e7 − 896e6
+                     11
+      c
+                   +1000e5 − 1038e4 + 847e3 − 370e2 − 7e + 66
+      Group Z/57Z
+      j      0
+                    e12 − 2e11 + 5e10 − 10e9 + 16e8 − 22e7
+      F ield         6       5
+             +30e − 31e       + 28e4 − 27e3 + 19e2 − 7e + 1 = 0 
+                   18509e11 − 25122e10 + 76123e9 − 135966e8
+      b       +207749e7 − 272291e6 + 378051e5 − 328154e4 
+                    +303397e3 − 302371e2 + 154326e − 27788
+                 128e11 − 62e10 + 446e9 − 532e8 + 876e7 − 986e6
+                                                                 
+      c
+                  +1542e5 − 670e4 + 1136e3 − 872e2 + 18e + 71
+      Group Z/2Z ⊕ Z/12Z
+      j      j 3 + 3491750j 2 − 5151296875j + 12771880859375 = 0
+                     e12 − 4e11 + 11e10 − 28e9 + 63e8 − 114e7
+      F ield           6
+               +161e     − 174e5 + 141e4 − 82e3 + 33e2 − 8e + 1 = 0
+                   46e − 165e10 + 327e9 − 914e8 + 1949e7 − 2883e6
+                        11
+                                                                     
+             1
+      b
+             8  +3279e5 − 2583e4 + 1240e3 − 576e2 + 169e − 34 
+             1     86e11 − 295e10 + 760e9 − 1947e8 + 4217e7 − 7168e6
+      c
+             8      +9344e5 − 9004e4 + 6265e3 − 2894e2 + 769e − 103
+      Group Z/2Z ⊕ Z/18Z
+      j      8000
+                    e12 − 4e11 + 4e10 + 8e9 − 25e8 + 24e7
+      F ield
+               +4e6 − 36e5 + 46e4 − 32e3 + 14e2 − 4e + 1 = 0
+                       −1450e11 + 3898e10 + 304e9 − 13733e8 + 17660e7 − 2419e6
+                                                                                
+               1
+      b
+             369  −19740e5 + 26634e4 − 18553e3 + 5681e2 − 2148e + 155 
+               1       1108e11 − 3354e10 + 756e9 + 10638e8 − 17099e7 + 6109e6
+      c
+             123        +14805e5 − 25449e4 + 20608e3 − 8740e2 + 2841e − 680
+      Group Z/2Z ⊕ Z/26Z
+      j      0
+                 e12 − 5e11 + 11e10 − 9e9 − 7e8 + 24e7
+      F ield         6       4       3
+               −21e
+                  + 21e11 − 25e +       16e2 − 6e + 1 = 0
+                    −781e + 3351e − 5753e9 + 969e8 + 9554e7 − 12544e6
+                                       10
+                                                                             
+              1
+      b
+             91         +1862e5 + 8736e4 − 11312e3 + 6330e2 − 1292e − 19
+                    −198e11 + 1336e10 − 3552e9 + 3848e8 + 1816e7 − 9198e6
+                                                                             
+              1
+      c
+             91          +8344e5 + 1134e4 − 8428e3 + 8618e2 − 4202e + 785
+
+
+
+
+     5Note that this elliptic curve is isogenous to the one with j = 0 and torsion Z/2Z ⊕ Z/42Z.
+      COMPUTATION ON ELLIPTIC CURVES WITH COMPLEX MULTIPLICATION               23
+
+
+   Group Z/2Z ⊕ Z/28Z
+   j         −3375
+                  e12 − 4e11 + 5e10 + 3e9 − 11e8 − 3e7
+   F ield           6         5
+                 − 47e
+              +35e              + 27e4 − 4e3 − e2 − e + 1 = 0
+                    1252e − 3557e10 + 1151e9 + 6917e8 − 4746e7 − 13843e6
+                           11
+                                                                             
+              1
+   b
+             43       +26751e5 − 17575e4 + 2938e3 + 964e2 + 523e − 674
+                    103e11 − 501e10 + 525e9 + 659e8 − 1439e7 − 1039e6
+                                                                         
+              1
+   c
+             43       +4489e5 − 4371e4 + 1157e3 + 216e2 − 45e − 219
+   Group Z/2Z ⊕ Z/42Z
+   j         0
+                 e12 − 4e11 + 8e10 − 11e9 + 13e8 − 14e7
+   F ield           6         5      4      3     2
+             +15e11− 14e 10+ 7e +93e − 5e          +e+1=0 
+                17e − 40e + 61e − 71e8 + 82e7 − 81e6
+   b
+              11  +95e5 − 59e4 − 12e3 + 41e2 − 6e − 7 
+                6e − 18e10 + 28e9 − 34e8 + 38e7 − 40e6
+   c
+                       +44e5 − 36e4 + 20e2 − 8e − 5
+   Group Z/3Z ⊕ Z/12Z
+   j         54000
+                 e12 − 3e10 − 2e9 + 12e8 − 6e7 − 3e6
+   F ield           5
+              −12e   + 36e4 − 38e3 + 21e2 − 6e + 1 = 0
+                       −208660e11 − 118345e10 + 606681e9 + 844271e8
+                                                                         
+               1 
+   b                   −2044930e7 − 126154e6 + 712244e5 + 3124663e4 
+             7843                      3
+                    −5460349e           + 4188689e2 − 1329972e + 272478
+                       55805e + 25237e10 − 174599e9 − 227269e8
+                                 11
+                                                                       
+               1 
+   c                   +578726e7 + 22958e6 − 227941e5 − 894570e4 
+             7843
+                       +1575065e3 − 1231382e2 + 392162e − 82582
+   Group Z/3Z ⊕ Z/18Z
+   j         8000
+                   e12 − 4e11 + 12e10 − 24e9 + 38e8 − 50e7
+   F ield           6         5        4
+                 − 48e11 + 36e −
+              +52e                         24e3 + 15e2 − 6e + 3 = 0
+                    −262e + 1376e − 4458e9 + 10137e8 − 17241e7 + 23682e6
+                                         10
+                                                                               
+              1
+   b
+             53      −25526e5 + 22112e4 − 14766e3 + 6941e2 − 2382e + 151
+                    131e11 − 476e10 + 1328e9 − 2339e8 + 3188e7 − 3414e6
+                                                                           
+              1
+   c
+             53         +2481e5 − 1304e4 + 69e3 + 319e2 − 293e + 110
+   Group Z/3Z ⊕ Z/21Z
+   j         0
+                   e12 − 6e11 + 18e10 − 35e9 + 54e8 − 72e7
+   F ield           6         5
+                 − 81e +
+              +84e                 66e4 − 44e3 + 21e2 − 6e + 1 = 0
+                      −4894e + 30046e10 − 87461e9 + 154268e8
+                                11
+                                                                      
+              1 
+   b                −201926e7 + 235109e6 − 256228e5 + 214939e4 
+             49
+                          −117237e3 + 38057e2 − 7246e + 352
+                    290e − 1742e10 + 4986e9 − 8686e8 + 11366e7 − 13286e6
+                         11
+                                                                            
+              1
+   c
+             49        +14434e5 − 12010e4 + 6618e3 − 2248e2 + 458e − 41
+   Group, Field Z/7Z ⊕ Z/7Z, Q(ζ21 )
+   (j, b, c)        (0, ζ3 , −1)
+4.13. K is a number field of degree 13.
+          E(K)[tors] ∈ {0, Z/2Z, Z/3Z, Z/4Z, Z/6Z, Z/2Z ⊕ Z/2Z}.
+24                  P. CLARK, P. CORN, A. RICE, AND J. STANKEWICZ
+
+
+     No subgroups occur in degree 13 which do not occur over Q.
+
+                                        References
+[BLR]    S. Bosch, W. Lütkebohmert, M. Raynaud, Néron Models, Ergeb. Math. Grenzgeb. (3),
+         21, Springer-Verlag, Berlin, 1990.
+[CCS13] P.L. Clark, B. Cook, J. Stankewicz, Torsion Points on Elliptic Curves with Complex
+         Multiplication (with an Appendix by Alex Rice), Int. J. Number Theory 9 (2013), no.
+         2, 447-479.
+[Cox89]  D. Cox, Primes of the form x2 + ny 2 . Fermat, class field theory and complex multi-
+         plication. John Wiley & Sons, New York, 1989.
+[FSWZ90] G. Fung, H. Ströher, H. Williams and H. Zimmer. Torsion groups of elliptic curves
+         with integral j-invariant over pure cubic fields. J. Number Theory 36 (1990), 12-45.
+[GKP10] B. Grenet, P. Koiran, and N. Portier. The Multivariate Resultant Is NP-hard in Any
+         Characteristic. Mathematical Foundations of Computer Science, LNCS 6281, 477-488,
+         2010.
+[Hei34]  H. Heilbronn, On the Class Number in Imaginary Quadratic Fields. Quart. J. Math.
+         Oxford Ser. 25, 150-160, 1934.
+[Kam86] S. Kamienny, Torsion points on elliptic curves over all quadratic fields. Duke Math.
+         J. 53 no. 1 (1986), 157-162.
+[Kam92] S. Kamienny, Torsion points on elliptic curves and q-coefficients of modular forms.
+         Invent. Math. 109 (1992), no. 2, 221-229.
+[KM88]   M.A. Kenku and F. Momose, Torsion points on elliptic curves defined over quadratic
+         fields. Nagoya Math. J. 109 (1988), 125-149.
+[Ku76]   D.S. Kubert, Universal bounds on the torsion of elliptic curves. Proc. London Math.
+         Soc. (3) 33 (1976), 193-237.
+[Lan91]  S. Lang, Number theory. III. Diophantine geometry. Encyclopaedia of Mathematical
+         Sciences, 60. Springer-Verlag, Berlin, 1991.
+[magma] W. Bosma, J. Cannon, and C. Playoust. The Magma algebra system. I. The user
+         language. J. Symbolic Comput., 24(3-4):235-265, 1997
+[Maz77]  B. Mazur, Modular elliptic curves and the Eisenstein ideal, Publ. Math. Inst. Hautes
+         Etudes Sci. 47 (1977) 33168.
+[Mer96]  L. Merel, Bornes pour la torsion des courbes elliptiques sur les corps de nombres.
+         Invent. Math. 124 (1996), 437-449.
+[Mil08]  J. Milne, Class Field Theory, Version 4, http://jmilne.org/math/.
+[MSZ89] H. Müller, H. Ströher and H. Zimmer, Torsion groups of elliptic curves with integral
+         j-invariant over quadratic fields. J. Reine Angew. Math. 397 (1989), 100-161.
+[Ols74]  L. Olson, Points of finite order on elliptic curves with complex multiplication,
+         Manuscripta math. 14 (1974), 195-205.
+[Par89]  J.L. Parish, Rational Torsion in Complex-Multiplication Elliptic Curves, Journal of
+         Number Theory 33 (1989), 257-265.
+[PWZ97] A. Pethö, T. Weis and H. Zimmer, Torsion groups of elliptic curves with integral j-
+         invariant over general cubic number fields. Internat. J. Algebra Comput. 7 (1997),
+         353-413.
+[PY01]   D. Prasad and C.S. Yogananda, Bounding the torsion in CM elliptic curves. C. R.
+         Math. Acad. Sci. Soc. R. Can. 23 (2001), 1-5.
+[Sch95]  R. Schoof, Counting points on elliptic curves over finite fields. J. Théor. Nombres
+         Bordeaux 7, no. 1 (1995), 219–254.
+[Sbg88]  A. Silverberg, Torsion points on abelian varieties of CM-type. Compositio Math. 68
+         (1988), no. 3, 241–249.
+[Sil86]  J. Silverman, The Arithmetic of Elliptic Curves, Graduate Texts in Mathematics 106,
+         Springer Verlag, 1986.
+[Sil94]  J. Silverman, Advanced Topics in the Arithmetic of Elliptic Curves, Graduate Texts
+         in Mathematics 151, Springer-Verlag, 1994.
+[Sut12]  A. Sutherland, Constructing elliptic curves over finite fields with prescribed torsion,
+         Mathematics of Computation 81 (2012), 1131-1147.
+[Wat04]  M. Watkins, Class numbers of imaginary quadratic fields. Math. Comp. 73 (2004), no.
+         246, 907–938.
+

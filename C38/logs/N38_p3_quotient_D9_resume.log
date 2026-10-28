@@ -1,0 +1,106 @@
+SETUP N=38 M=1 p=3 genus=28 time=4.430
+CUSPS number=20 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 9, 9 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <9, 9>, <9, 9>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 2: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 3: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 4: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 5: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 6: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 7: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+CC complement degree <= 8: q mod 38 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 21, 23, 25, 27, 29, 31, 33, 35, 37 ] ; usable q from list: [ 5, 7, 11, 13, 17 ]
+QLIST all (used when there is no cuspidal part): [ 5, 7, 11, 13, 17 ]
+Loading "work/degree9/cyclic/quotient_class_prefilter.m"
+QUOTIENT_SETUP level=19 genus=7 classgroup=[ 8766, 0 ] rational_cusp_image=[ 4383 ] quotient=[ 2, 0 ] complement_counts=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ] time=13.260
+QUOTIENT_PREFILTER_READY complete=true
+DEGREES with points of the required type over F_p^d (d=1..9): [ false, false, true, false, true, true, true, true, true ]  time=13.370
+NONCUSP counts deg 1..9: [ 0, 0, 3, 0, 72, 87, 216, 801, 2127 ]  time=50.660
+REPS up to diamond: [ 0, 0, 1, 0, 8, 11, 24, 89, 239 ]  time=85.090
+TYPE [ 6, 3 ]: 33 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17 ]
+SMART_CASE_RESULT type=[ 6, 3 ] index=1 killed=true time=88.560
+SMART_CASE_RESULT type=[ 6, 3 ] index=2 killed=true time=91.510
+SMART_CASE_RESULT type=[ 6, 3 ] index=3 killed=true time=94.490
+SMART_CASE_RESULT type=[ 6, 3 ] index=4 killed=true time=97.850
+SMART_CASE_RESULT type=[ 6, 3 ] index=5 killed=true time=100.440
+SMART_CASE_RESULT type=[ 6, 3 ] index=6 killed=true time=103.090
+SMART_CASE_RESULT type=[ 6, 3 ] index=7 killed=true time=105.350
+SMART_CASE_RESULT type=[ 6, 3 ] index=8 killed=true time=108.040
+SMART_CASE_RESULT type=[ 6, 3 ] index=9 killed=true time=110.040
+QUOTIENT_REJECT type=[ 6, 3 ] index=10 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=10 killed=true time=110.050
+QUOTIENT_REJECT type=[ 6, 3 ] index=11 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=11 killed=true time=110.050
+QUOTIENT_REJECT type=[ 6, 3 ] index=12 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=12 killed=true time=110.050
+QUOTIENT_REJECT type=[ 6, 3 ] index=13 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=13 killed=true time=110.070
+QUOTIENT_REJECT type=[ 6, 3 ] index=14 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=14 killed=true time=110.070
+QUOTIENT_REJECT type=[ 6, 3 ] index=15 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=15 killed=true time=110.070
+QUOTIENT_REJECT type=[ 6, 3 ] index=16 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=16 killed=true time=110.080
+QUOTIENT_REJECT type=[ 6, 3 ] index=17 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=17 killed=true time=110.080
+QUOTIENT_REJECT type=[ 6, 3 ] index=18 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=18 killed=true time=110.080
+SMART_CASE_RESULT type=[ 6, 3 ] index=19 killed=true time=113.720
+SMART_CASE_RESULT type=[ 6, 3 ] index=20 killed=true time=116.630
+SMART_CASE_RESULT type=[ 6, 3 ] index=21 killed=true time=119.720
+SMART_CASE_RESULT type=[ 6, 3 ] index=22 killed=true time=122.750
+SMART_CASE_RESULT type=[ 6, 3 ] index=23 killed=true time=126.270
+SMART_CASE_RESULT type=[ 6, 3 ] index=24 killed=true time=128.760
+SMART_CASE_RESULT type=[ 6, 3 ] index=25 killed=true time=131.710
+SMART_CASE_RESULT type=[ 6, 3 ] index=26 killed=true time=134.120
+SMART_CASE_RESULT type=[ 6, 3 ] index=27 killed=true time=136.530
+QUOTIENT_REJECT type=[ 6, 3 ] index=28 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=28 killed=true time=136.540
+QUOTIENT_REJECT type=[ 6, 3 ] index=29 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=29 killed=true time=136.550
+QUOTIENT_REJECT type=[ 6, 3 ] index=30 base=19
+SMART_CASE_RESULT type=[ 6, 3 ] index=30 killed=true time=136.550
+SMART_CASE_RESULT type=[ 6, 3 ] index=31 killed=true time=139.480
+SMART_CASE_RESULT type=[ 6, 3 ] index=32 killed=true time=142.070
+SMART_CASE_RESULT type=[ 6, 3 ] index=33 killed=true time=144.720
+RESULT type=[ 6, 3 ] total=33 survivors=0 time=144.720
+TYPE [ 6, 2, 1 ]: no divisors
+TYPE [ 6, 1, 1, 1 ]: no divisors
+TYPE [ 5, 4 ]: no divisors
+TYPE [ 5, 3, 1 ]: no divisors
+TYPE [ 5, 2, 2 ]: no divisors
+TYPE [ 5, 2, 1, 1 ]: no divisors
+TYPE [ 5, 1, 1, 1, 1 ]: no divisors
+TYPE [ 4, 4, 1 ]: no divisors
+TYPE [ 4, 3, 2 ]: no divisors
+TYPE [ 4, 3, 1, 1 ]: no divisors
+TYPE [ 4, 2, 2, 1 ]: no divisors
+TYPE [ 4, 2, 1, 1, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 3 ]: 6 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17 ]
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=1 base=19
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=1 killed=true time=144.720
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=2 base=19
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=2 killed=true time=144.720
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=3 base=19
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=3 killed=true time=144.720
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=4 base=19
+SMART_CASE_START type=[ 3, 3, 3 ] index=4 primes=[ 5, 11, 7, 13, 17 ] time=144.720
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=4 killed=true time=144.720
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=5 base=19
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=5 killed=true time=144.720
+QUOTIENT_REJECT type=[ 3, 3, 3 ] index=6 base=19
+SMART_CASE_RESULT type=[ 3, 3, 3 ] index=6 killed=true time=144.720
+RESULT type=[ 3, 3, 3 ] total=6 survivors=0 time=144.720
+TYPE [ 3, 3, 2, 1 ]: no divisors
+TYPE [ 3, 3, 1, 1, 1 ]: no divisors
+TYPE [ 3, 2, 2, 2 ]: no divisors
+TYPE [ 3, 2, 2, 1, 1 ]: no divisors
+TYPE [ 3, 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 2, 1 ]: no divisors
+TYPE [ 2, 2, 2, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=38 M=1 p=3 D=9 shard=0/1 total_survivors=0 time=144.790
+SIEVE_RESUME_DONE FromDegree=9 MaxPart=6

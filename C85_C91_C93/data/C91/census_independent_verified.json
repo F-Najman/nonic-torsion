@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "ordinary_all_j_and_twists_by_character_sum": [
+    {
+      "degree": 6,
+      "qualified_j_values": 0,
+      "orders": []
+    },
+    {
+      "degree": 7,
+      "qualified_j_values": 0,
+      "orders": []
+    },
+    {
+      "degree": 8,
+      "qualified_j_values": 0,
+      "orders": []
+    },
+    {
+      "degree": 9,
+      "qualified_j_values": 36,
+      "orders": [
+        546
+      ]
+    }
+  ],
+  "supersingular_orders_outside_degree8_excluded": true,
+  "degree8_supersingular_twists": 2,
+  "degree8_supersingular_order": 273,
+  "j_orbits_degree9": 4,
+  "diamond_orbit_length": 36,
+  "closed_degree9_points": 144,
+  "degrees_at_most5_excluded_by_Hasse": true
+}

@@ -1,0 +1,813 @@
+{
+  "complete": true,
+  "field_modulus_coefficients": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+  ],
+  "all511_ordinary_j_invariants_and_both_twists_checked": true,
+  "all_supersingular_four_models_directly_counted": [
+    {
+      "a4": 0,
+      "a6": 0,
+      "order": 513
+    },
+    {
+      "a4": 0,
+      "a6": 1,
+      "order": 513
+    },
+    {
+      "a4": 1,
+      "a6": 0,
+      "order": 545
+    },
+    {
+      "a4": 1,
+      "a6": 1,
+      "order": 481
+    }
+  ],
+  "all39_selected_orders_direct_character_sum_checked": true,
+  "eligible_ordinary_curves": 39,
+  "j_degree3_order468_curves": 3,
+  "j_degree9_order546_curves": 36,
+  "j_frobenius_orbits": [
+    [
+      130,
+      315,
+      441
+    ],
+    [
+      8,
+      64,
+      98,
+      213,
+      253,
+      271,
+      289,
+      391,
+      426
+    ],
+    [
+      11,
+      61,
+      69,
+      82,
+      121,
+      161,
+      171,
+      286,
+      333
+    ],
+    [
+      32,
+      128,
+      196,
+      259,
+      319,
+      386,
+      392,
+      425,
+      506
+    ],
+    [
+      141,
+      219,
+      226,
+      311,
+      366,
+      373,
+      423,
+      470,
+      489
+    ]
+  ],
+  "source_non_cuspidal_degree9_places": 52,
+  "projective_diamond_orbit_sizes": [
+    4,
+    12,
+    12,
+    12,
+    12
+  ],
+  "selected_curves": [
+    {
+      "j": 128,
+      "b": 6,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        128,
+        319,
+        425,
+        386,
+        196,
+        32,
+        259,
+        506,
+        392
+      ]
+    },
+    {
+      "j": 219,
+      "b": 9,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        219,
+        373,
+        226,
+        311,
+        489,
+        141,
+        366,
+        423,
+        470
+      ]
+    },
+    {
+      "j": 64,
+      "b": 12,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        64,
+        271,
+        426,
+        391,
+        213,
+        289,
+        253,
+        98,
+        8
+      ]
+    },
+    {
+      "j": 426,
+      "b": 15,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        426,
+        391,
+        213,
+        289,
+        253,
+        98,
+        8,
+        64,
+        271
+      ]
+    },
+    {
+      "j": 319,
+      "b": 20,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        319,
+        425,
+        386,
+        196,
+        32,
+        259,
+        506,
+        392,
+        128
+      ]
+    },
+    {
+      "j": 32,
+      "b": 24,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        32,
+        259,
+        506,
+        392,
+        128,
+        319,
+        425,
+        386,
+        196
+      ]
+    },
+    {
+      "j": 213,
+      "b": 30,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        213,
+        289,
+        253,
+        98,
+        8,
+        64,
+        271,
+        426,
+        391
+      ]
+    },
+    {
+      "j": 392,
+      "b": 51,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        392,
+        128,
+        319,
+        425,
+        386,
+        196,
+        32,
+        259,
+        506
+      ]
+    },
+    {
+      "j": 373,
+      "b": 65,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        373,
+        226,
+        311,
+        489,
+        141,
+        366,
+        423,
+        470,
+        219
+      ]
+    },
+    {
+      "j": 271,
+      "b": 80,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        271,
+        426,
+        391,
+        213,
+        289,
+        253,
+        98,
+        8,
+        64
+      ]
+    },
+    {
+      "j": 391,
+      "b": 85,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        391,
+        213,
+        289,
+        253,
+        98,
+        8,
+        64,
+        271,
+        426
+      ]
+    },
+    {
+      "j": 8,
+      "b": 96,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        8,
+        64,
+        271,
+        426,
+        391,
+        213,
+        289,
+        253,
+        98
+      ]
+    },
+    {
+      "j": 470,
+      "b": 99,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        470,
+        219,
+        373,
+        226,
+        311,
+        489,
+        141,
+        366,
+        423
+      ]
+    },
+    {
+      "j": 196,
+      "b": 102,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        196,
+        32,
+        259,
+        506,
+        392,
+        128,
+        319,
+        425,
+        386
+      ]
+    },
+    {
+      "j": 333,
+      "b": 125,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        333,
+        161,
+        61,
+        82,
+        11,
+        69,
+        286,
+        171,
+        121
+      ]
+    },
+    {
+      "j": 441,
+      "b": 131,
+      "twist_trace": 0,
+      "curve_order": 468,
+      "j_degree": 3,
+      "j_frobenius_orbit": [
+        441,
+        130,
+        315
+      ]
+    },
+    {
+      "j": 286,
+      "b": 132,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        286,
+        171,
+        121,
+        333,
+        161,
+        61,
+        82,
+        11,
+        69
+      ]
+    },
+    {
+      "j": 121,
+      "b": 169,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        121,
+        333,
+        161,
+        61,
+        82,
+        11,
+        69,
+        286,
+        171
+      ]
+    },
+    {
+      "j": 98,
+      "b": 204,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        98,
+        8,
+        64,
+        271,
+        426,
+        391,
+        213,
+        289,
+        253
+      ]
+    },
+    {
+      "j": 141,
+      "b": 212,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        141,
+        366,
+        423,
+        470,
+        219,
+        373,
+        226,
+        311,
+        489
+      ]
+    },
+    {
+      "j": 506,
+      "b": 240,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        506,
+        392,
+        128,
+        319,
+        425,
+        386,
+        196,
+        32,
+        259
+      ]
+    },
+    {
+      "j": 423,
+      "b": 252,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        423,
+        470,
+        219,
+        373,
+        226,
+        311,
+        489,
+        141,
+        366
+      ]
+    },
+    {
+      "j": 386,
+      "b": 255,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        386,
+        196,
+        32,
+        259,
+        506,
+        392,
+        128,
+        319,
+        425
+      ]
+    },
+    {
+      "j": 226,
+      "b": 270,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        226,
+        311,
+        489,
+        141,
+        366,
+        423,
+        470,
+        219,
+        373
+      ]
+    },
+    {
+      "j": 425,
+      "b": 272,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        425,
+        386,
+        196,
+        32,
+        259,
+        506,
+        392,
+        128,
+        319
+      ]
+    },
+    {
+      "j": 366,
+      "b": 288,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        366,
+        423,
+        470,
+        219,
+        373,
+        226,
+        311,
+        489,
+        141
+      ]
+    },
+    {
+      "j": 171,
+      "b": 303,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        171,
+        121,
+        333,
+        161,
+        61,
+        82,
+        11,
+        69,
+        286
+      ]
+    },
+    {
+      "j": 130,
+      "b": 314,
+      "twist_trace": 0,
+      "curve_order": 468,
+      "j_degree": 3,
+      "j_frobenius_orbit": [
+        130,
+        315,
+        441
+      ]
+    },
+    {
+      "j": 259,
+      "b": 320,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        259,
+        506,
+        392,
+        128,
+        319,
+        425,
+        386,
+        196,
+        32
+      ]
+    },
+    {
+      "j": 289,
+      "b": 340,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        289,
+        253,
+        98,
+        8,
+        64,
+        271,
+        426,
+        391,
+        213
+      ]
+    },
+    {
+      "j": 161,
+      "b": 349,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        161,
+        61,
+        82,
+        11,
+        69,
+        286,
+        171,
+        121,
+        333
+      ]
+    },
+    {
+      "j": 489,
+      "b": 390,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        489,
+        141,
+        366,
+        423,
+        470,
+        219,
+        373,
+        226,
+        311
+      ]
+    },
+    {
+      "j": 69,
+      "b": 394,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        69,
+        286,
+        171,
+        121,
+        333,
+        161,
+        61,
+        82,
+        11
+      ]
+    },
+    {
+      "j": 61,
+      "b": 417,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        61,
+        82,
+        11,
+        69,
+        286,
+        171,
+        121,
+        333,
+        161
+      ]
+    },
+    {
+      "j": 311,
+      "b": 427,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        311,
+        489,
+        141,
+        366,
+        423,
+        470,
+        219,
+        373,
+        226
+      ]
+    },
+    {
+      "j": 315,
+      "b": 440,
+      "twist_trace": 0,
+      "curve_order": 468,
+      "j_degree": 3,
+      "j_frobenius_orbit": [
+        315,
+        441,
+        130
+      ]
+    },
+    {
+      "j": 82,
+      "b": 450,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        82,
+        11,
+        69,
+        286,
+        171,
+        121,
+        333,
+        161,
+        61
+      ]
+    },
+    {
+      "j": 11,
+      "b": 459,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        11,
+        69,
+        286,
+        171,
+        121,
+        333,
+        161,
+        61,
+        82
+      ]
+    },
+    {
+      "j": 253,
+      "b": 480,
+      "twist_trace": 1,
+      "curve_order": 546,
+      "j_degree": 9,
+      "j_frobenius_orbit": [
+        253,
+        98,
+        8,
+        64,
+        271,
+        426,
+        391,
+        213,
+        289
+      ]
+    }
+  ],
+  "Kloosterman_histogram": {
+    "-45": 3,
+    "-41": 9,
+    "-37": 18,
+    "-33": 36,
+    "-29": 18,
+    "-25": 9,
+    "-21": 27,
+    "-17": 27,
+    "-13": 27,
+    "-9": 36,
+    "-5": 19,
+    "-1": 18,
+    "3": 45,
+    "7": 27,
+    "11": 18,
+    "15": 45,
+    "19": 18,
+    "23": 21,
+    "27": 45,
+    "31": 9,
+    "35": 9,
+    "39": 18,
+    "43": 9
+  },
+  "proof_note": "Supersingular j0 orders over F512 are481,513,545, none divisible39. Ordinary rational39torsion is cyclic because gcd(39,511)=1. Each eligible curve contributes phi(39)/2=12 marked pairs. Hasse excludes39torsion over F2 and F8. Thus468 rational marked pairs give52 closed nonic places in five diamondorbits."
+}

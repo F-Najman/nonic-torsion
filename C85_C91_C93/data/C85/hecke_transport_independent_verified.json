@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "sources": [
+    {
+      "source": 1,
+      "kernel_polynomials": 4,
+      "geometric_targets": 4,
+      "closed_target_degrees": [
+        9,
+        9,
+        18
+      ],
+      "level_order": 85
+    },
+    {
+      "source": 2,
+      "kernel_polynomials": 4,
+      "geometric_targets": 4,
+      "closed_target_degrees": [
+        9,
+        9,
+        18
+      ],
+      "level_order": 85
+    },
+    {
+      "source": 3,
+      "kernel_polynomials": 4,
+      "geometric_targets": 4,
+      "closed_target_degrees": [
+        9,
+        9,
+        18
+      ],
+      "level_order": 85
+    },
+    {
+      "source": 4,
+      "kernel_polynomials": 4,
+      "geometric_targets": 4,
+      "closed_target_degrees": [
+        9,
+        9,
+        18
+      ],
+      "level_order": 85
+    },
+    {
+      "source": 5,
+      "kernel_polynomials": 4,
+      "geometric_targets": 4,
+      "closed_target_degrees": [
+        9,
+        9,
+        18
+      ],
+      "level_order": 85
+    }
+  ],
+  "all_twenty_level_transports_independently_rebuilt": true
+}

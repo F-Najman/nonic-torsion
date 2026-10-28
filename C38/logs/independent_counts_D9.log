@@ -1,0 +1,6 @@
+DEGREE9_FAST_COUNT m=1 n=35 p=3 genus=25 rational_point_counts=[ 0, 0, 36, 0, 180, 792, 2436, 6504, 20196 ] closed_place_counts=[ 0, 0, 12, 0, 36, 126, 348, 813, 2240 ] time=0.230
+DEGREE9_FAST_COUNT m=1 n=38 p=3 genus=28 rational_point_counts=[ 0, 0, 9, 0, 360, 531, 1512, 6408, 19152 ] closed_place_counts=[ 0, 0, 3, 0, 72, 87, 216, 801, 2127 ] time=0.360
+DEGREE9_FAST_COUNT m=1 n=44 p=3 genus=36 rational_point_counts=[ 0, 0, 0, 0, 300, 960, 1680, 7360, 20340 ] closed_place_counts=[ 0, 0, 0, 0, 60, 160, 240, 920, 2260 ] time=0.580
+DEGREE9_FAST_COUNT m=1 n=46 p=3 genus=45 rational_point_counts=[ 0, 0, 0, 220, 220, 330, 1848, 6468, 17622 ] closed_place_counts=[ 0, 0, 0, 55, 44, 55, 264, 781, 1958 ] time=0.740
+DEGREE9_FAST_COUNT m=1 n=50 p=3 genus=48 rational_point_counts=[ 0, 0, 0, 0, 0, 360, 1400, 8360, 18360 ] closed_place_counts=[ 0, 0, 0, 0, 0, 60, 200, 1045, 2040 ] time=0.970
+DEGREE9_FAST_COUNTS_DONE complete=true 0.970

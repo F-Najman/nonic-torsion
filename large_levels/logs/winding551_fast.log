@@ -1,0 +1,54 @@
+WINDING_SPACE_READY N=551 order=1 dimension=49 time=0.030
+WINDING N=551 order=1 conductor=1 relative_dimension=49 winding_dimension=40 coefficient_degree=1 time=0.120
+WINDING_SPACE_READY N=551 order=9 dimension=48 time=0.040
+WINDING N=551 order=9 conductor=19 relative_dimension=48 winding_dimension=48 coefficient_degree=6 time=2.460
+WINDING_SPACE_READY N=551 order=3 dimension=48 time=0.030
+WINDING N=551 order=3 conductor=19 relative_dimension=48 winding_dimension=48 coefficient_degree=2 time=0.920
+WINDING_SPACE_READY N=551 order=252 dimension=48 time=0.070
+WINDING_T2_READY N=551 order=252 time=3.110
+WINDING_GOOD_PRIME p=757 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=551 chi_index=4 order=252 path=work/degree9/realizations/large_global/krylov_N551_chi4_order252.json
+WINDING_KRYLOV N=551 order=252 span_rank=48 dimension=48 verified=true time=3.240
+WINDING N=551 order=252 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=72 time=3.240
+WINDING_SPACE_READY N=551 order=84 dimension=48 time=0.050
+WINDING_T2_READY N=551 order=84 time=0.360
+WINDING_GOOD_PRIME p=337 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=551 chi_index=5 order=84 path=work/degree9/realizations/large_global/krylov_N551_chi5_order84.json
+WINDING_KRYLOV N=551 order=84 span_rank=48 dimension=48 verified=true time=0.420
+WINDING N=551 order=84 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=24 time=0.420
+WINDING_SPACE_READY N=551 order=28 dimension=48 time=0.040
+WINDING N=551 order=28 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=12 time=3.350
+WINDING_SPACE_READY N=551 order=14 dimension=48 time=0.040
+WINDING N=551 order=14 conductor=29 relative_dimension=48 winding_dimension=48 coefficient_degree=6 time=1.530
+WINDING_SPACE_READY N=551 order=126 dimension=48 time=0.050
+WINDING_T2_READY N=551 order=126 time=3.100
+WINDING_GOOD_PRIME p=379 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=551 chi_index=8 order=126 path=work/degree9/realizations/large_global/krylov_N551_chi8_order126.json
+WINDING_KRYLOV N=551 order=126 span_rank=48 dimension=48 verified=true time=3.200
+WINDING N=551 order=126 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=36 time=3.200
+WINDING_SPACE_READY N=551 order=42 dimension=48 time=0.050
+WINDING N=551 order=42 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=12 time=4.390
+WINDING_SPACE_READY N=551 order=7 dimension=48 time=0.030
+WINDING N=551 order=7 conductor=29 relative_dimension=48 winding_dimension=47 coefficient_degree=6 time=2.580
+WINDING_SPACE_READY N=551 order=63 dimension=48 time=0.050
+WINDING_T2_READY N=551 order=63 time=2.970
+WINDING_GOOD_PRIME p=379 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=551 chi_index=11 order=63 path=work/degree9/realizations/large_global/krylov_N551_chi11_order63.json
+WINDING_KRYLOV N=551 order=63 span_rank=48 dimension=48 verified=true time=3.070
+WINDING N=551 order=63 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=36 time=3.070
+WINDING_SPACE_READY N=551 order=21 dimension=48 time=0.040
+WINDING N=551 order=21 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=12 time=4.040
+WINDING_SPACE_READY N=551 order=36 dimension=48 time=0.040
+WINDING N=551 order=36 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=12 time=3.480
+WINDING_SPACE_READY N=551 order=12 dimension=48 time=0.040
+WINDING N=551 order=12 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=4 time=0.950
+WINDING_SPACE_READY N=551 order=4 dimension=48 time=0.040
+WINDING N=551 order=4 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=2 time=0.410
+WINDING_SPACE_READY N=551 order=2 dimension=48 time=0.050
+WINDING N=551 order=2 conductor=29 relative_dimension=48 winding_dimension=48 coefficient_degree=1 time=0.140
+WINDING_SPACE_READY N=551 order=18 dimension=48 time=0.060
+WINDING N=551 order=18 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=6 time=1.420
+WINDING_SPACE_READY N=551 order=6 dimension=48 time=0.030
+WINDING N=551 order=6 conductor=551 relative_dimension=48 winding_dimension=48 coefficient_degree=2 time=0.530
+WINDING_FINAL N=551 genus=12097 total_dimension=12097 bad_orders=[ 1, 7 ] admissible=[ 12, 17, 28, 30, 41, 46, 59, 70, 75, 86, 88, 99, 104, 115, 117, 128, 144, 146, 157, 162, 173, 175, 186, 191, 202, 204, 215, 220, 231, 233, 244, 249, 260, 262, 273, 278, 289, 291, 302, 307, 318, 320, 331, 336, 347, 349, 360, 365, 376, 378, 389, 394, 405, 407, 423, 434, 436, 447, 452, 463, 465, 476, 481, 492, 505, 510, 521, 523, 534, 539 ]
+WINDING_CHARACTER_PROBE_DONE

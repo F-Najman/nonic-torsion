@@ -1,0 +1,112 @@
+{
+  "complete": true,
+  "level": 57,
+  "H_generator": 4,
+  "H_order": 9,
+  "geometric_cusps": 8,
+  "global_signature": {
+    "1": 2,
+    "2": 3
+  },
+  "F2_signature": {
+    "1": 4,
+    "2": 2
+  },
+  "width_rows": [
+    {
+      "width": 1,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    },
+    {
+      "width": 3,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "width": 19,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "width": 57,
+      "global_degrees": [
+        1,
+        1
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    }
+  ],
+  "dual_width_rows": [
+    {
+      "width": 57,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    },
+    {
+      "width": 19,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "width": 3,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "width": 1,
+      "global_degrees": [
+        1,
+        1
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    }
+  ],
+  "source_global_signature": {
+    "1": 18,
+    "18": 2,
+    "2": 9
+  },
+  "source_F2_signature": {
+    "1": 18,
+    "9": 2,
+    "2": 9,
+    "18": 1
+  },
+  "all_source_cusps_degree_le3_globally_intact": true,
+  "only_non_global_source_cusps_degree_le9_two_single_nonics": true,
+  "non_global_nonic_dual_target_width": 57,
+  "non_global_nonic_norm_weight": 9
+}

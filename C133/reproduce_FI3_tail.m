@@ -1,0 +1,16 @@
+Omega,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(v):v in Basis(Omega)];g:=35;
+CM:=Matrix(GF(2),[Eltseq(Cartier(w) @@ om):w in B]);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+bc2:=TateNormalForm_bc(E7,2*(E7![0,0]));tnew:=AF!(bc2[1]/bc2[2]);
+assert tnew in {1/(t7+1),(t7+1)/t7};
+sigma:=hom<AF->AF|hom<FB->AF|AF!tnew>,u>;
+assert sigma(sigma(sigma(t7))) eq t7 and sigma(jaf) eq jaf;
+eta:=Differential(t7);de:=Differential(tnew);
+DM:=Matrix(GF(2),[Eltseq((sigma(w/eta)*de) @@ om):w in B]);I35:=IdentityMatrix(GF(2),35);
+assert DM^3 eq I35 and DM*CM eq CM*DM;
+TM:=DM*CM;
+U0:=RowSpace((TM-DM)*(I35+DM+DM^2)*(TM^4+TM^2+I35));
+U3:=RowSpace((TM-DM)*(DM+DM^2)*TM);U:=U0+U3;udim:=Dimension(U);
+assert Dimension(U0) eq 2 and Dimension(U3) eq 20 and udim eq 22;
+printf "NONIC133_Z_SPLIT_COTANGENT genus=35 U0=2 U3=20 combined_U=22 exact_delta2=true time=%o\n",Cputime(tt);
+load "C133/reproduce_FI3_rr.m";

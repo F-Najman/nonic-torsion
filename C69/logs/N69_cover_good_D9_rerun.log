@@ -1,0 +1,46 @@
+DATABASE_ELL_MODEL N=69 ell=23 genus=2 good_reduction=true j_degree=24 time=0.040
+X0_3ELL_MODEL N=69 genus=7 degree_over_X0ell=4 integral_coordinates_ready=true time=0.470
+X0_3ELL_NC7 N=69 curves=21 closed_image_points=3 time=0.530
+C69_COVER_CUSP_CHARACTERS 2 [
+    (0 1 1),
+    (1 1 1)
+]
+C69_COVER_IDENTIFIED (0 1 1)
+cusp_widths [ 23, 1, 69, 3 ]
+cusp_values [ 1, 1, 0, 0 ]
+nc7_classes [
+    (0 1 1),
+    (1 1 1),
+    (1 1 1)
+]
+8.580
+C69_FRESH_CLASS_FIELD_READY 13 25.060
+COVER_GENERATOR_FROBENIUS_VERIFIED 1 0
+COVER_GENERATOR_FROBENIUS_VERIFIED 2 1
+COVER_GENERATOR_FROBENIUS_VERIFIED 3 1
+COVER_INDEPENDENT_FIELD_VERIFIED 69 13 71.300
+C69_BASE_A5_TEST 1 key [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0 ]
+principal true 71.730
+C69_COVER_CASE_START 1 lift_choices 8 72.000
+C69_COVER_CASE_TEST 1 1 principal false 80.480
+C69_COVER_CASE_TEST 1 2 principal false 89.930
+C69_COVER_CASE_TEST 1 3 principal false 98.780
+C69_COVER_CASE_TEST 1 4 principal false 108.410
+C69_COVER_CASE_TEST 1 5 principal false 116.750
+C69_COVER_CASE_TEST 1 6 principal false 125.470
+C69_COVER_CASE_TEST 1 7 principal false 135.100
+C69_COVER_CASE_TEST 1 8 principal false 144.090
+C69_COVER_CASE_DONE 1 survivors 0 144.090
+C69_BASE_A5_TEST 2 key [ 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0 ]
+principal false 144.490
+C69_CASE_EXCLUDED_ON_BASE 2
+C69_BASE_A5_TEST 3 key [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0 ]
+principal false 144.800
+C69_CASE_EXCLUDED_ON_BASE 3
+C69_COVER_GOOD7_DONE cases=3 tests=8 remaining=0 complete=true time=144.810
+C69_D9_BASE_IMAGES curves=18 images=2 marked_points=396 time=145.110
+C69_D9_BASE_TEST index=1 base_degree=9 principal=true time=145.460
+C69_D9_COVER_TEST index=1 choice=1 principal=false time=149.920
+C69_D9_COVER_TEST index=1 choice=2 principal=false time=154.170
+C69_D9_BASE_TEST index=2 base_degree=9 principal=false time=154.580
+C69_D9_GOOD_DONE nc7_cases=3 nc7_remaining=0 nc9_cases=2 nc9_tests=2 nc9_remaining=0 complete=true time=154.590

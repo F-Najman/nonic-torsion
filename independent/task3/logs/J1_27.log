@@ -1,0 +1,5 @@
+FACTOR M=27 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=1 winding_full=true
+FACTOR M=27 chi_order=9 chi_cond=27 degQchi=6 dim=2 absdim=12 mult=1 winding_full=true
+GENUS_GAMMA1 13
+SUMMARY Kind=J1 N=27 weighted_dim=13 genus=13 allfull=true time=0.080
+RANKCHECK_DONE

@@ -1,0 +1,145 @@
+{
+  "degree": 9,
+  "N": 77,
+  "complete": true,
+  "source": "Waterhouse classification as stated in Derickx\u2013Najman, arXiv2412.16016v2 Theorem4.6",
+  "rows": [
+    {
+      "e": 1,
+      "q": 2,
+      "Hasse_bound_floor": 2,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -2,
+        0,
+        2
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 2,
+      "q": 4,
+      "Hasse_bound_floor": 4,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -4,
+        -2,
+        0,
+        2,
+        4
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 3,
+      "q": 8,
+      "Hasse_bound_floor": 5,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -4,
+        0,
+        4
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 4,
+      "q": 16,
+      "Hasse_bound_floor": 8,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -8,
+        -4,
+        0,
+        4,
+        8
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 5,
+      "q": 32,
+      "Hasse_bound_floor": 11,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -8,
+        0,
+        8
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 6,
+      "q": 64,
+      "Hasse_bound_floor": 16,
+      "multiples77_in_Hasse_interval": [
+        77
+      ],
+      "candidate_traces": [
+        -12
+      ],
+      "supersingular_traces": [
+        -16,
+        -8,
+        0,
+        8,
+        16
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 7,
+      "q": 128,
+      "Hasse_bound_floor": 22,
+      "multiples77_in_Hasse_interval": [],
+      "candidate_traces": [],
+      "supersingular_traces": [
+        -16,
+        0,
+        16
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 8,
+      "q": 256,
+      "Hasse_bound_floor": 32,
+      "multiples77_in_Hasse_interval": [
+        231
+      ],
+      "candidate_traces": [
+        26
+      ],
+      "supersingular_traces": [
+        -32,
+        -16,
+        0,
+        16,
+        32
+      ],
+      "admissible_traces": []
+    },
+    {
+      "e": 9,
+      "q": 512,
+      "Hasse_bound_floor": 45,
+      "multiples77_in_Hasse_interval": [
+        539
+      ],
+      "candidate_traces": [
+        -26
+      ],
+      "supersingular_traces": [
+        -32,
+        0,
+        32
+      ],
+      "admissible_traces": []
+    }
+  ]
+}

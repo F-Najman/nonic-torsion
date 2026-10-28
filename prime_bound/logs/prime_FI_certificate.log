@@ -1,0 +1,14 @@
+NONIC_PRIME_FI_DATA p=97 index=4 subgroup_gen=43 Tn=5 q=3 cusp_generator=5 genus=25 input_rows=21 rank=19 configurations=63 failures=[] killpoly=$.1^3 + 3*$.1^2 - 4*$.1 + 1 time=0.500
+NONIC_PRIME_FI_FACTORS p=97 factors=[
+<$.1^3 + 3*$.1^2 - 4*$.1 + 1, 1>,
+<$.1^4 - $.1^3 - 4*$.1^2 + $.1 + 2, 1>,
+<$.1^6 + 27*$.1^4 + 204*$.1^2 + 467, 1>,
+<$.1^12 + 4*$.1^11 + 8*$.1^10 - 4*$.1^9 + 41*$.1^8 + 122*$.1^7 + 168*$.1^6 + 78*$.1^5 + 142*$.1^4 + 336*$.1^3 + 450*$.1^2 + 270*$.1 + 81, 1>
+] winding_killed_flags=[ true, false, false, false ]
+NONIC_PRIME_FI_DATA p=101 index=5 subgroup_gen=32 Tn=2 q=3 cusp_generator=2 genus=36 input_rows=25 rank=24 configurations=170 failures=[] killpoly=$.1 time=0.690
+NONIC_PRIME_FI_FACTORS p=101 factors=[
+<$.1, 1>,
+<$.1^7 - 13*$.1^5 + 2*$.1^4 + 47*$.1^3 - 16*$.1^2 - 43*$.1 + 14, 1>,
+<$.1^28 + 2*$.1^27 + 13*$.1^26 + 14*$.1^25 + 83*$.1^24 + 56*$.1^23 + 491*$.1^22 + 4*$.1^21 + 2615*$.1^20 - 114*$.1^19 + 9585*$.1^18 - 2206*$.1^17 + 26901*$.1^16 - 14112*$.1^15 + 68765*$.1^14 - 53808*$.1^13 + 152567*$.1^12 - 61892*$.1^11 + 163347*$.1^10 - 76074*$.1^9 + 68293*$.1^8 + 14450*$.1^7 + 82209*$.1^6 - 20610*$.1^5 + 29591*$.1^4 - 2580*$.1^3 + 1615*$.1^2 - 300*$.1 + 25, 1>
+] winding_killed_flags=[ true, false, false ]
+NONIC_PRIME_FI_CERTIFICATE_COMPLETE

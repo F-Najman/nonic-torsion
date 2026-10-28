@@ -1,0 +1,6978 @@
+{
+  "status": "PASS",
+  "cases": 120,
+  "unresolved": [],
+  "canonical_genus": 261,
+  "domain_dimension": 261,
+  "product_dimension": 780,
+  "residual_quotient_dimension": 519,
+  "source_diamond_orbits": 1,
+  "source_closed_points": 10,
+  "diamond_order": 10,
+  "target_common_diamond_translates": 30,
+  "Hecke_prime": 5,
+  "all_support_multiplicities_aggregated": true,
+  "results": [
+    {
+      "source": 1,
+      "target_diamond_translate": 0,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0x4417bbac43abac3a456cc0ccc786391d0cc44ae855662d19d51f362c0d81bac1c"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 0,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0xf3bb3f395338aa27db3ae7905e2ae7345eee50b652ec5df4ef1836a0a9d3319a2"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 0,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0x1fa8dfdda0dabc0a61c00cfc415813bf9117f4bf28a5b9454af05835372e697ef3"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 0,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0xa48349ab18dd77a0bd3f436c2f025d5da885b3bf29e873e937dd2331d8a4a1233"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 1,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0x10cb47d8a19a85c177f9feedb716f78af35367934ed9eb5f5dbdb5971ee2fb6e49"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 1,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0x1a486c561ae9893b83b30267bcf5ec7594d13ba9de5d23030ee8c44bf1d4374e6b"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 1,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0xab239285eacf396069a52deb8aced1dda088c716d95f587124c44fb47532cb696"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 1,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0x1046defefc6d0cae170d68fd62180c9cd396fa24454c45a3ef8bc51af9507cfbad"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 2,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0x15bbcd8c0f80d3a9e4f44758f1851629d5dfe4e65bf3f607700919f3625ab5340d"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 2,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0x162d79968b43a0ac1f8a91a798ef9981975f36daa7d8cc5e2c0f0f9a49fcc89ef7"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 2,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0xf9a79bc874bf5859258591893a71c1fcfee3e500e505957ddb02ed05f222d59e2"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 2,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0x145801b380a3833e251f95d4eec4705768939e78ffa1c211f5873546901d631c6e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 3,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0x6358fed6360969b3b81bd741455380637a29567b5350f7cde37cbf92739ed25ab"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 3,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x1dd1b7d262254ae23dafb3fc56811017f1f6d75df073c14deb9da911d8dfa02e50"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 3,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0xb6e8b027cf47266cf804476b77db4c1eaa277fbe7a033c7df0e0a60698c73c97a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 3,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x4ab90a793d0ef71844b7243ccd57b5d5202645b63acb42c33ad7c32551e92dc03"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 4,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0x1fffd7a2e849967d87fc744015e69842892c7a62a1f8c0aec02be435b3ed38ba2"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 4,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x1c2414a79c9069e14c43ebb59af814f128f88e3e96dc9ee258a9198d1e01859be3"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 4,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0x1d21e46e7c6661208e4cdcf049ab0a7cc53423e276e076626bcaeae23e307353b1"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 4,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x19cdd9f9aec41439f427d25f0b700d41c0ae30041a2d87f3b9a0664533ed11a029"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 5,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0x4a2e2c64e1cd6abcbe9a0f7b08c3997e110a50207dbfc462db38990e504337e8"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 5,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0x8cc5cb4348dcdfb028b20c66be7973ddc0fe372633a0a544e1e942655ae24319e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 5,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0xb718951b3f0ee0b22882c416c1128316f86d2ae6339ad9d2c50674953e09745a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 5,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0x15782e88880362dcd65d64503854b29f9af4fabee7ecf0a969e28fd3b588a6ac82"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 6,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0x1b24620c221ee42f9cca81e1cc8a7cf87b242c8bf2947170db370d315103445e6f"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 6,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x6f7298ee8af083a4edc1ec8e2d17283ac4445311b6c9bae3fdab746f284a36fb4"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 6,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0x155f75b5a9ac5a16cf6602929e3c0b32793ce4db539ee554bc3468dc145b5530e1"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 6,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x12a1154bae1ab4a4a2de5bfdb09968082bfc9da5a2197c47c50249d2e5a38f61af"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 7,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0x138c3fc0947dc5d04a0e5531479a54a2645774a7d33a84fe6b19774eb62f9a3000"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 7,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x18645a61d1484bae571b778e14337d442c316e7d00bda083e7e1b493e2dfc62992"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 7,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0x19f9d5c61c1f970d01fd682865c21ad24cb05c48cc5ec657ca5138db479e361e69"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 7,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x56c3e68b75c479b1aa7c932149e1904c006e94875ec7fd9f653dfe8cf917a6552"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 8,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x976ff34fcd3222269cd1b4d93c1d09f62f36126d82ed8d36e616c49e891a2a60a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 8,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0x101219d455e1e28055a4e275a857a42c384279340728dee07c7ddba4d302caf615"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 8,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x3077bb97ea65f9ef0d7f2748559f29605a95f288aedd42ff5bcee3a4165a2a98f"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 8,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0xfb35314c9fa13267ae7947ecf7e1e2604ecd03baaf602aad86f8bc471349e51d4"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 9,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0x12c0357193214d5fe207114157cc6b98228247ccd3ba3b4e288ce644c6e3e95b0"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 9,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x141e3b0f42e03bbe16c5940059fde0f993f2227b055a6f3657f18da89a0684cd77"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 9,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0x1a06f93c073224fb6ab0aa22ab0142fdd4472373899b7ef88bbf5914a79da3f98f"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 9,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x603c93939fab5160b4d3fa606c1c288f573eea3e4c59e6b33295782227cd9a2f5"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 10,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0x180ab13e2c7520970b7b73a05d8d8907d0ece596584c76356517b1a39195c9a1ce"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 10,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0xa5086e12f3851b6c924ec6f69dd83e3902ac01dadba5d03e85c328ddc4c72de85"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 10,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0x252cdc49b5a91fd38109562ce97520bf4097d69577fb20097cc36c5f05e2d8186"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 10,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0x722b31b293b14f0760af25c5d73071cf2c43e59604f50f8c2b5cb6a225ac13bf8"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 11,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0x16898ae99e13118b015e6597b2d237d74447c4ae6c94790c05d516aa90e1411afe"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 11,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x53cdc4170fec8ed337367e63c4453aebd5dd0ad12664ae8b39918bc826b0595ec"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 11,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0xa3d3027f0679ea0c31486d8cb308c5c4320b2c5a5a25e4b44e98d60f3fd25b983"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 11,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x1f72ccc119a411808270b33dbdedb227a4956fd8ef7cbf5bd59a3e78eed41f7691"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 12,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0xb1e01421e6da2b21b87ba4b7f836ce0d3ae426adab402daed13eb124baea10af6"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 12,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x17097e180ccc3b3df7966c0578ea05ab016c974b653f13dc4bd088554d5654cc80"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 12,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0x169a59be6f92be9c4b8ecffdbd41210c1578a4633be582b50b7fa56e8b50bf4ba4"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 12,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x1f20dfabb224b6c64caa24eb35c7862a5202d0f5afef4556d8b0d5fbcacc51fdbe"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 13,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x72730fe0442cae953534fc22b1775abfb66a200bb67d5c18b97d786dbc55b75d3"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 13,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0x15ce9f0739b0c08ed1160db98a3ac7b840689a5b93c8341718569c15576d5278fc"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 13,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x3f15f82d4c23afccd1c2b572d51a94d82d881abd0290ff2e79a24b8a4bce3fb70"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 13,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0x18b84248f07c9a528b95d48ad475ff7fe26b213318ae052d0d2388f58732904f79"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 14,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0x17262aa07afc8342498a8247791d7b59c43095c8802a49ca03add33b42434fc8b0"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 14,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x16126c818668ce8c4ef99207fdad668ecc2c4f9c96ba83f3072247184000ecbfa5"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 14,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0xbd5e456ddfbd506b46b5b34c3b05f9e7a9f65ca2ee1b190a9c1a4ccaaef3efaf6"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 14,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x190eba32253dc0e92b2310ab09f4fc4e0a2754542458ee6e2d425fb349fb4b25e7"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 15,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0x19d0a8c7fdb482e27fcb8f40e51e9d724816886d6258f562c918956b1a403c2e73"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 15,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0x1e03b1b2158773609a818e448f7da5dd6a94a3e2174600f6aced1b22d7a735dacf"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 15,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0x17a6be942bda19f801d65c5026ff5203d16bd4e0ca13f271e8462a0e242353f7ec"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 15,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0x1668cfc257939f983dc5aef297d32750dbd4639b4f113e0703d14113896845512c"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 16,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0xff9001d88d865fd29b0d6b16c17ba811724bcb72aa1fd4cd631a0b40125ee88bc"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 16,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0x8edb569012f50a7fd5b529f4b86da3116bec456908e1167dc793fbc2d6642afd5"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 16,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0x3180ee77dd202f70055612d21d614f00a29878c29943a5d0be6f65d66d7704068"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 16,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0x9b39ecbdfe9c2dbd348da77234af4a5a0683edb90eac52503486e3aee83e64fd0"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 17,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0x24f169f58e66090a590b8cb1677c54a600ff1d7b2672e186d25bff5e2094f6698"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 17,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0x1f937bd8709d85b44868045201419d2838c324d9c329cd5a0e31f26abc11837a7e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 17,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0x12b7db90a5c3b63b0a087c0ffc9467cfee41aa753bc15696ae893924a419e1674a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 17,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0x8983b821cf589004ab3284c5d915f0ca4cf98dc4fa46771643abfd7d59bf88e82"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 18,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0x1e732aeb04308e49b28cbc4d133dee46aaab203dc2384666a5aaf7d4f5afaefd4e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 18,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x6af5a072f0f5cced78914f3f147ca7c5f15107eb511f430a46024d4fe21aa10db"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 18,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0x1d4e8318017db18f4ae1202b095823fb63c483b651e0b3e36ce35cae46e65d8a43"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 18,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x1dbb2e6fdc5eaaf82422afbfcaca7097903887bc2c4335c061f6bf1c55cc999815"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 19,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0xfdf9dcd34e36fd31effa69720354e37f7e4c663b6461130340d0b2f414306d0a6"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 19,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x179aed805230fce3ff7ce05df9d1d8fc06988796e4c7b6dd99177cec82c54f60a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 19,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0x5c10175b9ef09ff6e6fb48d78cc3b1ff83ff6693b1c5793c859ac733f4dbf00e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 19,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x14369d31a54f543e7450a0c68790747a799040bf7c688cee794f69a1aeec569c17"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 20,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0xb7ac96a2f1e73d6ac9afefe88cd894bc289a356eaccb53e55baacfc5dd523c98a"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 20,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0x1fda29e47dc9cfe8af5cddd807d4f1e5cc9f75bbd1bb8f6e3686be821b1fdd7df8"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 20,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1dc80049fa0",
+      "H": [
+        "0x4d9aca2035859135dd59be5d3ad0b701afe5f73e42233fc52bf8c9b9f3f0a807d"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 20,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e6782b420642",
+      "H": [
+        "0x1f5e224c79ae34eb3e2fbdcb33dd6adf070168da9b56a950051701fe09cf666ee0"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 21,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0x17917104dcb2178495836a87f81c636b19940f722671380d58b97a7fee82615723"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 21,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0x134f2e268fd182438a915d168e0f281496ca30f0482a7a89d93ecd4553c8527c47"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 21,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f1f9302c23b97",
+      "H": [
+        "0x1b71493366cefe1bb7d08794a0f5e64c9c11cf121af39080b3a7384a0e7241a3f7"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 21,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          14,
+          1
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c78826418e9",
+      "H": [
+        "0xb0cf9fac240c8a3448a348b0da9c6c0beb186d6cace96d37eb148ced2a086ddba"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 22,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0x1e4093f898dddf21f84d71a29b363f8b9ac940a3cb8306dc7483f21366f8f6c393"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 22,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0xa4751a2e26a7b37bfb37629e56e4fbeae71abe886c575be5035c13de386bc9b45"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 22,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d9dea80cf3344",
+      "H": [
+        "0xb69c840b553c5c0d120b051352e681ae867ce5f9101d7af4fe349bc969a05bba4"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 22,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          19,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee130012801869592982468f",
+      "H": [
+        "0x1411fe85118d59d93ee2906b9666ffb73ae40707836cf403a3cb77d38178c339e0"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 23,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0x197c8b0f150f4038fe73ee32f9da4b85f60bb4356a5a012ce11b7d77e4fdca26f4"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 23,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x915c43b0d97927893ff808b5edf937c4aa06cb7848e21efe42d24a4db0b2a6cfc"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 23,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b30c03bb20a9",
+      "H": [
+        "0x1faf04a412c72c8eeed797579c59f797bf41ce4aed54c9c5f43d22d404fb2a6b1c"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 23,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          22,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce01658b583b3e974",
+      "H": [
+        "0x19d41b241cf47dc85512b1875db10b5d7e85a8cd020a8180c51710c387091dd952"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 24,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0x1f687ad1ba790f93a3b794b24584db5a50f94d6e0685b8985b06d05f6a9b1274a7"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 24,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x3c77415fed861b2bcb58978911335de354886387cfa7ef51b2314be67ae0f1174"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 24,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f000d7d",
+      "H": [
+        "0x137244901dff277ca2344de954dcdab113d6a94698243b6cb11e888d4d68152e0c"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 24,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          23,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          25,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a1ec82efd50e",
+      "H": [
+        "0x1075fc9f27630477a3ee229ebd05251b2cf01f807759934a895db9600883359d71"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 25,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0xc5fc7aa1b90405ddb54bd6ce8cfbbd84d602741dc6a7ca7e3ec69c87990183a23"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 25,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0xd8d691e61d55eaf9f8f963317fedbd35ca18549e45cf9b14bc2fa2c4dc77cbe80"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 25,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x2b5974ee00cc008e5e12b5b86cb",
+      "H": [
+        "0x131515c606e8c1db692e6e48cb6f7f3baf5eaf000f3e3f3303b9b45649f1e55f2e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 25,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          26,
+          1
+        ],
+        [
+          27,
+          1
+        ],
+        [
+          28,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x185bbc72013e001b1c0800d9ed8",
+      "H": [
+        "0x9de5e7072826529902445ebef4b99b19b4a8408972ddfb186480f284acb97e88b"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 26,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0x13a3802ad21ea60843bf301e4279ae6761438467f988a693b56b9a84c2928cfb2e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 26,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x1cc6f2e9182427cefbbfcd79083e67e45962c68128fd659e172a34d80375adb3eb"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 26,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x105b179401aa0017c6c826599b9",
+      "H": [
+        "0xb6eb96afa3e5f970bbbaaf348b848bccf27289d16832e7ced2a3f18dac9fc950e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 26,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          31,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x135c37c801f200f190c82d23a2a",
+      "H": [
+        "0x1f08d930bb23bd56a472de1dfe7dbd7f52dac965c9583b8c2f5773c6e8b3cb27d5"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 27,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0xcca19cc0db3833f3a3421c4b2a2bb1eba4db7f45bad50ff93af097e3340c93d49"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 27,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x1497b2bab197a2633306149166b5c215a2040531d23dafd727ea40ad7bdbfedf2b"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 27,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x3b4ee13001280186c44a98b4723",
+      "H": [
+        "0x193957ba2e9337d98b40eb6a68db64752792a483ede375deb07224571dfeb1b981"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 27,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          33,
+          1
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xe03345a00ba00d98ea80ceb264",
+      "H": [
+        "0x1ed99846327c82e5453483f5faaa2d0b42c1f12b121f2145b14d31610346574457"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 28,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x2e8905f787a6f7842ebeb76994a68d2ac6e314bff063b803a43983901af0bd394"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 28,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0x1be708b0d67c262fd0eec441fd414c333088083afcda8f5a0e9a3a7c64c33f1a8d"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 28,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x648553000ce0165b2583bb69dc",
+      "H": [
+        "0x18d6c2f2b2ae5f96e5b983acc9f923242fa9842538ae3e8f4fccde9014ab4a14ef"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 28,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          35,
+          1
+        ],
+        [
+          36,
+          1
+        ],
+        [
+          37,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0xd4e57ba019c006b61c83b320fd",
+      "H": [
+        "0x7abb380e5e86708ca4e47815e7fdca486986ab4c1b5cd13100adea4a74058b661"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 29,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0xe0df4c1318325bce9505ae8a7e8550513e7f7696d5ab35802c38bcd32de1197e6"
+      ],
+      "columns": 627
+    },
+    {
+      "source": 1,
+      "target_diamond_translate": 29,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x1b2e597950a8260dfa0a39d8234e525642447bd9dd2c8b4210c271adfaebe3344e"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 29,
+      "convention": 1,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          5
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1dfe2322010c013a4eb82ee541e",
+      "H": [
+        "0xe9f86b607460a28b7377404eedc166c6b97e39e3960d7e1d86e3941d78f19b5f5"
+      ],
+      "columns": 627
+    },
+    {
+      "source": -1,
+      "target_diamond_translate": 29,
+      "convention": 2,
+      "positive_degree": 108,
+      "positive_conditions_width": 108,
+      "negative_conditions_width": 108,
+      "positive_support": [
+        [
+          1,
+          1
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          15,
+          1
+        ]
+      ],
+      "negative_support": [
+        [
+          2,
+          1
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          40,
+          1
+        ]
+      ],
+      "rank": 261,
+      "F": "0x1a201c60000e7f00057c",
+      "H": [
+        "0x174b57355efaac233c365416c8f6f8c2c3b54b61ca887324356c5490a191d53c50"
+      ],
+      "columns": 627
+    }
+  ],
+  "elapsed_seconds": 20.001321180956438
+}

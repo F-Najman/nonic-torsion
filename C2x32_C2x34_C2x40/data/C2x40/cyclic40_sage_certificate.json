@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "degree": 9,
+  "excluded_groups": [
+    [
+      2,
+      40
+    ],
+    [
+      1,
+      80
+    ]
+  ],
+  "target": "X1(40)",
+  "target_genus": 25,
+  "finite_Jacobian_order": 31579088486400,
+  "rational_image_index": 4592,
+  "supports": 27,
+  "cached_normalized_source_images": 27,
+  "normed_summands": 43,
+  "checked_forgetful_maps": 27,
+  "remaining": 0,
+  "all_cases_fail_first_map": true,
+  "cusp_complement_counts": [
+    1,
+    1,
+    5,
+    5
+  ]
+}

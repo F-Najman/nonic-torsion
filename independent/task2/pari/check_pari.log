@@ -1,0 +1,30 @@
+  *** elltors: Warning: increasing stack size to 16000000.
+  *** elltors: Warning: increasing stack size to 32000000.
+  *** elltors: Warning: increasing stack size to 64000000.
+  *** elltors: Warning: increasing stack size to 128000000.
+PARI entry 1 N=29 elltors=[29] P_order_ok=1 codex_triples: [[3, 3, 29, [29]]]
+PARI entry 2 N=31 elltors=[31] P_order_ok=1 codex_triples: [[53, 1, 62, [62, 62, 62]], [83, 1, 93, [93, 93, 93]]]
+PARI entry 3 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 3, 32, [32]]]
+PARI entry 4 N=32 elltors=[32] P_order_ok=1 codex_triples: [[11, 2, 128, [128]], [19, 2, 352, [352]]]
+PARI entry 5 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 3, 32, [32]]]
+PARI entry 6 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 3, 32, [32]]]
+PARI entry 7 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 4, 96, [96]], [3, 5, 224, [224]]]
+PARI entry 8 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 3, 32, [32]]]
+PARI entry 9 N=32 elltors=[32] P_order_ok=1 codex_triples: [[3, 3, 32, [32]]]
+PARI entry 10 N=32 elltors=[32] P_order_ok=1 codex_triples: [[5, 2, 32, [32]]]
+PARI entry 11 N=33 elltors=[33] P_order_ok=1 codex_triples: [[5, 2, 33, [33]]]
+PARI entry 12 N=34 elltors=[34] P_order_ok=1 codex_triples: [[11, 3, 1292, [1292]], [13, 4, 28594, [28594]]]
+PARI entry 13 N=34 elltors=[34] P_order_ok=1 codex_triples: [[5, 2, 34, [34]]]
+PARI entry 14 N=34 elltors=[34] P_order_ok=1 codex_triples: [[11, 3, 1292, [1292]], [13, 4, 28594, [28594]]]
+PARI entry 15 N=34 elltors=[34] P_order_ok=1 codex_triples: [[5, 2, 34, [34]]]
+PARI entry 16 N=39 elltors=[39] P_order_ok=1 codex_triples: [[13, 2, 156, [156, 156, 156]], [19, 3, 6981, [6981, 6981, 6981]]]
+PARI entry 17 N=40 elltors=[40] P_order_ok=1 codex_triples: [[3, 4, 80, [80]], [5, 3, 120, [120]]]
+PARI entry 18 N=42 elltors=[42] P_order_ok=1 codex_triples: [[37, 1, 42, [42, 42, 42]]]
+PARI entry 19 N=42 elltors=[42] P_order_ok=1 codex_triples: [[53, 1, 42, [42, 42, 42]]]
+PARI C2xC26 elltors=[26, 2] ord(0,0)=2 ord(b,b)=26
+  primes above 7 [f,e,#E]: [[2, 1, 52], [2, 1, 52], [2, 1, 52], [3, 1, 364]]
+  primes above 3 [f,e,#E]: [[9, 1, 19604]]
+  poly mod 3 factorization: [Mod(1, 3)*z^9 + Mod(2, 3)*z^8 + Mod(2, 3)*z^6 + Mod(1, 3)*z^5 + Mod(2, 3)*z^4 + Mod(2, 3)*z^3 + Mod(2, 3)*z^2 + Mod(1, 3)*z + Mod(1, 3)]
+  poly mod 7 factorization: [Mod(1, 7)*z^2 + Mod(4, 7), Mod(1, 7)*z^2 + Mod(3, 7)*z + Mod(6, 7), Mod(1, 7)*z^2 + Mod(4, 7)*z + Mod(5, 7), Mod(1, 7)*z^3 + Mod(5, 7)*z^2 + Mod(2, 7)*z + Mod(1, 7)]
+PARI_DONE
+exit 0

@@ -1,0 +1,7 @@
+Loading "work/degree9/cyclic/continuation_20261026/C44_canonical_ring/finite_functions_v2.m"
+Loading "work/degree9/cyclic/continuation_20261026/C44_canonical_ring/canonical_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C44_canonical_ring/native_control_inputs.m"
+Loading "work/degree9/cyclic/continuation_20261026/C44_pair_af_place_linear.m"
+NONIC44_UNTOUCHED_NATIVE5_CONTROL_PASS all6=true normalized_closed_divisor_agrees=true time=0.310
+NONIC44_NATIVE_RR_CONTROL_READY positive54=true negative54=true time=72.370
+NONIC44_NATIVE_RR_CONTROL_DONE dimension=0 no_class_cache=true time=73.120

@@ -1,0 +1,6 @@
+Loading "work/degree9/parallel_expansion_20261026/N65_f6/records.m"
+Loading "work/degree9/cyclic/continuation_20261026/C65_CM6/good_jets_engine.m"
+Loading "work/degree9/cyclic/continuation_20261026/C65_CM6/canonical_unit_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C65_CM6/explicit3_isogenies.m"
+NONIC65_CM6_GOOD_JETS_SOURCE case=6 index=1 target_degrees=[ 12, 12 ] norm_weights=[ 1, 1 ] unit_rank251=true genuine_tangent=true precision16=true time=6.520
+NONIC65_CM6_GOOD_JETS_COMPLETE case=6 time=6.530

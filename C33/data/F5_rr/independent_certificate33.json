@@ -1,0 +1,33 @@
+{
+  "complete": true,
+  "genus": 21,
+  "A_degree": 48,
+  "basis_dimension_by_Riemann_Roch": 28,
+  "independent_rational_coefficient_rank": 28,
+  "B_degrees": [
+    39,
+    39,
+    39,
+    39,
+    39,
+    39,
+    39,
+    39,
+    39,
+    39
+  ],
+  "independent_jet_ranks": [
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28,
+    28
+  ],
+  "all_ten_h0_zero": true,
+  "fresh_native_verifier_has_no_RR_or_class_search": true
+}

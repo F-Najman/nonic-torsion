@@ -1,0 +1,5 @@
+NONIC54_ORDINARY_COUNTS degree=6 all=9 supersingular=0 ordinary=9 time=0.180
+NONIC54_ORDINARY_COUNTS degree=7 all=9 supersingular=0 ordinary=9 time=0.210
+NONIC54_ORDINARY_COUNTS degree=8 all=18 supersingular=0 ordinary=18 time=0.270
+NONIC54_ORDINARY_COUNTS degree=9 all=91 supersingular=1 ordinary=90 time=0.430
+NONIC54_ORDINARY_COUNTS_DONE complete=true

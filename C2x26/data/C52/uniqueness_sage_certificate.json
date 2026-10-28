@@ -1,0 +1,19 @@
+{
+  "complete": true,
+  "degree": 9,
+  "explicit_modular_degree": 9,
+  "finite_surviving_orbit": 58,
+  "explicit_embeddings_checked": 9,
+  "automorphism_orbit_size": 12,
+  "source_rational_image_index": 350,
+  "last_two_class_memberships": [
+    [
+      21,
+      false
+    ],
+    [
+      58,
+      true
+    ]
+  ]
+}

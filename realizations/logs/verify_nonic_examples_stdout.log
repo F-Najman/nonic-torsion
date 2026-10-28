@@ -1,0 +1,202 @@
+Loading "work/degree9/realizations/inputs/vanhoeij_nonic_input.m"
+NONIC_EXACT_POINT index=1 N=29 field_degree=9 j_degree=9 rational_two_roots=0 torsion_lower=29 anticipated_invariants=[ 29 ] time=0.010
+NONIC_GOOD_REDUCTION index=1 p=3 residue_degree=3 order=29 gcd=29 time=0.020
+NONIC_TORSION_ORDER_BOUND index=1 N=29 lower=29 upper=29 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=1 invariants=[ 29 ] exact=true time=0.020
+NONIC_EXACT_POINT index=2 N=31 field_degree=9 j_degree=3 rational_two_roots=0 torsion_lower=31 anticipated_invariants=[ 31 ] time=0.020
+NONIC_GOOD_REDUCTION index=2 p=3 residue_degree=9 order=19964 gcd=19964 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=5 residue_degree=6 order=15376 gcd=124 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=11 residue_degree=2 order=124 gcd=124 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=11 residue_degree=2 order=124 gcd=124 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=11 residue_degree=2 order=124 gcd=124 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=11 residue_degree=3 order=1364 gcd=124 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=13 residue_degree=9 order=10604600838 gcd=62 time=0.020
+NONIC_GOOD_REDUCTION index=2 p=19 residue_degree=3 order=6696 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=19 residue_degree=6 order=47032704 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=37 residue_degree=2 order=1364 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=37 residue_degree=2 order=1364 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=37 residue_degree=2 order=1364 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=37 residue_degree=3 order=50220 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=43 residue_degree=2 order=1922 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=43 residue_degree=2 order=1922 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=43 residue_degree=2 order=1922 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=43 residue_degree=3 order=78988 gcd=62 time=0.030
+NONIC_GOOD_REDUCTION index=2 p=47 residue_degree=3 order=104160 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=47 residue_degree=3 order=104160 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=47 residue_degree=3 order=104160 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=53 residue_degree=1 order=62 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=53 residue_degree=1 order=62 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=53 residue_degree=1 order=62 gcd=62 time=0.040
+NONIC_GOOD_REDUCTION index=2 p=53 residue_degree=6 order=22164568976 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=59 residue_degree=3 order=206150 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=61 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=61 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=61 residue_degree=1 order=62 gcd=62 time=0.050
+NONIC_GOOD_REDUCTION index=2 p=61 residue_degree=6 order=51520049914 gcd=62 time=0.060
+NONIC_GOOD_REDUCTION index=2 p=67 residue_degree=3 order=301754 gcd=62 time=0.070
+NONIC_GOOD_REDUCTION index=2 p=67 residue_degree=6 order=90458714736 gcd=62 time=0.070
+NONIC_GOOD_REDUCTION index=2 p=79 residue_degree=3 order=492156 gcd=62 time=0.070
+NONIC_GOOD_REDUCTION index=2 p=79 residue_degree=6 order=243087124340 gcd=62 time=0.080
+NONIC_GOOD_REDUCTION index=2 p=83 residue_degree=1 order=93 gcd=31 time=0.080
+NONIC_TORSION_ORDER_BOUND index=2 N=31 lower=31 upper=31 primes_used=40
+NONIC_FULL_TORSION_CERTIFIED index=2 invariants=[ 31 ] exact=true time=0.080
+NONIC_EXACT_POINT index=3 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.080
+NONIC_GOOD_REDUCTION index=3 p=3 residue_degree=3 order=32 gcd=32 time=0.080
+NONIC_TORSION_ORDER_BOUND index=3 N=32 lower=32 upper=32 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=3 invariants=[ 32 ] exact=true time=0.080
+NONIC_EXACT_POINT index=4 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.080
+NONIC_GOOD_REDUCTION index=4 p=3 residue_degree=9 order=19712 gcd=19712 time=0.090
+NONIC_GOOD_REDUCTION index=4 p=5 residue_degree=9 order=1955712 gcd=1408 time=0.090
+NONIC_GOOD_REDUCTION index=4 p=7 residue_degree=9 order=40361856 gcd=128 time=0.090
+NONIC_GOOD_REDUCTION index=4 p=11 residue_degree=2 order=128 gcd=128 time=0.090
+NONIC_GOOD_REDUCTION index=4 p=11 residue_degree=7 order=19483776 gcd=128 time=0.090
+NONIC_GOOD_REDUCTION index=4 p=13 residue_degree=9 order=10604525440 gcd=128 time=0.100
+NONIC_GOOD_REDUCTION index=4 p=17 residue_degree=9 order=118587886592 gcd=128 time=0.100
+NONIC_GOOD_REDUCTION index=4 p=19 residue_degree=2 order=352 gcd=32 time=0.100
+NONIC_TORSION_ORDER_BOUND index=4 N=32 lower=32 upper=32 primes_used=8
+NONIC_FULL_TORSION_CERTIFIED index=4 invariants=[ 32 ] exact=true time=0.100
+NONIC_EXACT_POINT index=5 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.100
+NONIC_GOOD_REDUCTION index=5 p=3 residue_degree=3 order=32 gcd=32 time=0.100
+NONIC_TORSION_ORDER_BOUND index=5 N=32 lower=32 upper=32 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=5 invariants=[ 32 ] exact=true time=0.100
+NONIC_EXACT_POINT index=6 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.110
+NONIC_GOOD_REDUCTION index=6 p=3 residue_degree=3 order=32 gcd=32 time=0.110
+NONIC_TORSION_ORDER_BOUND index=6 N=32 lower=32 upper=32 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=6 invariants=[ 32 ] exact=true time=0.110
+NONIC_EXACT_POINT index=7 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.110
+NONIC_GOOD_REDUCTION index=7 p=3 residue_degree=4 order=96 gcd=96 time=0.110
+NONIC_GOOD_REDUCTION index=7 p=3 residue_degree=5 order=224 gcd=32 time=0.120
+NONIC_TORSION_ORDER_BOUND index=7 N=32 lower=32 upper=32 primes_used=2
+NONIC_FULL_TORSION_CERTIFIED index=7 invariants=[ 32 ] exact=true time=0.120
+NONIC_EXACT_POINT index=8 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.120
+NONIC_GOOD_REDUCTION index=8 p=3 residue_degree=3 order=32 gcd=32 time=0.120
+NONIC_TORSION_ORDER_BOUND index=8 N=32 lower=32 upper=32 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=8 invariants=[ 32 ] exact=true time=0.120
+NONIC_EXACT_POINT index=9 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.130
+NONIC_GOOD_REDUCTION index=9 p=3 residue_degree=3 order=32 gcd=32 time=0.130
+NONIC_TORSION_ORDER_BOUND index=9 N=32 lower=32 upper=32 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=9 invariants=[ 32 ] exact=true time=0.130
+NONIC_EXACT_POINT index=10 N=32 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=32 anticipated_invariants=[ 32 ] time=0.130
+NONIC_GOOD_REDUCTION index=10 p=3 residue_degree=9 order=19776 gcd=19776 time=0.130
+NONIC_GOOD_REDUCTION index=10 p=5 residue_degree=2 order=32 gcd=32 time=0.130
+NONIC_TORSION_ORDER_BOUND index=10 N=32 lower=32 upper=32 primes_used=2
+NONIC_FULL_TORSION_CERTIFIED index=10 invariants=[ 32 ] exact=true time=0.130
+NONIC_EXACT_POINT index=11 N=33 field_degree=9 j_degree=9 rational_two_roots=0 torsion_lower=33 anticipated_invariants=[ 33 ] time=0.140
+NONIC_GOOD_REDUCTION index=11 p=5 residue_degree=2 order=33 gcd=33 time=0.140
+NONIC_TORSION_ORDER_BOUND index=11 N=33 lower=33 upper=33 primes_used=1
+NONIC_FULL_TORSION_CERTIFIED index=11 invariants=[ 33 ] exact=true time=0.140
+NONIC_EXACT_POINT index=12 N=34 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.140
+NONIC_GOOD_REDUCTION index=12 p=3 residue_degree=9 order=19652 gcd=19652 time=0.140
+NONIC_GOOD_REDUCTION index=12 p=5 residue_degree=9 order=1955340 gcd=68 time=0.140
+NONIC_GOOD_REDUCTION index=12 p=7 residue_degree=9 order=40360176 gcd=68 time=0.150
+NONIC_GOOD_REDUCTION index=12 p=11 residue_degree=3 order=1292 gcd=68 time=0.150
+NONIC_GOOD_REDUCTION index=12 p=11 residue_degree=6 order=1769904 gcd=68 time=0.150
+NONIC_GOOD_REDUCTION index=12 p=13 residue_degree=4 order=28594 gcd=34 time=0.150
+NONIC_TORSION_ORDER_BOUND index=12 N=34 lower=34 upper=34 primes_used=6
+NONIC_FULL_TORSION_CERTIFIED index=12 invariants=[ 34 ] exact=true time=0.150
+NONIC_EXACT_POINT index=13 N=34 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.150
+NONIC_GOOD_REDUCTION index=13 p=3 residue_degree=4 order=68 gcd=68 time=0.150
+NONIC_GOOD_REDUCTION index=13 p=3 residue_degree=5 order=272 gcd=68 time=0.160
+NONIC_GOOD_REDUCTION index=13 p=5 residue_degree=2 order=34 gcd=34 time=0.160
+NONIC_TORSION_ORDER_BOUND index=13 N=34 lower=34 upper=34 primes_used=3
+NONIC_FULL_TORSION_CERTIFIED index=13 invariants=[ 34 ] exact=true time=0.160
+NONIC_EXACT_POINT index=14 N=34 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.160
+NONIC_GOOD_REDUCTION index=14 p=3 residue_degree=9 order=19652 gcd=19652 time=0.160
+NONIC_GOOD_REDUCTION index=14 p=5 residue_degree=9 order=1955340 gcd=68 time=0.160
+NONIC_GOOD_REDUCTION index=14 p=7 residue_degree=9 order=40360176 gcd=68 time=0.160
+NONIC_GOOD_REDUCTION index=14 p=11 residue_degree=3 order=1292 gcd=68 time=0.160
+NONIC_GOOD_REDUCTION index=14 p=11 residue_degree=6 order=1769904 gcd=68 time=0.170
+NONIC_GOOD_REDUCTION index=14 p=13 residue_degree=4 order=28594 gcd=34 time=0.170
+NONIC_TORSION_ORDER_BOUND index=14 N=34 lower=34 upper=34 primes_used=6
+NONIC_FULL_TORSION_CERTIFIED index=14 invariants=[ 34 ] exact=true time=0.170
+NONIC_EXACT_POINT index=15 N=34 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.170
+NONIC_GOOD_REDUCTION index=15 p=3 residue_degree=4 order=68 gcd=68 time=0.170
+NONIC_GOOD_REDUCTION index=15 p=3 residue_degree=5 order=272 gcd=68 time=0.170
+NONIC_GOOD_REDUCTION index=15 p=5 residue_degree=2 order=34 gcd=34 time=0.170
+NONIC_TORSION_ORDER_BOUND index=15 N=34 lower=34 upper=34 primes_used=3
+NONIC_FULL_TORSION_CERTIFIED index=15 invariants=[ 34 ] exact=true time=0.170
+NONIC_EXACT_POINT index=16 N=39 field_degree=9 j_degree=3 rational_two_roots=0 torsion_lower=39 anticipated_invariants=[ 39 ] time=0.180
+NONIC_GOOD_REDUCTION index=16 p=5 residue_degree=9 order=1951092 gcd=1951092 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=7 residue_degree=9 order=40349556 gcd=468 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=11 residue_degree=3 order=1404 gcd=468 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=11 residue_degree=6 order=1773954 gcd=234 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=13 residue_degree=2 order=156 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=13 residue_degree=2 order=156 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=13 residue_degree=2 order=156 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=13 residue_degree=3 order=2106 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=17 residue_degree=3 order=4914 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=17 residue_degree=6 order=24147396 gcd=78 time=0.180
+NONIC_GOOD_REDUCTION index=16 p=19 residue_degree=3 order=6981 gcd=39 time=0.190
+NONIC_TORSION_ORDER_BOUND index=16 N=39 lower=39 upper=39 primes_used=11
+NONIC_FULL_TORSION_CERTIFIED index=16 invariants=[ 39 ] exact=true time=0.190
+NONIC_EXACT_POINT index=17 N=40 field_degree=9 j_degree=9 rational_two_roots=1 torsion_lower=40 anticipated_invariants=[ 40 ] time=0.190
+NONIC_GOOD_REDUCTION index=17 p=3 residue_degree=4 order=80 gcd=80 time=0.190
+NONIC_GOOD_REDUCTION index=17 p=3 residue_degree=5 order=240 gcd=80 time=0.190
+NONIC_GOOD_REDUCTION index=17 p=5 residue_degree=3 order=120 gcd=40 time=0.190
+NONIC_TORSION_ORDER_BOUND index=17 N=40 lower=40 upper=40 primes_used=3
+NONIC_FULL_TORSION_CERTIFIED index=17 invariants=[ 40 ] exact=true time=0.190
+NONIC_EXACT_POINT index=18 N=42 field_degree=9 j_degree=1 rational_two_roots=1 torsion_lower=42 anticipated_invariants=[ 42 ] time=0.200
+NONIC_GOOD_REDUCTION index=18 p=5 residue_degree=3 order=126 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=5 residue_degree=6 order=15876 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=7 residue_degree=3 order=378 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=7 residue_degree=6 order=117180 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=11 residue_degree=3 order=1260 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=11 residue_degree=3 order=1260 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=11 residue_degree=3 order=1260 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=13 residue_degree=3 order=2268 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=13 residue_degree=6 order=4826304 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=17 residue_degree=3 order=4788 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=17 residue_degree=3 order=4788 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=17 residue_degree=3 order=4788 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=19 residue_degree=3 order=6804 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=19 residue_degree=3 order=6804 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=19 residue_degree=3 order=6804 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=23 residue_degree=3 order=11970 gcd=126 time=0.200
+NONIC_GOOD_REDUCTION index=18 p=23 residue_degree=6 order=148021020 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=18 p=29 residue_degree=3 order=24696 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=18 p=29 residue_degree=6 order=594778464 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=18 p=31 residue_degree=3 order=29484 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=18 p=31 residue_degree=6 order=887468400 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=18 p=37 residue_degree=1 order=42 gcd=42 time=0.210
+NONIC_TORSION_ORDER_BOUND index=18 N=42 lower=42 upper=42 primes_used=22
+NONIC_FULL_TORSION_CERTIFIED index=18 invariants=[ 42 ] exact=true time=0.210
+NONIC_EXACT_POINT index=19 N=42 field_degree=9 j_degree=3 rational_two_roots=1 torsion_lower=42 anticipated_invariants=[ 42 ] time=0.210
+NONIC_GOOD_REDUCTION index=19 p=5 residue_degree=3 order=126 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=19 p=5 residue_degree=6 order=15876 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=19 p=7 residue_degree=3 order=378 gcd=126 time=0.210
+NONIC_GOOD_REDUCTION index=19 p=7 residue_degree=6 order=117180 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=11 residue_degree=3 order=1260 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=11 residue_degree=3 order=1260 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=11 residue_degree=3 order=1260 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=13 residue_degree=3 order=2268 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=13 residue_degree=6 order=4826304 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=17 residue_degree=3 order=4788 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=17 residue_degree=3 order=4788 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=17 residue_degree=3 order=4788 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=19 residue_degree=3 order=6804 gcd=126 time=0.220
+NONIC_GOOD_REDUCTION index=19 p=19 residue_degree=3 order=6804 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=19 residue_degree=3 order=6804 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=23 residue_degree=3 order=11970 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=23 residue_degree=6 order=148021020 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=29 residue_degree=3 order=24696 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=29 residue_degree=6 order=594778464 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=31 residue_degree=3 order=29484 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=31 residue_degree=6 order=887468400 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=41 residue_degree=3 order=69300 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=41 residue_degree=3 order=69300 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=41 residue_degree=3 order=69300 gcd=126 time=0.230
+NONIC_GOOD_REDUCTION index=19 p=43 residue_degree=3 order=79380 gcd=126 time=0.240
+NONIC_GOOD_REDUCTION index=19 p=43 residue_degree=3 order=79380 gcd=126 time=0.240
+NONIC_GOOD_REDUCTION index=19 p=43 residue_degree=3 order=79380 gcd=126 time=0.240
+NONIC_GOOD_REDUCTION index=19 p=47 residue_degree=3 order=103194 gcd=126 time=0.240
+NONIC_GOOD_REDUCTION index=19 p=47 residue_degree=6 order=10779026076 gcd=126 time=0.240
+NONIC_GOOD_REDUCTION index=19 p=53 residue_degree=1 order=42 gcd=42 time=0.240
+NONIC_TORSION_ORDER_BOUND index=19 N=42 lower=42 upper=42 primes_used=30
+NONIC_FULL_TORSION_CERTIFIED index=19 invariants=[ 42 ] exact=true time=0.240
+NONIC_VANHOEIJ_EXAMPLES_DONE count=19 complete=true time=0.240

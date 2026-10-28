@@ -1,0 +1,7 @@
+NONIC_NATIVE_CONTROL_INPUT N=46 p=3 degree=9 totalNC9=1958 time=106.640
+NONIC_NATIVE_HECKE_EQUAL N=46 q=5 degree=54 principal=false time=190.160
+NONIC_NATIVE_CONTROL_INPUT N=50 p=3 degree=6 totalNC9=60 time=294.010
+NONIC_NATIVE_HECKE_EQUAL N=50 q=7 degree=48 principal=false time=416.880
+NONIC_NATIVE_CONTROL_INPUT N=51 p=2 degree=9 totalNC9=80 time=553.650
+NONIC_NATIVE_HECKE_EQUAL N=51 q=5 degree=54 principal=false time=796.570
+NONIC_NATIVE_CONTROLS_COMPLETE levels=46,50,51 source_degrees=9,6,9

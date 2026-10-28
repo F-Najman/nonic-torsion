@@ -1,0 +1,52 @@
+{
+  "complete": true,
+  "level": 65,
+  "prime": 2,
+  "genus": 121,
+  "canonical_q_precision": 1100,
+  "weight4_Sturm_bound": 672,
+  "ring_dimensions": [
+    121,
+    360
+  ],
+  "all_ordered_R1_products": 14641,
+  "all_symmetric_R1_products": 7381,
+  "all_q_product_identities_exact": true,
+  "source_basis_sha256": "56ac8b30694c4db9a649709db1c2c8bf3e06ec09f9966e55451f9ac95167c352",
+  "nonprincipal_divisors": [
+    {
+      "source_degree": 6,
+      "variant": 1,
+      "necessary_point_variant": true,
+      "positive_degree": 36,
+      "negative_degree": 36,
+      "positive_vanishing_rank": 36,
+      "negative_vanishing_rank": 36,
+      "multiplication_by_F_rank": 121,
+      "final_criterion_rank": 121,
+      "H_sections": 1
+    },
+    {
+      "source_degree": 6,
+      "variant": 2,
+      "necessary_point_variant": false,
+      "positive_degree": 36,
+      "negative_degree": 36,
+      "positive_vanishing_rank": 36,
+      "negative_vanishing_rank": 36,
+      "multiplication_by_F_rank": 121,
+      "final_criterion_rank": 121,
+      "H_sections": 1
+    }
+  ],
+  "necessary_point_coefficients": [
+    1,
+    2,
+    -3
+  ],
+  "extra_diagnostic_coefficients": [
+    3,
+    -2,
+    -1
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "complete": true,
+  "rational_parameter_identity": true,
+  "prime": 5,
+  "genus": 17,
+  "source_orbit": 8,
+  "quotient_closed_degree": 3,
+  "independent_checked_11_isogenies": 12,
+  "finite_integral_basis_discriminant_degree": 44,
+  "infinite_integral_basis_discriminant_valuation": 4,
+  "finite_ideal_norm_index": 288,
+  "ordinary_zero_jet_orders": [
+    1,
+    11
+  ],
+  "independent_RR_dimension": 0,
+  "popov_rowdegrees": [
+    248,
+    249,
+    248,
+    248,
+    248,
+    248,
+    248,
+    247
+  ],
+  "popov_denominator_degree": 245
+}

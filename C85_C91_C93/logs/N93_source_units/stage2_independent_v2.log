@@ -1,0 +1,2 @@
+NONIC93_JET_REPLAY_SOURCE 1 all_four_families_valid=true
+NONIC93_ELLIPTIC_HECKE_JETS_INDEPENDENT_PASS {'status': 'PASS', 'sources': 1, 'ordinary93_torsion_families': 4, 'precision': 5, 'unit_relations': [162, 157], 'all_finite_unit_ranks': 260, 'all_psi93_derivatives_nonzero': True, 'all_canonical_tangents_nonzero': True, 'independent_Sage_5_isogenies': 6, 'actual_level_transport_Frobenius_keys_match': True, 'native_data_sha256': 'b4c0057cdbad9739db5791c593724f48eda04e2f79380346e2e6e298c1079b31'}

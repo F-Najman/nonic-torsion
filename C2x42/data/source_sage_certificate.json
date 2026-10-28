@@ -1,0 +1,33 @@
+{
+  "complete": true,
+  "degree": 9,
+  "prime": 5,
+  "source_genus": 61,
+  "closed_place_counts": [
+    0,
+    0,
+    0,
+    126,
+    648,
+    2080,
+    11376,
+    48816,
+    211776
+  ],
+  "cusp_signature": {
+    "1": 18,
+    "2": 9,
+    "3": 6,
+    "6": 3
+  },
+  "full_orbit_counts": [
+    5,
+    18,
+    64,
+    316,
+    1372,
+    5888
+  ],
+  "pure_orbits": 7663,
+  "full_action_order": 36
+}

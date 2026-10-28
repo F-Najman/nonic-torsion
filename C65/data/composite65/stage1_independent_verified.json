@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "canonical_genus": 121,
+  "q_precision": 1100,
+  "Sturm_weight2": 336,
+  "canonical_basis_rank": 121,
+  "unit_relations": [
+    69,
+    68
+  ],
+  "direct_cusp_pole_bounds": [
+    53,
+    54
+  ],
+  "global_relation_section_degree_bounds": [
+    293,
+    294
+  ],
+  "global_zero_order_lower_bound": 1098,
+  "diamond_orders": [
+    6,
+    12
+  ],
+  "global_point_diamonds2_3_inverse": true,
+  "global_diamond_zero_orders": [
+    1097,
+    1097,
+    1096,
+    1096
+  ],
+  "native_data_sha256": "56ac8b30694c4db9a649709db1c2c8bf3e06ec09f9966e55451f9ac95167c352"
+}

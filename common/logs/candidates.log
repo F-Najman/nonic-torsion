@@ -1,0 +1,15 @@
+Phi(9): COMPLETE
+Known occurring groups: 51
+Prime universe: primes <= 89
+Minimal obstructions: 94
+Excluded minimal obstructions: 94
+Remaining minimal obstructions: 0
+
+Known occurring groups:
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C36, C39, C40, C42, C2 x C2, C2 x C4, C2 x C6, C2 x C8, C2 x C10, C2 x C12, C2 x C14, C2 x C16, C2 x C18, C2 x C20, C2 x C22, C2 x C24, C2 x C26
+
+Remaining minimal obstructions:
+None
+
+All minimal obstructions are excluded; the displayed51 groups give the complete classification.
+NONIC_CANDIDATE_AUDIT_PASS

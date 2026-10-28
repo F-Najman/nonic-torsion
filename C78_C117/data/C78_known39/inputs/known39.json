@@ -1,0 +1,38 @@
+{
+  "source_file": "work/degree9/realizations/inputs/vanhoeij_nonic_input.json",
+  "source_sha256": "fed7f3544fbea4b88cebdfb9996bec5549de4a499dfefc81960378254a1f8ce5",
+  "source_original": "https://www.math.fsu.edu/~hoeij/files/X1N/LowDegreePlaces",
+  "example": {
+    "index": 16,
+    "N": 39,
+    "source_line": 171,
+    "source_text": "N = 39, degv = 9, degj = 3, [x^9-5*x^8+8*x^7-10*x^5+4*x^4+4*x^2-4*x+1 = 0, 3*y+7*x^8-33*x^7+46*x^6+15*x^5-67*x^4+7*x^3+2*x^2+29*x-18 = 0]",
+    "f": [
+      "1",
+      "-4",
+      "4",
+      "0",
+      "4",
+      "-10",
+      "0",
+      "8",
+      "-5",
+      "1"
+    ],
+    "x": [
+      "0",
+      "1"
+    ],
+    "y": [
+      "6",
+      "-29/3",
+      "-2/3",
+      "-7/3",
+      "67/3",
+      "-5",
+      "-46/3",
+      "11",
+      "-7/3"
+    ]
+  }
+}

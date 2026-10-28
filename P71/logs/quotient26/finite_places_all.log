@@ -1,0 +1,11 @@
+Loading "work/degree9/prime_orders/continued_20261026/P71/quotient26/finite_common.m"
+Loading "work/degree9/prime_orders/continued_20261026/P71/quotient26/plane_model_certified_data.m"
+NONIC71_LOW_DEGREE_MODEL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P71/quotient26/isogeny3_target_data.m"
+NONIC71_NATIVE3_TARGET_DATA_READY
+NONIC71_JBASE_RELATION_CERTIFIED degree_j=19 degree_parameter=360 exact_field_identity=true time=68.990
+NONIC71_SOURCE_PLACES_COMPLETE places=10 sigma_orbits=2 j_multiplicities=[5,5] both_eigenlines_if_applicable=true time=72.270
+NONIC71_TARGET_PLACES_COMPLETE fiber=1 degree=28 places=5 finite_base_values=5 infinity_checked=true all_target_places_included=true time=75.230
+NONIC71_TARGET_PLACES_COMPLETE fiber=2 degree=16 places=5 finite_base_values=5 infinity_checked=true all_target_places_included=true time=77.860
+NONIC71_TARGET_PLACES_COMPLETE fiber=3 degree=16 places=5 finite_base_values=5 infinity_checked=true all_target_places_included=true time=80.490
+NONIC71_FINITE_PLACES_ALL_COMPLETE

@@ -1,0 +1,7 @@
+FACTOR M=29 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=true
+FACTOR M=29 chi_order=14 chi_cond=29 degQchi=6 dim=2 absdim=12 mult=1 winding_full=true
+FACTOR M=29 chi_order=7 chi_cond=29 degQchi=6 dim=1 absdim=6 mult=1 winding_full=true
+FACTOR M=29 chi_order=2 chi_cond=29 degQchi=1 dim=2 absdim=2 mult=1 winding_full=true
+GENUS_GAMMA1 22
+SUMMARY Kind=J1 N=29 weighted_dim=22 genus=22 allfull=true time=0.080
+RANKCHECK_DONE

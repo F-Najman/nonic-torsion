@@ -1,0 +1,5 @@
+Loading "work/degree9/cyclic/continuation_20261026/C87_quotient33/canonical_data.m"
+NONIC87_PLANE_PROJECTION orders=[ 32, 33, 36 ] maxdegree=33 separable=true time=6.850
+NONIC87_PLANE_EQUATION_READY degree=32 time=23.460
+NONIC87_PLANE_NORMALIZATION_READY genus=33 AFdegree=31 time=51.030
+NONIC87_QUOTIENT_PLANE_CERTIFIED genus33=true all465canonical_quadrics=true inverse_projection=true time=273.050

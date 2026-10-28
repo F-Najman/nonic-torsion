@@ -1,0 +1,22 @@
+{
+  "case_count": 696,
+  "sources": [
+    {
+      "path": "class9_shard0/results.py",
+      "sha256": "321140eae4319db951bd9d1d252863e13d8e503e8caa9048d70a85b37245147a"
+    },
+    {
+      "path": "class9_shard0/identities.log.witnesses.py",
+      "sha256": "e3ac60cb74517a4c697493c697245d37d88755dd83274c03d38c72dda396413e"
+    },
+    {
+      "path": "class9_shard1/results.py",
+      "sha256": "0043c2c85345d6e1cbd366bf2ee205738e6c089879196b7a78f48556d47293bc"
+    },
+    {
+      "path": "class9_shard1/identities.log.witnesses.py",
+      "sha256": "143bf325d9bca00868b4c8b46a6c76988f3e9348b0bceac4adc98d5fd9b9f7e7"
+    }
+  ],
+  "all_class_rows_exactly_matched_to_actual_RR_witnesses": true
+}

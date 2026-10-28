@@ -1,0 +1,19 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    841
+  ],
+  "files": {
+    "certificate841.json": "d530067b584d0040ef04af6e2af259b0020ed5f3032f9be158903db1804dd823",
+    "certify841.py": "2446b5ff6355191089652f6ba6ddc1c78a66cfcf0ee7a35c6b66eecd5a011a8a",
+    "check841.log": "644db79f934f486d800ed3ce68395f8a043706b9ca0e40b10ec2ef7518719c6d",
+    "check841.m": "89b676203ec000a4a8c7cb6066ec5aaedad0fbfdf7681f59562bf3d51206f78c",
+    "dcm_list_all_min_orders_X1_10k.m": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc",
+    "exclusion841.tex": "4cf669ddb21ab3410d7777f838bd415a775ca8aa712d56f6421e6d6987f72887",
+    "krylov_N841_chi2_order406.json": "0f52bc32ea2109f6fa10ea4c31bcdf6534d56ba8d31f2e3b4d51ba2f49e3acbd",
+    "krylov_N841_chi3_order203.json": "b047952120463d17ea12ffea5e6733ee9f519794c3882de0c21eec29146fe409",
+    "winding841_fast.log": "24ba66d3040fe95d5dde87e8b3acdc44e3f5fadfa9acd33b4c22298646b741a1",
+    "winding_probe_krylov.m": "da020889a8489e545f018f02d94a9b5a319304e8a199ae25dc0b0e4f99ea5d01"
+  }
+}

@@ -1,0 +1,33 @@
+SOURCE_UNIT_START level=91 genus=265 precision=1800 diamonds=[ 2, 3 ] time=0.370
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=1 accumulated_with_old_degeneracies=1 time=0.630
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=1 accumulated_with_old_degeneracies=2 time=0.880
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=4 time=1.240
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=13 dimension=1 accumulated_with_old_degeneracies=8 time=1.570
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=10 time=1.930
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=12 time=2.290
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=14 time=2.560
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=16 time=2.930
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=2 accumulated_with_old_degeneracies=18 time=3.300
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=3 accumulated_with_old_degeneracies=21 time=3.330
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=4 accumulated_with_old_degeneracies=25 time=3.720
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=4 accumulated_with_old_degeneracies=29 time=3.770
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=4 accumulated_with_old_degeneracies=33 time=3.820
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=6 accumulated_with_old_degeneracies=39 time=4.100
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=8 accumulated_with_old_degeneracies=47 time=4.180
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=10 accumulated_with_old_degeneracies=57 time=4.260
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=69 time=4.720
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=81 time=4.810
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=93 time=4.910
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=105 time=5.350
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=117 time=5.790
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=12 accumulated_with_old_degeneracies=129 time=6.230
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=16 accumulated_with_old_degeneracies=145 time=6.690
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=28 accumulated_with_old_degeneracies=173 time=7.190
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=28 accumulated_with_old_degeneracies=201 time=7.700
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=32 accumulated_with_old_degeneracies=233 time=8.500
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=91 dimension=32 accumulated_with_old_degeneracies=265 time=9.040
+SOURCE_UNIT_SATURATION level=91 genus=265 rank=265 exact_Q_span=true time=30.260
+SOURCE_UNIT_RELATIONS level=91 genus=265 x=160 y=156 vanishing_precision=1799 time=32.760
+Loading "work/degree9/parallel_expansion_20261026/N91_f9/records.m"
+SOURCE_UNIT_SAMPLE level=91 rank=264 expected=264 time=32.800
+SOURCE_UNIT_COMPLETE level=91 genus=265 sample_recovery=true time=32.840

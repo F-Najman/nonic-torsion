@@ -1,0 +1,7 @@
+CHECK_PASS verify_q_identities_complete.py
+CHECK_PASS verify_winding.py
+CHECK_PASS verify_finite_keys_jv.py
+CHECK_PASS verify_canonical_ring_tensor_readonly.py
+CHECK_PASS verify_small_multiplication_certificate_readonly.py
+CHECK_PASS verify_small_ranks_m4ri.py
+NONIC89_COMPLETE_READONLY_CERTIFICATE_PASS {"binary_matrices": 96, "claim": "C89 excluded over every degree9 field", "elapsed_seconds": 18.79321472090669, "files": 305, "manifest_sha256": "e8124e81d7fedb73ea719ca6f83d057c592a85bf07acf7322b21d32b9ca25a59", "matrix_shape": [130, 264], "native_exits_zero": 15, "rank": 130}

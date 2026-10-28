@@ -1,0 +1,10 @@
+NONIC51_MODEL genus=65 time=140.190
+NONIC51_CUSPS_DONE rational=16 time=323.300
+NONIC51_PURE9_CUSP_CONTROL rank=9 covered=16 dimensionU=62 time=1507.230
+NONIC51_GOOD9_SETUP all_places=80 representatives=5 time=1512.990
+NONIC51_GOOD9_CASE index=1 q=5 principal=false time=1656.950
+NONIC51_GOOD9_CASE index=2 q=5 principal=false time=1700.640
+NONIC51_GOOD9_CASE index=3 q=5 principal=false time=1759.840
+NONIC51_GOOD9_CASE index=4 q=5 principal=false time=1809.030
+NONIC51_GOOD9_CASE index=5 q=5 principal=false time=1872.490
+NONIC51_GOOD9_AND_PURE9_DONE all_places=80 representatives=5 complete=true time=1872.620

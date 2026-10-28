@@ -1,0 +1,67 @@
+Loading "work/degree9/realizations/continuation/C48/retained/pair_af_place_linear.m"
+Loading "work/degree9/realizations/continuation/C48/hecke7_0/inputs.m"
+NONIC48_HEC7_INPUT case=1 kernel_orbits=1 time=34.420
+NONIC48_HEC7_IMAGE case=1 kernel_orbit=8 image_degree=72 weight=1 time=43.500
+NONIC48_HEC7_RR_START case=1 time=45.640
+NONIC48_HEC7_CASE_DONE case=1 h0=0 time=46.930
+NONIC48_HEC7_INPUT case=2 kernel_orbits=1 time=49.100
+NONIC48_HEC7_IMAGE case=2 kernel_orbit=8 image_degree=72 weight=1 time=58.170
+NONIC48_HEC7_RR_START case=2 time=59.330
+NONIC48_HEC7_CASE_DONE case=2 h0=0 time=60.170
+NONIC48_HEC7_INPUT case=3 kernel_orbits=1 time=61.330
+NONIC48_HEC7_IMAGE case=3 kernel_orbit=8 image_degree=72 weight=1 time=67.040
+NONIC48_HEC7_RR_START case=3 time=68.290
+NONIC48_HEC7_CASE_DONE case=3 h0=0 time=69.100
+NONIC48_HEC7_INPUT case=4 kernel_orbits=1 time=70.300
+NONIC48_HEC7_IMAGE case=4 kernel_orbit=8 image_degree=72 weight=1 time=74.820
+NONIC48_HEC7_RR_START case=4 time=76.080
+NONIC48_HEC7_CASE_DONE case=4 h0=0 time=76.900
+NONIC48_HEC7_INPUT case=5 kernel_orbits=5 time=78.100
+NONIC48_HEC7_IMAGE case=5 kernel_orbit=1 image_degree=9 weight=1 time=79.330
+NONIC48_HEC7_IMAGE case=5 kernel_orbit=1 image_degree=9 weight=1 time=80.560
+NONIC48_HEC7_IMAGE case=5 kernel_orbit=2 image_degree=18 weight=1 time=82.200
+NONIC48_HEC7_IMAGE case=5 kernel_orbit=2 image_degree=18 weight=1 time=83.900
+NONIC48_HEC7_IMAGE case=5 kernel_orbit=2 image_degree=18 weight=1 time=86.240
+NONIC48_HEC7_RR_START case=5 time=88.230
+NONIC48_HEC7_CASE_DONE case=5 h0=0 time=90.320
+NONIC48_HEC7_INPUT case=6 kernel_orbits=5 time=92.360
+NONIC48_HEC7_IMAGE case=6 kernel_orbit=1 image_degree=9 weight=1 time=94.510
+NONIC48_HEC7_IMAGE case=6 kernel_orbit=1 image_degree=9 weight=1 time=96.650
+NONIC48_HEC7_IMAGE case=6 kernel_orbit=2 image_degree=18 weight=1 time=99.360
+NONIC48_HEC7_IMAGE case=6 kernel_orbit=2 image_degree=18 weight=1 time=102.110
+NONIC48_HEC7_IMAGE case=6 kernel_orbit=2 image_degree=18 weight=1 time=104.810
+NONIC48_HEC7_RR_START case=6 time=106.920
+NONIC48_HEC7_CASE_DONE case=6 h0=0 time=109.010
+NONIC48_HEC7_INPUT case=7 kernel_orbits=1 time=111.160
+NONIC48_HEC7_IMAGE case=7 kernel_orbit=8 image_degree=72 weight=1 time=120.230
+NONIC48_HEC7_RR_START case=7 time=121.750
+NONIC48_HEC7_CASE_DONE case=7 h0=0 time=122.570
+NONIC48_HEC7_INPUT case=8 kernel_orbits=1 time=123.900
+NONIC48_HEC7_IMAGE case=8 kernel_orbit=8 image_degree=72 weight=1 time=128.390
+NONIC48_HEC7_RR_START case=8 time=129.650
+NONIC48_HEC7_CASE_DONE case=8 h0=0 time=130.490
+NONIC48_HEC7_INPUT case=9 kernel_orbits=3 time=131.640
+NONIC48_HEC7_IMAGE case=9 kernel_orbit=1 image_degree=9 weight=1 time=132.860
+NONIC48_HEC7_IMAGE case=9 kernel_orbit=1 image_degree=9 weight=1 time=134.000
+NONIC48_HEC7_IMAGE case=9 kernel_orbit=6 image_degree=54 weight=1 time=138.000
+NONIC48_HEC7_RR_START case=9 time=139.220
+NONIC48_HEC7_CASE_DONE case=9 h0=0 time=140.790
+NONIC48_HEC7_INPUT case=10 kernel_orbits=3 time=142.890
+NONIC48_HEC7_IMAGE case=10 kernel_orbit=1 image_degree=9 weight=1 time=145.020
+NONIC48_HEC7_IMAGE case=10 kernel_orbit=1 image_degree=9 weight=1 time=146.910
+NONIC48_HEC7_IMAGE case=10 kernel_orbit=6 image_degree=54 weight=1 time=152.370
+NONIC48_HEC7_RR_START case=10 time=154.500
+NONIC48_HEC7_CASE_DONE case=10 h0=0 time=156.070
+NONIC48_HEC7_INPUT case=11 kernel_orbits=3 time=158.300
+NONIC48_HEC7_IMAGE case=11 kernel_orbit=1 image_degree=9 weight=1 time=160.210
+NONIC48_HEC7_IMAGE case=11 kernel_orbit=1 image_degree=9 weight=1 time=162.420
+NONIC48_HEC7_IMAGE case=11 kernel_orbit=6 image_degree=54 weight=1 time=169.540
+NONIC48_HEC7_RR_START case=11 time=171.500
+NONIC48_HEC7_CASE_DONE case=11 h0=0 time=173.060
+NONIC48_HEC7_INPUT case=12 kernel_orbits=3 time=175.180
+NONIC48_HEC7_IMAGE case=12 kernel_orbit=1 image_degree=9 weight=1 time=177.340
+NONIC48_HEC7_IMAGE case=12 kernel_orbit=1 image_degree=9 weight=1 time=179.420
+NONIC48_HEC7_IMAGE case=12 kernel_orbit=6 image_degree=54 weight=1 time=186.300
+NONIC48_HEC7_RR_START case=12 time=188.460
+NONIC48_HEC7_CASE_DONE case=12 h0=0 time=190.050
+NONIC48_HEC7_BATCH_DONE tested=12 remaining=0 exact_degree9_weights=true direct_RR=true complete=true time=190.070

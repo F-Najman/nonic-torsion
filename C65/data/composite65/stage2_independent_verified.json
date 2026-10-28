@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "source_degrees": [
+    7,
+    7,
+    8,
+    8,
+    9,
+    9,
+    9
+  ],
+  "ordinary65_torsion_families": 16,
+  "precision": 5,
+  "unit_relations": [
+    69,
+    68
+  ],
+  "all_finite_unit_ranks": 120,
+  "all_psi65_derivatives_nonzero": true,
+  "all_canonical_tangents_nonzero": true,
+  "target_degree_patterns": [
+    [
+      28
+    ],
+    [
+      28
+    ],
+    [
+      16,
+      16
+    ],
+    [
+      16,
+      16
+    ],
+    [
+      36
+    ],
+    [
+      36
+    ],
+    [
+      36
+    ]
+  ],
+  "native_combined_data_sha256": "f305fc6eb8608dc7a4ff2faeca6d78127192c8112f014c333515e72680c85958"
+}

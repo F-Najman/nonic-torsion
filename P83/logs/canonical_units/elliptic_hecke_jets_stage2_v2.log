@@ -1,0 +1,8 @@
+Loading "work/degree9/prime_orders/continued_20261026/P83/canonical_units/canonical_unit_stage1_data.m"
+NONIC83_CANONICAL_UNIT_STAGE1_DATA_READY
+NONIC83_ELLIPTIC_HECKE_JETS_SOURCE index=1 source_degree9=true target_closed_degrees=[ 9, 9, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks246=true psi83_derivative_nonzero=true jet_precision5=true time=2.600
+NONIC83_ELLIPTIC_HECKE_JETS_SOURCE index=2 source_degree9=true target_closed_degrees=[ 9, 9, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks246=true psi83_derivative_nonzero=true jet_precision5=true time=4.870
+NONIC83_ELLIPTIC_HECKE_JETS_SOURCE index=3 source_degree9=true target_closed_degrees=[ 9, 9, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks246=true psi83_derivative_nonzero=true jet_precision5=true time=7.140
+NONIC83_ELLIPTIC_HECKE_JETS_SOURCE index=4 source_degree9=true target_closed_degrees=[ 9, 9, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks246=true psi83_derivative_nonzero=true jet_precision5=true time=9.390
+NONIC83_ELLIPTIC_HECKE_JETS_SOURCE index=5 source_degree9=true target_closed_degrees=[ 9, 9, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks246=true psi83_derivative_nonzero=true jet_precision5=true time=11.650
+NONIC83_ELLIPTIC_HECKE_JETS_STAGE2_COMPLETE

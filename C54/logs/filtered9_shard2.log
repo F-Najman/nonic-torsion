@@ -1,0 +1,120 @@
+Loading "work/degree9/realizations/continuation/C54/setup_class_queries.m"
+Loading "work/degree9/realizations/continuation/C54/preflight_ordinary_module9.m"
+NONIC54_F2_CLASSES [ 3, 3, 52497, 0 ]
+[ 3, 3, 52497 ]
+5.920
+NONIC54_F2_NC_DEGREE 1 0 5.990
+NONIC54_F2_NC_DEGREE 2 0 6.000
+NONIC54_F2_NC_DEGREE 3 0 6.000
+NONIC54_F2_NC_DEGREE 4 0 6.000
+NONIC54_F2_NC_DEGREE 5 0 6.000
+NONIC54_F2_NC_DEGREE 6 9 6.000
+NONIC54_F2_NC_DEGREE 7 9 6.010
+NONIC54_F2_NC_DEGREE 8 18 6.020
+NONIC54_F2_NC_DEGREE 9 91 6.060
+NONIC54_ORDINARY_FILTER degree=6 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=7 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=8 all=18 retained=18
+NONIC54_ORDINARY_FILTER degree=9 all=91 retained=90
+NONIC54_F2_ORDINARY_CANDIDATES 2412 [ <6, 9, 192>, <7, 9, 48>, <8, 18, 9>, <9, 90, 1> ]
+45.800
+NONIC54_F5_CLASSES [ 3, 3, 342175446, 0 ]
+[ 3, 3, 52497 ]
+cuspidal_relations_equal=true 80.590
+NONIC54_F5_CUSP_CLASSES 0 1 81.770
+NONIC54_F5_CUSP_CLASSES 1 9 82.930
+NONIC54_F5_CUSP_CLASSES 2 48 84.130
+NONIC54_F5_CUSP_CLASSES 3 192 85.350
+NONIC54_F5_CUSP_CLASSES 4 636 86.530
+NONIC54_F5_CUSP_CLASSES 5 1836 87.790
+NONIC54_F5_CUSP_CLASSES 6 4763 90.000
+NONIC54_CROSSPRIME_PREFLIGHT_DONE 90.000
+NONIC54_F2_CUSP_DEGREES [ 2, 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1 ]
+NONIC54_F5_CUSP_DEGREES [ 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1, 2 ]
+Loading "work/degree9/realizations/continuation/C54/class_good9_filtered_tail.m"
+Loading "work/degree9/realizations/continuation/C54/retained/pair_af_place_linear.m"
+Loading "work/degree9/realizations/continuation/C54/quadratic_indices.m"
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1 members=1 passing=0 query_cpu=1.490
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=2 members=1 passing=0 query_cpu=1.880
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=3 members=1 passing=0 query_cpu=2.250
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=25 members=1 passing=0 query_cpu=17.380
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=50 members=1 passing=0 query_cpu=32.870
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=75 members=1 passing=0 query_cpu=48.550
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=100 members=1 passing=0 query_cpu=66.480
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=125 members=1 passing=0 query_cpu=83.860
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=150 members=1 passing=0 query_cpu=101.290
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=175 members=1 passing=0 query_cpu=118.310
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=200 members=1 passing=0 query_cpu=134.900
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=225 members=1 passing=0 query_cpu=149.110
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=250 members=1 passing=0 query_cpu=173.710
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=275 members=1 passing=0 query_cpu=196.760
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=300 members=1 passing=0 query_cpu=210.760
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=325 members=1 passing=0 query_cpu=225.040
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=350 members=1 passing=0 query_cpu=243.420
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=375 members=1 passing=0 query_cpu=257.510
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=400 members=1 passing=0 query_cpu=279.450
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=425 members=1 passing=0 query_cpu=298.570
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=450 members=1 passing=0 query_cpu=313.660
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=475 members=1 passing=0 query_cpu=336.120
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=500 members=1 passing=0 query_cpu=354.620
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=525 members=1 passing=0 query_cpu=371.010
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=550 members=1 passing=0 query_cpu=392.390
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=575 members=1 passing=0 query_cpu=408.880
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=600 members=1 passing=0 query_cpu=423.480
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=625 members=1 passing=0 query_cpu=441.500
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=650 members=1 passing=0 query_cpu=458.540
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=675 members=1 passing=0 query_cpu=471.790
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=700 members=1 passing=0 query_cpu=487.860
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=725 members=1 passing=0 query_cpu=507.410
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=750 members=1 passing=0 query_cpu=521.170
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=775 members=1 passing=0 query_cpu=537.310
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=800 members=1 passing=0 query_cpu=557.760
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=825 members=1 passing=0 query_cpu=575.670
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=850 members=1 passing=0 query_cpu=592.700
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=875 members=1 passing=0 query_cpu=611.600
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=900 members=1 passing=0 query_cpu=631.600
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=925 members=1 passing=0 query_cpu=646.530
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=950 members=1 passing=0 query_cpu=663.980
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=975 members=1 passing=0 query_cpu=678.950
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1000 members=1 passing=0 query_cpu=691.560
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1025 members=1 passing=0 query_cpu=710.560
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1050 members=1 passing=0 query_cpu=730.960
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1075 members=1 passing=0 query_cpu=744.110
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1100 members=1 passing=0 query_cpu=761.130
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1125 members=1 passing=0 query_cpu=780.590
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1150 members=1 passing=0 query_cpu=800.100
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1175 members=1 passing=0 query_cpu=826.940
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1200 members=1 passing=0 query_cpu=844.250
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1225 members=1 passing=0 query_cpu=858.500
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1250 members=1 passing=0 query_cpu=875.680
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1275 members=1 passing=0 query_cpu=897.440
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1300 members=2 passing=0 query_cpu=911.840
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1325 members=2 passing=0 query_cpu=927.890
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1350 members=2 passing=0 query_cpu=944.050
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1375 members=2 passing=0 query_cpu=960.840
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1400 members=2 passing=0 query_cpu=981.830
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1425 members=2 passing=0 query_cpu=996.610
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1450 members=2 passing=0 query_cpu=1009.810
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1475 members=2 passing=0 query_cpu=1029.630
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1500 members=2 passing=0 query_cpu=1048.120
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1525 members=2 passing=0 query_cpu=1068.190
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1550 members=2 passing=0 query_cpu=1081.630
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1575 members=2 passing=0 query_cpu=1100.360
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1600 members=2 passing=0 query_cpu=1120.130
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1625 members=2 passing=0 query_cpu=1139.980
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1650 members=2 passing=0 query_cpu=1159.710
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1675 members=2 passing=0 query_cpu=1171.670
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1700 members=2 passing=0 query_cpu=1182.560
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1725 members=2 passing=0 query_cpu=1198.130
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1750 members=2 passing=0 query_cpu=1212.990
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1775 members=2 passing=0 query_cpu=1231.230
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1800 members=2 passing=0 query_cpu=1246.210
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1825 members=2 passing=0 query_cpu=1259.510
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1850 members=2 passing=0 query_cpu=1271.780
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1875 members=2 passing=0 query_cpu=1283.590
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1900 members=2 passing=0 query_cpu=1298.460
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1925 members=2 passing=0 query_cpu=1312.760
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1950 members=2 passing=0 query_cpu=1325.850
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=1975 members=2 passing=0 query_cpu=1337.770
+NONIC54_FILTERED9_CLASS_PROGRESS shard=2 tested=2000 members=2 passing=0 query_cpu=1357.230
+NONIC54_FILTERED9_CLASS_DONE shard=2 class_queries=2021 quadratic_skips=2013 members=2 passing=0 total_records=4034 complete=true query_cpu=1371.090

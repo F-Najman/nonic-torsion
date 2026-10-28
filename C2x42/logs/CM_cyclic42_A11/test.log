@@ -1,0 +1,12 @@
+Loading "work/degree9/noncyclic/C230/deps/pair_af_place_linear.m"
+C242_SCALAR_CUSP_AUDIT_PASS [* [* 2, 2, 7 *], [* 1, 1, 21 *], [* 1, 1, 21 *], [* 1, 1, 42 *], [* 1, 1, 42 *], [* 3, 6, 2 *], [* 1, 1, 42 *], [* 1, 1, 21 *], [* 1, 1, 42 *], [* 3, 6, 2 *], [* 1, 1, 42 *], [* 2, 2, 7 *], [* 2, 2, 14 *], [* 1, 1, 42 *], [* 1, 1, 21 *], [* 3, 6, 1 *], [* 2, 2, 14 *], [* 1, 1, 21 *], [* 2, 2, 7 *], [* 3, 6, 1 *], [* 1, 1, 21 *], [* 2, 2, 14 *] *] 74.890
+C242_CM_CYCLIC42_A11_DIVISOR_READY 1 79.330
+C242_CM_CYCLIC42_A11_CASE 1 0 80.520
+C242_CM_CYCLIC42_A11_DIVISOR_READY 2 85.020
+C242_CM_CYCLIC42_A11_CASE 2 0 85.780
+C242_CM_CYCLIC42_A11_DIVISOR_READY 6 91.240
+C242_CM_CYCLIC42_A11_CASE 6 0 92.430
+C242_CM_CYCLIC42_A11_DIVISOR_READY 8 100.000
+C242_CM_CYCLIC42_A11_CASE 8 0 101.160
+C242_CM_CYCLIC42_A11_DONE remaining []
+complete=true 101.170

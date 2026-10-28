@@ -1,0 +1,768 @@
+{
+  "genus": 35,
+  "finite_operators": 2,
+  "U0_dimension": 2,
+  "U3_dimension": 20,
+  "combined_U_dimension": 22,
+  "exact_RR_blocks": 20,
+  "all_cusp_configurations": 58,
+  "exceptions": [],
+  "supports_exclusion": true,
+  "complete": true,
+  "ranks": [
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    },
+    {
+      "multiplicities": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rank": 3
+    }
+  ]
+}

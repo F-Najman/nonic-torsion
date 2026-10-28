@@ -1,0 +1,36 @@
+{
+  "complete": true,
+  "stages": [
+    {
+      "stage": "all267",
+      "tested": 267,
+      "expected": 267,
+      "complete": true,
+      "remaining": [
+        [
+          1,
+          8,
+          1601
+        ]
+      ],
+      "actual_images": 276,
+      "independent_velu2_images": 2,
+      "index": 214272,
+      "cusp_complement_counts": [
+        1,
+        7,
+        27,
+        77
+      ]
+    }
+  ],
+  "genus9_survivors": 267,
+  "cyclic_survivors": [
+    [
+      1,
+      8,
+      1601
+    ]
+  ],
+  "covered_genus9_survivors": 267
+}

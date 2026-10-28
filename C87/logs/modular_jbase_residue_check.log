@@ -1,0 +1,13 @@
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/finite_j_model_snapshot.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/modular_jbase_residue_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/jbase_relation_modular_data.m"
+NONIC87_MODULAR_JBASE_RELATION_READY
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=10 time=0.030
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=20 time=0.050
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=30 time=0.070
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=40 time=0.090
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=50 time=0.110
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=60 time=0.130
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=70 time=0.150
+NONIC87_NATIVE_MODULAR_NORM_PROGRESS primes=80 time=0.170
+NONIC87_NATIVE_MODULAR_NORM_CHECK_COMPLETE primes81 modulusdegree972 heightbound480 all_exact_residues_agree=true

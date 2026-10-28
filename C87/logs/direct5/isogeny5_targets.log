@@ -1,0 +1,9 @@
+CENSUS_OBSERVED degree=8 orbits=0 qualifying=0 checked=517
+NONIC87_FINITE_CENSUS d=8 j_orbits=0 qualifying_j_twists=0 all_j_twists=517 exact87=true complete=true time=0.080
+CENSUS_OBSERVED degree=9 orbits=4 qualifying=36 checked=1025
+NONIC87_FINITE_CENSUS d=9 j_orbits=4 qualifying_j_twists=36 all_j_twists=1025 exact87=true complete=true time=0.370
+NONIC87_NATIVE5_TARGET source=1 jdegree=9 trace=-9 isogenies=6 distinct_targets=6 target_j_degrees=[ 54 ] norm_multiplicities=[ 1 ] exact87push=true time=0.570
+NONIC87_NATIVE5_TARGET source=2 jdegree=9 trace=-9 isogenies=6 distinct_targets=6 target_j_degrees=[ 54 ] norm_multiplicities=[ 1 ] exact87push=true time=0.760
+NONIC87_NATIVE5_TARGET source=3 jdegree=9 trace=-9 isogenies=6 distinct_targets=6 target_j_degrees=[ 54 ] norm_multiplicities=[ 1 ] exact87push=true time=0.950
+NONIC87_NATIVE5_TARGET source=4 jdegree=9 trace=-9 isogenies=6 distinct_targets=6 target_j_degrees=[ 54 ] norm_multiplicities=[ 1 ] exact87push=true time=1.140
+NONIC87_NATIVE5_TARGETS_COMPLETE source_orbits=4 distinct_target_j_orbits=4 census=[ <0, 0, 517>, <4, 36, 1025> ] time=1.140

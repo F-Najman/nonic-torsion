@@ -1,0 +1,13 @@
+{
+  "N": 37,
+  "integral_homology_rank": 80,
+  "actual_JOne": true,
+  "sign": 0,
+  "q_operators": [
+    3,
+    5
+  ],
+  "common_binary_kernel_dimension": 0,
+  "rational_2torsion_is_zero": true,
+  "status": "PASS"
+}

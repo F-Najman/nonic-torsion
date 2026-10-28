@@ -1,0 +1,10 @@
+NONIC53_MODEL genus=92 time=269.700
+NONIC53_NC9 places=78 time=280.190
+NONIC53_NC9_REPS count=3 time=291.340
+NONIC53_TEST index=1 time=292.300
+NONIC53_RESULT index=1 principal=false time=487.930
+NONIC53_TEST index=2 time=488.850
+NONIC53_RESULT index=2 principal=false time=673.640
+NONIC53_TEST index=3 time=674.550
+NONIC53_RESULT index=3 principal=false time=863.950
+NONIC53_GOOD9_PROBE_COMPLETE

@@ -1,0 +1,10 @@
+NONIC67_QUOTIENT_SYMBOLS dimension=45 H_index=11 H_order=3 time=0.030
+NONIC67_QUOTIENT_NEWFORMS dimensions=[ 1, 2, 2, 10, 10, 20 ] time=0.090
+NONIC67_QUOTIENT_EIGENFORM dimension=2 coefficient_dimension=2 time=0.120
+NONIC67_QUOTIENT_EIGENFORM dimension=2 coefficient_dimension=2 time=0.120
+NONIC67_QUOTIENT_EIGENFORM dimension=10 coefficient_dimension=10 time=0.150
+NONIC67_QUOTIENT_EIGENFORM dimension=10 coefficient_dimension=10 time=0.160
+NONIC67_QUOTIENT_EIGENFORM dimension=20 coefficient_dimension=20 time=0.170
+NONIC67_QUOTIENT_QUADRICS rank=132 independent_relations=903 time=5.220
+NONIC67_QUOTIENT_CANONICAL_CURVE dimension=1 degree=88 arithmetic_genus=45 time=6.070
+NONIC67_QUOTIENT_CANONICAL_PROBE_COMPLETE

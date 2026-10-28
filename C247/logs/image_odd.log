@@ -1,0 +1,4 @@
+NONIC247_FINITE_IMAGE_F3 order=6 dimension=22 coefficient_degree=2 determinant=[ 1113186751, 14761110945 ] norm=235561454207215818721 odd=true time=0.070
+NONIC247_FINITE_IMAGE_F3 order=3 dimension=22 coefficient_degree=2 determinant=[ 8675753691, 1615999995 ] norm=63860140169462891961 odd=true time=0.090
+NONIC247_FINITE_IMAGE_F3 order=2 dimension=20 coefficient_degree=1 determinant=[ 81370985536 ] norm=81370985536 odd=false time=0.110
+NONIC247_FINITE_IMAGE_F3_DONE dimension=108 odd=false norm_product=1224062716994686124121669177515326469692959354993216 time=0.110

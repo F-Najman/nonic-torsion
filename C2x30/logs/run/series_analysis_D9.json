@@ -1,0 +1,4364 @@
+{
+  "classes": 256,
+  "effective_cusp_divisors": 956,
+  "effective_classes": 256,
+  "counts": {
+    "pullback_with_fixed_cusps": 144,
+    "unique_cuspidal": 84,
+    "exceptional_series": 28
+  },
+  "records": [
+    {
+      "index": 1,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 2,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        6
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 3,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 4,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 5,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 6,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        4,
+        0,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 7,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 8,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 9,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        4,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 10,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        0
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 11,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        8
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 12,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 13,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 14,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 15,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 16,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        6
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 17,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 18,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 19,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 20,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        4,
+        0,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 21,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 22,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 23,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 24,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        5,
+        0,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 25,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 26,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        4,
+        1,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 27,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        5
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 28,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        4,
+        0,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 29,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 30,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 31,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        0,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 32,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        4,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 33,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 34,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 35,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 36,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 37,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 38,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 39,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 40,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        3,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 41,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 42,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 43,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 44,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 45,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 46,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 47,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 48,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 49,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 50,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 51,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 52,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        4,
+        0,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 53,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 54,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 55,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 56,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        5,
+        0,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 57,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        4,
+        1,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 58,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 59,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        5
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 60,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        4,
+        0,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 61,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 62,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 63,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        3,
+        0,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 64,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 65,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        7
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 66,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 67,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 68,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 69,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 70,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        0,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 71,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 72,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 73,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 74,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 75,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 76,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 77,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        1,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 78,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 79,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 80,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 81,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 82,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        4
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 83,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        7
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 84,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        5
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 85,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 86,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        7
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 87,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        5
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 88,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 89,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 90,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 91,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 92,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        4
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 93,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        6
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 94,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 95,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        7
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 96,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 97,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 98,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 99,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 100,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 101,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 102,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 103,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 104,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 105,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 106,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 107,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 108,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 109,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 110,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 111,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 112,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 113,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 114,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        5,
+        0,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 115,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 116,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 117,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 118,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 119,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 120,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 121,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        3,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 122,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 123,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        4,
+        1,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 124,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        4,
+        0,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 125,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 126,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 127,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 128,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 129,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 130,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 131,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        3,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 132,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 133,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 134,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 135,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 136,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 137,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        3,
+        1,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 138,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 139,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        7
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 140,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        5,
+        1,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 141,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 142,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        5
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 143,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        5,
+        0,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 144,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 145,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        4,
+        1,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 146,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 147,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 148,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 149,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 150,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 151,
+      "dimension": 4,
+      "base_dimension": 4,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      "base_degree": 4,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 152,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 153,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 154,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 155,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 156,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 157,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 158,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        0,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 159,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 160,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        3,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 161,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 162,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        1,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 163,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 164,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        3,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 165,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 166,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 167,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 168,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 169,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 170,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        3,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 171,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 172,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 173,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        3,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 174,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        2,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 175,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        3,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 176,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 177,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        3,
+        0,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 178,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        5,
+        0,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 179,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        3,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 180,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 181,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 182,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 183,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 184,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        3,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 185,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 186,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 187,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 188,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 189,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 190,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 191,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 192,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 193,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 194,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 195,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 196,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        5,
+        1,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 197,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 198,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 199,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 200,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 201,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 202,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 203,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 204,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        3,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 205,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 206,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 207,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 208,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 209,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        2
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 210,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        3,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 211,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 212,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 213,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        3,
+        1,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 214,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 215,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        3,
+        0,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 216,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        5,
+        1,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 217,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 218,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        5,
+        0,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 219,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        2,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 220,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 221,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        4,
+        1,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 222,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 223,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 224,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 225,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 226,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 227,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 228,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 229,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 230,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        2,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 231,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 232,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        3,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 233,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 234,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 235,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 236,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 237,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        1
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 238,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        5,
+        1,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 239,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 240,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 241,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        3
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 242,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 243,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        6
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 244,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0,
+        2
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 245,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        2
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 246,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 247,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 248,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        3
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 249,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 250,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 251,
+      "dimension": 2,
+      "base_dimension": 1,
+      "vector": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "base_degree": 0,
+      "route": "exceptional_series"
+    },
+    {
+      "index": 252,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        4
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 253,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 254,
+      "dimension": 1,
+      "base_dimension": 1,
+      "vector": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0
+      ],
+      "base_degree": 1,
+      "route": "unique_cuspidal"
+    },
+    {
+      "index": 255,
+      "dimension": 2,
+      "base_dimension": 2,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        5
+      ],
+      "base_degree": 2,
+      "route": "pullback_with_fixed_cusps"
+    },
+    {
+      "index": 256,
+      "dimension": 3,
+      "base_dimension": 3,
+      "vector": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1,
+        3
+      ],
+      "base_degree": 3,
+      "route": "pullback_with_fixed_cusps"
+    }
+  ]
+}

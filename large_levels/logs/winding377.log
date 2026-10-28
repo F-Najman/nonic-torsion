@@ -1,0 +1,26 @@
+WINDING N=377 order=1 conductor=1 relative_dimension=33 winding_dimension=22 coefficient_degree=1 time=0.070
+WINDING N=377 order=6 conductor=13 relative_dimension=34 winding_dimension=34 coefficient_degree=2 time=0.140
+WINDING N=377 order=3 conductor=13 relative_dimension=32 winding_dimension=31 coefficient_degree=2 time=0.310
+WINDING N=377 order=2 conductor=13 relative_dimension=34 winding_dimension=34 coefficient_degree=1 time=0.050
+WINDING N=377 order=84 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=24 time=1.800
+WINDING N=377 order=28 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=12 time=1.950
+WINDING N=377 order=84 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=24 time=2.730
+WINDING N=377 order=28 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=12 time=0.580
+WINDING N=377 order=14 conductor=29 relative_dimension=34 winding_dimension=34 coefficient_degree=6 time=0.360
+WINDING N=377 order=42 conductor=377 relative_dimension=32 winding_dimension=32 coefficient_degree=12 time=1.200
+WINDING N=377 order=42 conductor=377 relative_dimension=34 winding_dimension=34 coefficient_degree=12 time=0.870
+WINDING N=377 order=14 conductor=377 relative_dimension=32 winding_dimension=32 coefficient_degree=6 time=0.890
+WINDING N=377 order=7 conductor=29 relative_dimension=32 winding_dimension=32 coefficient_degree=6 time=0.750
+WINDING N=377 order=42 conductor=377 relative_dimension=34 winding_dimension=34 coefficient_degree=12 time=0.880
+WINDING N=377 order=21 conductor=377 relative_dimension=32 winding_dimension=32 coefficient_degree=12 time=2.670
+WINDING N=377 order=14 conductor=377 relative_dimension=34 winding_dimension=34 coefficient_degree=6 time=0.390
+WINDING N=377 order=12 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=4 time=0.270
+WINDING N=377 order=4 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=2 time=0.130
+WINDING N=377 order=12 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=4 time=0.220
+WINDING N=377 order=4 conductor=377 relative_dimension=33 winding_dimension=33 coefficient_degree=2 time=0.220
+WINDING N=377 order=2 conductor=29 relative_dimension=34 winding_dimension=34 coefficient_degree=1 time=0.060
+WINDING N=377 order=6 conductor=377 relative_dimension=32 winding_dimension=32 coefficient_degree=2 time=0.160
+WINDING N=377 order=6 conductor=377 relative_dimension=34 winding_dimension=34 coefficient_degree=2 time=0.140
+WINDING N=377 order=2 conductor=377 relative_dimension=32 winding_dimension=32 coefficient_degree=1 time=0.060
+WINDING_FINAL N=377 genus=5545 total_dimension=5545 bad_orders=[ 1, 3 ] admissible=[ 5, 8, 12, 14, 18, 21, 25, 27, 31, 34, 38, 40, 44, 47, 51, 53, 57, 60, 64, 66, 70, 73, 77, 79, 83, 86, 90, 92, 96, 99, 103, 105, 109, 112, 118, 122, 125, 129, 131, 135, 138, 142, 144, 148, 151, 155, 157, 161, 164, 168, 170, 177, 181, 183, 187, 190, 194, 196, 200, 207, 209, 213, 216, 220, 222, 226, 229, 233, 235, 239, 242, 246, 248, 252, 255, 259, 265, 268, 272, 274, 278, 281, 285, 287, 291, 294, 298, 300, 304, 307, 311, 313, 317, 320, 324, 326, 330, 333, 337, 339, 343, 346, 350, 352, 356, 359, 363, 365, 369, 372 ]
+WINDING_CHARACTER_PROBE_DONE

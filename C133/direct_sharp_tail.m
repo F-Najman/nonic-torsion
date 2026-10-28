@@ -1,0 +1,14 @@
+Omega,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(v):v in Basis(Omega)];g:=35;
+CM:=Matrix(GF(2),[Eltseq(Cartier(w) @@ om):w in B]);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+bc2:=TateNormalForm_bc(E7,2*(E7![0,0]));tnew:=AF!(bc2[1]/bc2[2]);
+assert tnew in {1/(t7+1),(t7+1)/t7};
+sigma:=hom<AF->AF|hom<FB->AF|AF!tnew>,u>;
+assert sigma(sigma(sigma(t7))) eq t7 and sigma(jaf) eq jaf;
+eta:=Differential(t7);de:=Differential(tnew);
+DM:=Matrix(GF(2),[Eltseq((sigma(w/eta)*de) @@ om):w in B]);I35:=IdentityMatrix(GF(2),35);
+assert DM^3 eq I35 and DM*CM eq CM*DM;
+TM:=DM*CM;AM:=(TM^4+TM^2+I35)*TM;
+U:=RowSpace((TM-DM)*AM);udim:=Dimension(U);
+printf "NONIC133_Z_SHARP_COTANGENT genus=35 U_dimension=%o finite_operator=P0(T2)*(T2-2delta^2) exact_delta2=true time=%o\n",udim,Cputime(tt);
+load "C133/direct_sharp_rr.m";

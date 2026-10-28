@@ -1,0 +1,21 @@
+Loading "work/degree9/noncyclic/C230/deps/native_group_generators.m"
+Loading "work/degree9/noncyclic/C230/deps/class_group_direct_RR_checked_v4_fastfb.m"
+Loading "work/degree9/cyclic/continuation_20261026/C57_quotient9/finite_j_model_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C57_quotient9/diamond5_data.m"
+NONIC57_CUSP_DIAMOND_EXACT permutation=[ 6, 2, 5, 4, 3, 1 ] time=0.420
+Loading "work/degree9/parallel_expansion_20261026/N57_f6/records.m"
+Loading "work/degree9/parallel_expansion_20261026/N57_f7/records.m"
+Loading "work/degree9/parallel_expansion_20261026/N57_f8/records.m"
+Loading "work/degree9/parallel_expansion_20261026/N57_f9/records.m"
+NONIC57_TARGET_DEGREE_TESTED d=1 places=6 tested=4 kept=0 time=2.990
+NONIC57_TARGET_DEGREE_TESTED d=2 places=9 tested=11 kept=1 time=3.390
+NONIC57_TARGET_DEGREE_TESTED d=3 places=0 tested=11 kept=1 time=3.390
+NONIC57_TARGET_DEGREE_TESTED d=4 places=2 tested=11 kept=1 time=3.400
+NONIC57_TARGET_DEGREE_TESTED d=5 places=0 tested=11 kept=1 time=3.400
+NONIC57_TARGET_DEGREE_TESTED d=6 places=0 tested=11 kept=1 time=3.400
+NONIC57_TARGET_DEGREE_TESTED d=7 places=24 tested=19 kept=1 time=3.500
+NONIC57_TARGET_DEGREE_TESTED d=8 places=24 tested=23 kept=3 time=3.610
+NONIC57_TARGET_DEGREE_TESTED d=9 places=64 tested=23 kept=3 time=3.870
+NONIC57_QUOTIENT9_NC_FILTER tested=23 kept=3 complete=true time=3.880
+NONIC57_FINITE_ALPHA_A5_KERNEL G=[ 105, 210, 0 ] cuspgroup=[ 21, 210 ] alpha_cusps=[ 7, 7 ] A5kernel=[ 7 ] widths=[ 1, 19, 57, 3, 57, 1 ] frob5=[ 1, 2, 5, 4, 3, 6 ] time=3.930
+NONIC57_QUOTIENT9_NC_EXPORT_COMPLETE

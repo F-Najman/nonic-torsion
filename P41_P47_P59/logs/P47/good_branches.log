@@ -1,0 +1,12 @@
+NONIC_PRIME_MODEL N=47 genus=70 alpha_diamond=1 time=103.670
+NONIC_PRIME_ENUM N=47 degree=8 all_places=46 diamond_reps=2 time=112.610
+NONIC_PRIME_TEST_START N=47 degree=8 index=1 q=3 time=112.970
+NONIC_PRIME_TEST_RESULT N=47 degree=8 index=1 q=3 principal=false time=132.540
+NONIC_PRIME_TEST_START N=47 degree=8 index=2 q=3 time=132.890
+NONIC_PRIME_TEST_RESULT N=47 degree=8 index=2 q=3 principal=false time=181.720
+NONIC_PRIME_DEGREE_SUMMARY N=47 degree=8 all_places=46 diamond_reps=2 surviving_indices=[] time=181.720
+NONIC_PRIME_ENUM N=47 degree=9 all_places=23 diamond_reps=1 time=188.930
+NONIC_PRIME_TEST_START N=47 degree=9 index=1 q=3 time=189.220
+NONIC_PRIME_TEST_RESULT N=47 degree=9 index=1 q=3 principal=false time=202.780
+NONIC_PRIME_DEGREE_SUMMARY N=47 degree=9 all_places=23 diamond_reps=1 surviving_indices=[] time=202.780
+NONIC_PRIME_GOOD_BRANCHES_COMPLETED N=47 summary=[ <8, 46, 2, 0>, <9, 23, 1, 0> ] time=202.900

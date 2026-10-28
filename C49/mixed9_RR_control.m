@@ -1,0 +1,13 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(32*10^9);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+load "common/dt_expansions_local.m";
+tt:=Cputime();X:=MDX1(49,GF(2));FF:=FunctionField(Curve(X));AF,am:=AlgorithmicFunctionField(FF);assert Genus(AF) eq 69;
+b:=am(X`_coordinates[1]);c:=am(X`_coordinates[2]);j:=(1+c)^12/(b^3*(b+c*(c+1)^3));
+Om,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(v):v in Basis(Om)];CM:=Matrix(GF(2),[Eltseq(Cartier(w)@@om):w in B]);U:=RowSpace(CM-IdentityMatrix(GF(2),69));assert Dimension(U) eq 68;
+cs:=Poles(j);assert Degree(j) eq 1176 and {*Degree(P):P in cs*} eq {*1^^21,3^^6,21*};rat:=[P:P in cs|Degree(P) eq 1];cub:=[P:P in cs|Degree(P) eq 3];
+printf "NONIC49_MIXED9_RR_CONTROL_SETUP genus=69 Udim=68 divisor=rational6+cubic1 time=%o\n",Cputime(tt);
+A:=HorizontalJoin(HorizontalJoin(DifferentialExpansionMatrices(B,rat[1],6)),HorizontalJoin(DifferentialExpansionMatrices(B,cub[1],1)));assert Ncols(A) eq 9;
+printf "NONIC49_MIXED9_RR_CONTROL_SERIES rank=%o time=%o\n",Rank(BasisMatrix(U)*A),Cputime(tt);
+V,vm:=DifferentialSpace(6*Divisor(rat[1])+Divisor(cub[1]));VO:=VectorSpace(GF(2),69);W:=sub<VO|[VO!Eltseq(vm(v)@@om):v in Basis(V)]>;
+assert W eq Nullspace(A);assert 68-Dimension(U meet W) eq 9;
+printf "NONIC49_MIXED9_NATIVE_RR_CONTROL_COMPLETE degree=9 full_kernel_agrees=true kernel_dim=%o direct_rank=9 time=%o\n",Dimension(W),Cputime(tt);quit;

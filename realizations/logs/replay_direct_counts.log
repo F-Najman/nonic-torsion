@@ -1,0 +1,29 @@
+Loading "work/degree9/realizations/inputs/vanhoeij_nonic_input.m"
+Loading "work/degree9/realizations/inputs/selected_reductions.m"
+NONIC_DIRECT_COUNT index=1 p=3 residue_degree=3 expected=29 observed=[ 29 ] exact=true
+NONIC_DIRECT_COUNT index=2 p=53 residue_degree=1 expected=62 observed=[ 62, 62, 62 ] exact=true
+NONIC_DIRECT_COUNT index=2 p=83 residue_degree=1 expected=93 observed=[ 93, 93, 93 ] exact=true
+NONIC_DIRECT_COUNT index=3 p=3 residue_degree=3 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=4 p=11 residue_degree=2 expected=128 observed=[ 128 ] exact=true
+NONIC_DIRECT_COUNT index=4 p=19 residue_degree=2 expected=352 observed=[ 352 ] exact=true
+NONIC_DIRECT_COUNT index=5 p=3 residue_degree=3 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=6 p=3 residue_degree=3 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=7 p=3 residue_degree=4 expected=96 observed=[ 96 ] exact=true
+NONIC_DIRECT_COUNT index=7 p=3 residue_degree=5 expected=224 observed=[ 224 ] exact=true
+NONIC_DIRECT_COUNT index=8 p=3 residue_degree=3 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=9 p=3 residue_degree=3 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=10 p=5 residue_degree=2 expected=32 observed=[ 32 ] exact=true
+NONIC_DIRECT_COUNT index=11 p=5 residue_degree=2 expected=33 observed=[ 33 ] exact=true
+NONIC_DIRECT_COUNT index=12 p=11 residue_degree=3 expected=1292 observed=[ 1292 ] exact=true
+NONIC_DIRECT_COUNT index=12 p=13 residue_degree=4 expected=28594 observed=[ 28594 ] exact=true
+NONIC_DIRECT_COUNT index=13 p=5 residue_degree=2 expected=34 observed=[ 34 ] exact=true
+NONIC_DIRECT_COUNT index=14 p=11 residue_degree=3 expected=1292 observed=[ 1292 ] exact=true
+NONIC_DIRECT_COUNT index=14 p=13 residue_degree=4 expected=28594 observed=[ 28594 ] exact=true
+NONIC_DIRECT_COUNT index=15 p=5 residue_degree=2 expected=34 observed=[ 34 ] exact=true
+NONIC_DIRECT_COUNT index=16 p=13 residue_degree=2 expected=156 observed=[ 156, 156, 156 ] exact=true
+NONIC_DIRECT_COUNT index=16 p=19 residue_degree=3 expected=6981 observed=[ 6981, 6981, 6981 ] exact=true
+NONIC_DIRECT_COUNT index=17 p=3 residue_degree=4 expected=80 observed=[ 80 ] exact=true
+NONIC_DIRECT_COUNT index=17 p=5 residue_degree=3 expected=120 observed=[ 120 ] exact=true
+NONIC_DIRECT_COUNT index=18 p=37 residue_degree=1 expected=42 observed=[ 42, 42, 42 ] exact=true
+NONIC_DIRECT_COUNT index=19 p=53 residue_degree=1 expected=42 observed=[ 42, 42, 42 ] exact=true
+NONIC_DIRECT_COUNTS_COMPLETED examples=19 reductions=26 time=0.120 complete=true

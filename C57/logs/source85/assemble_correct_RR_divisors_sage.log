@@ -1,0 +1,4 @@
+C57_NECESSARY_RR_DIVISOR 6 1 positive_degree 42 signed_multiplicities [4, -4, -2, 2]
+C57_NECESSARY_RR_DIVISOR 6 2 positive_degree 42 signed_multiplicities [4, -4, -2, 2]
+C57_NECESSARY_RR_DIVISOR 8 1 positive_degree 88 signed_multiplicities [5, -4, -1, -1, 1, -1, 1]
+C57_NECESSARY_RR_DIVISORS_ASSEMBLED 3 12 seconds 2.9107890089508146

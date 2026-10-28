@@ -1,0 +1,56 @@
+{
+  "complete": true,
+  "field_modulus_coefficients": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+  ],
+  "order468_j_invariants": [
+    130,
+    315,
+    441
+  ],
+  "common_j_minimal_polynomial_over_F2": [
+    1,
+    1,
+    0,
+    1
+  ],
+  "known_closed_nonic_points": 4,
+  "Frobenius_orbit_lengths": [
+    9,
+    9,
+    9,
+    9
+  ],
+  "distinct_geometric_marked_pairs": 36,
+  "marked_pairs_per_j": {
+    "130": 12,
+    "315": 12,
+    "441": 12
+  },
+  "direct_Tate_model_orders": [
+    468,
+    468,
+    468,
+    468
+  ],
+  "finite_group_order": 468,
+  "gcd_order_with_q_minus_1": 1,
+  "order39_points_per_curve": 24,
+  "fine39_structures_per_curve": 12,
+  "all_order468_level39_points_exhausted": true,
+  "Hasse_interval_F512": [
+    468,
+    558
+  ],
+  "only_multiple_of117_in_Hasse_interval": 468,
+  "scope": "Exact finite elliptic/level binding. Together with the separately proved X1(39) dyadic injectivity and lower-support exclusions this excludes C117; no C78 completeness claimed."
+}

@@ -1,0 +1,4 @@
+Loading "work/degree9/prime_orders/continued_20261026/P49/dt_expansions_local.m"
+NONIC49_MIXED9_RR_CONTROL_SETUP genus=69 Udim=68 divisor=rational6+cubic1 time=549.340
+NONIC49_MIXED9_RR_CONTROL_SERIES rank=9 time=570.740
+NONIC49_MIXED9_NATIVE_RR_CONTROL_COMPLETE degree=9 full_kernel_agrees=true kernel_dim=60 direct_rank=9 time=1760.810

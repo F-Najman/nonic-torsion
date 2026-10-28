@@ -1,0 +1,46 @@
+NONIC_PRIME_MODEL N=37 genus=40 alpha_diamond=2 time=6.810
+NONIC_PRIME_ENUM N=37 degree=6 all_places=21 diamond_reps=2 time=7.590
+NONIC_PRIME_TEST_START N=37 degree=6 index=1 q=3 time=7.670
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=1 q=3 principal=true time=11.350
+NONIC_PRIME_TEST_START N=37 degree=6 index=1 q=5 time=11.500
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=1 q=5 principal=true time=36.470
+NONIC_PRIME_TEST_START N=37 degree=6 index=1 q=7 time=36.550
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=1 q=7 principal=true time=106.240
+NONIC_PRIME_TEST_START N=37 degree=6 index=1 q=11 time=106.370
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=1 q=11 principal=true time=140.940
+NONIC_PRIME_TEST_START N=37 degree=6 index=1 q=13 time=141.040
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=1 q=13 principal=true time=194.940
+NONIC_PRIME_TEST_START N=37 degree=6 index=2 q=3 time=195.010
+NONIC_PRIME_TEST_RESULT N=37 degree=6 index=2 q=3 principal=false time=207.370
+NONIC_PRIME_DEGREE_SUMMARY N=37 degree=6 all_places=21 diamond_reps=2 surviving_indices=[ 1 ] time=207.370
+NONIC_PRIME_ENUM N=37 degree=7 all_places=18 diamond_reps=1 time=207.760
+NONIC_PRIME_TEST_START N=37 degree=7 index=1 q=3 time=207.810
+NONIC_PRIME_TEST_RESULT N=37 degree=7 index=1 q=3 principal=false time=214.870
+NONIC_PRIME_DEGREE_SUMMARY N=37 degree=7 all_places=18 diamond_reps=1 surviving_indices=[] time=214.870
+NONIC_PRIME_ENUM N=37 degree=9 all_places=39 diamond_reps=4 time=216.310
+NONIC_PRIME_TEST_START N=37 degree=9 index=1 q=3 time=216.370
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=1 q=3 principal=false time=225.180
+NONIC_PRIME_TEST_START N=37 degree=9 index=2 q=3 time=225.240
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=2 q=3 principal=false time=231.290
+NONIC_PRIME_TEST_START N=37 degree=9 index=3 q=3 time=231.340
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=3 q=3 principal=true time=233.450
+NONIC_PRIME_TEST_START N=37 degree=9 index=3 q=5 time=233.560
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=3 q=5 principal=true time=241.070
+NONIC_PRIME_TEST_START N=37 degree=9 index=3 q=7 time=241.130
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=3 q=7 principal=true time=266.700
+NONIC_PRIME_TEST_START N=37 degree=9 index=3 q=11 time=266.780
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=3 q=11 principal=true time=353.080
+NONIC_PRIME_TEST_START N=37 degree=9 index=3 q=13 time=353.180
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=3 q=13 principal=true time=428.280
+NONIC_PRIME_TEST_START N=37 degree=9 index=4 q=3 time=428.330
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=4 q=3 principal=true time=428.340
+NONIC_PRIME_TEST_START N=37 degree=9 index=4 q=5 time=428.410
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=4 q=5 principal=true time=428.420
+NONIC_PRIME_TEST_START N=37 degree=9 index=4 q=7 time=428.470
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=4 q=7 principal=true time=428.480
+NONIC_PRIME_TEST_START N=37 degree=9 index=4 q=11 time=428.610
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=4 q=11 principal=true time=428.620
+NONIC_PRIME_TEST_START N=37 degree=9 index=4 q=13 time=428.710
+NONIC_PRIME_TEST_RESULT N=37 degree=9 index=4 q=13 principal=true time=428.720
+NONIC_PRIME_DEGREE_SUMMARY N=37 degree=9 all_places=39 diamond_reps=4 surviving_indices=[ 3, 4 ] time=428.720
+NONIC_PRIME_GOOD_BRANCHES_COMPLETED N=37 summary=[ <6, 21, 2, 1>, <7, 18, 1, 0>, <9, 39, 4, 2> ] time=428.740

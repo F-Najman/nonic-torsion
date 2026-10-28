@@ -1,0 +1,11 @@
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/canonical_data.m"
+NONIC67_QUOTIENT_CANONICAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/jmap_q_data.m"
+NONIC67H3_QUOTIENT_JMAP_Q_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/plane_differential_certified_data.m"
+NONIC67H3_PLANE_DIFFERENTIAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/canonical_change_basis_certified.m"
+NONIC67H3_ADJOINT_COORDINATES_READY genus=45 AF_degree=42 maximum_coefficient_degree=43 time=254.410
+NONIC67H3_CANONICAL_PULLBACK_EXACT all903quadrics=true projection_inverse=true time=267.890
+NONIC67H3_PLANE_JMAP_EXACT genus=45 jdegree=748 rational_cusps=11 nonrational_cusp_degree=11 pole_orders=1^11_67 time=555.030
+NONIC67H3_LOW_DEGREE_MODEL_CERTIFIED genus=45 AF_degree=42 j_degree=748 diamond2_modular_matrix_order=11 time=555.540

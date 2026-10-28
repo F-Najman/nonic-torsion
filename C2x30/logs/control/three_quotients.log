@@ -1,0 +1,170 @@
+THREE_QUOTIENTS_GROUP G=[ 4, 4, 4, 136, 16320, 0 ] H=[ 4, 8160 ] quotient=[ 2, 4, 4, 136, 0 ] time=34.500
+THREE_QUOTIENT_POINT source=13 variant=1 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=34.950
+THREE_QUOTIENT_POINT source=13 variant=2 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=35.250
+THREE_QUOTIENT_POINT source=13 variant=3 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.070
+THREE_QUOTIENT_POINT source=14 variant=1 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=14 variant=2 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=14 variant=3 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=15 variant=1 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=15 variant=2 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=15 variant=3 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=22 variant=1 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=22 variant=2 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=22 variant=3 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=23 variant=1 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=23 variant=2 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=23 variant=3 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=24 variant=1 target=1 targetdegree=9 passes=false class=[ 1, 0, 2, 115, 3725, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=24 variant=2 target=3 targetdegree=9 passes=false class=[ 3, 2, 3, 35, 5663, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=24 variant=3 target=2 targetdegree=9 passes=false class=[ 0, 3, 0, 50, 8690, 0 ] time=36.080
+THREE_QUOTIENT_POINT source=28 variant=1 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=36.580
+THREE_QUOTIENT_POINT source=28 variant=2 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.150
+THREE_QUOTIENT_POINT source=28 variant=3 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.770
+THREE_QUOTIENT_POINT source=29 variant=1 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=29 variant=2 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=29 variant=3 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=30 variant=1 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=30 variant=2 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=30 variant=3 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=31 variant=1 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=31 variant=2 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=31 variant=3 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=32 variant=1 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=32 variant=2 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=32 variant=3 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=33 variant=1 target=5 targetdegree=9 passes=false class=[ 1, 3, 2, 49, 10997, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=33 variant=2 target=4 targetdegree=9 passes=false class=[ 2, 3, 2, 88, 15362, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=33 variant=3 target=6 targetdegree=9 passes=false class=[ 1, 3, 1, 29, 8039, 0 ] time=38.780
+THREE_QUOTIENT_POINT source=37 variant=1 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=39.610
+THREE_QUOTIENT_POINT source=37 variant=2 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=40.090
+THREE_QUOTIENT_POINT source=37 variant=3 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=38 variant=1 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=38 variant=2 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=38 variant=3 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=39 variant=1 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=39 variant=2 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=39 variant=3 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=40.580
+THREE_QUOTIENT_POINT source=40 variant=1 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=40.970
+THREE_QUOTIENT_POINT source=40 variant=2 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=41.440
+THREE_QUOTIENT_POINT source=40 variant=3 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=41 variant=1 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=41 variant=2 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=41 variant=3 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=42 variant=1 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=42 variant=2 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=42 variant=3 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=41.720
+THREE_QUOTIENT_POINT source=43 variant=1 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=42.030
+THREE_QUOTIENT_POINT source=43 variant=2 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=43.050
+THREE_QUOTIENT_POINT source=43 variant=3 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=44 variant=1 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=44 variant=2 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=44 variant=3 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=45 variant=1 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=45 variant=2 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=45 variant=3 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=46 variant=1 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=46 variant=2 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=46 variant=3 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=47 variant=1 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=47 variant=2 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=47 variant=3 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=48 variant=1 target=13 targetdegree=8 passes=true class=[ 0, 0, 0, 126, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=48 variant=2 target=15 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 10192, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=48 variant=3 target=14 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 2032, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=49 variant=1 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=49 variant=2 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=49 variant=3 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=50 variant=1 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=50 variant=2 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=50 variant=3 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=44.000
+THREE_QUOTIENT_POINT source=51 variant=1 target=11 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 4412, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=51 variant=2 target=10 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 6452, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=51 variant=3 target=12 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 3392, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=52 variant=1 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=52 variant=2 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=52 variant=3 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=53 variant=1 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=53 variant=2 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=53 variant=3 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=54 variant=1 target=7 targetdegree=8 passes=false class=[ 0, 2, 0, 58, 13932, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=54 variant=2 target=9 targetdegree=8 passes=false class=[ 0, 2, 2, 58, 672, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=54 variant=3 target=8 targetdegree=8 passes=false class=[ 0, 0, 2, 126, 15972, 0 ] time=44.010
+THREE_QUOTIENT_POINT source=55 variant=1 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=44.330
+THREE_QUOTIENT_POINT source=55 variant=2 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=44.990
+THREE_QUOTIENT_POINT source=55 variant=3 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=56 variant=1 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=56 variant=2 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=56 variant=3 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=57 variant=1 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=57 variant=2 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=57 variant=3 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=64 variant=1 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=64 variant=2 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=64 variant=3 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=65 variant=1 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=65 variant=2 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=65 variant=3 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.570
+THREE_QUOTIENT_POINT source=66 variant=1 target=16 targetdegree=9 passes=false class=[ 2, 1, 0, 0, 2402, 0 ] time=45.580
+THREE_QUOTIENT_POINT source=66 variant=2 target=18 targetdegree=9 passes=false class=[ 3, 1, 1, 25, 10439, 0 ] time=45.580
+THREE_QUOTIENT_POINT source=66 variant=3 target=17 targetdegree=9 passes=false class=[ 3, 3, 0, 73, 5237, 0 ] time=45.580
+THREE_QUOTIENT_POINT source=67 variant=1 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=45.900
+THREE_QUOTIENT_POINT source=67 variant=2 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=46.390
+THREE_QUOTIENT_POINT source=67 variant=3 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=68 variant=1 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=68 variant=2 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=68 variant=3 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=69 variant=1 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=69 variant=2 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=69 variant=3 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=76 variant=1 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=76 variant=2 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=76 variant=3 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=77 variant=1 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=77 variant=2 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=77 variant=3 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=78 variant=1 target=19 targetdegree=9 passes=false class=[ 1, 2, 1, 19, 7103, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=78 variant=2 target=21 targetdegree=9 passes=false class=[ 0, 1, 2, 106, 13970, 0 ] time=47.240
+THREE_QUOTIENT_POINT source=78 variant=3 target=20 targetdegree=9 passes=false class=[ 3, 2, 2, 7, 13325, 0 ] time=47.240
+THREE_QUOTIENT_CANDIDATE candidate=1 source=15 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=2 source=14 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=3 source=13 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=4 source=24 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=5 source=23 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=6 source=22 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=7 source=30 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=8 source=29 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=9 source=28 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=10 source=33 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=11 source=32 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=12 source=31 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=13 source=39 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=14 source=38 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=15 source=37 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=16 source=42 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=17 source=41 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=18 source=40 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=19 source=45 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=20 source=44 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=21 source=43 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=22 source=48 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=23 source=47 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=24 source=46 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=25 source=51 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=26 source=50 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=27 source=49 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=28 source=54 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=29 source=53 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=30 source=52 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=31 source=57 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=32 source=56 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=33 source=55 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=34 source=66 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=35 source=65 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=36 source=64 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=37 source=69 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=38 source=68 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=39 source=67 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=40 source=78 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=41 source=77 passes=false time=47.250
+THREE_QUOTIENT_CANDIDATE candidate=42 source=76 passes=false time=47.250
+THREE_QUOTIENTS_DONE candidates=42 maps=126 distincttargets=21 remaining=0 complete=true exclusion_claimed=false time=47.250

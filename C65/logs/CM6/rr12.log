@@ -1,0 +1,3 @@
+NONIC65_CM6_RR12_CASE case=6 index=1 degree=36 positive_rank=36 negative_rank=36 multiplication_rank121=true final_rank=121 H_trials=[ 121 ] time=0.170
+NONIC65_CM6_RR12_CASE case=6 index=2 degree=36 positive_rank=36 negative_rank=36 multiplication_rank121=true final_rank=121 H_trials=[ 121 ] time=0.180
+NONIC65_CM6_RR12_ALL_EXCLUSIONS_COMPLETE cases=2 time=0.180

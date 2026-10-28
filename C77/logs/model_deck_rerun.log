@@ -1,0 +1,32 @@
+NONIC77_X0_MODEL genus7=true modular_polynomial_verified=true cusp_widths=[ 11, 77, 1, 7 ] time=23.010
+Loading "C77/AS_component.m"
+NONIC77_DIRECT_CUBIC_VERIFIED degree12=true genus19=true exact_base_embedding=true deck_order3=true time=39.280
+NONIC77_DIRECT_GENUS37_VERIFIED time=83.340
+NONIC77_GLOBAL_CUSPS_VERIFIED signature=[ 2, 1, 1, 2, 1, 1, 6, 3, 3, 1, 1, 2 ] width_degree_pairs=[ <7, 2>, <77, 1>, <77, 1>, <7, 2>, <77, 1>, <77, 1>, <1, 6>, <11, 3>, <11, 3>, <77, 1>, <77, 1>, <7, 2> ] jdegree576=true time=423.990
+NONIC77_DIRECT_GLOBAL_GENUS37_MODEL_DONE
+NONIC77_DECK_LABELS labels=[ <0, 0>, <0, 1>, <1, 0>, <1, 1>, <2, 0>, <2, 1> ] perm2=[ 2, 1, 4, 3, 6, 5 ] perm3=[ 3, 4, 5, 6, 1, 2 ] time=0.860
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=5/37 time=21.020
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=10/37 time=21.700
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=15/37 time=22.380
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=20/37 time=23.070
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=25/37 time=23.740
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=30/37 time=24.420
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=35/37 time=25.100
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=5/37 time=26.500
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=10/37 time=27.630
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=15/37 time=28.740
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=20/37 time=29.870
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=25/37 time=30.880
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=30/37 time=32.000
+NONIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=35/37 time=33.120
+NONIC77_DECK_DIFFERENTIALS_VERIFIED group_order6=true commutes_Cartier=true image_dimension32=true time=33.640
+NONIC77_MODEL_AND_DECK_READY
+Loading "C77/rr9_continue.m"
+Loading "C77/data/retained_degree_independent_kernels.m"
+FI_JET_DATA_READY
+NONIC77_BASIS_ALIGNMENT_PASS intertwiner_dimension=1 invertible=true anchor_m=8 time=26.990
+NONIC77_NEW_RATIONAL_M9_PASS rank=9 time=51.450
+NONIC77_NEW_CUBIC_RR m=1 dimension=34 restriction_rank=3 time=67.540
+NONIC77_NEW_CUBIC_RR m=2 dimension=31 restriction_rank=6 time=84.990
+NONIC77_NEW_CUBIC_RR m=3 dimension=28 restriction_rank=9 time=105.910
+NONIC77_FI9_COMPLETE tested=3098 exceptions=0 complete=true time=106.040

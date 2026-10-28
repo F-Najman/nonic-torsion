@@ -1,0 +1,3 @@
+NONIC71_NATIVE3_TARGET source_index=1 degree=7 curve_order=142 maps=4 target_degrees=[ 28 ] norm_weights_all1=true time=0.040
+NONIC71_NATIVE3_TARGET source_index=2 degree=8 curve_order=284 maps=4 target_degrees=[ 16, 16 ] norm_weights_all1=true time=0.160
+NONIC71_NATIVE3_TARGETS_COMPLETE

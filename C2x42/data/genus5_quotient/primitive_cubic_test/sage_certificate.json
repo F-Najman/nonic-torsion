@@ -1,0 +1,34 @@
+{
+  "complete": true,
+  "prime": 5,
+  "primitive_tests": 3,
+  "excluded_pure9_supports": 2,
+  "remaining_pure9_supports": 1,
+  "independent_checked_11_isogenies": 36,
+  "checks": [
+    {
+      "descriptor": [
+        1,
+        9,
+        2
+      ],
+      "primitive_in_rational_upper": false
+    },
+    {
+      "descriptor": [
+        1,
+        9,
+        5
+      ],
+      "primitive_in_rational_upper": false
+    },
+    {
+      "descriptor": [
+        1,
+        9,
+        8
+      ],
+      "primitive_in_rational_upper": true
+    }
+  ]
+}

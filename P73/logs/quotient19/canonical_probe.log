@@ -1,0 +1,11 @@
+NONIC73_QUOTIENT_SYMBOLS dimension=19 H_index=4 H_order=9 time=0.030
+NONIC73_QUOTIENT_NEWFORMS dimensions=[ 1, 2, 2, 2, 4, 8 ] time=0.070
+NONIC73_QUOTIENT_EIGENFORM dimension=2 absolute_coefficient_dimension=2 coefficient_ring_type=FldNum time=0.080
+NONIC73_QUOTIENT_EIGENFORM dimension=2 absolute_coefficient_dimension=2 coefficient_ring_type=FldNum time=0.080
+NONIC73_QUOTIENT_EIGENFORM dimension=2 absolute_coefficient_dimension=2 coefficient_ring_type=FldCyc time=0.100
+NONIC73_QUOTIENT_EIGENFORM dimension=4 absolute_coefficient_dimension=4 coefficient_ring_type=FldNum time=0.100
+NONIC73_QUOTIENT_EIGENFORM dimension=8 absolute_coefficient_dimension=8 coefficient_ring_type=FldNum time=0.110
+NONIC73_QUOTIENT_Q_BASIS integral=true mod2_rank=19 precision=130 time=0.110
+NONIC73_QUOTIENT_QUADRICS rank=54 independent_relations=136 time=0.280
+NONIC73_QUOTIENT_CANONICAL_CURVE dimension=1 degree=36 arithmetic_genus=19 time=0.310
+NONIC73_QUOTIENT_CANONICAL_QUADRICS_PROBE_COMPLETE

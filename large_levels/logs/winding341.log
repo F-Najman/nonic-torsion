@@ -1,0 +1,30 @@
+WINDING N=341 order=1 conductor=1 relative_dimension=31 winding_dimension=25 coefficient_degree=1 time=0.070
+WINDING N=341 order=5 conductor=11 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.200
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.660
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.390
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.400
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.360
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.440
+WINDING N=341 order=15 conductor=31 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.480
+WINDING N=341 order=15 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.790
+WINDING N=341 order=15 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.410
+WINDING N=341 order=15 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.480
+WINDING N=341 order=15 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.490
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.190
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.300
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.190
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.170
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.190
+WINDING N=341 order=30 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.400
+WINDING N=341 order=6 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=2 time=0.180
+WINDING N=341 order=5 conductor=31 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.170
+WINDING N=341 order=5 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.180
+WINDING N=341 order=5 conductor=341 relative_dimension=30 winding_dimension=29 coefficient_degree=4 time=0.230
+WINDING N=341 order=5 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.330
+WINDING N=341 order=5 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.170
+WINDING N=341 order=3 conductor=31 relative_dimension=30 winding_dimension=30 coefficient_degree=2 time=0.180
+WINDING N=341 order=15 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=8 time=0.370
+WINDING N=341 order=10 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=4 time=0.180
+WINDING N=341 order=2 conductor=341 relative_dimension=30 winding_dimension=30 coefficient_degree=1 time=0.050
+WINDING_FINAL N=341 genus=4501 total_dimension=4501 bad_orders=[ 1, 5 ] admissible=[ 15, 17, 18, 19, 20, 24, 32, 35, 39, 41, 42, 52, 56, 59, 67, 71, 74, 86, 87, 91, 97, 98, 106, 115, 116, 138, 139, 157, 158, 183, 184, 202, 203, 225, 226, 235, 243, 244, 250, 254, 255, 267, 270, 274, 282, 285, 289, 299, 300, 302, 306, 309, 317, 321, 322, 323, 324, 326 ]
+WINDING_CHARACTER_PROBE_DONE

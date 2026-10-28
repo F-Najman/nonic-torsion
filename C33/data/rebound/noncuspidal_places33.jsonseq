@@ -1,0 +1,508 @@
+{"degree":5,"index":1,"class":[ 8, 36904980, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0 ],
+[ 0, 1, 1, 0, 1 ]
+]}
+{"degree":5,"index":2,"class":[ 13, 1593605, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0 ],
+[ 0, 1, 0, 1, 0 ]
+]}
+{"degree":6,"index":1,"class":[ 8, 10251703, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 0, 1 ]
+]}
+{"degree":6,"index":2,"class":[ 2, 9730811, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 0, 0 ]
+]}
+{"degree":6,"index":3,"class":[ 2, 17574013, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 1, 0 ]
+]}
+{"degree":6,"index":4,"class":[ 4, 3427381, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 1, 1, 0, 0, 1 ]
+]}
+{"degree":6,"index":5,"class":[ 11, 5774623, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 0, 0 ]
+]}
+{"degree":6,"index":6,"class":[ 10, 34176391, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 0, 1 ]
+]}
+{"degree":6,"index":7,"class":[ 1, 14192401, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 1, 0 ]
+]}
+{"degree":6,"index":8,"class":[ 13, 31220453, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 1, 1 ]
+]}
+{"degree":6,"index":9,"class":[ 4, 34168193, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 0, 0, 0, 1, 1 ],
+[ 0, 1, 0, 0, 0, 0 ]
+]}
+{"degree":6,"index":10,"class":[ 14, 18357131, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 1, 1 ]
+]}
+{"degree":6,"index":11,"class":[ 14, 12494893, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 1, 0, 0, 0, 1, 1 ],
+[ 0, 1, 0, 0, 0, 0 ]
+]}
+{"degree":6,"index":12,"class":[ 13, 2637271, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 1, 0 ]
+]}
+{"degree":6,"index":13,"class":[ 10, 4320233, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 0, 0 ]
+]}
+{"degree":6,"index":14,"class":[ 7, 27169313, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 1, 1, 1, 0, 0, 1 ],
+[ 0, 1, 0, 0, 0, 0 ]
+]}
+{"degree":6,"index":15,"class":[ 11, 41099501, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 0, 1 ]
+]}
+{"degree":6,"index":16,"class":[ 5, 29851783, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 0 ]
+]}
+{"degree":6,"index":17,"class":[ 1, 7317923, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 1, 1 ]
+]}
+{"degree":6,"index":18,"class":[ 5, 36726191, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 0, 1 ]
+]}
+{"degree":6,"index":19,"class":[ 8, 23706671, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 1 ]
+]}
+{"degree":6,"index":20,"class":[ 7, 4564111, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 0 ]
+]}
+{"degree":7,"index":1,"class":[ 3, 4703146, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 0, 0, 1, 1 ]
+]}
+{"degree":7,"index":2,"class":[ 14, 30224517, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 1, 0, 1 ]
+]}
+{"degree":7,"index":3,"class":[ 1, 7806262, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 0, 1 ]
+]}
+{"degree":7,"index":4,"class":[ 9, 26483686, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 0, 0 ]
+]}
+{"degree":7,"index":5,"class":[ 0, 28974201, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 1, 0, 1 ]
+]}
+{"degree":7,"index":6,"class":[ 4, 18543269, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 1, 0 ]
+]}
+{"degree":7,"index":7,"class":[ 10, 33767602, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 1, 0, 0 ]
+]}
+{"degree":7,"index":8,"class":[ 13, 29289982, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 0, 0, 1, 0 ]
+]}
+{"degree":7,"index":9,"class":[ 5, 30764877, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 1, 0, 1 ]
+]}
+{"degree":7,"index":10,"class":[ 2, 38264144, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 0, 1, 1 ]
+]}
+{"degree":7,"index":11,"class":[ 11, 20907537, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 0, 1, 0, 0 ]
+]}
+{"degree":7,"index":12,"class":[ 0, 41236726, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 1, 0, 0 ]
+]}
+{"degree":7,"index":13,"class":[ 9, 23380311, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 0, 1 ]
+]}
+{"degree":7,"index":14,"class":[ 7, 12145469, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 0, 1, 0 ]
+]}
+{"degree":7,"index":15,"class":[ 11, 21689594, 0 ],"field_polynomial":[ 1, 0, 0, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 0, 0, 0 ]
+]}
+{"degree":7,"index":16,"class":[ 10, 30186869, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 0, 1, 0, 1 ]
+]}
+{"degree":7,"index":17,"class":[ 8, 7808294, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 0, 0, 0 ]
+]}
+{"degree":7,"index":18,"class":[ 8, 13102107, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 0, 0, 0 ]
+]}
+{"degree":7,"index":19,"class":[ 4, 34636342, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 0, 1, 1, 1 ]
+]}
+{"degree":7,"index":20,"class":[ 6, 39619366, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 0, 1, 0 ]
+]}
+{"degree":7,"index":21,"class":[ 12, 38945356, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 0, 0, 0, 1 ]
+]}
+{"degree":7,"index":22,"class":[ 2, 15028047, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 0, 1, 1 ]
+]}
+{"degree":7,"index":23,"class":[ 6, 7428141, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 0, 1, 0, 1 ]
+]}
+{"degree":7,"index":24,"class":[ 7, 11589172, 0 ],"field_polynomial":[ 1, 0, 0, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 1, 1, 0 ]
+]}
+{"degree":7,"index":25,"class":[ 3, 14583621, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 0, 0, 1 ]
+]}
+{"degree":7,"index":26,"class":[ 14, 5911694, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 1, 0 ]
+]}
+{"degree":7,"index":27,"class":[ 5, 3866894, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 0, 0, 1 ]
+]}
+{"degree":7,"index":28,"class":[ 13, 15004769, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 1, 1 ]
+]}
+{"degree":7,"index":29,"class":[ 12, 27186081, 0 ],"field_polynomial":[ 1, 1, 1, 0, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 0, 1, 1, 0 ]
+]}
+{"degree":7,"index":30,"class":[ 1, 22847069, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 1, 1 ]
+]}
+{"degree":8,"index":1,"class":[ 6, 5388571, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 0, 1, 1, 0, 0 ]
+]}
+{"degree":8,"index":2,"class":[ 2, 33742862, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 1, 0, 0 ]
+]}
+{"degree":8,"index":3,"class":[ 14, 25107580, 0 ],"field_polynomial":[ 1, 0, 1, 0, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 0, 0, 1, 0 ]
+]}
+{"degree":8,"index":4,"class":[ 8, 31070792, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 0, 1, 1 ]
+]}
+{"degree":8,"index":5,"class":[ 5, 23154700, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 1, 1, 0 ]
+]}
+{"degree":8,"index":6,"class":[ 8, 2863960, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 1, 0, 1, 1 ]
+]}
+{"degree":8,"index":7,"class":[ 4, 8701630, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 0, 1, 1, 1 ]
+]}
+{"degree":8,"index":8,"class":[ 11, 14798320, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 1, 0, 1, 0, 0, 1 ],
+[ 0, 1, 0, 0, 0, 0, 0, 0 ]
+]}
+{"degree":8,"index":9,"class":[ 4, 34774722, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 0, 0, 1 ]
+]}
+{"degree":8,"index":10,"class":[ 2, 20271940, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 0, 0, 0 ]
+]}
+{"degree":8,"index":11,"class":[ 3, 23449471, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 1, 0, 0 ]
+]}
+{"degree":8,"index":12,"class":[ 9, 17197621, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 1, 1, 1, 1, 1, 0, 1, 1 ],
+[ 0, 1, 0, 0, 0, 0, 0, 0 ]
+]}
+{"degree":8,"index":13,"class":[ 0, 3304621, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 1, 0, 1, 0 ]
+]}
+{"degree":8,"index":14,"class":[ 13, 24964692, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 1, 0, 1 ]
+]}
+{"degree":8,"index":15,"class":[ 1, 15289782, 0 ],"field_polynomial":[ 1, 0, 1, 0, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 1, 1, 0, 0 ]
+]}
+{"degree":8,"index":16,"class":[ 5, 35606852, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 1, 1, 0, 1 ]
+]}
+{"degree":8,"index":17,"class":[ 13, 21182260, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 0, 0, 1 ]
+]}
+{"degree":8,"index":18,"class":[ 10, 7659702, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 1, 0, 1, 1 ]
+]}
+{"degree":8,"index":19,"class":[ 7, 17755690, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 0, 0, 1, 0 ]
+]}
+{"degree":8,"index":20,"class":[ 1, 16308070, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 0, 1, 1 ]
+]}
+{"degree":8,"index":21,"class":[ 12, 24144121, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 1, 1, 0, 0 ]
+]}
+{"degree":8,"index":22,"class":[ 10, 22248850, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 1, 0, 0, 1 ]
+]}
+{"degree":8,"index":23,"class":[ 11, 1668482, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 0, 0, 1, 1, 1 ]
+]}
+{"degree":8,"index":24,"class":[ 14, 29306072, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 1, 0, 0 ]
+]}
+{"degree":8,"index":25,"class":[ 7, 34581612, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 0, 1, 0, 1, 0 ]
+]}
+{"degree":9,"index":1,"class":[ 6, 39597943, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 1, 0, 1, 1 ]
+]}
+{"degree":9,"index":2,"class":[ 7, 29346524, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 0, 0, 1, 0 ]
+]}
+{"degree":9,"index":3,"class":[ 6, 15727832, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 0, 1, 0, 0, 1, 0 ]
+]}
+{"degree":9,"index":4,"class":[ 14, 22930995, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 1, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 0, 0, 0, 0, 0, 1 ]
+]}
+{"degree":9,"index":5,"class":[ 2, 15372949, 0 ],"field_polynomial":[ 1, 0, 0, 1, 1, 0, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 1, 0, 1, 0, 1 ]
+]}
+{"degree":9,"index":6,"class":[ 11, 10368585, 0 ],"field_polynomial":[ 1, 1, 0, 0, 1, 1, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 0, 0, 0, 0, 1 ]
+]}
+{"degree":9,"index":7,"class":[ 0, 26442818, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 0, 1, 1, 1, 0 ]
+]}
+{"degree":9,"index":8,"class":[ 12, 32909222, 0 ],"field_polynomial":[ 1, 0, 1, 0, 1, 1, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 0, 1, 0, 1, 0 ]
+]}
+{"degree":9,"index":9,"class":[ 7, 31957575, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 0, 0, 1, 1, 1 ]
+]}
+{"degree":9,"index":10,"class":[ 13, 7457595, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 1, 1, 0, 1, 1 ]
+]}
+{"degree":9,"index":11,"class":[ 12, 38725993, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 1, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":12,"class":[ 9, 40267352, 0 ],"field_polynomial":[ 1, 0, 1, 0, 0, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 0, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":13,"class":[ 5, 33494565, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 1, 1, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":14,"class":[ 0, 33477392, 0 ],"field_polynomial":[ 1, 0, 0, 1, 1, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 1, 1, 0, 1, 1 ]
+]}
+{"degree":9,"index":15,"class":[ 9, 24644743, 0 ],"field_polynomial":[ 1, 0, 0, 1, 1, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 0, 1, 0, 1 ]
+]}
+{"degree":9,"index":16,"class":[ 0, 30686893, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 0, 1, 0, 1 ]
+]}
+{"degree":9,"index":17,"class":[ 0, 2997217, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 1, 1, 0, 0 ]
+]}
+{"degree":9,"index":18,"class":[ 14, 38324490, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 0, 1, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":19,"class":[ 8, 6803370, 0 ],"field_polynomial":[ 1, 0, 1, 0, 1, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 0, 0, 0, 1, 1 ]
+]}
+{"degree":9,"index":20,"class":[ 4, 33799394, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 1, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":21,"class":[ 3, 36453787, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":22,"class":[ 8, 17827725, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 1, 1, 0, 0 ]
+]}
+{"degree":9,"index":23,"class":[ 13, 20897550, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 0, 1, 1, 0 ]
+]}
+{"degree":9,"index":24,"class":[ 10, 15952035, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 0, 0, 1, 0, 0, 0 ]
+]}
+{"degree":9,"index":25,"class":[ 3, 37443512, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 1, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":26,"class":[ 4, 30725415, 0 ],"field_polynomial":[ 1, 0, 1, 0, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 0, 0, 1, 1, 0 ]
+]}
+{"degree":9,"index":27,"class":[ 5, 1607029, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 1, 1, 0, 1, 1 ]
+]}
+{"degree":9,"index":28,"class":[ 8, 9806809, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 1, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":29,"class":[ 2, 33417000, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 1, 0, 1, 0, 1, 1, 1, 0, 1 ],
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":30,"class":[ 11, 8437680, 0 ],"field_polynomial":[ 1, 0, 1, 0, 1, 0, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 0, 0, 1, 1, 0, 0 ]
+]}
+{"degree":9,"index":31,"class":[ 2, 22942605, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 0, 0, 0, 1 ]
+]}
+{"degree":9,"index":32,"class":[ 12, 21498068, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 0, 1, 1, 0 ]
+]}
+{"degree":9,"index":33,"class":[ 6, 22085557, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 1, 1, 0, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":34,"class":[ 13, 9387434, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1, 1, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 0, 1, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":35,"class":[ 7, 29132580, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 0, 0, 0, 1, 1 ]
+]}
+{"degree":9,"index":36,"class":[ 12, 28598047, 0 ],"field_polynomial":[ 1, 0, 0, 0, 0, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 1, 1, 0, 0, 0, 1, 0 ]
+]}
+{"degree":9,"index":37,"class":[ 9, 20254777, 0 ],"field_polynomial":[ 1, 0, 0, 0, 1, 0, 1, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 1, 0, 0, 1, 1 ]
+]}
+{"degree":9,"index":38,"class":[ 9, 40631318, 0 ],"field_polynomial":[ 1, 1, 1, 1, 1, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 1, 1, 0, 0 ]
+]}
+{"degree":9,"index":39,"class":[ 1, 3510914, 0 ],"field_polynomial":[ 1, 0, 0, 1, 0, 0, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 0, 1, 0, 1, 1, 1 ]
+]}
+{"degree":9,"index":40,"class":[ 11, 21644689, 0 ],"field_polynomial":[ 1, 0, 1, 1, 1, 1, 0, 1, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 0, 1, 1, 0, 1, 0 ]
+]}
+{"degree":9,"index":41,"class":[ 4, 36166470, 0 ],"field_polynomial":[ 1, 1, 0, 1, 0, 1, 1, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 1, 0, 0, 0 ]
+]}
+{"degree":9,"index":42,"class":[ 1, 19376760, 0 ],"field_polynomial":[ 1, 0, 1, 1, 0, 0, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 1, 0, 0, 1 ]
+]}
+{"degree":9,"index":43,"class":[ 6, 35655818, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+]}
+{"degree":9,"index":44,"class":[ 14, 36533719, 0 ],"field_polynomial":[ 1, 1, 1, 0, 1, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 1, 1, 1, 0, 1, 0, 1 ]
+]}
+{"degree":9,"index":45,"class":[ 5, 41768760, 0 ],"field_polynomial":[ 1, 0, 1, 0, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 0, 0, 1, 0 ]
+]}
+{"degree":9,"index":46,"class":[ 3, 1698368, 0 ],"field_polynomial":[ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 0, 0, 1, 0, 1, 0, 1, 1 ]
+]}
+{"degree":9,"index":47,"class":[ 3, 27582193, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 0, 0, 0, 0, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 1, 1, 0, 1, 1, 0, 0, 0, 0 ]
+]}
+{"degree":9,"index":48,"class":[ 10, 15983204, 0 ],"field_polynomial":[ 1, 1, 0, 1, 1, 1, 1, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 1, 0, 0, 0, 1, 0, 0 ]
+]}
+{"degree":9,"index":49,"class":[ 10, 23177940, 0 ],"field_polynomial":[ 1, 1, 0, 0, 0, 1, 0, 0, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 0, 0, 1, 0, 0, 0, 1, 1 ]
+]}
+{"degree":9,"index":50,"class":[ 1, 21471855, 0 ],"field_polynomial":[ 1, 0, 1, 0, 1, 1, 0, 1, 1, 1 ],"coordinates":[
+[ 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
+[ 0, 1, 0, 1, 1, 1, 1, 1, 0 ]
+]}

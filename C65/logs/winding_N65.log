@@ -1,0 +1,21 @@
+NONIC_CHARACTER_PROBE_START N=65 genus=121 time=0.060
+NONIC_CHARACTER_FACTOR N=65 dim=1 newlevel=65 winding_nonzero=0 character_order=1 kernel_size=48 time=0.270
+NONIC_CHARACTER_FACTOR N=65 dim=1 newlevel=13 winding_nonzero=1 character_order=6 kernel_size=8 time=0.270
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=2 kernel_size=24 time=0.320
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=1 kernel_size=48 time=0.360
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=4 kernel_size=12 time=0.400
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=1 kernel_size=48 time=0.430
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=2 kernel_size=24 time=0.480
+NONIC_CHARACTER_FACTOR N=65 dim=2 newlevel=65 winding_nonzero=1 character_order=4 kernel_size=12 time=0.530
+NONIC_CHARACTER_FACTOR N=65 dim=4 newlevel=65 winding_nonzero=1 character_order=3 kernel_size=16 time=0.590
+NONIC_CHARACTER_FACTOR N=65 dim=4 newlevel=65 winding_nonzero=1 character_order=3 kernel_size=16 time=0.650
+NONIC_CHARACTER_FACTOR N=65 dim=6 newlevel=65 winding_nonzero=1 character_order=2 kernel_size=24 time=0.730
+NONIC_CHARACTER_FACTOR N=65 dim=6 newlevel=65 winding_nonzero=1 character_order=2 kernel_size=24 time=0.810
+NONIC_CHARACTER_FACTOR N=65 dim=8 newlevel=65 winding_nonzero=1 character_order=4 kernel_size=12 time=0.910
+NONIC_CHARACTER_FACTOR N=65 dim=8 newlevel=65 winding_nonzero=1 character_order=4 kernel_size=12 time=1.010
+NONIC_CHARACTER_FACTOR N=65 dim=8 newlevel=65 winding_nonzero=1 character_order=6 kernel_size=8 time=1.120
+NONIC_CHARACTER_FACTOR N=65 dim=8 newlevel=65 winding_nonzero=1 character_order=6 kernel_size=8 time=1.210
+NONIC_CHARACTER_FACTOR N=65 dim=12 newlevel=65 winding_nonzero=1 character_order=6 kernel_size=8 time=1.330
+NONIC_CHARACTER_FACTOR N=65 dim=20 newlevel=65 winding_nonzero=1 character_order=12 kernel_size=4 time=1.570
+NONIC_CHARACTER_FACTOR N=65 dim=20 newlevel=65 winding_nonzero=1 character_order=12 kernel_size=4 time=1.740
+NONIC_CHARACTER_PROBE_COMPLETE N=65 genus=121 zero_L_factors=1 finite_diamond_order=24 units=[ 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 14, 16, 17, 18, 19, 21, 22, 23, 24, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43, 44, 46, 47, 48, 49, 51, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64 ] time=1.740

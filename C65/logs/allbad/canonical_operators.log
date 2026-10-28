@@ -1,0 +1,23 @@
+NONIC65_ALLBAD_CANONICAL_UNIT_NEWFORMS dimensions=[ 1, 1, 2, 2, 2, 2, 2, 2, 4, 4, 6, 6, 8, 8, 8, 8, 12, 20, 20 ] time=0.160
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=1 time=17.720
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=5 time=17.860
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=7 time=17.970
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=9 time=18.090
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=11 time=18.240
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=13 time=18.260
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=15 time=18.280
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=17 time=18.430
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=4 accumulated=21 time=18.610
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=4 accumulated=25 time=18.670
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=31 time=18.800
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=37 time=18.940
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=8 accumulated=45 time=19.030
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=8 accumulated=53 time=19.130
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=8 accumulated=61 time=19.340
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=8 accumulated=69 time=19.560
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=12 accumulated=81 time=19.810
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=20 accumulated=101 time=20.100
+NONIC65_ALLBAD_CANONICAL_UNIT_EIGENFORM dimension=20 accumulated=121 time=20.390
+NONIC65_ALLBAD_CANONICAL_UNIT_SATURATED_BASIS rank121=true precision1100=true Sturm_weight2=336 diamond3order12=true time=20.730
+Loading "work/degree9/cyclic/continuation_20261026/C65_allbad/canonical_source_data.m"
+NONIC65_ALLBAD_CANONICAL_ANNIHILATOR_COMPLETE dimensions=106 positive_eigenvalues=[ -1, -2, -4, 2, 2 ] meta=[ <2, 3, -1, <0, 1>, 96>, <2, 7, -1, <1, 10>, 92>, <2, 11, -1, <1, 3>, 72>, <2, 17, -1, <0, 5>, 82>, <3, 3, -2, <0, 1>, 85>, <3, 7, -2, <1, 10>, 80>, <3, 11, -2, <1, 3>, 61>, <3, 17, -2, <0, 5>, 76>, <7, 3, -4, <0, 1>, 80>, <7, 7, -4, <1, 10>, 76>, <7, 11, -4, <1, 3>, 56>, <7, 17, -4, <0, 5>, 72>, <11, 3, 2, <0, 1>, 85>, <11, 7, 2, <1, 10>, 80>, <11, 11, 2, <1, 3>, 61>, <11, 17, 2, <0, 5>, 76>, <17, 3, 2, <0, 1>, 96>, <17, 7, 2, <1, 10>, 92>, <17, 11, 2, <1, 3>, 72>, <17, 17, 2, <0, 5>, 82> ] time=21.080

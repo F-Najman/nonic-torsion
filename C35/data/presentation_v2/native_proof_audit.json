@@ -1,0 +1,20 @@
+{
+  "native_version": "2.30-1",
+  "native_export_actual_exit_code": 0,
+  "search_parameter_Proof": false,
+  "native_proven": true,
+  "factor_basis_bound": 9,
+  "unconditional_generation_bound_q3_g25": 9,
+  "generation_bound_check_source": "check_generation_bound.m",
+  "generation_bound_check_log": "check_generation_bound.log",
+  "native_implementation_path": "/opt/magma-2.30-1/package/Ring/FldFun/classgroup.m",
+  "native_implementation_sha256": "46bca9e4083efda1c0287790f6e9e9968d6fa2ddef82126eb8532ec9fdcef6b3",
+  "native_proven_assignment_lines": [
+    1104,
+    1129
+  ],
+  "assignment_rule": "ClassGroupMain marks the result proven if its factor-basis bound meets the rigorous generation bound; below that bound it requires the explicit overlattice check when proof is requested. Proof=false does not prevent the bound proof from succeeding.",
+  "principal_relation_origin": "Native RelAdd constructs relation rows from exact valuations of actual functions; the standard proven class-group algorithm is used.",
+  "full_Pic_order_independently_checked_by_Frobenius": 14529850982400,
+  "manual_unproven_presentation_fallback_used": false
+}

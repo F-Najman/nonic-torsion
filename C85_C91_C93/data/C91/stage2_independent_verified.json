@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "sources": 4,
+  "ordinary_91_torsion_families": 16,
+  "precision": 5,
+  "unit_relations": [
+    160,
+    156
+  ],
+  "all_finite_unit_ranks": 264,
+  "all_psi91_derivatives_nonzero": true,
+  "all_canonical_tangents_nonzero": true,
+  "native_data_sha256": "4049f2cfaa0d793dace562bf731375d465a350b445de5337f069e61e91971c37",
+  "elapsed_seconds": 10.513145084027201
+}

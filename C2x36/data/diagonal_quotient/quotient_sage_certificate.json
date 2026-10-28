@@ -1,0 +1,20 @@
+{
+  "complete": true,
+  "degree": 9,
+  "prime": 5,
+  "quotient_genus": 9,
+  "finite_picard_order": 2985984,
+  "finite_A7_image_order": 8,
+  "finite_A7_kernel_invariants": [
+    3,
+    3,
+    3,
+    24,
+    24,
+    24
+  ],
+  "rational_image_upper_index": 8,
+  "normalized_quotient_images_checked": 1836,
+  "supports": 2064,
+  "remaining": 267
+}

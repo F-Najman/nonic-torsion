@@ -1,0 +1,29 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    899
+  ],
+  "N": 899,
+  "a": 3,
+  "diamond_order": 420,
+  "q": 3,
+  "kq": 7,
+  "degree9_principal_bound": 63,
+  "index": 403200,
+  "genus": 32761,
+  "gonality_lower_bound": "511875/128",
+  "minimum_CM_degree": 1680,
+  "bad_winding_orders": [
+    1
+  ],
+  "modular_Krylov_matrices": [
+    "krylov_N899_chi5_order420.json",
+    "krylov_N899_chi6_order60.json",
+    "krylov_N899_chi8_order210.json",
+    "krylov_N899_chi9_order105.json",
+    "krylov_N899_chi11_order140.json",
+    "krylov_N899_chi13_order84.json",
+    "krylov_N899_chi16_order70.json"
+  ]
+}

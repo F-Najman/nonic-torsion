@@ -1,0 +1,50 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(8*10^9);tt:=Cputime();
+load "C58_C62/data/C58_X129/inputs.m";
+assert N eq 29 and p eq 3 and ExpectedGenus eq 22 and KnownOrder eq 1583363948544;
+assert ClassGroupGenerationBound(p,ExpectedGenus) le 9;
+k:=GF(p);K<t>:=RationalFunctionField(k);P<z>:=PolynomialRing(K);Pr:=PolynomialRing(k);
+function DecRat35(v)return K!(Pr!v[1])/(K!(Pr!v[2]));end function;
+f:=P![DecRat35(a):a in FieldPolynomialData];assert IsMonic(f);
+F<u>:=FunctionField(f);assert Genus(F) eq ExpectedGenus;
+function DecElt35(v)return F![DecRat35(a):a in v];end function;
+coords:=[DecElt35(a):a in ModularCoordinatesData];
+OF:=MaximalOrderFinite(F);OI:=MaximalOrderInfinite(F);fb:=[];
+for i in [1..#FBDegrees] do
+ O:=FBFinite[i] select OF else OI;J:=ideal<O|[DecElt35(a):a in FBBases[i]]>;
+ assert IsPrime(J);Q:=Place(J);assert Degree(Q) eq FBDegrees[i] and IsFinite(Q) eq FBFinite[i];Append(~fb,Q);
+ if i mod 250 eq 0 then printf "NONIC58_N29_FB_RESTORE_PROGRESS places=%o/%o time=%o\n",i,#FBDegrees,Cputime(tt);end if;
+end for;
+m:=#fb;assert m eq 3535 and #Seqset(fb) eq m and Maximum(FBDegrees) eq 9;
+assert [#[d:d in FBDegrees|d eq e]:e in [1..9]] eq [14, 0, 14, 28, 14, 133, 280, 770, 2282];
+printf "NONIC58_N29_FB_PRIMES_RESTORED places=3535 all_degrees_le9=true generation_bound_at_most9=true time=%o\n",Cputime(tt);
+x,y:=Explode(coords);rr:=(x^2*y-x*y+y-1)/(x^2*y-x);ss:=(x*y-y+1)/(x*y);bb:=rr*ss*(rr-1);cc:=ss*(rr-1);E0:=EllipticCurve([1-cc,-bb,-bb,F!0,F!0]);P0:=E0![0,0];assert 29*P0 eq E0!0 and P0 ne E0!0;
+jF:=jInvariant(E0);cs:=Poles(jF);assert {*Degree(q):q in cs*} eq {*1^^14,14*} and Degree(jF) eq 420;
+ic0:=Index(FBDegrees,1);cip:=[i:i in [1..m]|fb[i] in cs];assert #cip eq 14 and &and[Degree(fb[i]) eq 1:i in cip];assert ic0 in cip;
+function Characters58(modulus,expected,expectedH)
+ RR:=Integers(modulus);A:=Matrix(RR,RawRelations);unit:=ZeroMatrix(RR,1,m);unit[1,ic0]:=1;A:=VerticalJoin(A,unit);KK:=Nullspace(Transpose(A));B:=BasisMatrix(KK);assert #KK eq expected and A*Transpose(B) eq 0;
+ GG:=AbelianGroup([modulus:i in [1..Nrows(B)]]);cols:=[GG![Integers()!B[i,j]:i in [1..Nrows(B)]]:j in [1..m]];IM:=sub<GG|cols>;HH:=sub<GG|[cols[i]:i in cip]>;assert #IM eq expected and #HH eq expectedH;return B,cols,HH;
+end function;
+B8,col8,H8:=Characters58(8,32768,64);B9,col9,H9:=Characters58(9,9,3);
+out:=Open("C58_C62/data/C58_X129/characters58.json","w");fprintf out,"{\"level\":29,\"base_FB_index\":%o,\"cusp_FB_indices\":%o,\"matrix8\":%o,\"matrix9\":%o,\"image_orders\":[32768,9],\"rational_image_orders\":[64,3],\"complete\":true}\n",ic0,cip,[[Integers()!B8[i,j]:j in [1..m]]:i in [1..Nrows(B8)]],[[Integers()!B9[i,j]:j in [1..m]]:i in [1..Nrows(B9)]];delete out;
+printf "NONIC58_N29_PRIMARY_IMAGES_READY full32768_9=true rational64_3=true time=%o\n",Cputime(tt);
+function Code58(L,w,IB)return [Integers()!v:v in Eltseq(Vector(k,Eltseq(L!w,k))*IB)];end function;
+points:=Open("C58_C62/data/C58_X129/finite_points58.jsonseq","w");fprintf points,"{\"type\":\"header\",\"level\":29,\"p\":3,\"FB_size\":3535}\n";
+tests:=[* *];survivors:=[* *];nc:=[0:i in [1..9]];eligible:=[0:i in [1..9]];
+for i in [1..m] do
+ Q:=fb[i];dd:=Degree(Q);if Q in cs then continue;end if;assert dd in [3..9];nc[dd]+:=1;
+ bv:=Evaluate(bb,Q);cv:=Evaluate(cc,Q);L:=Parent(bv);assert Parent(cv) cmpeq L and #L eq 3^dd;
+ EL:=EllipticCurve([L!1-cv,-bv,-bv,L!0,L!0]);PP:=EL![0,0];assert 29*PP eq EL!0 and PP ne EL!0;
+ R<Z>:=PolynomialRing(L);ai:=aInvariants(EL);b2:=ai[1]^2+4*ai[2];b4:=ai[1]*ai[3]+2*ai[4];b6:=ai[3]^2+4*ai[5];two:=4*Z^3+b2*Z^2+2*b4*Z+b6;assert GCD(two,Derivative(two)) eq 1;nr:=#Roots(two);assert nr in [0,1,3];
+ if dd in [3,4] then assert nr eq 0 and IsIrreducible(two);end if;
+ th:=PrimitiveElement(L);mp:=MinimalPolynomial(th,k);assert Degree(mp) eq dd;BM:=Matrix(k,[Eltseq(th^e,k):e in [0..dd-1]]);IB:=BM^-1;
+ fprintf points,"{\"type\":\"point\",\"FB_index\":%o,\"degree\":%o,\"field_polynomial\":%o,\"b\":%o,\"c\":%o,\"rational_two_points\":%o}\n",i,dd,[Integers()!a:a in Eltseq(mp)],Code58(L,bv,IB),Code58(L,cv,IB),nr;
+ mult:=0;if dd eq 3 then mult:=3;elif dd ge 5 and nr gt 0 then mult:=1;end if;
+ if mult gt 0 then
+  eligible[dd]+:=1;v8:=mult*col8[i];v9:=mult*col9[i];yes:=v8 in H8 and v9 in H9;row:=[*i,dd,mult,Eltseq(v8),Eltseq(v9),yes*];Append(~tests,row);if yes then Append(~survivors,row);end if;
+ end if;
+end for;
+fprintf points,"{\"type\":\"complete\",\"noncuspidal_counts\":%o,\"eligible_counts\":%o,\"tests\":%o,\"survivors\":%o}\n",nc,eligible,#tests,#survivors;delete points;
+out:=Open("C58_C62/data/C58_X129/classification58.json","w");fprintf out,"{\"level\":29,\"excluded_candidate_order\":58,\"p\":3,\"noncuspidal_counts\":%o,\"eligible_counts\":%o,\"tests\":[",nc,eligible;
+for i in [1..#tests] do row:=tests[i];if i gt 1 then fprintf out,",";end if;fprintf out,"{\"FB_index\":%o,\"degree\":%o,\"multiplicity\":%o,\"image8\":%o,\"image9\":%o,\"in_rational_image\":%o}",row[1],row[2],row[3],row[4],row[5],row[6] select "true" else "false";end for;
+fprintf out,"],\"survivor_indices\":%o,\"complete\":true}\n",[row[1]:row in survivors];delete out;
+printf "NONIC58_N29_CLASSIFICATION_COMPLETE tests=%o survivors=%o complete=true time=%o\n",#tests,#survivors,Cputime(tt);quit;

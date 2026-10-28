@@ -1,0 +1,7 @@
+READONLY_CHECK_PASS verify_poles93_readonly.py
+READONLY_CHECK_PASS verify_stage1_readonly_v3.py
+READONLY_CHECK_PASS verify_stage2_readonly_v2.py
+READONLY_CHECK_PASS build_R1_product_tensor.py
+READONLY_CHECK_PASS canonical_R1_sieve93.py
+READONLY_CHECK_PASS verify_R1_ranks_m4ri.py
+NONIC93_COMPLETE_READONLY_CERTIFICATE_PASS {"files": 322, "native_and_independent_successful_jobs": 13, "allbad_gonality": ">36", "source_points": 10, "actual_isogenies_independently_rebuilt": 6, "binary_matrices": 120, "rank": 261, "elapsed_seconds": 48.68890078505501}

@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "genus": 45,
+  "factor_degrees": [
+    1,
+    2,
+    2,
+    10,
+    10,
+    20
+  ],
+  "winding_zero_flags": [
+    false,
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "winding_zero_factors_fixed_by_diamond": [
+    2
+  ],
+  "alpha_rank": 40,
+  "finite_image_operator": "diamond2-1",
+  "elapsed_seconds": 0.13619097997434437
+}

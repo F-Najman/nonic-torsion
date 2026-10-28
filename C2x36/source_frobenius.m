@@ -1,0 +1,3 @@
+SetColumns(0);SetQuitOnError(true);fp:=FrobeniusPolynomial(JH(72,[37]),5);assert Degree(fp) eq 82;tr:=[];closed:=[];
+for n in [1..9] do z:=-n*Coefficient(fp,82-n);for j in [1..n-1] do z-:=Coefficient(fp,82-j)*tr[n-j];end for;Append(~tr,Integers()!z);num:=5^n+1-Integers()!z;for k in Divisors(n) do if k lt n then num-:=k*closed[k];end if;end for;assert num mod n eq 0;Append(~closed,num div n);end for;
+nc:=[closed[d]-(d eq 1 select 24 else d eq 2 select 8 else d eq 6 select 4 else 0):d in [1..9]];assert nc eq [0,0,48,120,720,2904,10416,50334,218080];Write("C2x36/data/source_frobenius.txt",Sprint([*Coefficients(fp),nc*]):Overwrite:=true);print "C236_D9_FRESH_FROBENIUS_PASS",nc;quit;

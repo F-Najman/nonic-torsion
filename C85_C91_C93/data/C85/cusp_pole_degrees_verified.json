@@ -1,0 +1,460 @@
+{
+  "status": "PASS",
+  "N": 85,
+  "precision": 600,
+  "pole_degrees": [
+    90,
+    95
+  ],
+  "geometric_cusps": 128,
+  "non_width1_records": [
+    {
+      "width": 85,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "width": 85,
+      "component": 2,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -2,
+        -2
+      ]
+    },
+    {
+      "width": 85,
+      "component": 3,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -3,
+        -3
+      ]
+    },
+    {
+      "width": 85,
+      "component": 4,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -4,
+        -4
+      ]
+    },
+    {
+      "width": 85,
+      "component": 6,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -6,
+        -6
+      ]
+    },
+    {
+      "width": 85,
+      "component": 7,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -7,
+        -7
+      ]
+    },
+    {
+      "width": 85,
+      "component": 8,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -8,
+        -8
+      ]
+    },
+    {
+      "width": 85,
+      "component": 9,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -9,
+        -9
+      ]
+    },
+    {
+      "width": 85,
+      "component": 11,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -8,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 12,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -1,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 13,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 14,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 16,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 18,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -5
+      ]
+    },
+    {
+      "width": 85,
+      "component": 19,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -9
+      ]
+    },
+    {
+      "width": 85,
+      "component": 21,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -1
+      ]
+    },
+    {
+      "width": 85,
+      "component": 22,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        3,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 23,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        7,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 24,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        11,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 26,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        7,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 27,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        4,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 28,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        1,
+        0
+      ]
+    },
+    {
+      "width": 85,
+      "component": 29,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -2,
+        4
+      ]
+    },
+    {
+      "width": 85,
+      "component": 31,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -8,
+        16
+      ]
+    },
+    {
+      "width": 85,
+      "component": 32,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -10,
+        21
+      ]
+    },
+    {
+      "width": 85,
+      "component": 33,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -5,
+        19
+      ]
+    },
+    {
+      "width": 85,
+      "component": 36,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        10,
+        3
+      ]
+    },
+    {
+      "width": 85,
+      "component": 37,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        11,
+        -4
+      ]
+    },
+    {
+      "width": 85,
+      "component": 38,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        9,
+        -9
+      ]
+    },
+    {
+      "width": 85,
+      "component": 39,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        7,
+        -7
+      ]
+    },
+    {
+      "width": 85,
+      "component": 41,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        3,
+        -3
+      ]
+    },
+    {
+      "width": 85,
+      "component": 42,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        1,
+        -1
+      ]
+    },
+    {
+      "width": 17,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "width": 17,
+      "component": 2,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        -2,
+        -1
+      ]
+    },
+    {
+      "width": 17,
+      "component": 3,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 17,
+      "component": 4,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        0,
+        -1
+      ]
+    },
+    {
+      "width": 17,
+      "component": 5,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        2,
+        0
+      ]
+    },
+    {
+      "width": 17,
+      "component": 6,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        -1,
+        2
+      ]
+    },
+    {
+      "width": 17,
+      "component": 7,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "width": 17,
+      "component": 8,
+      "root_exponent_representative": 1,
+      "residue_degree": 4,
+      "orders": [
+        1,
+        -1
+      ]
+    },
+    {
+      "width": 5,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 8,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 5,
+      "component": 1,
+      "root_exponent_representative": 3,
+      "residue_degree": 8,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 5,
+      "component": 2,
+      "root_exponent_representative": 1,
+      "residue_degree": 8,
+      "orders": [
+        0,
+        1
+      ]
+    },
+    {
+      "width": 5,
+      "component": 2,
+      "root_exponent_representative": 3,
+      "residue_degree": 8,
+      "orders": [
+        0,
+        1
+      ]
+    }
+  ],
+  "width1_geometric_cusps": 32,
+  "width1_orders": [
+    0,
+    0
+  ],
+  "plane_model_used": false,
+  "canonical_relations_used": false,
+  "elapsed_seconds": 7.246556006837636
+}

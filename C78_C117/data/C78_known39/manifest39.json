@@ -1,0 +1,83 @@
+{
+  "complete": true,
+  "degree": 9,
+  "scope": "Known nonic39 fulltorsion39 and exact global/finite diamond-trace bindings only; no C78 exclusion or classification completeness asserted",
+  "files": {
+    "inputs/known39.json": {
+      "bytes": 792,
+      "sha256": "89b3ba1723fc7fa44f2e4a2f3ca2ade9993263927482b0ddda6de743661d080a"
+    },
+    "inputs/known39.m": {
+      "bytes": 126,
+      "sha256": "1aac0455b5863c55f8e9cc230a87e1998fc38ea4656eb68d5ca0d04e2aec1323"
+    },
+    "verify39.m": {
+      "bytes": 4606,
+      "sha256": "90810d02584e800906b8e1f92009c620596a04b60155802e5a96d888874cedcf"
+    },
+    "verify39.log": {
+      "bytes": 235,
+      "sha256": "de6984e2f1d26ed783b1c05477557cdce48e38e35ef3867bd89cfcae7b2631d5"
+    },
+    "verify39.status.json": {
+      "bytes": 431,
+      "sha256": "b11d4287dd07e7da51566a7dfc4edaa9ff7750038ae093e20e222c6bd5830732"
+    },
+    "verify39.exit.json": {
+      "bytes": 531,
+      "sha256": "a531b90d8e9b2dbc6a543ee0a8ec850f5f090c35cb9c4e5dd087d20b1c2a03f7"
+    },
+    "guard39.py": {
+      "bytes": 1459,
+      "sha256": "13474df3a0a263f13392c32fff996cd26cd5b4528fb7b0c4b76c7363a7aff0a3"
+    },
+    "global39.json": {
+      "bytes": 1494,
+      "sha256": "3430a3b31b962166eaff134961b640c70ec1089d0ba1caf583bbb038ce31b864"
+    },
+    "diamond39.jsonseq": {
+      "bytes": 7717,
+      "sha256": "073dd0421cffd34c17d1c6c7c0b9a1f0187a107d5416794e3d984b6a07f07ae4"
+    },
+    "replay39.py": {
+      "bytes": 6063,
+      "sha256": "ef88448970b9449befcb2a3f867350aa1cd3997c13bb8dc1bbef93da006d0117"
+    },
+    "replay39.log": {
+      "bytes": 101,
+      "sha256": "2fa540f1e866d2af381a7fec79422be80a10f97a62ec9ca426a3767bb390101b"
+    },
+    "replay39.status.json": {
+      "bytes": 445,
+      "sha256": "26d36467fbcfa112629405b24649eb29d410e79dceb7976acc372d0a5a6bc024"
+    },
+    "replay39.exit.json": {
+      "bytes": 544,
+      "sha256": "9ae04641ff38b722dfe28705ea680246aef23157226d34440c58ee80b81e024a"
+    },
+    "guard_replay39.py": {
+      "bytes": 1232,
+      "sha256": "15cc7d40a154d1a2f8d324d7a1380e327cc24e66716546a1345dc789bbff9451"
+    },
+    "positive_divisors39.json": {
+      "bytes": 4068,
+      "sha256": "5f04950f581b092d41d3ca1b7d3cd51e7f81aa85d04761893f19bded56ca3849"
+    },
+    "independent39.json": {
+      "bytes": 383,
+      "sha256": "21a28db62f8ca865c745541f1820ae1db8c637e1d572fcb2357c96a8dbf63a69"
+    },
+    "known39.tex": {
+      "bytes": 3122,
+      "sha256": "c24126553f547643fbd2035e80f6159ae7d2a200f2c72e68cc776c3498025d5b"
+    },
+    "README.txt": {
+      "bytes": 1445,
+      "sha256": "558e0460d057d1e5bb8a471abcb460d16b9f74aa3ef2bafadbc1999eedb01955"
+    },
+    "certify39.py": {
+      "bytes": 1028,
+      "sha256": "43f6613c5532b5ec50b92e94b8bb67ed0c368b4deb170079440079c371624e94"
+    }
+  }
+}

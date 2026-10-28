@@ -1,0 +1,12 @@
+Loading "work/degree9/prime_orders/continued_20261026/P61/input_records.m"
+Loading "work/degree9/prime_orders/continued_20261026/finite_and_Hecke_controls\
+_v2.m"
+NONIC_INDEPENDENT_FINITE_COVERAGE N=61 degree=7 all_closed_points=30 source_reps=1 qualifying_twists=7 time=0.060
+NONIC_INDEPENDENT_FINITE_COVERAGE N=61 degree=8 all_closed_points=90 source_reps=3 qualifying_twists=24 time=0.290
+NONIC_INDEPENDENT_FINITE_COVERAGE N=61 degree=9 all_closed_points=30 source_reps=1 qualifying_twists=9 time=0.850
+NONIC_INDEPENDENT_HECKE_CONTROL N=61 degree=7 index=1 native_maps=4 fast_orbits=1 weighted_image_degrees=[ 28 ] observations=[ 4 ] weights=[ 1 ] alpha=3 agrees=true time=0.880
+NONIC_INDEPENDENT_HECKE_CONTROL N=61 degree=8 index=1 native_maps=4 fast_orbits=2 weighted_image_degrees=[ 24, 8 ] observations=[ 3, 1 ] weights=[ 1, 1 ] alpha=3 agrees=true time=0.890
+NONIC_INDEPENDENT_HECKE_CONTROL N=61 degree=8 index=2 native_maps=4 fast_orbits=4 weighted_image_degrees=[ 8, 8, 8, 8 ] observations=[ 1, 1, 1, 1 ] weights=[ 1, 1, 1, 1 ] alpha=3 agrees=true time=0.900
+NONIC_INDEPENDENT_HECKE_CONTROL N=61 degree=8 index=3 native_maps=4 fast_orbits=2 weighted_image_degrees=[ 24, 8 ] observations=[ 3, 1 ] weights=[ 1, 1 ] alpha=3 agrees=true time=0.920
+NONIC_INDEPENDENT_HECKE_CONTROL N=61 degree=9 index=1 native_maps=4 fast_orbits=1 weighted_image_degrees=[ 36 ] observations=[ 4 ] weights=[ 1 ] alpha=3 agrees=true time=0.950
+NONIC_FINITE_AND_HECKE_CONTROLS_COMPLETE N=61 inputs=5 time=0.950

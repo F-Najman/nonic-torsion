@@ -1,0 +1,829 @@
+{
+  "status": "PASS",
+  "cases": 48,
+  "genus": 18,
+  "AF_degree": 13,
+  "canonical_jets_source_points": 12,
+  "smooth_source_rank": 16,
+  "q_precision": 600,
+  "Sturm_bound": 320,
+  "results": [
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 1,
+      "convention": 1,
+      "F": "0x360b46f5638443b9141f35310",
+      "H": [
+        "0xe86658df03b425a5058bfa11cbf0b"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "780a7233ce12107615faa2974e4c0d120b5dd1fa2064380fd230506b179870ce"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 1,
+      "convention": 2,
+      "F": "0x13268bf574c6efc3348c6fd13",
+      "H": [
+        "0x6663c65bdfc2c0408435001310fc4e"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "939b7fd0bebebec475c2496483efb5c747f36b809c9eace87ea30e34248e763a"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 2,
+      "convention": 1,
+      "F": "0x72d5a894e5df78a23fd9822ef",
+      "H": [
+        "0x1d229a72c3b318e0c06d7e196bb790"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "32c761a0583f0ff3bb4faf39628fdec7910722e20974c7f2c26c002ff376d4e2"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 2,
+      "convention": 2,
+      "F": "0x9e2fa9de7da5add706beb5007",
+      "H": [
+        "0x5621d02a8293be368fd5b8a0bc9707"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "0cb14b02e079a688b1618d4b1c5685fca7d0dd686562e5128f38ebc25b788815"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 3,
+      "convention": 1,
+      "F": "0x2077c00b4ea7ef4bb44f7bdba",
+      "H": [
+        "0x1105f2b4fd396da37a081039929914"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "f4cec37e3aa4aa25f4ce80de4f3e95fce7d656aafc0a1dd449f2b0d1c72162da"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 3,
+      "convention": 2,
+      "F": "0x199e55ebbb85b7119b66f8ad1",
+      "H": [
+        "0x693b99769ac99beb37244c2c48360e"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "1b9bd47eec5f251ba75ff613f5faad113d9aa7b357caa70b282aceeca6c06bfc"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 4,
+      "convention": 1,
+      "F": "0x13e53a2cf96516d830422c991",
+      "H": [
+        "0x3e36f289afe0f3542a5eb5cf0fafc2"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "8b5d1b9cdef8e83eda7da4125a69dd0666b5ceb30cbc7185634f18afdba0f325"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 4,
+      "convention": 2,
+      "F": "0x2df98e3e1b92f7b830aa65ff3",
+      "H": [
+        "0x33c589afdf75b2237cd866524ea5a2"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ba1a085a118f5ece5d901c889fb6ce82cc843f4895bff9f3fadb6ddad5cce018"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 5,
+      "convention": 1,
+      "F": "0x51dc22656c75bcdf651b47c02",
+      "H": [
+        "0x455ebc9e233e6f11811a88f60159ea"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "e9c3a926788a884b68e095122bd81456c166b659522a14d4d56b565a20115dab"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 5,
+      "convention": 2,
+      "F": "0x19b01c2646eb43a598e60481a",
+      "H": [
+        "0xb77eb286849eddd440633473e105b"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "4c7a017c0a49523866ed6b43c3c569564503ea75abd10e8a67aa4229765f9ca9"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 6,
+      "convention": 1,
+      "F": "0xcb488bb9afa2a378d2aa71d49",
+      "H": [
+        "0x11c61831579202757596e186b7f29"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "fcb150295db56e5eec381a54fb035b574d4a44a96a357a2f812f120c368f9b38"
+    },
+    {
+      "fiber": 1,
+      "source": 1,
+      "target": 6,
+      "convention": 2,
+      "F": "0x29cf4955b583be97971c37cfd",
+      "H": [
+        "0x6a842d9aa142af87781688f2c779f4"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "c7e6d557bbc0ca5e8062dd250626984ad4cf85e8dae6a400654cf52ee4c58784"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 1,
+      "convention": 1,
+      "F": "0x630ab6c6f6fde8108a71ef3ea",
+      "H": [
+        "0x334534666d483d4149c7b00dae65bb"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "a2835fb5fe6ddb2931ff473f4ed9499052052f4ec062fd810fdba58927f8c35d"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 1,
+      "convention": 2,
+      "F": "0x9cd9209b369d91e7738a63f13",
+      "H": [
+        "0x4a56b1eac4dd4b5fe067af1ec33060"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "7debfcea61d8fc5dfdd836d06d388a1eed2208f0cb11a48eb0330b2f8de94012"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 2,
+      "convention": 1,
+      "F": "0x31fb696daab2f185f07f81dbd",
+      "H": [
+        "0x2d65bc42eb11648cc917ea8eb50dad"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ea19f793db6f9c2aed3d12a71997a6e497801323a9ceb6bb852dca3026f6fbcc"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 2,
+      "convention": 2,
+      "F": "0x1f596fab2e95580fd4b030a1e",
+      "H": [
+        "0x2a4612ba079a156bbb4baa68b2616f"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "325e4221caec760e67b05e5e4551d138e45859239a7a7c8d45440bc360b0f224"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 3,
+      "convention": 1,
+      "F": "0x39c873cec2815510af90e31f2",
+      "H": [
+        "0x2bb8ba5683f9e8ebd4c58980cff9a5"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "23e3f213c060daaaf21957bd2c8ab76c42ef883c611c50a8859f7e42d5298b9d"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 3,
+      "convention": 2,
+      "F": "0x4947a37af8cd8e374bd5cf817",
+      "H": [
+        "0x189967ba7849dc603c4b137c43516d"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "f974415360ff04ea04473686811a086efab8831c6a9e80025843e42aeec91b7e"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 4,
+      "convention": 1,
+      "F": "0xd06cdc7347e544522d2a51de4",
+      "H": [
+        "0x52cee6c3d13943c971015280633a58"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ccf3b6c76ab65402df31a24907269e4b3c8fb8c6049b3ee9e7450fa2c9f1fe19"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 4,
+      "convention": 2,
+      "F": "0x5471d7adaaf5656acaf3b9e05",
+      "H": [
+        "0x4df2ebb0d0ca723f490739c31a612e"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "175e7c5ed77beae015a352e89844aedfe9e15e3d4baa32b275fd6a8f550666b2"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 5,
+      "convention": 1,
+      "F": "0xa45421d42c32e69745abf6ea",
+      "H": [
+        "0x22b1a54f03ef7a493bcda9bb96e9a0"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "8bf65784ab9ff61e756667ed7a21a625de7894f58966cdac6ceaa7052cfca1f7"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 5,
+      "convention": 2,
+      "F": "0xb8614b120f387994e44683e61",
+      "H": [
+        "0x7fa2abb3ddcfdaf3b0861d3663f4a6"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "64129787f8a41d2beae6a99945497633d1ff6d4d2ac3c8d266d5b12ea0ce3a47"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 6,
+      "convention": 1,
+      "F": "0xb79cd9c9465d71f60917df31",
+      "H": [
+        "0x3fc2108de6b47d8dc546130b212c54"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "e604f4602bac870538213ec7fec61dca0281709ed551c831ca98101901f1e095"
+    },
+    {
+      "fiber": 1,
+      "source": 2,
+      "target": 6,
+      "convention": 2,
+      "F": "0xab940ac0f3f1223236321850a",
+      "H": [
+        "0x7ee32be9ba5670a8ee79864713461c"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "c5e7940e25262a70790b5dae5a12749581866e230c9c64147710edb7bb002930"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 1,
+      "convention": 1,
+      "F": "0x3bbb41f591cf25e25868448c",
+      "H": [
+        "0x2bba87fde49001cbcf9c92ff0883ed"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "952ab7488be13d0246b8f8c5860a3aecf4e99839248537aaa4446bd8d0d75dd5"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 1,
+      "convention": 2,
+      "F": "0xfccf5189cab3b22638b26400f",
+      "H": [
+        "0x5888622990cb5ab7f41a55fa5290ab"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "a1772747329aa7e4c850fa33fb30f9cd5db586681e9bb15afe69666d329c5bc4"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 2,
+      "convention": 1,
+      "F": "0x3feb4a9ef5574a367ab9fcc14",
+      "H": [
+        "0x7153cd79392e8f7a3b8f82935003a4"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "a20aab4cb86c808eae01fb75d26633f78f545f888bb39eb917fcb7510e0eee62"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 2,
+      "convention": 2,
+      "F": "0x86f95514db9e5d738c831db60",
+      "H": [
+        "0x571b59286fc30a43ecbb3f927e2dbd"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "de81066a56a83eafddd153dceb507106af5d048743ec55c669c2efd5f51905f9"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 3,
+      "convention": 1,
+      "F": "0x5bb928e432fb99807d49d88b3",
+      "H": [
+        "0x79b49aa3cd9b98e9f4a03e6bbd679d"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ea81b7f818830b6414b65b9a4428ce395e40c674a4bad2e5670793b5fd28be47"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 3,
+      "convention": 2,
+      "F": "0x37e639e0ee9f0ad7401b6802",
+      "H": [
+        "0x2fabd2b58524cbba2f56eb3ffe91dc"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "dca054e6dae965be5eb1b4233b6e4b8dbab25f26c7f906d4a82a60ad12bea351"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 4,
+      "convention": 1,
+      "F": "0x6ee6cf519a1319a57d7c49568",
+      "H": [
+        "0x6c578dae1451d97d25bfae9a30d30"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "8e8fe5b1e73a2c06be2584871f128eadaca2c6fd6ed83262d403693a309312e7"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 4,
+      "convention": 2,
+      "F": "0x5c9f5f9cae1730c6086e7d532",
+      "H": [
+        "0x7a0a0d40066872290627e6c77a3911"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "f1b95e38fdab700e583a2121eea2d53457d579dd1b1cf0792426a089e994022a"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 5,
+      "convention": 1,
+      "F": "0x10b3bf62e97a0a71bef324370",
+      "H": [
+        "0x1bfec0aa04097e36c39d743b4a9543"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "3295d96ed05399f0f5445b2ae4953836e115ae4cd0f86e165dbafd95e7e8d0d8"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 5,
+      "convention": 2,
+      "F": "0x2c0d8ff1abba86531e7f9b8ef",
+      "H": [
+        "0x2fccf208e4ef631d2afb14ed15a2c1"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "979cb5d2e39c8bfbb0cdf1360d0467e08dd957912d2041d3b7010e47fa067803"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 6,
+      "convention": 1,
+      "F": "0x1cff0ff3f7ba7fe5d7d7f3045",
+      "H": [
+        "0x3f880f817c4a7c13bec5ce4c7b8220"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "8da865f93bccf7542dc0471315af3b7d85b25c1531cb26a82c7f9b3bf9ffac19"
+    },
+    {
+      "fiber": 2,
+      "source": 4,
+      "target": 6,
+      "convention": 2,
+      "F": "0x634dd3f2ea1447297086094b1",
+      "H": [
+        "0x7df5992101865f470f4dfb136fb87e"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "f2e26054fd6d91ebfb5a2ad4b4758870aa500ac3b468e1eb0deb6ff7ca21b2f4"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 1,
+      "convention": 1,
+      "F": "0x6b2780d9af87805852286e734",
+      "H": [
+        "0x4f49d5f6dc75e66b0df9f93ae4c563"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "c8a1fb584dcddbfe92142c2d1e352d019a7df17a5d3825949a0fd18cbd885a7a"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 1,
+      "convention": 2,
+      "F": "0x5905b00c0bb6adf3f7340a71a",
+      "H": [
+        "0x1a7a60dd69bc790b609f468305dd14"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "49f62093c27fac3290514150fed7ea4d93b10cb51e57aa93de08649f39a6f33d"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 2,
+      "convention": 1,
+      "F": "0x2ef0a2a7cfa589d176f30d6b1",
+      "H": [
+        "0x7a22f9e7e3135a5cc68df6ff7bef13"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "fc90f03ef9e4dbfc33cc426da814ba107036f4bb5d6be135f5f2cacfb43a5fd2"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 2,
+      "convention": 2,
+      "F": "0x3e416e2a15731030fade92b8e",
+      "H": [
+        "0x3f863ccca61c0a097e03693bfb8a63"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "07c311bdfba9f260c92714db4df2d10ebe936c4ef585ccae30e75f4237ce769d"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 3,
+      "convention": 1,
+      "F": "0x516339b91b695928ea574f12e",
+      "H": [
+        "0x1085c746c7fd3f95b84635c0143bf8"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "54b70bc33d2691541546c8b7412db4bc46e9dd68759985f1a6bb39bd48610cdd"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 3,
+      "convention": 2,
+      "F": "0xaddcf1aeb65e2be3dee4d0d81",
+      "H": [
+        "0x62a3e1a9921e185945d445b066b0ac"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "7cd0db1430329dccb1af5622afcfdbdcf446aed3a15390a3f9b0c737dfbed345"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 4,
+      "convention": 1,
+      "F": "0x6a69f35f27ef76d184e4cb473",
+      "H": [
+        "0x319d0cb4170d148977cb9171d36d33"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "6934a296393051502b6e4cb79f994bad0256b14e8a9cdc51443db8770956b4d4"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 4,
+      "convention": 2,
+      "F": "0x242221ed2e382976f2d27cc1d",
+      "H": [
+        "0x345d57b8306bf47bdc419bf5ed1aec"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ff714e2907a9039f0c1cfe29fd635f16d1bce6e3f4d9d8049db4daf9aa76e10c"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 5,
+      "convention": 1,
+      "F": "0x789d4503799425d3012a273a4",
+      "H": [
+        "0x738e2ccd7b789e8dbf2d5455245e27"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "43c3b8ca632120860c5d98268b2f86c344f9d99b664ad8300efecad788655d79"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 5,
+      "convention": 2,
+      "F": "0x3b68a1cd754e48251f9f82f51",
+      "H": [
+        "0x6264ce0335b7b747eeccf612a115e0"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "ad55c0b04ff20c0f59e1a7bc82d3621433fea1d77b6b1c30ff243669b5975cb5"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 6,
+      "convention": 1,
+      "F": "0x3997ee4955f3a2328f1469d3e",
+      "H": [
+        "0x276925d1007a6d6cb1ac48c53f5310"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "a5589283058ffea85d84e37aa76d60165db017baff13e4b13a8215d82726fdaa"
+    },
+    {
+      "fiber": 2,
+      "source": 6,
+      "target": 6,
+      "convention": 2,
+      "F": "0x4fca6166ef45ded1352c28a38",
+      "H": [
+        "0x1bddd1132cc91d6851c315d6171278"
+      ],
+      "positive_degree": 99,
+      "R4_dimension": 119,
+      "matrix_columns": 235,
+      "matrix_rank": 119,
+      "auxiliary_vectors": 1,
+      "nonprincipal": true,
+      "matrix_sha256": "f98535c3ddf4c8cec0484f9132de9312fac1ba56d136949bd09056b391a48e93"
+    }
+  ],
+  "elapsed_seconds": 1.0281325548421592
+}

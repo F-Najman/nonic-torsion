@@ -1,0 +1,7 @@
+CHECK_PASS verify_stage1_readonly.py
+CHECK_PASS verify_stage2_readonly.py
+CHECK_PASS verify_R1_ranks_m4ri.py
+CHECK_PASS build_R1_product_tensor.py
+CHECK_PASS canonical_R1_sieve.py
+CHECK_PASS verify_FI_relations.py
+NONIC83_COMPLETE_READONLY_CERTIFICATE_PASS {"allbad_configurations": 134858144, "binary_matrices": 410, "claim": "No point of order83 over any degree9 number field", "elapsed_seconds": 40.75246240082197, "files": 309, "genuine_ordinary_torsion_families": 20, "manifest_sha256": "7d089ece84e98c2f5441e765664c03cdf599741f40e73b6de69a5997122d6a4d", "matrix_rank": 247, "matrix_shape": [247, 563], "selected_native_exits_zero": 5}

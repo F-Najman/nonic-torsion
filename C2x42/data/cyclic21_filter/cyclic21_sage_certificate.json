@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "prime": 5,
+  "target": "X1(21)",
+  "target_genus": 5,
+  "finite_jacobian_order": 2184,
+  "rational_image_order": 364,
+  "index": 6,
+  "input_supports": 119,
+  "output_supports": 44,
+  "after_optional_even_stabilizer": 18,
+  "independent_normed_maps": 297,
+  "independent_velu2_images": 175,
+  "cusp_complement_classes": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2
+  ]
+}

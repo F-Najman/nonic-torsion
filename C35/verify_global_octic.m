@@ -1,0 +1,10 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(2*10^9);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+load "C35/known_octic35.m";
+N,fc,xc,yc:=Explode(KnownOctic35);assert N eq 35;R<z>:=PolynomialRing(Rationals());f:=R!fc;assert Degree(f) eq 8 and IsIrreducible(f);
+K<a>:=NumberField(f);x:=Evaluate(R!xc,a);y:=Evaluate(R!yc,a);X:=MDX1(35,Rationals());Q:=Curve(X)(K)![x,y];
+r:=(x^2*y-x*y+y-1)/(x*(x*y-1));s:=(x*y-y+1)/(x*y);b:=r*s*(r-1);c:=s*(r-1);
+E:=EllipticCurve([1-c,-b,-b,K!0,K!0]);P:=E![0,0];assert 35*P eq E!0 and 5*P ne E!0 and 7*P ne E!0;
+assert IsIrreducible(Polynomial(GF(3),f));
+printf "NONIC35_GLOBAL_OCTIC_VERIFIED degree8=true exact_P35=true F3_inert=true field_polynomial=%o curve_point=%o\n",Coefficients(f),Q;
+quit;

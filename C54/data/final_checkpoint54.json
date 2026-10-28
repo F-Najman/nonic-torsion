@@ -1,0 +1,51 @@
+{
+  "degree": 9,
+  "group": [
+    1,
+    54
+  ],
+  "status": "complete_exclusion_candidate_pending_root_review",
+  "all_original_producers_completed": true,
+  "lower_class_tests": 278876,
+  "additional_mixed_inert23_tests": 30,
+  "pure8_representatives": 3579,
+  "pure9_representatives": 16135,
+  "quadratic_exclusions": 8087,
+  "pure9_full_class_queries": 8048,
+  "first_projection_survivors": {
+    "lower": [
+      [
+        3,
+        6,
+        17,
+        1531
+      ],
+      [
+        4,
+        5,
+        102,
+        364
+      ],
+      [
+        4,
+        5,
+        23,
+        190
+      ]
+    ],
+    "pure9": [
+      5164,
+      6206,
+      6913,
+      7101
+    ]
+  },
+  "second_projection_kernel_choices": 13,
+  "second_projection_H5_members": 0,
+  "final_survivors": 0,
+  "proof": "exclusion54.tex",
+  "native_exits": "completed_native_evidence.json and filtered9_shard[123]_kernel_exit.json plus fresh guard statuses",
+  "RAM_workspaces_required": false,
+  "unfinished_or_failed_workers_required": false,
+  "CM_minimum_degree54": 18
+}

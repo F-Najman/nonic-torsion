@@ -1,0 +1,95 @@
+{
+  "complete": true,
+  "ordinary_census": [
+    {
+      "degree": 8,
+      "ordinary_j_checked": 255,
+      "qualifying_j_twists": 0,
+      "qualifying_j_orbits": 0,
+      "jzero_orders": [
+        225,
+        241,
+        257,
+        273,
+        289
+      ],
+      "jzero_all_normal_forms_checked": true
+    },
+    {
+      "degree": 9,
+      "ordinary_j_checked": 511,
+      "qualifying_j_twists": 36,
+      "qualifying_j_orbits": 4,
+      "jzero_orders": [
+        481,
+        513,
+        545
+      ],
+      "jzero_all_normal_forms_checked": true
+    }
+  ],
+  "phi5_mod2_monomials": [
+    [
+      0,
+      6
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      6,
+      0
+    ]
+  ],
+  "records": [
+    {
+      "source_index": 1,
+      "source_degree": 9,
+      "target_degree": 54,
+      "six_distinct_isogeny_j_values": true,
+      "Frob9_cycle_length": 6,
+      "norm_multiplicity": 1,
+      "point_order": 87,
+      "curve_order": 522
+    },
+    {
+      "source_index": 2,
+      "source_degree": 9,
+      "target_degree": 54,
+      "six_distinct_isogeny_j_values": true,
+      "Frob9_cycle_length": 6,
+      "norm_multiplicity": 1,
+      "point_order": 87,
+      "curve_order": 522
+    },
+    {
+      "source_index": 3,
+      "source_degree": 9,
+      "target_degree": 54,
+      "six_distinct_isogeny_j_values": true,
+      "Frob9_cycle_length": 6,
+      "norm_multiplicity": 1,
+      "point_order": 87,
+      "curve_order": 522
+    },
+    {
+      "source_index": 4,
+      "source_degree": 9,
+      "target_degree": 54,
+      "six_distinct_isogeny_j_values": true,
+      "Frob9_cycle_length": 6,
+      "norm_multiplicity": 1,
+      "point_order": 87,
+      "curve_order": 522
+    }
+  ]
+}

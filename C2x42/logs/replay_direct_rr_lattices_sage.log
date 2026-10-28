@@ -1,0 +1,60 @@
+C242_GENUS25_FAST_DISCRIMINANT_READY 0.07216510502621531
+C242_GENUS25_BASIS_INTEGRAL finite 1 0.09
+C242_GENUS25_BASIS_INTEGRAL finite 2 0.09
+C242_GENUS25_BASIS_INTEGRAL finite 3 0.14
+C242_GENUS25_BASIS_INTEGRAL finite 4 0.4
+C242_GENUS25_BASIS_INTEGRAL finite 5 1.01
+C242_GENUS25_BASIS_INTEGRAL finite 6 1.72
+C242_GENUS25_BASIS_INTEGRAL finite 7 2.95
+C242_GENUS25_BASIS_INTEGRAL finite 8 4.4
+C242_GENUS25_BASIS_INTEGRAL finite 9 6.22
+C242_GENUS25_BASIS_INTEGRAL finite 10 8.19
+C242_GENUS25_BASIS_INTEGRAL finite 11 9.45
+C242_GENUS25_BASIS_INTEGRAL finite 12 10.65
+C242_GENUS25_BASIS_INTEGRAL finite 13 12.88
+C242_GENUS25_BASIS_INTEGRAL finite 14 15.12
+C242_GENUS25_BASIS_INTEGRAL finite 15 16.78
+C242_GENUS25_BASIS_INTEGRAL infinite 1 16.78
+C242_GENUS25_BASIS_INTEGRAL infinite 2 16.78
+C242_GENUS25_BASIS_INTEGRAL infinite 3 16.84
+C242_GENUS25_BASIS_INTEGRAL infinite 4 17.09
+C242_GENUS25_BASIS_INTEGRAL infinite 5 17.6
+C242_GENUS25_BASIS_INTEGRAL infinite 6 18.37
+C242_GENUS25_BASIS_INTEGRAL infinite 7 19.61
+C242_GENUS25_BASIS_INTEGRAL infinite 8 21.49
+C242_GENUS25_BASIS_INTEGRAL infinite 9 23.67
+C242_GENUS25_BASIS_INTEGRAL infinite 10 26.39
+C242_GENUS25_BASIS_INTEGRAL infinite 11 29.33
+C242_GENUS25_BASIS_INTEGRAL infinite 12 32.75
+C242_GENUS25_BASIS_INTEGRAL infinite 13 36.0
+C242_GENUS25_BASIS_INTEGRAL infinite 14 39.64
+C242_GENUS25_BASIS_INTEGRAL infinite 15 43.29
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_1 norm 600 44.19
+C242_GENUS25_INDEPENDENT_RR_PASS seven_1 1 44.38
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_2 norm 1080 47.79
+C242_GENUS25_INDEPENDENT_RR_PASS seven_2 0 48.16
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_3 norm 1410 58.22
+C242_GENUS25_INDEPENDENT_RR_PASS seven_3 0 58.7
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_4 norm 1410 68.78
+C242_GENUS25_INDEPENDENT_RR_PASS seven_4 0 69.26
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_5 norm 1590 80.79
+C242_GENUS25_INDEPENDENT_RR_PASS seven_5 0 81.34
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_6 norm 1590 93.1
+C242_GENUS25_INDEPENDENT_RR_PASS seven_6 0 93.65
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED seven_7 norm 1590 105.23
+C242_GENUS25_INDEPENDENT_RR_PASS seven_7 0 105.78
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED alt_2 norm 720 108.8
+C242_GENUS25_INDEPENDENT_RR_PASS alt_2 0 109.03
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED alt_3 norm 720 112.09
+C242_GENUS25_INDEPENDENT_RR_PASS alt_3 0 112.31
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED alt_4 norm 720 115.36
+C242_GENUS25_INDEPENDENT_RR_PASS alt_4 0 115.58
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED CM_1 norm 1080 130.38
+C242_GENUS25_INDEPENDENT_RR_PASS CM_1 0 130.76
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED CM_2 norm 1080 137.9
+C242_GENUS25_INDEPENDENT_RR_PASS CM_2 0 138.25
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED CM_6 norm 1080 153.16
+C242_GENUS25_INDEPENDENT_RR_PASS CM_6 0 153.52
+C242_GENUS25_EXACT_FINITE_IDEAL_CERTIFIED CM_8 norm 1080 168.32
+C242_GENUS25_INDEPENDENT_RR_PASS CM_8 0 168.67
+C242_ALL_FINAL_RR_LATTICES_INDEPENDENT_SAGE_PASS {"complete": true, "prime": 5, "genus": 25, "field_degree": 15, "integral_bases": {"complete": true, "degree": 15, "genus": 25, "finite_discriminant_degree": 62, "infinite_discriminant_valuation": 16, "total_different_degree": 78, "independent_integrality_characteristic_polynomials": 30}, "all_14_exact_RR_ideals_verified": true, "all_14_RR_dimensions_independently_verified": true, "answers": {"seven_1": {"dimension": 1, "denominator_degree": 71, "row_degrees": [74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 73, 73, 73, 71], "unimodular_row_additions": 3545, "finite_ideal_norm_index": 600}, "seven_2": {"dimension": 0, "denominator_degree": 103, "row_degrees": [106, 106, 106, 106, 106, 106, 106, 106, 105, 106, 105, 105, 105, 105, 105], "unimodular_row_additions": 6765, "finite_ideal_norm_index": 1080}, "seven_3": {"dimension": 0, "denominator_degree": 125, "row_degrees": [128, 128, 128, 128, 128, 128, 128, 128, 128, 127, 127, 127, 127, 127, 127], "unimodular_row_additions": 9115, "finite_ideal_norm_index": 1410}, "seven_4": {"dimension": 0, "denominator_degree": 125, "row_degrees": [128, 128, 128, 128, 128, 128, 128, 128, 128, 127, 127, 127, 127, 127, 127], "unimodular_row_additions": 9025, "finite_ideal_norm_index": 1410}, "seven_5": {"dimension": 0, "denominator_degree": 137, "row_degrees": [140, 140, 140, 140, 140, 140, 140, 140, 140, 139, 139, 139, 139, 139, 139], "unimodular_row_additions": 10135, "finite_ideal_norm_index": 1590}, "seven_6": {"dimension": 0, "denominator_degree": 137, "row_degrees": [140, 140, 140, 140, 140, 140, 140, 140, 140, 139, 139, 139, 139, 139, 139], "unimodular_row_additions": 10182, "finite_ideal_norm_index": 1590}, "seven_7": {"dimension": 0, "denominator_degree": 137, "row_degrees": [140, 140, 140, 140, 140, 140, 140, 140, 140, 139, 139, 139, 139, 139, 139], "unimodular_row_additions": 10055, "finite_ideal_norm_index": 1590}, "alt_2": {"dimension": 0, "denominator_degree": 79, "row_degrees": [82, 82, 82, 82, 82, 82, 82, 82, 82, 81, 81, 81, 81, 81, 81], "unimodular_row_additions": 4495, "finite_ideal_norm_index": 720}, "alt_3": {"dimension": 0, "denominator_degree": 79, "row_degrees": [82, 82, 82, 82, 82, 82, 82, 82, 82, 81, 81, 81, 81, 81, 81], "unimodular_row_additions": 4428, "finite_ideal_norm_index": 720}, "alt_4": {"dimension": 0, "denominator_degree": 79, "row_degrees": [82, 82, 82, 82, 82, 82, 82, 82, 82, 81, 81, 81, 81, 81, 81], "unimodular_row_additions": 4426, "finite_ideal_norm_index": 720}, "CM_1": {"dimension": 0, "denominator_degree": 103, "row_degrees": [106, 106, 106, 106, 106, 106, 106, 106, 106, 105, 105, 105, 105, 105, 105], "unimodular_row_additions": 6769, "finite_ideal_norm_index": 1080}, "CM_2": {"dimension": 0, "denominator_degree": 103, "row_degrees": [106, 106, 106, 106, 106, 106, 106, 106, 106, 105, 105, 105, 105, 105, 105], "unimodular_row_additions": 6752, "finite_ideal_norm_index": 1080}, "CM_6": {"dimension": 0, "denominator_degree": 103, "row_degrees": [106, 106, 106, 106, 106, 106, 106, 106, 106, 105, 105, 105, 105, 105, 105], "unimodular_row_additions": 6784, "finite_ideal_norm_index": 1080}, "CM_8": {"dimension": 0, "denominator_degree": 103, "row_degrees": [106, 106, 106, 106, 106, 106, 106, 106, 105, 105, 106, 105, 105, 105, 105], "unimodular_row_additions": 6712, "finite_ideal_norm_index": 1080}}} seconds 168.67371578817256

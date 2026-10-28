@@ -1,0 +1,46 @@
+C226_TATE_GLOBAL_CUSP_ALIGNMENT_PASS rational18 nonrational3x6 goodprimes3,7 bdegree84
+C226_TATE_SYMMETRIC_PENCIL_PASS h_order3=true A_stable=true B_single3cycle=true C_stable=true
+{
+  "b_labels": [
+    -22,
+    -18,
+    -14,
+    -10,
+    -6,
+    -2,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "h_action": {
+    "-2": 3,
+    "1": 10,
+    "-6": 9,
+    "3": 4,
+    "-10": 11,
+    "5": 2,
+    "-14": 5,
+    "7": 8,
+    "-18": 1,
+    "9": 12,
+    "-22": 7,
+    "11": 6,
+    "2": -14,
+    "4": -2,
+    "6": -10,
+    "8": -22,
+    "10": -18,
+    "12": -6
+  },
+  "cusp_width_sum": 504,
+  "geometric_cusps": 36
+}

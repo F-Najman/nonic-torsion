@@ -1,0 +1,4 @@
+DEGREE9_FAST_COUNT m=1 n=46 p=3 genus=45 rational_point_counts=[ 0, 0, 0, 220, 220, 330, 1848, 6468, 17622 ] closed_place_counts=[ 0, 0, 0, 55, 44, 55, 264, 781, 1958 ] time=0.230
+DEGREE9_FAST_COUNT m=1 n=50 p=3 genus=48 rational_point_counts=[ 0, 0, 0, 0, 0, 360, 1400, 8360, 18360 ] closed_place_counts=[ 0, 0, 0, 0, 0, 60, 200, 1045, 2040 ] time=0.430
+DEGREE9_FAST_COUNT m=1 n=51 p=2 genus=65 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 0, 0, 720 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 0, 0, 80 ] time=0.640
+DEGREE9_FAST_COUNTS_DONE complete=true 0.640

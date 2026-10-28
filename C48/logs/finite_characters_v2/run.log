@@ -1,0 +1,36 @@
+Loading "work/degree9/realizations/continuation/C48/portable_inputs.m"
+Loading "work/degree9/realizations/continuation/C48/retained/pair_af_place_linear.m"
+NONIC48_EXPLICIT_TARGET_INVERSE_VERIFIED
+NONIC48_AUT_ACTION <0, 0, 1> 8.360
+NONIC48_AUT_ACTION <0, 1, 1> 8.990
+NONIC48_AUT_ACTION <1, 0, 1> 9.610
+NONIC48_AUT_ACTION <1, 1, 1> 10.240
+NONIC48_AUT_ACTION <0, 0, 5> 10.870
+NONIC48_AUT_ACTION <0, 1, 5> 11.490
+NONIC48_AUT_ACTION <1, 0, 5> 12.130
+NONIC48_AUT_ACTION <1, 1, 5> 12.770
+NONIC48_AUT_ACTION <0, 0, 7> 13.390
+NONIC48_AUT_ACTION <0, 1, 7> 14.020
+NONIC48_AUT_ACTION <1, 0, 7> 14.670
+NONIC48_AUT_ACTION <1, 1, 7> 15.310
+NONIC48_AUT_ACTION <0, 0, 11> 15.970
+NONIC48_AUT_ACTION <0, 1, 11> 16.590
+NONIC48_AUT_ACTION <1, 0, 11> 17.240
+NONIC48_AUT_ACTION <1, 1, 11> 17.880
+NONIC48_FINITE2_FUNCTION_START i=1 small_generators=9 maxcoeff=112 time=18.150
+NONIC48_FINITE2_FUNCTION_DONE i=1 char=[ 0, 1, 0, 1, 1, 0, 1, 0 ] time=21.980
+NONIC48_FINITE2_FUNCTION_START i=2 small_generators=9 maxcoeff=24 time=21.980
+NONIC48_FINITE2_FUNCTION_DONE i=2 char=[ 1, 0, 0, 1, 1, 1, 1, 1 ] time=26.090
+NONIC48_FINITE2_FUNCTION_START i=3 small_generators=9 maxcoeff=49 time=26.090
+NONIC48_FINITE2_FUNCTION_DONE i=3 char=[ 0, 0, 0, 1, 1, 0, 0, 1 ] time=30.680
+NONIC48_FINITE2_FUNCTION_START i=4 small_generators=9 maxcoeff=160 time=30.680
+NONIC48_FINITE2_FUNCTION_DONE i=4 char=[ 0, 0, 1, 1, 1, 1, 1, 1 ] time=34.540
+NONIC48_FINITE2_FUNCTION_START i=5 small_generators=9 maxcoeff=82 time=34.540
+NONIC48_FINITE2_FUNCTION_DONE i=5 char=[ 0, 0, 1, 1, 0, 0, 1, 1 ] time=38.760
+NONIC48_FINITE2_FUNCTION_START i=6 small_generators=9 maxcoeff=420 time=38.760
+NONIC48_FINITE2_FUNCTION_DONE i=6 char=[ 0, 0, 0, 0, 0, 1, 1, 1 ] time=42.560
+NONIC48_FINITE2_FUNCTION_START i=7 small_generators=9 maxcoeff=336 time=42.560
+NONIC48_FINITE2_FUNCTION_DONE i=7 char=[ 0, 0, 0, 0, 0, 0, 0, 1 ] time=45.000
+NONIC48_FINITE2_FUNCTION_START i=8 small_generators=9 maxcoeff=96 time=45.000
+NONIC48_FINITE2_FUNCTION_DONE i=8 char=[ 0, 0, 0, 0, 0, 0, 1, 0 ] time=47.130
+NONIC48_FINITE_CHARACTERS_DONE actions16=true full_character_rank=8 H_annihilating_rank=4 no_classgroup_search=true complete=true time=47.220

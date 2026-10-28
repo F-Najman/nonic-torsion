@@ -1,0 +1,34 @@
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/verification_inputs.m"
+NONIC35_FB_RESTORE_PROGRESS places=250/3592 time=63.280
+NONIC35_FB_RESTORE_PROGRESS places=500/3592 time=72.150
+NONIC35_FB_RESTORE_PROGRESS places=750/3592 time=81.630
+NONIC35_FB_RESTORE_PROGRESS places=1000/3592 time=91.140
+NONIC35_FB_RESTORE_PROGRESS places=1250/3592 time=100.600
+NONIC35_FB_RESTORE_PROGRESS places=1500/3592 time=110.180
+NONIC35_FB_RESTORE_PROGRESS places=1750/3592 time=120.550
+NONIC35_FB_RESTORE_PROGRESS places=2000/3592 time=130.550
+NONIC35_FB_RESTORE_PROGRESS places=2250/3592 time=140.640
+NONIC35_FB_RESTORE_PROGRESS places=2500/3592 time=151.160
+NONIC35_FB_RESTORE_PROGRESS places=2750/3592 time=161.020
+NONIC35_FB_RESTORE_PROGRESS places=3000/3592 time=171.180
+NONIC35_FB_RESTORE_PROGRESS places=3250/3592 time=181.490
+NONIC35_FB_RESTORE_PROGRESS places=3500/3592 time=192.190
+NONIC35_FB_PRIMES_RESTORED places=3592 all_degrees_le9=true universal_generation_bound=9 time=196.530
+Saving Magma state to "work/degree9/realizations/continuation/C35/presentation_v2/restored_FB_only.workspace"
+NONIC35_PROVEN_PRESENTATION_RESTORED invariants=[ 4, 4, 8, 520, 218297040, 0 ] order=14529850982400 time=917.350
+Saving Magma state to "work/degree9/realizations/continuation/C35/presentation_v2/restored_field_group.workspace"
+NONIC35_NATIVE_WORKSPACE_SAVED maps_preserved=true before_all_classification=true time=918.850
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/classify_FB_tail.m"
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/deps/pair_af_place_linear.m"
+NONIC35_FB_CUSP_IMAGE partial_invariants=[ 13, 109148520 ] missing_cusp_degrees=[ 12 ] time=935.370
+NONIC35_FB_FULL_RATIONAL_IMAGE invariants=[ 13, 109148520 ] index=10240 proven=true time=935.370
+NONIC35_ALL_SMALL_PLACE_CLASSES_FROM_FB counts=[ 0, 0, 12, 0, 36, 126, 348, 813, 2240 ] no_class_map_search=true time=935.530
+Loading "work/degree9/realizations/continuation/C35/known_octic35.m"
+NONIC35_KNOWN_OCTIC_FB_ORBIT places=6 classes=6 time=937.330
+NONIC35_FB_PURE_TESTS degree=3 tested=12 unexpected=0 time=937.350
+NONIC35_FB_PURE_TESTS degree=5 tested=36 unexpected=0 time=937.350
+NONIC35_FB_PURE_TESTS degree=6 tested=126 unexpected=0 time=937.350
+NONIC35_FB_PURE_TESTS degree=7 tested=348 unexpected=0 time=937.350
+NONIC35_FB_PURE_TESTS degree=8 tested=813 unexpected=0 time=937.350
+NONIC35_FB_PURE_TESTS degree=9 tested=2240 unexpected=0 time=937.370
+NONIC35_FB_D9_CLASSIFICATION_DONE tests=5961 unexpected=0 known_octic_classes=6 complete=true time=937.410

@@ -1,0 +1,8 @@
+NONIC71_QUOTIENT_SYMBOLS dimension=26 H_index=5 H_order=7 time=0.040
+NONIC71_QUOTIENT_NEWFORMS dimensions=[ 3, 3, 20 ] time=0.080
+NONIC71_QUOTIENT_EIGENFORM dimension=3 coefficient_dimension=3 time=0.090
+NONIC71_QUOTIENT_EIGENFORM dimension=3 coefficient_dimension=3 time=0.090
+NONIC71_QUOTIENT_EIGENFORM dimension=20 coefficient_dimension=20 time=0.100
+NONIC71_QUOTIENT_QUADRICS rank=75 independent_relations=276 time=0.370
+NONIC71_QUOTIENT_CANONICAL_CURVE dimension=1 degree=50 arithmetic_genus=26 time=0.510
+NONIC71_QUOTIENT_CANONICAL_PROBE_COMPLETE

@@ -1,0 +1,18 @@
+{
+  "status": "paused_in_memory_for_reduced_tail",
+  "paused_pid": 1896729,
+  "complete_exported_prefix_cases": 420,
+  "complete_prefix": true,
+  "original_full_run_complete": false,
+  "genus9_survivors": 267,
+  "new_tail_cases": 200,
+  "retained_prefix_survivors": [
+    [
+      1,
+      8,
+      1601
+    ]
+  ],
+  "reason": "The independently verified genus9 quotient filter reduced2064 candidates to267. Preserve the healthy original native state while evaluating only the remaining uncovered supports in a new native run.",
+  "arithmetic_sha256": "9115b31499b4890fd19142a811e293b753b65252ab1051389b8ee73a2f71dcbd"
+}

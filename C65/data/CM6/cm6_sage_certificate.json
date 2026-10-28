@@ -1,0 +1,29 @@
+{
+  "complete": true,
+  "level": 65,
+  "prime": 2,
+  "genus": 121,
+  "canonical_jet_precision": 16,
+  "independent_genuine_R1_arcs": 7,
+  "source_cases": [
+    {
+      "source_degree": 6,
+      "source_index": 1,
+      "Hecke_closed_degrees": [
+        12,
+        12
+      ],
+      "Hecke_norm_weights": [
+        1,
+        1
+      ]
+    }
+  ],
+  "independent_kernel_orbits": 2,
+  "geometric_cyclic3_kernels": 4,
+  "all_division_polynomial_norms_exact": true,
+  "all_actual_P_3P_9P_images_verified": true,
+  "supersingular_a1_deformation": true,
+  "all_unit_recovery_ranks120": true,
+  "all_canonical_tangents_nonzero": true
+}

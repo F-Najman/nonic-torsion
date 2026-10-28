@@ -1,0 +1,1 @@
+NONIC133_Z_CUSPS_PASS {'level': 133, 'H_generator': 78, 'H_order': 18, 'H_fixes_P7': True, 'source_cusp_count': 216, 'H_free_on_source_cusps': True, 'quotient_cusp_count': 12, 'global_signature': {1: 6, 3: 2}, 'F2_signature': {1: 6, 3: 2}, 'all_F2_cusps_lift_to_same_global_degree': True}

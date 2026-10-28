@@ -1,0 +1,395 @@
+{
+  "complete": true,
+  "base_cusp_index": 5,
+  "base_cusp_signature": [
+    -25,
+    2
+  ],
+  "global_cusp_degrees": [
+    10,
+    10,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2
+  ],
+  "global_cusp_signatures": [
+    [
+      -1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      -3,
+      2
+    ],
+    [
+      -25,
+      2
+    ],
+    [
+      23,
+      -13
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      -5,
+      7
+    ],
+    [
+      -29,
+      1
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      -13,
+      5
+    ],
+    [
+      -17,
+      4
+    ],
+    [
+      -7,
+      1
+    ],
+    [
+      31,
+      -29
+    ],
+    [
+      19,
+      -5
+    ],
+    [
+      -1,
+      8
+    ],
+    [
+      9,
+      -7
+    ]
+  ],
+  "Pic_invariants": [
+    15,
+    42373650,
+    0
+  ],
+  "unknown_classes": 10,
+  "representatives": [
+    {
+      "finite_class": [
+        0,
+        2997217,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        -1,
+        0,
+        3,
+        0,
+        0,
+        1,
+        3,
+        1,
+        1,
+        -1,
+        3,
+        -2,
+        1,
+        1
+      ],
+      "degree": 9,
+      "positive_degree": 15,
+      "negative_degree": 6
+    },
+    {
+      "finite_class": [
+        0,
+        33477392,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        -1,
+        0,
+        2,
+        -1,
+        0,
+        -2,
+        0,
+        -1,
+        1,
+        4,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 15,
+      "negative_degree": 6
+    },
+    {
+      "finite_class": [
+        3,
+        36453787,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        0,
+        8,
+        -1,
+        -2,
+        -2,
+        0,
+        1,
+        -1,
+        0,
+        1,
+        4,
+        2,
+        0,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 17,
+      "negative_degree": 8
+    },
+    {
+      "finite_class": [
+        3,
+        37443512,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        -1,
+        0,
+        1,
+        2,
+        0,
+        2,
+        -1,
+        1,
+        5,
+        0,
+        -1,
+        0,
+        2,
+        -1,
+        1
+      ],
+      "degree": 9,
+      "positive_degree": 15,
+      "negative_degree": 6
+    },
+    {
+      "finite_class": [
+        6,
+        15727832,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        -1,
+        8,
+        1,
+        0,
+        0,
+        3,
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 13,
+      "negative_degree": 4
+    },
+    {
+      "finite_class": [
+        6,
+        22085557,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        -2,
+        0,
+        1,
+        1,
+        0,
+        5,
+        0,
+        2,
+        2,
+        -1,
+        1,
+        1,
+        1,
+        -1,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 15,
+      "negative_degree": 6
+    },
+    {
+      "finite_class": [
+        9,
+        20254777,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        -1,
+        0,
+        10,
+        1,
+        0,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        -2,
+        2,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 14,
+      "negative_degree": 5
+    },
+    {
+      "finite_class": [
+        9,
+        40267352,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        -1,
+        0,
+        6,
+        3,
+        0,
+        -1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        -1,
+        2,
+        0,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 13,
+      "negative_degree": 4
+    },
+    {
+      "finite_class": [
+        12,
+        28598047,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        0,
+        6,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        -3,
+        -1,
+        0,
+        3,
+        2,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 14,
+      "negative_degree": 5
+    },
+    {
+      "finite_class": [
+        12,
+        32909222,
+        0
+      ],
+      "global_cusp_coefficients": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        2,
+        0,
+        -3,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        1,
+        6,
+        1,
+        0
+      ],
+      "degree": 9,
+      "positive_degree": 14,
+      "negative_degree": 5
+    }
+  ]
+}

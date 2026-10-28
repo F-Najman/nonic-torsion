@@ -1,0 +1,26 @@
+WINDING_SPACE_READY N=841 order=1 dimension=58 time=0.040
+WINDING N=841 order=1 conductor=1 relative_dimension=58 winding_dimension=34 coefficient_degree=1 time=0.230
+WINDING_SPACE_READY N=841 order=406 dimension=72 time=0.220
+WINDING_T2_READY N=841 order=406 time=40.610
+WINDING_GOOD_PRIME p=2437 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=841 chi_index=2 order=406 path=work/degree9/realizations/large_global/krylov_N841_chi2_order406.json
+WINDING_KRYLOV N=841 order=406 span_rank=72 dimension=72 verified=true time=41.370
+WINDING N=841 order=406 conductor=841 relative_dimension=72 winding_dimension=72 coefficient_degree=168 time=41.370
+WINDING_SPACE_READY N=841 order=203 dimension=71 time=0.210
+WINDING_T2_READY N=841 order=203 time=41.570
+WINDING_GOOD_PRIME p=2437 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=841 chi_index=3 order=203 path=work/degree9/realizations/large_global/krylov_N841_chi3_order203.json
+WINDING_KRYLOV N=841 order=203 span_rank=71 dimension=71 verified=true time=42.390
+WINDING N=841 order=203 conductor=841 relative_dimension=71 winding_dimension=71 coefficient_degree=168 time=42.390
+WINDING_SPACE_READY N=841 order=58 dimension=72 time=0.060
+WINDING N=841 order=58 conductor=841 relative_dimension=72 winding_dimension=72 coefficient_degree=28 time=43.080
+WINDING_SPACE_READY N=841 order=29 dimension=71 time=0.060
+WINDING N=841 order=29 conductor=841 relative_dimension=71 winding_dimension=71 coefficient_degree=28 time=58.390
+WINDING_SPACE_READY N=841 order=14 dimension=58 time=0.050
+WINDING N=841 order=14 conductor=29 relative_dimension=58 winding_dimension=58 coefficient_degree=6 time=4.100
+WINDING_SPACE_READY N=841 order=7 dimension=57 time=0.060
+WINDING N=841 order=7 conductor=29 relative_dimension=57 winding_dimension=56 coefficient_degree=6 time=8.100
+WINDING_SPACE_READY N=841 order=2 dimension=58 time=0.050
+WINDING N=841 order=2 conductor=29 relative_dimension=58 winding_dimension=58 coefficient_degree=1 time=0.330
+WINDING_FINAL N=841 genus=28834 total_dimension=28834 bad_orders=[ 1, 7 ] admissible=[ 12, 17, 28, 30, 41, 46, 57, 59, 70, 75, 86, 88, 99, 104, 115, 117, 128, 133, 144, 146, 157, 162, 173, 175, 186, 191, 202, 204, 215, 220, 231, 233, 244, 249, 260, 262, 273, 278, 289, 291, 302, 307, 318, 320, 331, 336, 347, 349, 360, 365, 376, 378, 389, 394, 405, 407, 418, 423, 434, 436, 447, 452, 463, 465, 476, 481, 492, 494, 505, 510, 521, 523, 534, 539, 550, 552, 563, 568, 579, 581, 592, 597, 608, 610, 621, 626, 637, 639, 650, 655, 666, 668, 679, 684, 695, 697, 708, 713, 724, 726, 737, 742, 753, 755, 766, 771, 782, 784, 795, 800, 811, 813, 824, 829 ]
+WINDING_CHARACTER_PROBE_DONE

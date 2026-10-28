@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "level": 65,
+  "prime": 2,
+  "genus": 121,
+  "source_Tate_width": 13,
+  "dual_j_width": 5,
+  "toric_root_order": 5,
+  "independent_Tate_precision": 180,
+  "canonical_coordinates": 121,
+  "all_unit_relations": 137,
+  "normalized_coordinate": 1,
+  "independent_selected_minor_valuation": 98,
+  "verified_canonical_jets": 20,
+  "nonzero_tangent": true,
+  "genuine_Tate_family": true
+}

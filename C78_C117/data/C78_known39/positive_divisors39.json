@@ -1,0 +1,294 @@
+{
+  "complete": true,
+  "source_example_index": 16,
+  "prime": 2,
+  "original_F512_polynomial": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+  ],
+  "global_closed_nonic_divisors": 4,
+  "physical_multipliers": 12,
+  "each_finite_orbit_multiplicity": 3,
+  "known_positive_divisors": [
+    {
+      "representative_multiplier": 1,
+      "physical_multipliers": [
+        1,
+        16,
+        17
+      ],
+      "global_trace_degree": 9,
+      "reduction_code": [
+        9,
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        ]
+      ],
+      "frobenius_canonical_Tate_bc_key": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "representative_multiplier": 2,
+      "physical_multipliers": [
+        2,
+        5,
+        7
+      ],
+      "global_trace_degree": 9,
+      "reduction_code": [
+        9,
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "frobenius_canonical_Tate_bc_key": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "representative_multiplier": 8,
+      "physical_multipliers": [
+        8,
+        11,
+        19
+      ],
+      "global_trace_degree": 9,
+      "reduction_code": [
+        9,
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "frobenius_canonical_Tate_bc_key": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "representative_multiplier": 4,
+      "physical_multipliers": [
+        4,
+        10,
+        14
+      ],
+      "global_trace_degree": 9,
+      "reduction_code": [
+        9,
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+          ]
+        ]
+      ],
+      "frobenius_canonical_Tate_bc_key": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  ]
+}

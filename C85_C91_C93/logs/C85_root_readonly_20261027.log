@@ -1,0 +1,12 @@
+CHECK_PASS verify_stage1_readonly.py
+CHECK_PASS verify_stage2_readonly.py
+CHECK_PASS verify_hecke_transport_readonly.py
+CHECK_PASS verify_census_readonly.py
+CHECK_PASS verify_cusp_pole_degrees.py
+CHECK_PASS verify_cusp_action_readonly.py
+CHECK_PASS portability_supplement/verify_FI_positive_portable_readonly.py
+CHECK_PASS build_R1_product_tensor.py
+CHECK_PASS canonical_R1_sieve.py
+CHECK_PASS verify_R1_ranks_m4ri.py
+NONIC85_COMPLETE_PORTABLE_READONLY_CERTIFICATE_PASS {"allbad_normalized_configurations": 19070333, "binary_matrices": 320, "claim": "No point of order85 over any degree9 number field", "elapsed_seconds": 40.468882295070216, "files": 291, "genuine_ordinary_torsion_families": 20, "manifest_sha256": "7e818891b25795fb1748ab25506aef4254a845d9b91335b8655bcd8c3e1fa3db", "matrix_rank": 225, "matrix_shape": [225, 519], "selected_native_exits_zero": 8}
+NONIC85_FINAL_READONLY_CERTIFICATE_PASS launcher_manifest_sha256=16d975873cf41eb451d843542a8b4f0d7f296e9abba8646ca524b8e2d0c24226

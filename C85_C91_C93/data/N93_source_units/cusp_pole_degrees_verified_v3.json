@@ -1,0 +1,530 @@
+{
+  "status": "PASS",
+  "N": 93,
+  "precision": 300,
+  "pole_degrees": [
+    100,
+    105
+  ],
+  "geometric_cusps": 120,
+  "non_width1_records": [
+    {
+      "width": 93,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "width": 93,
+      "component": 2,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -2,
+        -2
+      ]
+    },
+    {
+      "width": 93,
+      "component": 4,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -4,
+        -4
+      ]
+    },
+    {
+      "width": 93,
+      "component": 5,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -5,
+        -5
+      ]
+    },
+    {
+      "width": 93,
+      "component": 7,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -7,
+        -7
+      ]
+    },
+    {
+      "width": 93,
+      "component": 8,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -8,
+        -8
+      ]
+    },
+    {
+      "width": 93,
+      "component": 10,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -10,
+        -10
+      ]
+    },
+    {
+      "width": 93,
+      "component": 11,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -11,
+        -5
+      ]
+    },
+    {
+      "width": 93,
+      "component": 13,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -2,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 14,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 16,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 17,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 19,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -2
+      ]
+    },
+    {
+      "width": 93,
+      "component": 20,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -7
+      ]
+    },
+    {
+      "width": 93,
+      "component": 22,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -5
+      ]
+    },
+    {
+      "width": 93,
+      "component": 23,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        0,
+        -1
+      ]
+    },
+    {
+      "width": 93,
+      "component": 25,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        7,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 26,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        11,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 28,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        9,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 29,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        6,
+        0
+      ]
+    },
+    {
+      "width": 93,
+      "component": 32,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -3,
+        6
+      ]
+    },
+    {
+      "width": 93,
+      "component": 34,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -9,
+        18
+      ]
+    },
+    {
+      "width": 93,
+      "component": 35,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -11,
+        23
+      ]
+    },
+    {
+      "width": 93,
+      "component": 37,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        -1,
+        19
+      ]
+    },
+    {
+      "width": 93,
+      "component": 38,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        4,
+        13
+      ]
+    },
+    {
+      "width": 93,
+      "component": 40,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        13,
+        -1
+      ]
+    },
+    {
+      "width": 93,
+      "component": 41,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        11,
+        -8
+      ]
+    },
+    {
+      "width": 93,
+      "component": 43,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        7,
+        -7
+      ]
+    },
+    {
+      "width": 93,
+      "component": 44,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        5,
+        -5
+      ]
+    },
+    {
+      "width": 93,
+      "component": 46,
+      "root_exponent_representative": 1,
+      "residue_degree": 1,
+      "orders": [
+        1,
+        -1
+      ]
+    },
+    {
+      "width": 31,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "width": 31,
+      "component": 2,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -2,
+        -2
+      ]
+    },
+    {
+      "width": 31,
+      "component": 3,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -3,
+        -3
+      ]
+    },
+    {
+      "width": 31,
+      "component": 4,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -3,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 5,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 6,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 7,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        0,
+        -3
+      ]
+    },
+    {
+      "width": 31,
+      "component": 8,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        1,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 9,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        4,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 10,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        1,
+        0
+      ]
+    },
+    {
+      "width": 31,
+      "component": 11,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -2,
+        4
+      ]
+    },
+    {
+      "width": 31,
+      "component": 12,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        -2,
+        7
+      ]
+    },
+    {
+      "width": 31,
+      "component": 13,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        3,
+        2
+      ]
+    },
+    {
+      "width": 31,
+      "component": 14,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        3,
+        -3
+      ]
+    },
+    {
+      "width": 31,
+      "component": 15,
+      "root_exponent_representative": 1,
+      "residue_degree": 2,
+      "orders": [
+        1,
+        -1
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 1,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 3,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 5,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 7,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 11,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    },
+    {
+      "width": 3,
+      "component": 1,
+      "root_exponent_representative": 15,
+      "residue_degree": 5,
+      "orders": [
+        0,
+        0
+      ]
+    }
+  ],
+  "width1_geometric_cusps": 30,
+  "width1_orders": [
+    0,
+    0
+  ],
+  "plane_model_used": false,
+  "canonical_relations_used": false,
+  "elapsed_seconds": 1.807575706858188
+}

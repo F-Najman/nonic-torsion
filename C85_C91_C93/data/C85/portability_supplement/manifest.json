@@ -1,0 +1,29 @@
+{
+  "degree": 9,
+  "group": [
+    1,
+    85
+  ],
+  "status": "PORTABLE CHECKER SUPPLEMENT TO COMPLETE EXCLUSION",
+  "base_manifest_sha256": "7e818891b25795fb1748ab25506aef4254a845d9b91335b8655bcd8c3e1fa3db",
+  "independent_checker": "prime_orders/continued_20261026/certify_85_portable_readonly.py",
+  "proof": "prime_orders/continued_20261026/composite85/portability_supplement/reviewed_exclusion.tex",
+  "files": [
+    {
+      "path": "prime_orders/continued_20261026/composite85/portability_supplement/verify_FI_positive_portable_readonly.py",
+      "sha256": "057ae551f830d48393b1408dca3eccd6719801c7f36ab060688832013cff93d4"
+    },
+    {
+      "path": "prime_orders/continued_20261026/composite85/portability_supplement/reviewed_exclusion.tex",
+      "sha256": "1931181a63ec65fc3e7e07f8ec5c8ee911f8a6edb282501fb45fe176a071fb1d"
+    },
+    {
+      "path": "prime_orders/continued_20261026/composite85/portability_supplement/portability.tex",
+      "sha256": "5c3a1046787dabc28f3be9d19ae938afa56a850c02b46531927275e80cda8293"
+    },
+    {
+      "path": "prime_orders/continued_20261026/certify_85_portable_readonly.py",
+      "sha256": "1468f2a82b34def6d357e1da2c9c56736b336e8f882892128560a0ff96ce959f"
+    }
+  ]
+}

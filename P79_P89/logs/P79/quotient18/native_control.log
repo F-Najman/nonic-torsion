@@ -1,0 +1,12 @@
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/finite_common.m"
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/plane_model_reviewed_data.m"
+NONIC79_LOW_DEGREE_MODEL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/isogeny5_target_data.m"
+NONIC79_NATIVE5_TARGET_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/source_places_data.m"
+NONIC79_QUOTIENT_SOURCE_PLACES_READY
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/target_places1_jbase_data.m"
+NONIC79_TARGET_PLACES_JV_READY
+NONIC79_SIGMA_NATIVE_CONTROL order3=true fixes_j=true time=24.050
+NONIC79_RR_NATIVE_CONTROL_START fiber=1 source=1 target=1 convention=1 time=24.360
+NONIC79_RR_NATIVE_CONTROL_COMPLETE dimension=0 time=25.370

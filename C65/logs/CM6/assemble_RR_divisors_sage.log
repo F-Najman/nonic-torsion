@@ -1,0 +1,3 @@
+C65_NECESSARY_RR_DIVISOR 6 1 positive_degree 36 signed_multiplicities [-2, 2, -1, 1, -1, 1]
+C65_NECESSARY_RR_DIVISOR 6 2 positive_degree 36 signed_multiplicities [2, -2, -1, 1, -1, 1]
+C65_NECESSARY_RR_DIVISORS_ASSEMBLED 2 6 seconds 0.37718121404759586

@@ -1,0 +1,16 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(32*10^9);tt:=Cputime();
+CQ:=SmallModularCurve(19);jraw:=jInvariant(CQ,19);CC:=ChangeRing(CQ,GF(2));assert IsNonsingular(CC) and Genus(CC) eq 1;
+RC:=CoordinateRing(Ambient(CC));jn:=RC!Numerator(jraw);jd:=RC!Denominator(jraw);
+K,kmap:=AlgorithmicFunctionField(FunctionField(CC));jK:=kmap(FunctionField(CC)!(jn/jd));
+FB<t>:=FunctionField(GF(2));b:=t^3-t^2;c:=t^2-t;E7:=EllipticCurve([1-c,-b,-b,FB!0,FB!0]);P7:=E7![0,0];assert Order(P7) eq 7;ju:=jInvariant(E7);
+jparts:=Eltseq(jK);assert #jparts eq 2 and jparts[2] ne 0;kpoly:=DefiningPolynomial(K);assert Degree(kpoly) eq 2;
+FX<X>:=FunctionField(FB);rx:=hom<BaseField(K)->FX|X>;
+jzero:=rx(jparts[1]);jone:=rx(jparts[2]);aa:=rx(Coefficient(kpoly,1));bb:=rx(Coefficient(kpoly,0));
+normrel:=((FX!ju)+jzero)^2+aa*jone*((FX!ju)+jzero)+bb*jone^2;
+f:=Numerator(normrel);assert Degree(f) eq 20 and IsIrreducible(f);
+printf "NONIC133_Z_DIRECT_EQUATION degree20=true exact_j19=true time=%o\n",Cputime(tt);
+AF<u>:=FunctionField(f);kx:=hom<BaseField(K)->AF|u>;yval:=((AF!ju)+kx(jparts[1]))/kx(jparts[2]);kemb:=hom<K->AF|kx,yval>;
+assert kemb(jK) eq AF!ju;assert Genus(AF) eq 35;jaf:=AF!ju;j0:=ju;
+printf "NONIC133_Z_GENUS genus=35 exact_X019_embedding=true time=%o\n",Cputime(tt);
+t7:=AF!FB.1;
+load "C133/reproduce_FI3_tail.m";

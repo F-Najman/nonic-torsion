@@ -1,0 +1,15 @@
+Y63_NC_EXHAUSTIVE e=7 geometric_pairs=189 closed_places=27 diamond_orbits=3 time=0.040
+Y63_NC_REP index=1 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 0, 0, 0, 1, 0 ]
+Y63_NC_REP index=2 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 0, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 1, 1, 0, 0, 1 ]
+Y63_NC_REP index=3 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 0, 1, 0, 1 ] x7=[ 0, 1, 1, 0, 1, 1, 1 ]
+Y63_MODEL genus=49 degree=24 maximal_order_ready=true time=49.400
+Y63_HEC_START index=1 input_degree=7 diamond_degree=7 time=49.690
+Y63_HEC_IMAGE index=1 image_degrees=[ 42 ] multiplicities=[ 6 ] time=51.120
+Y63_T5_TEST index=1 principal=false time=79.320
+Y63_HEC_START index=2 input_degree=7 diamond_degree=7 time=79.460
+Y63_HEC_IMAGE index=2 image_degrees=[ 42 ] multiplicities=[ 6 ] time=81.160
+Y63_T5_TEST index=2 principal=false time=111.160
+Y63_HEC_START index=3 input_degree=7 diamond_degree=7 time=111.300
+Y63_HEC_IMAGE index=3 image_degrees=[ 42 ] multiplicities=[ 6 ] time=112.750
+Y63_T5_TEST index=3 principal=false time=135.660
+Y63_NC_T5_DONE e=7 tests=3 complete=true

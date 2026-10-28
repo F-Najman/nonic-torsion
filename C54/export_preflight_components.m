@@ -1,0 +1,10 @@
+SetColumns(0);SetQuitOnError(true);tt:=Cputime();
+load "C54/preflight_module9.m";
+comp2:=[[b2(C-d*Divisor(c02)):C in CuspDivisors54(Cusps(X2),d,C2)]:d in [0..3]];
+nc2:=[[b2(Divisor(P)-d*Divisor(c02)):P in ps2[d]]:d in [6..9]];
+recomputed:={G2|};
+for i in [1..4] do for a in nc2[i] do for c in comp2[5-i] do Include(~recomputed,a+c);end for;end for;end for;
+assert recomputed eq candidate2 and #recomputed eq 2413;
+out:=Open("C54/data/preflight_components.json","w");
+fprintf out,"{\"relations2\":%o,\"relations5\":%o,\"cusp2\":%o,\"cusp5\":%o,\"candidate2\":%o,\"noncuspidal_classes2\":%o,\"cusp_complement_classes2\":%o,\"noncuspidal_counts2\":%o,\"complete\":true}\n",[Eltseq(r):r in Rows(RelationMatrix(G2))],[Eltseq(r):r in Rows(RelationMatrix(G5))],[Eltseq(v):v in qc2],[Eltseq(v):v in qc5],[Eltseq(v):v in candidate2],[[Eltseq(v):v in row]:row in nc2],[[Eltseq(v):v in row]:row in comp2],[#ps:ps in ps2];delete out;
+printf "NONIC54_PREFLIGHT_COMPONENTS_EXPORTED NC6to9=%o cusp_complements0to3=%o distinct_candidates=2413 exact_cusp_kernels_equal=true complete=true time=%o\n",[#r:r in nc2],[#Seqset(r):r in comp2],Cputime(tt);quit;

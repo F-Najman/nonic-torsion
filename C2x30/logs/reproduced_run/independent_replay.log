@@ -1,0 +1,5 @@
+C230_D9_SERIES_PASS classes=256 effective_divisors=956 unique=84 fixed_cusp=144 pencils=28
+C230_D9_FIBRES_PASS members=224 points=78 source_candidates=42 nc8=18 nc9=24
+C230_D9_FINITE_ARITHMETIC_PASS primitive_levels=78 quotient_maps=126 targets=21
+C230_D9_INTEGER_PASS quotient_index=4352 finite_cusp_shifts1=9 candidates=42 remaining=0
+C230_D9_INDEPENDENT_REPLAY_PASS complete=true

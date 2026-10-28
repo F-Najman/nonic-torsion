@@ -1,0 +1,10 @@
+Loading "work/degree9/cyclic/continuation_20261026/C65_allbad/canonical_source_data.m"
+NONIC65_QUARTIC_UNIT_VALUATIONS -1 -1
+NONIC65_QUARTIC_CUSP_ARC_SOLVE_START precision=800 time=0.150
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=20 total=0 time=4.330
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=40 total=0 time=8.120
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=60 total=0 time=10.860
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=80 total=0 time=12.560
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=100 total=8 time=13.470
+NONIC65_CUSP_ARC_VALUATION_PIVOT k=120 total=98 time=13.730
+NONIC65_ALLBAD_QUARTIC_CUSP_ARC_COMPLETE normalized_pivot=1 all137relations=true canonical_tangent_nonzero=true jet_precision20=true time=14.090

@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "canonical_genus": 225,
+  "q_precision": 1300,
+  "Sturm_weight2": 576,
+  "canonical_basis_rank": 225,
+  "unit_relations": [
+    136,
+    131
+  ],
+  "global_relation_section_degree_bounds": [
+    538,
+    543
+  ],
+  "global_zero_order_lower_bound": 1298,
+  "sample_finite_rank": 224,
+  "sample_level_order": 85,
+  "diamond_order": 8,
+  "diamond_minus_identity_rank": 196,
+  "canonical_matrix_corresponds_to_point_diamond2_exponent": -1,
+  "global_diamond_point2_certificate_zero_orders": [
+    1297,
+    1297
+  ],
+  "global_diamond_point3_certificate_zero_orders": [
+    1296,
+    1296
+  ],
+  "diamond3_order": 16,
+  "native_data_sha256": "bf635c22984ede0b0186299a0167c2176891b6f87c05c23524f1681b2105949e",
+  "elapsed_seconds": 3.1051723591517657
+}

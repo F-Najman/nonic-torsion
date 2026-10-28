@@ -1,0 +1,13 @@
+{
+  "p": 47,
+  "degree": 9,
+  "H_index": 23,
+  "Tn": 2,
+  "diamond_generator": 5,
+  "prefix_configurations": 1601744,
+  "rank_all": 9,
+  "full_binary_rank": 70,
+  "input_rows": 97,
+  "input_columns": 4900,
+  "status": "PASS"
+}

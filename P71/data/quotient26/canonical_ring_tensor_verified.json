@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "all_q_product_identities_verified": true,
+  "product_count": 5625,
+  "q_precision": 600,
+  "Sturm_bound": 240,
+  "dimensions": [
+    75,
+    175
+  ],
+  "elapsed_seconds": 0.43871237407438457,
+  "output_sha256": "b18f0fc98f53f2eb43f2e5132f82c375faaaf82e6ba6be79040ccbfe5ebea64f"
+}

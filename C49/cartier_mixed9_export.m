@@ -1,0 +1,31 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(32*10^9);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+load "common/dt_expansions_local.m";
+tt:=Cputime();X:=MDX1(49,GF(2));FF:=FunctionField(Curve(X));AF,am:=AlgorithmicFunctionField(FF);
+assert Genus(AF) eq 69;
+b:=am(X`_coordinates[1]);c:=am(X`_coordinates[2]);
+j:=(1+c)^12/(b^3*(b+c*(c+1)^3));
+printf "NONIC49_CARTIER_MODEL genus=69 AF_degree=%o time=%o\n",Degree(AF),Cputime(tt);
+Om,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(v):v in Basis(Om)];assert #B eq 69;
+CM:=Matrix(GF(2),[Eltseq(Cartier(w)@@om):w in B]);U:=RowSpace(CM-IdentityMatrix(GF(2),69));assert Dimension(U) eq 68;
+cs:=Poles(j);assert Degree(j) eq 1176 and {*Degree(P):P in cs*} eq {*1^^21,3^^6,21*};
+rat:=[P:P in cs|Degree(P) eq 1];cub:=[P:P in cs|Degree(P) eq 3];
+cs:=rat[1..18] cat cub;ds:=[Degree(P):P in cs];caps:=[6:i in [1..18]]cat[3:i in [1..6]];
+assert #cs eq 24;
+f:="C49/data/cartier_mixed9_jets.m";
+PrintFile(f,Sprintf("// Fresh common basis; degree9 mixed cusps.\nN:=49;D:=9;gx:=69;udim:=68;ds:=%o;caps:=%o;localjets:=AssociativeArray();basisjets:=AssociativeArray();",ds,caps):Overwrite:=true);
+PrintFile(f,Sprintf("CartierMatrix:=Matrix(GF(2),69,69,%o);ImageBasis:=Matrix(GF(2),68,69,%o);",Eltseq(CM),Eltseq(BasisMatrix(U))));
+printf "NONIC49_CARTIER_CUSPS chosen_rational=18 omitted_rational=3 cubic=6 Udim=68 time=%o\n",Cputime(tt);
+for i in [1..24] do
+ printf "NONIC49_CARTIER_JET_START i=%o degree=%o cap=%o time=%o\n",i,ds[i],caps[i],Cputime(tt);
+ es:=DifferentialExpansionMatrices(B,cs[i],caps[i]);assert #es eq caps[i];
+ assert &and[Nrows(M) eq 69 and Ncols(M) eq ds[i]:M in es];
+ A:=HorizontalJoin(es);PrintFile(f,Sprintf("basisjets[%o]:=Matrix(GF(2),69,%o,%o);",i,Ncols(A),Eltseq(A)));
+ for m in [1..caps[i]] do
+  J:=BasisMatrix(U)*Submatrix(A,1,1,69,m*ds[i]);assert Rank(J) eq m*ds[i];
+  PrintFile(f,Sprintf("localjets[<%o,%o>]:=Matrix(GF(2),68,%o,%o);",i,m,Ncols(J),Eltseq(J)));
+ end for;
+ printf "NONIC49_CARTIER_JET_DONE i=%o time=%o\n",i,Cputime(tt);
+end for;
+PrintFile(f,"print \"NONIC49_MIXED9_JET_DATA_READY\";");
+printf "NONIC49_CARTIER_MIXED9_EXPORT_COMPLETE all24cusps=true one_common_basis=true time=%o\n",Cputime(tt);quit;

@@ -1,0 +1,25 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    961
+  ],
+  "N": 961,
+  "a": 3,
+  "diamond_order": 465,
+  "q": 3,
+  "kq": 7,
+  "degree9_principal_bound": 63,
+  "index": 461280,
+  "genus": 37751,
+  "gonality_lower_bound": "4684875/1024",
+  "minimum_CM_degree": 310,
+  "bad_winding_orders": [
+    1
+  ],
+  "modular_Krylov_matrices": [
+    "krylov_N961_chi2_order465.json",
+    "krylov_N961_chi3_order155.json",
+    "krylov_N961_chi4_order93.json"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "degree": 9,
+  "excluded_group": [
+    1,
+    38
+  ],
+  "coverage_complete": true,
+  "noncuspidal_counts": [
+    0,
+    0,
+    3,
+    0,
+    72,
+    87,
+    216,
+    801,
+    2127
+  ],
+  "diamond_representative_counts": [
+    0,
+    0,
+    1,
+    0,
+    8,
+    11,
+    24,
+    89,
+    239
+  ],
+  "partition_types": 96,
+  "empty_types": 86,
+  "nonempty_types": [
+    {
+      "partition": [
+        3
+      ],
+      "count": 1,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        5
+      ],
+      "count": 8,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        6
+      ],
+      "count": 11,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        3,
+        3
+      ],
+      "count": 3,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        7
+      ],
+      "count": 24,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        8
+      ],
+      "count": 89,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        5,
+        3
+      ],
+      "count": 24,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        9
+      ],
+      "count": 239,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        6,
+        3
+      ],
+      "count": 33,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    },
+    {
+      "partition": [
+        3,
+        3,
+        3
+      ],
+      "count": 6,
+      "completed_log": "N38_p3_quotient_D9_rerun.log"
+    }
+  ],
+  "tested_representatives": 438,
+  "all_survivors": 0,
+  "untouched_native_Hecke_control": true,
+  "audited_logs": [
+    "N38_p3_quotient_D9_rerun.log"
+  ]
+}

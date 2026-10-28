@@ -1,0 +1,2 @@
+DEGREE9_FAST_COUNT m=1 n=69 p=2 genus=133 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 462, 352, 396 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 66, 44, 44 ] time=0.420
+DEGREE9_FAST_COUNTS_DONE complete=true 0.420

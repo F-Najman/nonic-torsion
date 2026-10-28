@@ -1,0 +1,19 @@
+NONIC87_QUOTIENT_SYMBOLS dimension33=true H_index4=true H_order7=true time=0.050
+NONIC87_QUOTIENT_CONSTITUENTS dims=[ 2, 2, 2, 3, 4, 4, 4, 8 ] time=0.130
+NONIC87_CONSTITUENT_NEWLEVEL level=29
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=2 coefficient_dim=2 time=0.150
+NONIC87_CONSTITUENT_NEWLEVEL level=29
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=2 coefficient_dim=2 time=0.160
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=2 coefficient_dim=2 time=0.160
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=3 coefficient_dim=3 time=0.170
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=4 coefficient_dim=4 time=0.190
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=4 coefficient_dim=4 time=0.200
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=4 coefficient_dim=4 time=0.200
+NONIC87_CONSTITUENT_NEWLEVEL level=87
+NONIC87_QUOTIENT_EIGENFORM constituent_dim=8 coefficient_dim=8 time=0.210
+NONIC87_QUOTIENT_CANONICAL_READY genus33=true degree64=true relations465=true time=1.380

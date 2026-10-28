@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "finite_class_tests": 155770,
+  "all_cusp_classes": 146260,
+  "global_effective_cusp_classes": 144250,
+  "known_septic_plus_degree2cusp": 600,
+  "known_octic_plus_cusp": 50,
+  "known_nonic_classes": 10,
+  "unknown_classes": 10,
+  "all127_finite_point_coordinates_verified": true,
+  "affine_nonsingular_points": 127,
+  "all_degree9_global_cusp_representatives_verified": true,
+  "no_exclusion_asserted_here": true
+}

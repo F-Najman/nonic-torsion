@@ -1,0 +1,44 @@
+{
+  "degree": 9,
+  "complete": true,
+  "source_place_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    192,
+    320,
+    960,
+    1824
+  ],
+  "full_orbit_counts": [
+    8,
+    10,
+    32,
+    57
+  ],
+  "supports": 107,
+  "actual_maps": 428,
+  "independent_two_isogenies": 214,
+  "target_image_index": 68,
+  "cusp_complement_class_counts": [
+    1,
+    1,
+    3,
+    3,
+    4
+  ],
+  "distinct_target_keys": 415,
+  "remaining": 0,
+  "excluded_groups": [
+    [
+      2,
+      32
+    ],
+    [
+      1,
+      64
+    ]
+  ]
+}

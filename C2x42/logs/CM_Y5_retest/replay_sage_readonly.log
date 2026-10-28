@@ -1,0 +1,5 @@
+C242_G5_Q_DESCENT_IDENTITIES_SAGE_PASS
+C242_G5_HECKE11_SAGE_GENERATOR_PASS 1 isogenies 12
+C242_G5_HECKE11_SAGE_GENERATOR_PASS 2 isogenies 12
+C242_G5_HECKE11_SAGE_GENERATOR_PASS 3 isogenies 12
+C242_CM_Y5_INDEPENDENT_SAGE_PASS {"complete": true, "CM_supports_tested": 8, "exact_chart_tests": 6, "conservative_pole_chart_tests": 2, "pole_candidates_per_test": 4, "excluded_CM_supports": [3, 4, 5, 7], "remaining_CM_supports": [1, 2, 6, 8], "forced_nonrational_cubic_complement_verified": true, "primitive_cubic_descent_verified": true, "independent_checked_11_isogenies": 36} seconds 1.4533937082160264

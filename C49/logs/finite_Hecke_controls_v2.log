@@ -1,0 +1,7 @@
+Loading "work/degree9/prime_orders/continued_20261026/P49/input_records.m"
+Loading "work/degree9/prime_orders/continued_20261026/finite_and_Hecke_controls\
+_v2.m"
+NONIC_INDEPENDENT_FINITE_COVERAGE N=49 degree=9 all_closed_points=42 source_reps=2 qualifying_twists=18 time=0.540
+NONIC_INDEPENDENT_HECKE_CONTROL N=49 degree=9 index=1 native_maps=4 fast_orbits=1 weighted_image_degrees=[ 36 ] observations=[ 4 ] weights=[ 1 ] alpha=1 agrees=true time=0.580
+NONIC_INDEPENDENT_HECKE_CONTROL N=49 degree=9 index=2 native_maps=4 fast_orbits=1 weighted_image_degrees=[ 36 ] observations=[ 4 ] weights=[ 1 ] alpha=1 agrees=true time=0.610
+NONIC_FINITE_AND_HECKE_CONTROLS_COMPLETE N=49 inputs=2 time=0.610

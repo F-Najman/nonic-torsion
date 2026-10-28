@@ -1,0 +1,7 @@
+NONIC133_Y_NO_GOOD e=1 qualifying_P7_curves=0 exact_all_j_and_twists=true
+NONIC133_Y_CUBIC_LOCAL e=2 Eorder=7 trace=-2 H19=[ 1, 7, 11 ] characteristic_values=[ 7, 10, 14 ]
+NONIC133_Y_CUBIC_LOCAL e=2 Eorder=7 trace=-2 H19=[ 1, 7, 11 ] characteristic_values=[ 7, 10, 14 ]
+NONIC133_Y_NO_GOOD e=2 qualifying_P7_curves=2 exact_all_j_and_twists=true
+NONIC133_Y_CUBIC_LOCAL e=3 Eorder=14 trace=-5 H19=[ 1, 7, 11 ] characteristic_values=[ 14, 16, 13 ]
+NONIC133_Y_NO_GOOD e=3 qualifying_P7_curves=1 exact_all_j_and_twists=true
+NONIC133_Y_ALLBAD_CUBIC_PASS

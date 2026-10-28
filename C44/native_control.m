@@ -1,0 +1,16 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(12*10^9);t0:=Cputime();
+load "C44/finite_functions_v2.m";
+load "C44/data/native_control_inputs.m";
+load "common/pair_af_place_linear.m";
+function Val(co,a)return &+[Parent(a)!co[i]*a^(i-1):i in [1..#co]];end function;
+K0<a>:=ext<GF(3)|PF!SourceFieldPolynomial>;E:=EllipticCurve([Val(co,a):co in SourceE]);PP:=E![Val(co,a):co in SourcePoint];assert 44*PP eq E!0 and 22*PP ne E!0 and 4*PP ne E!0;
+expected:=AssociativeArray();for J in ControlT do RF<ar>:=ext<GF(3)|PF!J[3]>;xy:=[Val(co,ar):co in J[4]];xy,z,d,key:=ReduceXY(xy);assert d eq J[1];expected[key]:=J[2];end for;
+phis:=MDIsogenies(E,5);assert #phis eq 6;counts:=AssociativeArray();for phi in phis do EL:=Domain(phi);Fq:=BaseRing(EL);PG:=phi(EL![Fq!PP[1],Fq!PP[2]]);xy,z,d,key:=ReduceXY(TateNormalForm_xy(Codomain(phi),PG));if IsDefined(counts,key) then counts[key]+:=1;else counts[key]:=1;end if;end for;
+assert Keys(expected) eq Keys(counts);for key in Keys(counts) do assert counts[key]*9 eq key[1]*expected[key];end for;
+printf "NONIC44_UNTOUCHED_NATIVE5_CONTROL_PASS all6=true normalized_closed_divisor_agrees=true time=%o\n",Cputime(t0);
+FF:=FunctionField(C);AF,am:=AlgorithmicFunctionField(FF);assert Genus(AF) eq 36;coordsAF:=[am(FF.i):i in [1,2]];DT:=DivisorGroup(AF)!0;DU:=DivisorGroup(AF)!0;
+for J in ControlT do RF<ar>:=ext<GF(3)|PF!J[3]>;xy:=[Val(co,ar):co in J[4]];pl:=C48PairAFPlaceLinear(coordsAF,xy);assert Degree(pl) eq J[1];DT+:=J[2]*Divisor(pl);end for;
+for J in ControlU do RF<ar>:=ext<GF(3)|PF!J[3]>;xy:=[Val(co,ar):co in J[4]];pl:=C48PairAFPlaceLinear(coordsAF,xy);assert Degree(pl) eq J[1];DU+:=J[2]*Divisor(pl);end for;assert Degree(DT) eq 54 and Degree(DU) eq 54;B0:=DT-DU;
+printf "NONIC44_NATIVE_RR_CONTROL_READY positive54=true negative54=true time=%o\n",Cputime(t0);
+rr:=Basis(B0:Reduction:=false,Simplification:="None");assert #rr in [0,1];if #rr eq 1 then assert Divisor(rr[1])+B0 eq 0*B0;end if;
+printf "NONIC44_NATIVE_RR_CONTROL_DONE dimension=%o no_class_cache=true time=%o\n",#rr,Cputime(t0);quit;

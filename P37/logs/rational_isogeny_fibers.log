@@ -1,0 +1,3 @@
+NONIC37_RATIONAL_ISOGENY_FIBER label=1225h1 a=[ 1, 1, 1, -8, 6 ] j=-9317 x_factor_degrees=[ <6, 1>, <6, 1>, <6, 1>, <666, 1> ] all_even=true time=0.610
+NONIC37_RATIONAL_ISOGENY_FIBER label=1225h2 a=[ 1, 1, 1, -208083, -36621194 ] j=-162677523113838677 x_factor_degrees=[ <18, 1>, <222, 1>, <222, 1>, <222, 1> ] all_even=true time=2.190
+NONIC37_RATIONAL_ISOGENY_FIBERS_COMPLETE

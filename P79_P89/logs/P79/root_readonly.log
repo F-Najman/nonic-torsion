@@ -1,0 +1,8 @@
+CHECK_PASS verify_q_identities_complete.py
+CHECK_PASS verify_winding.py
+CHECK_PASS verify_finite_keys.py
+CHECK_PASS verify_canonical_ring_tensor_readonly.py
+CHECK_PASS verify_multiplication_certificate_readonly.py
+CHECK_PASS verify_ranks_m4ri.py
+CHECK_PASS verify_FI_relations.py
+NONIC79_COMPLETE_READONLY_CERTIFICATE_PASS {"binary_matrices": 48, "claim": "C79 excluded over every degree9 field", "elapsed_seconds": 6.715321391820908, "files": 300, "manifest_sha256": "5819a14c6e3474f46c2cf13a520d44c8ea3abab5d54e5e38158efcdc3749ad92", "matrix_shape": [119, 235], "native_exits_zero": 14, "rank": 119}

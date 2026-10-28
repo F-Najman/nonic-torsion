@@ -1,0 +1,10 @@
+Loading "work/degree9/parallel_expansion_20261026/N57_f6/records.m"
+Loading "work/degree9/cyclic/continuation_20261026/C57_source85/good_jets_engin\
+e_v2.m"
+Loading "work/degree9/cyclic/continuation_20261026/C57_source85/canonical_unit_data.m"
+NONIC57_SOURCE85_CANONICAL_UNIT_STAGE1_DATA_READY
+Loading "work/degree9/cyclic/continuation_20261026/C57_source85/ring24_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C57_source85/explicit5_isogenies.m"
+NONIC57_SOURCE85_GOOD_JETS_SOURCE case=6 index=1 target_degrees=[ 18, 9 ] norm_weights=[ 1, 2 ] unit_rank251=true genuine_tangent=true precision16=true time=48.420
+NONIC57_SOURCE85_GOOD_JETS_SOURCE case=6 index=2 target_degrees=[ 9, 18 ] norm_weights=[ 2, 1 ] unit_rank251=true genuine_tangent=true precision16=true time=91.570
+NONIC57_SOURCE85_GOOD_JETS_COMPLETE case=6 time=91.610

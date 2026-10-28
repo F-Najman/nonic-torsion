@@ -1,0 +1,3 @@
+GLOBAL31_EXACT_ORDER_AND_FULL_TORSION [{'p': 53, 'root': 28, 'root_simple': True, 'good': True, 'order': 62}, {'p': 83, 'root': 39, 'root_simple': True, 'good': True, 'order': 93}]
+KNOWN31_FIVE_SURVIVORS_BOUND [(1878, [1, 5, 6]), (2248, [4, 7, 11]), (3105, [3, 13, 15]), (3225, [8, 9, 14]), (3323, [2, 10, 12])]
+KNOWN31_BINDING_COMPLETE full_torsion=31 survivor_count=5

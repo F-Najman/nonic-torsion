@@ -1,0 +1,21 @@
+{
+  "level": 35,
+  "native_proven_Pic_order": 14529850982400,
+  "factor_basis_places": 3592,
+  "generation_bound": 9,
+  "primary_image_orders": [
+    16384,
+    25
+  ],
+  "rational_primary_image_orders": [
+    8,
+    5
+  ],
+  "rational_image_index": 10240,
+  "all_relation_rows_checked": 4519,
+  "supports": 5961,
+  "known_octic_places": 6,
+  "unexpected": [],
+  "supports_exclusion": true,
+  "complete": true
+}

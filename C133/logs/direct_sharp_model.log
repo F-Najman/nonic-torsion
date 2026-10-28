@@ -1,0 +1,35 @@
+NONIC133_Z_DIRECT_EQUATION degree20=true exact_j19=true time=0.040
+NONIC133_Z_GENUS genus=35 exact_X019_embedding=true time=449.910
+Loading "work/degree9/realizations/continuation/C133/direct_sharp_tail.m"
+NONIC133_Z_SHARP_COTANGENT genus=35 U_dimension=8 finite_operator=P0(T2)*(T2-2delta^2) exact_delta2=true time=474.330
+Loading "work/degree9/realizations/continuation/C133/direct_sharp_rr.m"
+NONIC133_Z_CUSPS degrees=[ 1, 1, 1, 1, 3, 3, 1, 1 ] jdegree=480 time=474.820
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=1 rank=1 time=684.050
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=2 rank=2 time=879.010
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=3 rank=3 time=1070.760
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=1 rank=1 time=1265.230
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=2 rank=2 time=1453.450
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=3 rank=3 time=1643.030
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=1 rank=1 time=1853.440
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=2 rank=2 time=2052.860
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=3 rank=3 time=2252.340
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=1 rank=1 time=2461.340
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=2 rank=2 time=2649.980
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=3 rank=3 time=2866.200
+NONIC133_Z_RR cusp=5 degree=3 multiplicity=1 rank=2 time=3068.970
+NONIC133_Z_RR cusp=6 degree=3 multiplicity=1 rank=2 time=3269.700
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=1 rank=1 time=3491.760
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=2 rank=2 time=3757.190
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=3 rank=3 time=4024.240
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=1 rank=1 time=4233.220
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=2 rank=2 time=4508.870
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=3 rank=3 time=4736.450
+NONIC133_Z_FI_EXCEPTION [ 0, 0, 0, 0, 0, 1, 0, 0 ]
+2
+NONIC133_Z_FI_EXCEPTION [ 0, 0, 0, 0, 1, 0, 0, 0 ]
+2
+NONIC133_Z_FI_EXCEPTION [ 0, 1, 0, 1, 0, 0, 0, 1 ]
+2
+NONIC133_Z_FI_EXCEPTION [ 1, 0, 1, 0, 0, 0, 1, 0 ]
+2
+NONIC133_Z_FI_DONE degree=3 tested=58 exceptions=4 complete=true time=4737.120

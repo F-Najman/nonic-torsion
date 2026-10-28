@@ -1,0 +1,18 @@
+Loading "work/degree9/noncyclic/C230/deps/native_group_generators.m"
+Loading "work/degree9/noncyclic/C230/deps/class_group_direct_RR_checked_v4_fastfb.m"
+C242_GENUS5_TATE7_DESCENT_IDENTITIES_PASS p=5 cpu=0.010
+C242_G5_NEW_GENERATOR d=3 order=24 span=384 cpu=3.400
+C242_G5_NEW_GENERATOR d=3 order=48 span=1152 cpu=3.810
+C242_G5_NEW_GENERATOR d=3 order=48 span=3456 cpu=4.190
+C242_G5_LIFT_START i=1 d=3 cpu=4.200
+C242_G5_LIFT_PASS 1 4.200
+C242_G5_T11_GENERATOR i=1 d=3 class=24 A11=1 cpu=4.920
+C242_G5_LIFT_START i=2 d=3 cpu=4.920
+C242_G5_LIFT_PASS 2 4.920
+C242_G5_T11_GENERATOR i=2 d=3 class=48 A11=6 cpu=6.180
+C242_G5_LIFT_START i=3 d=3 cpu=6.180
+C242_G5_LIFT_PASS 3 6.180
+C242_G5_T11_GENERATOR i=3 d=3 class=48 A11=6 cpu=7.110
+C242_GENUS5_HECKE11_AUDIT_EXPORT_DONE [ 2, 2, 2, 24 ]
+[ 3, 6 ]
+complete=true 7.130

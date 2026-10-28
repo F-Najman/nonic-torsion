@@ -1,0 +1,1222 @@
+{
+ "source": "certified_results.json of the original record (the accepted proof ledger), reduced to the groups; folder = the folder of this repository with the proof",
+ "degree": 9,
+ "classification_complete": true,
+ "prime_bound": {
+  "upper_bound": 89,
+  "audited": true,
+  "source": "Derickx\u2013Stoll2505.14109v1 Proposition5.2/Corollary7.5 with exact inequalities; fresh complete DKSS formal-immersion certificates for97/101.",
+  "folder": "prime_bound"
+ },
+ "first_invariant_factors": [
+  1,
+  2
+ ],
+ "published_infinite_families": {
+  "source": "Najman\u2013Varivoda, arXiv:2602.03513v4, Theorem1.1(3)",
+  "groups": [
+   [
+    1,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    1,
+    8
+   ],
+   [
+    1,
+    9
+   ],
+   [
+    1,
+    10
+   ],
+   [
+    1,
+    11
+   ],
+   [
+    1,
+    12
+   ],
+   [
+    1,
+    13
+   ],
+   [
+    1,
+    14
+   ],
+   [
+    1,
+    15
+   ],
+   [
+    1,
+    16
+   ],
+   [
+    1,
+    17
+   ],
+   [
+    1,
+    18
+   ],
+   [
+    1,
+    19
+   ],
+   [
+    1,
+    20
+   ],
+   [
+    1,
+    21
+   ],
+   [
+    1,
+    22
+   ],
+   [
+    1,
+    23
+   ],
+   [
+    1,
+    24
+   ],
+   [
+    1,
+    25
+   ],
+   [
+    1,
+    26
+   ],
+   [
+    1,
+    27
+   ],
+   [
+    1,
+    28
+   ],
+   [
+    1,
+    30
+   ],
+   [
+    1,
+    36
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    2,
+    4
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    2,
+    14
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    2,
+    20
+   ],
+   [
+    2,
+    22
+   ],
+   [
+    2,
+    24
+   ]
+  ]
+ },
+ "realizations": [
+  {
+   "degree": 9,
+   "group": [
+    1,
+    29
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    31
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    32
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    33
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    34
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    39
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    40
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    42
+   ],
+   "audited": true,
+   "folder": "realizations",
+   "original_proof_fragment": "realizations/nonic_realizations.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    26
+   ],
+   "audited": true,
+   "folder": "C2x26",
+   "original_proof_fragment": "noncyclic/C226_occurrence_20261026/occurrence_2_26_D9.tex"
+  }
+ ],
+ "exclusions": [
+  {
+   "degree": 9,
+   "group": [
+    2,
+    30
+   ],
+   "audited": true,
+   "folder": "C2x30",
+   "original_proof_fragment": "noncyclic/C230/exclusion_2_30_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    60
+   ],
+   "audited": true,
+   "folder": "C2x30",
+   "original_proof_fragment": "noncyclic/C230/exclusion_2_30_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    115
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/C115_q2_exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    119
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    121
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    125
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    143
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    145
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    155
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    161
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    169
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    187
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    203
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    209
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    217
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    221
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    253
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    289
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    299
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    319
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    323
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    341
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    361
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    377
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    391
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    403
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    437
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    493
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    527
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    529
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    551
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    589
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    667
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    713
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/nonic_large_global.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    841
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/addendum841/exclusion841.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    899
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/addendum899/proof.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    53
+   ],
+   "audited": true,
+   "folder": "P43_P53_P61",
+   "original_proof_fragment": "prime_orders/p53_exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    38
+   ],
+   "audited": true,
+   "folder": "C38",
+   "original_proof_fragment": "cyclic/exclusion38_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    961
+   ],
+   "audited": true,
+   "folder": "large_levels",
+   "original_proof_fragment": "realizations/large_global/addendum961/proof.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    99
+   ],
+   "audited": true,
+   "folder": "C95_C99",
+   "original_proof_fragment": "realizations/continuation/C99/exclusion99.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    41
+   ],
+   "audited": true,
+   "folder": "P41_P47_P59",
+   "original_proof_fragment": "prime_orders/continued_20261026/P41/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    47
+   ],
+   "audited": true,
+   "folder": "P41_P47_P59",
+   "original_proof_fragment": "prime_orders/continued_20261026/P47/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    95
+   ],
+   "audited": true,
+   "folder": "C95_C99",
+   "original_proof_fragment": "realizations/continuation/C95/exclusion95.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    43
+   ],
+   "audited": true,
+   "folder": "P43_P53_P61",
+   "original_proof_fragment": "prime_orders/continued_20261026/P43/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    28
+   ],
+   "audited": true,
+   "folder": "C2x28",
+   "original_proof_fragment": "noncyclic/C228_completion_20261026/exclusion_2_28_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    56
+   ],
+   "audited": true,
+   "folder": "C2x28",
+   "original_proof_fragment": "noncyclic/C228_completion_20261026/exclusion_2_28_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    59
+   ],
+   "audited": true,
+   "folder": "P41_P47_P59",
+   "original_proof_fragment": "prime_orders/continued_20261026/P59/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    77
+   ],
+   "audited": true,
+   "folder": "C77",
+   "original_proof_fragment": "realizations/continuation/C77/exclusion77.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    45
+   ],
+   "audited": true,
+   "folder": "C45",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion45.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    46
+   ],
+   "audited": true,
+   "folder": "C46_C50",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion46_50.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    50
+   ],
+   "audited": true,
+   "folder": "C46_C50",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion46_50.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    51
+   ],
+   "audited": true,
+   "folder": "C51",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion51.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    81
+   ],
+   "audited": true,
+   "folder": "C81",
+   "original_proof_fragment": "realizations/continuation/C81/exclusion81.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    37
+   ],
+   "audited": true,
+   "folder": "P37",
+   "original_proof_fragment": "prime_orders/continued_20261026/P37/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    55
+   ],
+   "audited": true,
+   "folder": "C55",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion55.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    32
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C232_completion_20261026/exclusion_2_32_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    64
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C232_completion_20261026/exclusion_2_32_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    69
+   ],
+   "audited": true,
+   "folder": "C69",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion69.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    63
+   ],
+   "audited": true,
+   "folder": "C63",
+   "original_proof_fragment": "realizations/continuation/C63/exclusion63.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    247
+   ],
+   "audited": true,
+   "folder": "C247",
+   "original_proof_fragment": "realizations/continuation/C247/exclusion247.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    75
+   ],
+   "audited": true,
+   "folder": "C75",
+   "original_proof_fragment": "cyclic/continuation_20261026/exclusion75.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    49
+   ],
+   "audited": true,
+   "folder": "C49",
+   "original_proof_fragment": "prime_orders/continued_20261026/P49/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    34
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C234_completion_20261026/exclusion_2_34_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    68
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C234_completion_20261026/exclusion_2_34_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    61
+   ],
+   "audited": true,
+   "folder": "P43_P53_P61",
+   "original_proof_fragment": "prime_orders/continued_20261026/P61/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    89
+   ],
+   "audited": true,
+   "folder": "P79_P89",
+   "original_proof_fragment": "prime_orders/continued_20261026/P89/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    133
+   ],
+   "audited": true,
+   "folder": "C133",
+   "original_proof_fragment": "realizations/continuation/C133/exclusion133.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    79
+   ],
+   "audited": true,
+   "folder": "P79_P89",
+   "original_proof_fragment": "prime_orders/continued_20261026/P79/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    36
+   ],
+   "audited": true,
+   "folder": "C2x36",
+   "original_proof_fragment": "noncyclic/C236_citation_correction_20261026/exclusion_2_36_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    72
+   ],
+   "audited": true,
+   "folder": "C2x36",
+   "original_proof_fragment": "noncyclic/C236_citation_correction_20261026/exclusion_2_36_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    52
+   ],
+   "audited": true,
+   "folder": "C2x26",
+   "original_proof_fragment": "noncyclic/C52_completion_20261026/uniqueness_and_no52.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    73
+   ],
+   "audited": true,
+   "folder": "P73",
+   "original_proof_fragment": "prime_orders/continued_20261026/P73/exclusion_root.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    35
+   ],
+   "audited": true,
+   "folder": "C35",
+   "original_proof_fragment": "realizations/continuation/C35/citation_correction_20261026_v2/exclusion35.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    44
+   ],
+   "audited": true,
+   "folder": "C44",
+   "original_proof_fragment": "cyclic/continuation_20261026/C44_canonical_ring/exclusion44.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    40
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C240_completion_20261026/exclusion_2_40_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    80
+   ],
+   "audited": true,
+   "folder": "C2x32_C2x34_C2x40",
+   "original_proof_fragment": "noncyclic/C240_completion_20261026/exclusion_2_40_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    71
+   ],
+   "audited": true,
+   "folder": "P71",
+   "original_proof_fragment": "prime_orders/continued_20261026/P71/exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    54
+   ],
+   "audited": true,
+   "folder": "C54",
+   "original_proof_fragment": "C54_complete_root_20261026.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    58
+   ],
+   "audited": true,
+   "folder": "C58_C62",
+   "original_proof_fragment": "cyclic/continuation_20261026/C58_X129/exclusion58.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    48
+   ],
+   "audited": true,
+   "folder": "C48",
+   "original_proof_fragment": "realizations/continuation/C48_complete_root_20261026_v2.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    62
+   ],
+   "audited": true,
+   "folder": "C58_C62",
+   "original_proof_fragment": "cyclic/continuation_20261026/C62_X131/exclusion62.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    83
+   ],
+   "audited": true,
+   "folder": "P83",
+   "original_proof_fragment": "prime_orders/continued_20261026/point_convention_correction_20261027/reviewed83.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    87
+   ],
+   "audited": true,
+   "folder": "C87",
+   "original_proof_fragment": "cyclic/continuation_20261026/C87_canonical33/exclusion87.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    2,
+    42
+   ],
+   "audited": true,
+   "folder": "C2x42",
+   "original_proof_fragment": "noncyclic/C242_rendered_wrapper_20261026.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    84
+   ],
+   "audited": true,
+   "folder": "C2x42",
+   "original_proof_fragment": "noncyclic/C242_rendered_wrapper_20261026.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    67
+   ],
+   "audited": true,
+   "folder": "P67",
+   "original_proof_fragment": "prime_orders/continued_20261026/P67/reviewed_exclusion.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    85
+   ],
+   "audited": true,
+   "folder": "C85_C91_C93",
+   "original_proof_fragment": "prime_orders/continued_20261026/mu_FI_correction_20261027/reviewed85.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    91
+   ],
+   "audited": true,
+   "folder": "C85_C91_C93",
+   "original_proof_fragment": "prime_orders/continued_20261026/point_convention_correction_20261027/reviewed91.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    93
+   ],
+   "audited": true,
+   "folder": "C85_C91_C93",
+   "original_proof_fragment": "parallel_expansion_20261026/C93_point_push_correction_20261027/exclusion93_corrected.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    57
+   ],
+   "audited": true,
+   "folder": "C57",
+   "original_proof_fragment": "cyclic/continuation_20261026/C57_rendered_wrapper_20261027.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    66
+   ],
+   "audited": true,
+   "folder": "C33",
+   "original_proof_fragment": "cyclic/continuation_20261026/C66_quotient17/source33/exclusion66.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    65
+   ],
+   "audited": true,
+   "folder": "C65",
+   "original_proof_fragment": "cyclic/continuation_20261026/C65_completion_20261027/proof_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    117
+   ],
+   "audited": true,
+   "folder": "C78_C117",
+   "original_proof_fragment": "cyclic/continuation_20261027/C117_X139/proof_D9.tex"
+  },
+  {
+   "degree": 9,
+   "group": [
+    1,
+    78
+   ],
+   "audited": true,
+   "folder": "C78_C117",
+   "original_proof_fragment": "cyclic/continuation_20261027/C78_isogeny_rigidity/proof_D9.tex"
+  }
+ ]
+}

@@ -1,0 +1,6678 @@
+PRESENTATION_MODEL N=31 p=3 genus=26 integral_monic_degree=13 natural_pole_degree=13 known_Pic_order=134097116106800 time=28.050
+Userbound is 9
+Reduction divisor is (x)_infty
+computing heuristic bound ...
+const field size is 3
+genus is 26
+weak gen bound is 9
+prod bound for 2 is 7
+computing number of places up to degree 9 ...
+strong gen bound is 8
+expected log costs are [ 39.1000000000000000000000000000, 39.1000000000000000000000000000, 39.1000000000000000000000000000, 36.6000000000000000000000000000, 32.8000000000000000000000000000, 31.8000000000000000000000000000, 31.2000000000000000000000000000, 31.1000000000000000000000000000, 31.2000000000000000000000000000, 31.6000000000000000000000000000, 32.2000000000000000000000000000, 33.8000000000000000000000000000, 36.5000000000000000000000000000 ]
+heuristic bound 8
+taking bound 9
+expected reltries for this are 141621.839434691247497324847010
+expected smooth prob is 0.0245795423495064774097425917597
+creating factor basis for deg 9 and num Infinity
+Size of factor basis is 3481
+initializing enum envs ...
+starting relation search ...
+******* at place  1
+******* at place  2
+******* at place  3
+******* at place  4
+******* at place  5
+******* at place  6
+******* at place  7
+******* at place  8
+******* at place  9
+******* at place  10
+******* at place  11
+******* at place  12
+******* at place  13
+******* at place  14
+******* at place  15
+******* at place  16
+******* at place  17
+******* at place  18
+******* at place  19
+******* at place  20
+******* at place  21
+******* at place  22
+******* at place  23
+******* at place  24
+******* at place  25
+******* at place  26
+******* at place  27
+******* at place  28
+******* at place  29
+******* at place  30
+******* at place  31
+******* at place  32
+******* at place  33
+******* at place  34
+******* at place  35
+******* at place  36
+******* at place  37
+******* at place  38
+******* at place  39
+******* at place  40
+******* at place  41
+******* at place  42
+******* at place  43
+******* at place  44
+******* at place  45
+******* at place  46
+******* at place  47
+******* at place  48
+******* at place  49
+******* at place  50
+******* at place  51
+******* at place  52
+******* at place  53
+******* at place  54
+******* at place  55
+******* at place  56
+******* at place  57
+******* at place  58
+******* at place  59
+******* at place  60
+******* at place  61
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146341463414634146341463414634
+reltries are 410
+redoing smoothness check after 70 new reltries
+******* at place  62
+******* at place  63
+******* at place  64
+******* at place  65
+******* at place  66
+******* at place  67
+******* at place  68
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.139583333333333333333333333333
+reltries are 480
+redoing smoothness check after 80 new reltries
+******* at place  69
+******* at place  70
+******* at place  71
+******* at place  72
+******* at place  73
+******* at place  74
+******* at place  75
+******* at place  76
+******* at place  77
+******* at place  78
+******* at place  79
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.141071428571428571428571428571
+reltries are 560
+redoing smoothness check after 80 new reltries
+******* at place  80
+******* at place  81
+******* at place  82
+******* at place  83
+******* at place  84
+******* at place  85
+******* at place  86
+******* at place  87
+******* at place  88
+******* at place  89
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.137500000000000000000000000000
+reltries are 640
+redoing smoothness check after 80 new reltries
+******* at place  90
+******* at place  91
+******* at place  92
+******* at place  93
+******* at place  94
+******* at place  95
+******* at place  96
+******* at place  97
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.133333333333333333333333333333
+reltries are 720
+redoing smoothness check after 80 new reltries
+******* at place  98
+******* at place  99
+******* at place  100
+******* at place  101
+******* at place  102
+******* at place  103
+******* at place  104
+******* at place  105
+******* at place  106
+******* at place  107
+******* at place  108
+******* at place  109
+******* at place  110
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.136250000000000000000000000000
+reltries are 800
+redoing smoothness check after 80 new reltries
+******* at place  111
+******* at place  112
+******* at place  113
+******* at place  114
+******* at place  115
+******* at place  116
+******* at place  117
+******* at place  118
+******* at place  119
+******* at place  120
+******* at place  121
+******* at place  122
+******* at place  123
+******* at place  124
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.140909090909090909090909090909
+reltries are 880
+redoing smoothness check after 80 new reltries
+******* at place  125
+******* at place  126
+******* at place  127
+******* at place  128
+******* at place  129
+******* at place  130
+******* at place  131
+******* at place  132
+******* at place  133
+******* at place  134
+******* at place  135
+******* at place  136
+******* at place  137
+******* at place  138
+******* at place  139
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144791666666666666666666666667
+reltries are 960
+redoing smoothness check after 70 new reltries
+******* at place  140
+******* at place  141
+******* at place  142
+******* at place  143
+******* at place  144
+******* at place  145
+******* at place  146
+******* at place  147
+******* at place  148
+******* at place  149
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143689320388349514563106796117
+reltries are 1030
+redoing smoothness check after 70 new reltries
+******* at place  150
+******* at place  151
+******* at place  152
+******* at place  153
+******* at place  154
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.139090909090909090909090909091
+reltries are 1100
+redoing smoothness check after 80 new reltries
+******* at place  155
+******* at place  156
+******* at place  157
+******* at place  158
+******* at place  159
+******* at place  160
+******* at place  161
+******* at place  162
+******* at place  163
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.137288135593220338983050847458
+reltries are 1180
+redoing smoothness check after 80 new reltries
+******* at place  164
+******* at place  165
+******* at place  166
+******* at place  167
+******* at place  168
+******* at place  169
+******* at place  170
+******* at place  171
+******* at place  172
+******* at place  173
+******* at place  174
+******* at place  175
+******* at place  176
+******* at place  177
+******* at place  178
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.140476190476190476190476190476
+reltries are 1260
+redoing smoothness check after 80 new reltries
+******* at place  179
+******* at place  180
+******* at place  181
+******* at place  182
+******* at place  183
+******* at place  184
+******* at place  185
+******* at place  186
+******* at place  187
+******* at place  188
+******* at place  189
+******* at place  190
+******* at place  191
+******* at place  192
+******* at place  193
+******* at place  194
+******* at place  195
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144776119402985074626865671642
+reltries are 1340
+redoing smoothness check after 70 new reltries
+******* at place  196
+******* at place  197
+******* at place  198
+******* at place  199
+******* at place  200
+******* at place  201
+******* at place  202
+******* at place  203
+******* at place  204
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143971631205673758865248226950
+reltries are 1410
+redoing smoothness check after 70 new reltries
+******* at place  205
+******* at place  206
+******* at place  207
+******* at place  208
+******* at place  209
+******* at place  210
+******* at place  211
+******* at place  212
+******* at place  213
+******* at place  214
+******* at place  215
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145270270270270270270270270270
+reltries are 1480
+redoing smoothness check after 70 new reltries
+******* at place  216
+******* at place  217
+******* at place  218
+******* at place  219
+******* at place  220
+******* at place  221
+******* at place  222
+******* at place  223
+******* at place  224
+******* at place  225
+******* at place  226
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145161290322580645161290322581
+reltries are 1550
+redoing smoothness check after 70 new reltries
+******* at place  227
+******* at place  228
+******* at place  229
+******* at place  230
+******* at place  231
+******* at place  232
+******* at place  233
+******* at place  234
+******* at place  235
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144444444444444444444444444444
+reltries are 1620
+redoing smoothness check after 70 new reltries
+******* at place  236
+******* at place  237
+******* at place  238
+******* at place  239
+******* at place  240
+******* at place  241
+******* at place  242
+******* at place  243
+******* at place  244
+******* at place  245
+******* at place  246
+******* at place  247
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145562130177514792899408284024
+reltries are 1690
+redoing smoothness check after 70 new reltries
+******* at place  248
+******* at place  249
+******* at place  250
+******* at place  251
+******* at place  252
+******* at place  253
+******* at place  254
+******* at place  255
+******* at place  256
+******* at place  257
+******* at place  258
+******* at place  259
+******* at place  260
+******* at place  261
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.147727272727272727272727272727
+reltries are 1760
+redoing smoothness check after 70 new reltries
+******* at place  262
+******* at place  263
+******* at place  264
+******* at place  265
+******* at place  266
+******* at place  267
+******* at place  268
+******* at place  269
+******* at place  270
+******* at place  271
+******* at place  272
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.148087431693989071038251366120
+reltries are 1830
+redoing smoothness check after 70 new reltries
+******* at place  273
+******* at place  274
+******* at place  275
+******* at place  276
+******* at place  277
+******* at place  278
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146315789473684210526315789474
+reltries are 1900
+redoing smoothness check after 70 new reltries
+******* at place  279
+******* at place  280
+******* at place  281
+******* at place  282
+******* at place  283
+******* at place  284
+******* at place  285
+******* at place  286
+******* at place  287
+******* at place  288
+******* at place  289
+******* at place  290
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146700507614213197969543147208
+reltries are 1970
+redoing smoothness check after 70 new reltries
+******* at place  291
+******* at place  292
+******* at place  293
+******* at place  294
+******* at place  295
+******* at place  296
+******* at place  297
+******* at place  298
+******* at place  299
+******* at place  300
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146568627450980392156862745098
+reltries are 2040
+redoing smoothness check after 70 new reltries
+******* at place  301
+******* at place  302
+******* at place  303
+******* at place  304
+******* at place  305
+******* at place  306
+******* at place  307
+******* at place  308
+******* at place  309
+******* at place  310
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146445497630331753554502369668
+reltries are 2110
+redoing smoothness check after 70 new reltries
+******* at place  311
+******* at place  312
+******* at place  313
+******* at place  314
+******* at place  315
+******* at place  316
+******* at place  317
+******* at place  318
+******* at place  319
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145871559633027522935779816514
+reltries are 2180
+redoing smoothness check after 70 new reltries
+******* at place  320
+******* at place  321
+******* at place  322
+******* at place  323
+******* at place  324
+******* at place  325
+******* at place  326
+******* at place  327
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144888888888888888888888888889
+reltries are 2250
+redoing smoothness check after 70 new reltries
+******* at place  328
+******* at place  329
+******* at place  330
+******* at place  331
+******* at place  332
+******* at place  333
+******* at place  334
+******* at place  335
+******* at place  336
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144396551724137931034482758621
+reltries are 2320
+redoing smoothness check after 70 new reltries
+******* at place  337
+******* at place  338
+******* at place  339
+******* at place  340
+******* at place  341
+******* at place  342
+******* at place  343
+******* at place  344
+******* at place  345
+******* at place  346
+******* at place  347
+******* at place  348
+******* at place  349
+####### checking value of rels ...
+the rank is 335
+rankrelratio is 0.979942693409742120343839541547
+redoing check of relations after 1027 new relations
+******* at place  350
+******* at place  351
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.146861924686192468619246861925
+reltries are 2390
+redoing smoothness check after 70 new reltries
+******* at place  352
+******* at place  353
+******* at place  354
+******* at place  355
+******* at place  356
+******* at place  357
+******* at place  358
+******* at place  359
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145528455284552845528455284553
+reltries are 2460
+redoing smoothness check after 70 new reltries
+******* at place  360
+******* at place  361
+******* at place  362
+******* at place  363
+******* at place  364
+******* at place  365
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144268774703557312252964426877
+reltries are 2530
+redoing smoothness check after 70 new reltries
+******* at place  366
+******* at place  367
+******* at place  368
+******* at place  369
+******* at place  370
+******* at place  371
+******* at place  372
+******* at place  373
+******* at place  374
+******* at place  375
+******* at place  376
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144615384615384615384615384615
+reltries are 2600
+redoing smoothness check after 70 new reltries
+******* at place  377
+******* at place  378
+******* at place  379
+******* at place  380
+******* at place  381
+******* at place  382
+******* at place  383
+******* at place  384
+******* at place  385
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143820224719101123595505617977
+reltries are 2670
+redoing smoothness check after 70 new reltries
+******* at place  386
+******* at place  387
+******* at place  388
+******* at place  389
+******* at place  390
+******* at place  391
+******* at place  392
+******* at place  393
+******* at place  394
+******* at place  395
+******* at place  396
+******* at place  397
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144525547445255474452554744526
+reltries are 2740
+redoing smoothness check after 70 new reltries
+******* at place  398
+******* at place  399
+******* at place  400
+******* at place  401
+******* at place  402
+******* at place  403
+******* at place  404
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143416370106761565836298932384
+reltries are 2810
+redoing smoothness check after 70 new reltries
+******* at place  405
+******* at place  406
+******* at place  407
+******* at place  408
+******* at place  409
+******* at place  410
+******* at place  411
+******* at place  412
+******* at place  413
+******* at place  414
+******* at place  415
+******* at place  416
+******* at place  417
+******* at place  418
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144791666666666666666666666667
+reltries are 2880
+redoing smoothness check after 70 new reltries
+******* at place  419
+******* at place  420
+******* at place  421
+******* at place  422
+******* at place  423
+******* at place  424
+******* at place  425
+******* at place  426
+******* at place  427
+******* at place  428
+******* at place  429
+******* at place  430
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145423728813559322033898305085
+reltries are 2950
+redoing smoothness check after 70 new reltries
+******* at place  431
+******* at place  432
+******* at place  433
+******* at place  434
+******* at place  435
+******* at place  436
+******* at place  437
+******* at place  438
+******* at place  439
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145033112582781456953642384106
+reltries are 3020
+redoing smoothness check after 70 new reltries
+******* at place  440
+******* at place  441
+******* at place  442
+******* at place  443
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143042071197411003236245954693
+reltries are 3090
+redoing smoothness check after 70 new reltries
+******* at place  444
+******* at place  445
+******* at place  446
+******* at place  447
+******* at place  448
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.141455696202531645569620253164
+reltries are 3160
+redoing smoothness check after 80 new reltries
+******* at place  449
+******* at place  450
+******* at place  451
+******* at place  452
+******* at place  453
+******* at place  454
+******* at place  455
+******* at place  456
+******* at place  457
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.140740740740740740740740740741
+reltries are 3240
+redoing smoothness check after 80 new reltries
+******* at place  458
+******* at place  459
+******* at place  460
+******* at place  461
+******* at place  462
+******* at place  463
+******* at place  464
+******* at place  465
+******* at place  466
+******* at place  467
+******* at place  468
+******* at place  469
+******* at place  470
+******* at place  471
+******* at place  472
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.141867469879518072289156626506
+reltries are 3320
+redoing smoothness check after 80 new reltries
+******* at place  473
+******* at place  474
+******* at place  475
+******* at place  476
+******* at place  477
+******* at place  478
+******* at place  479
+******* at place  480
+******* at place  481
+******* at place  482
+******* at place  483
+******* at place  484
+******* at place  485
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.142352941176470588235294117647
+reltries are 3400
+redoing smoothness check after 80 new reltries
+******* at place  486
+******* at place  487
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.139655172413793103448275862069
+reltries are 3480
+redoing smoothness check after 80 new reltries
+******* at place  488
+******* at place  489
+******* at place  490
+******* at place  491
+******* at place  492
+******* at place  493
+******* at place  494
+******* at place  495
+******* at place  496
+******* at place  497
+******* at place  498
+******* at place  499
+******* at place  500
+******* at place  501
+******* at place  502
+******* at place  503
+******* at place  504
+******* at place  505
+******* at place  506
+******* at place  507
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.142134831460674157303370786517
+reltries are 3560
+redoing smoothness check after 80 new reltries
+******* at place  508
+******* at place  509
+******* at place  510
+******* at place  511
+******* at place  512
+******* at place  513
+******* at place  514
+******* at place  515
+******* at place  516
+******* at place  517
+******* at place  518
+******* at place  519
+******* at place  520
+******* at place  521
+******* at place  522
+******* at place  523
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143406593406593406593406593407
+reltries are 3640
+redoing smoothness check after 70 new reltries
+******* at place  524
+******* at place  525
+******* at place  526
+******* at place  527
+******* at place  528
+******* at place  529
+******* at place  530
+******* at place  531
+******* at place  532
+******* at place  533
+******* at place  534
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143665768194070080862533692722
+reltries are 3710
+redoing smoothness check after 70 new reltries
+******* at place  535
+******* at place  536
+******* at place  537
+******* at place  538
+******* at place  539
+******* at place  540
+******* at place  541
+******* at place  542
+******* at place  543
+******* at place  544
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143650793650793650793650793651
+reltries are 3780
+redoing smoothness check after 70 new reltries
+******* at place  545
+******* at place  546
+******* at place  547
+******* at place  548
+******* at place  549
+******* at place  550
+******* at place  551
+******* at place  552
+******* at place  553
+******* at place  554
+******* at place  555
+******* at place  556
+******* at place  557
+******* at place  558
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144935064935064935064935064935
+reltries are 3850
+redoing smoothness check after 70 new reltries
+******* at place  559
+******* at place  560
+******* at place  561
+******* at place  562
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143112244897959183673469387755
+reltries are 3920
+redoing smoothness check after 70 new reltries
+******* at place  563
+******* at place  564
+******* at place  565
+******* at place  566
+******* at place  567
+******* at place  568
+******* at place  569
+******* at place  570
+******* at place  571
+******* at place  572
+******* at place  573
+******* at place  574
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143859649122807017543859649123
+reltries are 3990
+redoing smoothness check after 70 new reltries
+******* at place  575
+******* at place  576
+******* at place  577
+******* at place  578
+******* at place  579
+******* at place  580
+******* at place  581
+******* at place  582
+******* at place  583
+******* at place  584
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143842364532019704433497536946
+reltries are 4060
+redoing smoothness check after 70 new reltries
+******* at place  585
+******* at place  586
+******* at place  587
+******* at place  588
+******* at place  589
+******* at place  590
+******* at place  591
+******* at place  592
+******* at place  593
+******* at place  594
+******* at place  595
+******* at place  596
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144067796610169491525423728814
+reltries are 4130
+redoing smoothness check after 70 new reltries
+******* at place  597
+******* at place  598
+******* at place  599
+******* at place  600
+******* at place  601
+******* at place  602
+******* at place  603
+******* at place  604
+******* at place  605
+******* at place  606
+******* at place  607
+******* at place  608
+******* at place  609
+******* at place  610
+******* at place  611
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.145238095238095238095238095238
+reltries are 4200
+redoing smoothness check after 70 new reltries
+******* at place  612
+******* at place  613
+******* at place  614
+******* at place  615
+******* at place  616
+******* at place  617
+******* at place  618
+******* at place  619
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144730679156908665105386416862
+reltries are 4270
+redoing smoothness check after 70 new reltries
+******* at place  620
+******* at place  621
+******* at place  622
+******* at place  623
+******* at place  624
+******* at place  625
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.144009216589861751152073732719
+reltries are 4340
+redoing smoothness check after 70 new reltries
+******* at place  626
+******* at place  627
+******* at place  628
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.142176870748299319727891156463
+reltries are 4410
+redoing smoothness check after 80 new reltries
+******* at place  629
+******* at place  630
+******* at place  631
+******* at place  632
+******* at place  633
+******* at place  634
+******* at place  635
+******* at place  636
+******* at place  637
+******* at place  638
+******* at place  639
+******* at place  640
+******* at place  641
+******* at place  642
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.142761692650334075723830734967
+reltries are 4490
+redoing smoothness check after 80 new reltries
+******* at place  643
+******* at place  644
+******* at place  645
+******* at place  646
+******* at place  647
+******* at place  648
+******* at place  649
+******* at place  650
+******* at place  651
+******* at place  652
+******* at place  653
+******* at place  654
+******* at place  655
+******* at place  656
+******* at place  657
+******* at place  658
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143763676148796498905908096280
+reltries are 4570
+redoing smoothness check after 70 new reltries
+******* at place  659
+******* at place  660
+******* at place  661
+******* at place  662
+******* at place  663
+******* at place  664
+******* at place  665
+******* at place  666
+******* at place  667
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.143534482758620689655172413793
+reltries are 4640
+redoing smoothness check after 70 new reltries
+******* at place  668
+******* at place  669
+******* at place  670
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.142038216560509554140127388535
+reltries are 4710
+redoing smoothness check after 80 new reltries
+******* at place  671
+******* at place  672
+******* at place  673
+******* at place  674
+******* at place  675
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.140709812108559498956158663883
+reltries are 4790
+redoing smoothness check after 80 new reltries
+******* at place  676
+******* at place  677
+******* at place  678
+******* at place  679
+******* at place  680
+******* at place  681
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.139630390143737166324435318275
+reltries are 4870
+redoing smoothness check after 80 new reltries
+******* at place  682
+******* at place  683
+******* at place  684
+******* at place  685
+******* at place  686
+******* at place  687
+******* at place  688
+******* at place  689
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.138989898989898989898989898990
+reltries are 4950
+redoing smoothness check after 80 new reltries
+******* at place  690
+******* at place  691
+******* at place  692
+******* at place  693
+******* at place  694
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.137773359840954274353876739563
+reltries are 5030
+redoing smoothness check after 80 new reltries
+******* at place  695
+******* at place  696
+******* at place  697
+******* at place  698
+******* at place  699
+******* at place  700
+******* at place  701
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.136986301369863013698630136986
+reltries are 5110
+redoing smoothness check after 80 new reltries
+******* at place  702
+******* at place  703
+******* at place  704
+******* at place  705
+******* at place  706
+******* at place  707
+******* at place  708
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.136223506743737957610789980732
+reltries are 5190
+redoing smoothness check after 80 new reltries
+******* at place  709
+******* at place  710
+******* at place  711
+******* at place  712
+******* at place  713
+******* at place  714
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.135294117647058823529411764706
+reltries are 5270
+redoing smoothness check after 80 new reltries
+******* at place  715
+******* at place  716
+******* at place  717
+******* at place  718
+******* at place  719
+******* at place  720
+******* at place  721
+******* at place  722
+******* at place  723
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.134953271028037383177570093458
+reltries are 5350
+redoing smoothness check after 80 new reltries
+******* at place  724
+******* at place  725
+******* at place  726
+******* at place  727
+******* at place  728
+******* at place  729
+******* at place  730
+******* at place  731
+******* at place  732
+******* at place  733
+******* at place  734
+******* at place  735
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.135174953959484346224677716390
+reltries are 5430
+redoing smoothness check after 80 new reltries
+******* at place  736
+******* at place  737
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.133575317604355716878402903811
+reltries are 5510
+redoing smoothness check after 80 new reltries
+******* at place  738
+******* at place  739
+******* at place  740
+******* at place  741
+******* at place  742
+******* at place  743
+******* at place  744
+******* at place  745
+******* at place  746
+******* at place  747
+******* at place  748
+******* at place  749
+******* at place  750
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.133989266547406082289803220036
+reltries are 5590
+redoing smoothness check after 80 new reltries
+******* at place  751
+******* at place  752
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.132451499118165784832451499118
+reltries are 5670
+redoing smoothness check after 80 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.130608695652173913043478260870
+reltries are 5750
+redoing smoothness check after 80 new reltries
+******* at place  753
+******* at place  754
+******* at place  755
+******* at place  756
+******* at place  757
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.129674099485420240137221269297
+reltries are 5830
+redoing smoothness check after 80 new reltries
+******* at place  758
+******* at place  759
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.128257191201353637901861252115
+reltries are 5910
+redoing smoothness check after 80 new reltries
+******* at place  760
+******* at place  761
+******* at place  762
+******* at place  763
+******* at place  764
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.127378964941569282136894824708
+reltries are 5990
+redoing smoothness check after 80 new reltries
+******* at place  765
+******* at place  766
+******* at place  767
+******* at place  768
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.126359143327841845140032948929
+reltries are 6070
+redoing smoothness check after 80 new reltries
+******* at place  769
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124878048780487804878048780488
+reltries are 6150
+redoing smoothness check after 90 new reltries
+******* at place  770
+******* at place  771
+******* at place  772
+******* at place  773
+******* at place  774
+******* at place  775
+******* at place  776
+******* at place  777
+******* at place  778
+******* at place  779
+******* at place  780
+******* at place  781
+******* at place  782
+******* at place  783
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.125320512820512820512820512821
+reltries are 6240
+redoing smoothness check after 80 new reltries
+******* at place  784
+******* at place  785
+******* at place  786
+******* at place  787
+******* at place  788
+******* at place  789
+******* at place  790
+******* at place  791
+******* at place  792
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.125158227848101265822784810127
+reltries are 6320
+redoing smoothness check after 80 new reltries
+******* at place  793
+******* at place  794
+******* at place  795
+******* at place  796
+******* at place  797
+******* at place  798
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124531250000000000000000000000
+reltries are 6400
+redoing smoothness check after 90 new reltries
+******* at place  799
+******* at place  800
+******* at place  801
+******* at place  802
+******* at place  803
+******* at place  804
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.123728813559322033898305084746
+reltries are 6490
+redoing smoothness check after 90 new reltries
+******* at place  805
+******* at place  806
+******* at place  807
+******* at place  808
+******* at place  809
+******* at place  810
+******* at place  811
+******* at place  812
+******* at place  813
+******* at place  814
+******* at place  815
+******* at place  816
+******* at place  817
+******* at place  818
+******* at place  819
+******* at place  820
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124620060790273556231003039514
+reltries are 6580
+redoing smoothness check after 90 new reltries
+******* at place  821
+******* at place  822
+******* at place  823
+******* at place  824
+******* at place  825
+******* at place  826
+******* at place  827
+******* at place  828
+******* at place  829
+******* at place  830
+******* at place  831
+******* at place  832
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124587706146926536731634182909
+reltries are 6670
+redoing smoothness check after 90 new reltries
+******* at place  833
+******* at place  834
+******* at place  835
+******* at place  836
+******* at place  837
+******* at place  838
+******* at place  839
+******* at place  840
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124112426035502958579881656805
+reltries are 6760
+redoing smoothness check after 90 new reltries
+******* at place  841
+******* at place  842
+******* at place  843
+******* at place  844
+******* at place  845
+******* at place  846
+******* at place  847
+******* at place  848
+******* at place  849
+******* at place  850
+******* at place  851
+******* at place  852
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124233576642335766423357664234
+reltries are 6850
+redoing smoothness check after 90 new reltries
+******* at place  853
+******* at place  854
+******* at place  855
+******* at place  856
+******* at place  857
+******* at place  858
+******* at place  859
+******* at place  860
+******* at place  861
+******* at place  862
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124207492795389048991354466859
+reltries are 6940
+redoing smoothness check after 90 new reltries
+******* at place  863
+******* at place  864
+******* at place  865
+******* at place  866
+******* at place  867
+******* at place  868
+******* at place  869
+******* at place  870
+******* at place  871
+******* at place  872
+******* at place  873
+******* at place  874
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124182076813655761024182076814
+reltries are 7030
+redoing smoothness check after 90 new reltries
+******* at place  875
+******* at place  876
+******* at place  877
+******* at place  878
+******* at place  879
+******* at place  880
+******* at place  881
+******* at place  882
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.123735955056179775280898876405
+reltries are 7120
+redoing smoothness check after 90 new reltries
+******* at place  883
+******* at place  884
+******* at place  885
+******* at place  886
+******* at place  887
+******* at place  888
+******* at place  889
+******* at place  890
+******* at place  891
+******* at place  892
+******* at place  893
+******* at place  894
+******* at place  895
+******* at place  896
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124133148404993065187239944521
+reltries are 7210
+redoing smoothness check after 90 new reltries
+******* at place  897
+******* at place  898
+******* at place  899
+******* at place  900
+******* at place  901
+******* at place  902
+******* at place  903
+******* at place  904
+******* at place  905
+******* at place  906
+******* at place  907
+******* at place  908
+******* at place  909
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124383561643835616438356164384
+reltries are 7300
+redoing smoothness check after 90 new reltries
+******* at place  910
+******* at place  911
+******* at place  912
+******* at place  913
+******* at place  914
+******* at place  915
+******* at place  916
+******* at place  917
+******* at place  918
+******* at place  919
+******* at place  920
+******* at place  921
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124492557510148849797023004060
+reltries are 7390
+redoing smoothness check after 90 new reltries
+******* at place  922
+******* at place  923
+******* at place  924
+******* at place  925
+******* at place  926
+******* at place  927
+******* at place  928
+******* at place  929
+******* at place  930
+******* at place  931
+******* at place  932
+******* at place  933
+******* at place  934
+******* at place  935
+******* at place  936
+******* at place  937
+******* at place  938
+******* at place  939
+******* at place  940
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.125534759358288770053475935829
+reltries are 7480
+redoing smoothness check after 80 new reltries
+******* at place  941
+******* at place  942
+******* at place  943
+******* at place  944
+******* at place  945
+******* at place  946
+******* at place  947
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.125132275132275132275132275132
+reltries are 7560
+redoing smoothness check after 80 new reltries
+******* at place  948
+******* at place  949
+******* at place  950
+******* at place  951
+******* at place  952
+******* at place  953
+******* at place  954
+******* at place  955
+******* at place  956
+******* at place  957
+******* at place  958
+******* at place  959
+******* at place  960
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.125523560209424083769633507853
+reltries are 7640
+redoing smoothness check after 80 new reltries
+******* at place  961
+******* at place  962
+******* at place  963
+******* at place  964
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124740932642487046632124352332
+reltries are 7720
+redoing smoothness check after 90 new reltries
+******* at place  965
+******* at place  966
+******* at place  967
+******* at place  968
+******* at place  969
+******* at place  970
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.124071702944942381562099871959
+reltries are 7810
+redoing smoothness check after 90 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.122658227848101265822784810127
+reltries are 7900
+redoing smoothness check after 90 new reltries
+******* at place  971
+******* at place  972
+******* at place  973
+******* at place  974
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121777221526908635794743429287
+reltries are 7990
+redoing smoothness check after 90 new reltries
+******* at place  975
+******* at place  976
+******* at place  977
+******* at place  978
+******* at place  979
+******* at place  980
+******* at place  981
+******* at place  982
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121410891089108910891089108911
+reltries are 8080
+redoing smoothness check after 90 new reltries
+******* at place  983
+******* at place  984
+******* at place  985
+******* at place  986
+******* at place  987
+******* at place  988
+******* at place  989
+******* at place  990
+******* at place  991
+******* at place  992
+******* at place  993
+******* at place  994
+******* at place  995
+******* at place  996
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121787025703794369645042839657
+reltries are 8170
+redoing smoothness check after 90 new reltries
+******* at place  997
+******* at place  998
+******* at place  999
+******* at place  1000
+******* at place  1001
+******* at place  1002
+******* at place  1003
+******* at place  1004
+******* at place  1005
+******* at place  1006
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121670702179176755447941888620
+reltries are 8260
+redoing smoothness check after 90 new reltries
+******* at place  1007
+******* at place  1008
+******* at place  1009
+******* at place  1010
+******* at place  1011
+******* at place  1012
+******* at place  1013
+******* at place  1014
+******* at place  1015
+******* at place  1016
+******* at place  1017
+******* at place  1018
+******* at place  1019
+******* at place  1020
+******* at place  1021
+******* at place  1022
+******* at place  1023
+******* at place  1024
+******* at place  1025
+******* at place  1026
+******* at place  1027
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.122874251497005988023952095808
+reltries are 8350
+redoing smoothness check after 90 new reltries
+******* at place  1028
+******* at place  1029
+******* at place  1030
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121919431279620853080568720379
+reltries are 8440
+redoing smoothness check after 90 new reltries
+******* at place  1031
+******* at place  1032
+******* at place  1033
+******* at place  1034
+******* at place  1035
+******* at place  1036
+******* at place  1037
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121453692848769050410316529894
+reltries are 8530
+redoing smoothness check after 90 new reltries
+******* at place  1038
+******* at place  1039
+******* at place  1040
+******* at place  1041
+******* at place  1042
+******* at place  1043
+******* at place  1044
+******* at place  1045
+******* at place  1046
+******* at place  1047
+******* at place  1048
+******* at place  1049
+******* at place  1050
+******* at place  1051
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121809744779582366589327146172
+reltries are 8620
+redoing smoothness check after 90 new reltries
+******* at place  1052
+******* at place  1053
+******* at place  1054
+******* at place  1055
+******* at place  1056
+******* at place  1057
+******* at place  1058
+******* at place  1059
+******* at place  1060
+******* at place  1061
+******* at place  1062
+******* at place  1063
+******* at place  1064
+******* at place  1065
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.122158438576349024110218140069
+reltries are 8710
+redoing smoothness check after 90 new reltries
+******* at place  1066
+******* at place  1067
+******* at place  1068
+******* at place  1069
+******* at place  1070
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.121477272727272727272727272727
+reltries are 8800
+redoing smoothness check after 90 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.120247469066366704161979752531
+reltries are 8890
+redoing smoothness check after 90 new reltries
+******* at place  1071
+******* at place  1072
+******* at place  1073
+******* at place  1074
+******* at place  1075
+******* at place  1076
+******* at place  1077
+******* at place  1078
+******* at place  1079
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.120044543429844097995545657016
+reltries are 8980
+redoing smoothness check after 90 new reltries
+******* at place  1080
+******* at place  1081
+******* at place  1082
+******* at place  1083
+******* at place  1084
+******* at place  1085
+******* at place  1086
+******* at place  1087
+******* at place  1088
+******* at place  1089
+******* at place  1090
+******* at place  1091
+******* at place  1092
+******* at place  1093
+******* at place  1094
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.120507166482910694597574421169
+reltries are 9070
+redoing smoothness check after 90 new reltries
+******* at place  1095
+******* at place  1096
+******* at place  1097
+******* at place  1098
+******* at place  1099
+******* at place  1100
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.119978165938864628820960698690
+reltries are 9160
+redoing smoothness check after 90 new reltries
+******* at place  1101
+******* at place  1102
+******* at place  1103
+******* at place  1104
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.119243243243243243243243243243
+reltries are 9250
+redoing smoothness check after 90 new reltries
+******* at place  1105
+******* at place  1106
+******* at place  1107
+******* at place  1108
+******* at place  1109
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.118629550321199143468950749465
+reltries are 9340
+redoing smoothness check after 90 new reltries
+******* at place  1110
+******* at place  1111
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.117709437963944856839872746554
+reltries are 9430
+redoing smoothness check after 90 new reltries
+******* at place  1112
+******* at place  1113
+******* at place  1114
+******* at place  1115
+******* at place  1116
+******* at place  1117
+******* at place  1118
+******* at place  1119
+******* at place  1120
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.117542016806722689075630252101
+reltries are 9520
+redoing smoothness check after 90 new reltries
+******* at place  1121
+******* at place  1122
+******* at place  1123
+******* at place  1124
+******* at place  1125
+******* at place  1126
+******* at place  1127
+******* at place  1128
+******* at place  1129
+******* at place  1130
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.117481789802289281997918834547
+reltries are 9610
+redoing smoothness check after 90 new reltries
+******* at place  1131
+******* at place  1132
+******* at place  1133
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.116701030927835051546391752577
+reltries are 9700
+redoing smoothness check after 90 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.115628192032686414708886618999
+reltries are 9790
+redoing smoothness check after 90 new reltries
+******* at place  1134
+******* at place  1135
+******* at place  1136
+******* at place  1137
+******* at place  1138
+******* at place  1139
+******* at place  1140
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.115384615384615384615384615385
+reltries are 9880
+redoing smoothness check after 90 new reltries
+******* at place  1141
+******* at place  1142
+******* at place  1143
+******* at place  1144
+******* at place  1145
+******* at place  1146
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.114844533600802407221664994985
+reltries are 9970
+redoing smoothness check after 90 new reltries
+******* at place  1147
+******* at place  1148
+******* at place  1149
+******* at place  1150
+******* at place  1151
+******* at place  1152
+******* at place  1153
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.114512922465208747514910536779
+reltries are 10060
+redoing smoothness check after 90 new reltries
+******* at place  1154
+******* at place  1155
+******* at place  1156
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113793103448275862068965517241
+reltries are 10150
+redoing smoothness check after 90 new reltries
+******* at place  1157
+******* at place  1158
+******* at place  1159
+******* at place  1160
+******* at place  1161
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113281250000000000000000000000
+reltries are 10240
+redoing smoothness check after 90 new reltries
+******* at place  1162
+******* at place  1163
+******* at place  1164
+******* at place  1165
+******* at place  1166
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112778315585672797676669893514
+reltries are 10330
+redoing smoothness check after 90 new reltries
+******* at place  1167
+******* at place  1168
+******* at place  1169
+******* at place  1170
+******* at place  1171
+******* at place  1172
+******* at place  1173
+******* at place  1174
+******* at place  1175
+******* at place  1176
+******* at place  1177
+******* at place  1178
+******* at place  1179
+******* at place  1180
+******* at place  1181
+******* at place  1182
+******* at place  1183
+******* at place  1184
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113531669865642994241842610365
+reltries are 10420
+redoing smoothness check after 90 new reltries
+******* at place  1185
+******* at place  1186
+******* at place  1187
+******* at place  1188
+******* at place  1189
+******* at place  1190
+******* at place  1191
+******* at place  1192
+******* at place  1193
+******* at place  1194
+******* at place  1195
+******* at place  1196
+******* at place  1197
+******* at place  1198
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113891531874405328258801141770
+reltries are 10510
+redoing smoothness check after 90 new reltries
+******* at place  1199
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113018867924528301886792452830
+reltries are 10600
+redoing smoothness check after 90 new reltries
+******* at place  1200
+******* at place  1201
+******* at place  1202
+******* at place  1203
+******* at place  1204
+******* at place  1205
+******* at place  1206
+******* at place  1207
+******* at place  1208
+******* at place  1209
+******* at place  1210
+******* at place  1211
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113189897100093545369504209542
+reltries are 10690
+redoing smoothness check after 90 new reltries
+******* at place  1212
+******* at place  1213
+******* at place  1214
+******* at place  1215
+******* at place  1216
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112708719851576994434137291280
+reltries are 10780
+redoing smoothness check after 90 new reltries
+******* at place  1217
+******* at place  1218
+******* at place  1219
+******* at place  1220
+******* at place  1221
+******* at place  1222
+******* at place  1223
+******* at place  1224
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112511499540018399264029438822
+reltries are 10870
+redoing smoothness check after 90 new reltries
+******* at place  1225
+******* at place  1226
+******* at place  1227
+******* at place  1228
+******* at place  1229
+******* at place  1230
+******* at place  1231
+******* at place  1232
+******* at place  1233
+******* at place  1234
+******* at place  1235
+******* at place  1236
+******* at place  1237
+******* at place  1238
+******* at place  1239
+******* at place  1240
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113047445255474452554744525547
+reltries are 10960
+redoing smoothness check after 90 new reltries
+******* at place  1241
+******* at place  1242
+******* at place  1243
+******* at place  1244
+******* at place  1245
+******* at place  1246
+******* at place  1247
+******* at place  1248
+******* at place  1249
+******* at place  1250
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113031674208144796380090497738
+reltries are 11050
+redoing smoothness check after 90 new reltries
+******* at place  1251
+******* at place  1252
+******* at place  1253
+******* at place  1254
+******* at place  1255
+******* at place  1256
+******* at place  1257
+******* at place  1258
+******* at place  1259
+******* at place  1260
+******* at place  1261
+******* at place  1262
+******* at place  1263
+******* at place  1264
+******* at place  1265
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113464991023339317773788150808
+reltries are 11140
+redoing smoothness check after 90 new reltries
+******* at place  1266
+******* at place  1267
+******* at place  1268
+******* at place  1269
+******* at place  1270
+******* at place  1271
+******* at place  1272
+******* at place  1273
+******* at place  1274
+******* at place  1275
+******* at place  1276
+******* at place  1277
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113624220837043633125556544969
+reltries are 11230
+redoing smoothness check after 90 new reltries
+******* at place  1278
+******* at place  1279
+******* at place  1280
+******* at place  1281
+******* at place  1282
+******* at place  1283
+******* at place  1284
+******* at place  1285
+******* at place  1286
+******* at place  1287
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113604240282685512367491166078
+reltries are 11320
+redoing smoothness check after 90 new reltries
+******* at place  1288
+******* at place  1289
+******* at place  1290
+******* at place  1291
+******* at place  1292
+******* at place  1293
+******* at place  1294
+******* at place  1295
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.113409290096406660823838737949
+reltries are 11410
+redoing smoothness check after 90 new reltries
+******* at place  1296
+******* at place  1297
+******* at place  1298
+******* at place  1299
+******* at place  1300
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112956521739130434782608695652
+reltries are 11500
+redoing smoothness check after 90 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112079378774805867126833477135
+reltries are 11590
+redoing smoothness check after 90 new reltries
+******* at place  1301
+******* at place  1302
+******* at place  1303
+******* at place  1304
+******* at place  1305
+******* at place  1306
+******* at place  1307
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.111815068493150684931506849315
+reltries are 11680
+redoing smoothness check after 90 new reltries
+******* at place  1308
+******* at place  1309
+******* at place  1310
+******* at place  1311
+******* at place  1312
+******* at place  1313
+******* at place  1314
+******* at place  1315
+******* at place  1316
+******* at place  1317
+******* at place  1318
+******* at place  1319
+******* at place  1320
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.112064570943075615972812234495
+reltries are 11770
+redoing smoothness check after 90 new reltries
+******* at place  1321
+******* at place  1322
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.111382799325463743676222596965
+reltries are 11860
+redoing smoothness check after 90 new reltries
+******* at place  1323
+******* at place  1324
+******* at place  1325
+******* at place  1326
+******* at place  1327
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.110962343096234309623430962343
+reltries are 11950
+redoing smoothness check after 100 new reltries
+******* at place  1328
+******* at place  1329
+******* at place  1330
+******* at place  1331
+******* at place  1332
+******* at place  1333
+******* at place  1334
+******* at place  1335
+******* at place  1336
+******* at place  1337
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.110871369294605809128630705394
+reltries are 12050
+redoing smoothness check after 100 new reltries
+******* at place  1338
+******* at place  1339
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.110123456790123456790123456790
+reltries are 12150
+redoing smoothness check after 100 new reltries
+******* at place  1340
+******* at place  1341
+******* at place  1342
+******* at place  1343
+******* at place  1344
+******* at place  1345
+******* at place  1346
+******* at place  1347
+******* at place  1348
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.109959183673469387755102040816
+reltries are 12250
+redoing smoothness check after 100 new reltries
+******* at place  1349
+******* at place  1350
+******* at place  1351
+******* at place  1352
+******* at place  1353
+******* at place  1354
+******* at place  1355
+******* at place  1356
+******* at place  1357
+******* at place  1358
+******* at place  1359
+******* at place  1360
+******* at place  1361
+******* at place  1362
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.110202429149797570850202429150
+reltries are 12350
+redoing smoothness check after 100 new reltries
+******* at place  1363
+******* at place  1364
+******* at place  1365
+******* at place  1366
+******* at place  1367
+******* at place  1368
+******* at place  1369
+******* at place  1370
+******* at place  1371
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.110040160642570281124497991968
+reltries are 12450
+redoing smoothness check after 100 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.109163346613545816733067729084
+reltries are 12550
+redoing smoothness check after 100 new reltries
+******* at place  1372
+******* at place  1373
+******* at place  1374
+******* at place  1375
+******* at place  1376
+####### checking value of rels ...
+the rank is 1360
+rankrelratio is 0.988997636870401732031705554610
+redoing check of relations after 3048 new relations
+******* at place  1377
+******* at place  1378
+******* at place  1379
+******* at place  1380
+******* at place  1381
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.109090909090909090909090909091
+reltries are 12650
+redoing smoothness check after 100 new reltries
+******* at place  1382
+******* at place  1383
+******* at place  1384
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.108470588235294117647058823529
+reltries are 12750
+redoing smoothness check after 100 new reltries
+******* at place  1385
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107704280155642023346303501946
+reltries are 12850
+redoing smoothness check after 100 new reltries
+******* at place  1386
+******* at place  1387
+******* at place  1388
+******* at place  1389
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107258687258687258687258687259
+reltries are 12950
+redoing smoothness check after 100 new reltries
+******* at place  1390
+******* at place  1391
+******* at place  1392
+******* at place  1393
+******* at place  1394
+******* at place  1395
+******* at place  1396
+******* at place  1397
+******* at place  1398
+******* at place  1399
+******* at place  1400
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107203065134099616858237547893
+reltries are 13050
+redoing smoothness check after 100 new reltries
+******* at place  1401
+******* at place  1402
+******* at place  1403
+******* at place  1404
+******* at place  1405
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106768060836501901140684410646
+reltries are 13150
+redoing smoothness check after 100 new reltries
+******* at place  1406
+******* at place  1407
+******* at place  1408
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106188679245283018867924528302
+reltries are 13250
+redoing smoothness check after 100 new reltries
+******* at place  1409
+******* at place  1410
+******* at place  1411
+******* at place  1412
+******* at place  1413
+******* at place  1414
+******* at place  1415
+******* at place  1416
+******* at place  1417
+******* at place  1418
+******* at place  1419
+******* at place  1420
+******* at place  1421
+******* at place  1422
+******* at place  1423
+******* at place  1424
+******* at place  1425
+******* at place  1426
+******* at place  1427
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106891385767790262172284644195
+reltries are 13350
+redoing smoothness check after 100 new reltries
+******* at place  1428
+******* at place  1429
+******* at place  1430
+******* at place  1431
+******* at place  1432
+******* at place  1433
+******* at place  1434
+******* at place  1435
+******* at place  1436
+******* at place  1437
+******* at place  1438
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106840148698884758364312267658
+reltries are 13450
+redoing smoothness check after 100 new reltries
+******* at place  1439
+******* at place  1440
+******* at place  1441
+******* at place  1442
+******* at place  1443
+******* at place  1444
+******* at place  1445
+******* at place  1446
+******* at place  1447
+******* at place  1448
+******* at place  1449
+******* at place  1450
+******* at place  1451
+******* at place  1452
+******* at place  1453
+******* at place  1454
+******* at place  1455
+******* at place  1456
+******* at place  1457
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107453874538745387453874538745
+reltries are 13550
+redoing smoothness check after 100 new reltries
+******* at place  1458
+******* at place  1459
+******* at place  1460
+******* at place  1461
+******* at place  1462
+******* at place  1463
+******* at place  1464
+******* at place  1465
+******* at place  1466
+******* at place  1467
+******* at place  1468
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107472527472527472527472527473
+reltries are 13650
+redoing smoothness check after 100 new reltries
+******* at place  1469
+******* at place  1470
+******* at place  1471
+******* at place  1472
+******* at place  1473
+******* at place  1474
+******* at place  1475
+******* at place  1476
+******* at place  1477
+******* at place  1478
+******* at place  1479
+******* at place  1480
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107563636363636363636363636364
+reltries are 13750
+redoing smoothness check after 100 new reltries
+******* at place  1481
+******* at place  1482
+******* at place  1483
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.107003610108303249097472924188
+reltries are 13850
+redoing smoothness check after 100 new reltries
+******* at place  1484
+******* at place  1485
+******* at place  1486
+******* at place  1487
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106523297491039426523297491039
+reltries are 13950
+redoing smoothness check after 100 new reltries
+******* at place  1488
+******* at place  1489
+******* at place  1490
+******* at place  1491
+******* at place  1492
+******* at place  1493
+******* at place  1494
+******* at place  1495
+******* at place  1496
+******* at place  1497
+******* at place  1498
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106548042704626334519572953737
+reltries are 14050
+redoing smoothness check after 100 new reltries
+******* at place  1499
+******* at place  1500
+******* at place  1501
+******* at place  1502
+******* at place  1503
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.106148409893992932862190812721
+reltries are 14150
+redoing smoothness check after 100 new reltries
+******* at place  1504
+******* at place  1505
+******* at place  1506
+******* at place  1507
+******* at place  1508
+******* at place  1509
+******* at place  1510
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.105894736842105263157894736842
+reltries are 14250
+redoing smoothness check after 100 new reltries
+******* at place  1511
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.105226480836236933797909407665
+reltries are 14350
+redoing smoothness check after 100 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.104498269896193771626297577855
+reltries are 14450
+redoing smoothness check after 100 new reltries
+******* at place  1512
+******* at place  1513
+******* at place  1514
+******* at place  1515
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.104054982817869415807560137457
+reltries are 14550
+redoing smoothness check after 100 new reltries
+******* at place  1516
+******* at place  1517
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.103481228668941979522184300341
+reltries are 14650
+redoing smoothness check after 100 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.102779661016949152542372881356
+reltries are 14750
+redoing smoothness check after 100 new reltries
+******* at place  1518
+******* at place  1519
+******* at place  1520
+******* at place  1521
+******* at place  1522
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.102424242424242424242424242424
+reltries are 14850
+redoing smoothness check after 100 new reltries
+******* at place  1523
+******* at place  1524
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.101872909698996655518394648829
+reltries are 14950
+redoing smoothness check after 100 new reltries
+******* at place  1525
+******* at place  1526
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.101328903654485049833887043189
+reltries are 15050
+redoing smoothness check after 100 new reltries
+******* at place  1527
+******* at place  1528
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.100792079207920792079207920792
+reltries are 15150
+redoing smoothness check after 100 new reltries
+******* at place  1529
+******* at place  1530
+******* at place  1531
+******* at place  1532
+******* at place  1533
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.100459016393442622950819672131
+reltries are 15250
+redoing smoothness check after 100 new reltries
+******* at place  1534
+******* at place  1535
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0999348534201954397394136807818
+reltries are 15350
+redoing smoothness check after 110 new reltries
+******* at place  1536
+******* at place  1537
+******* at place  1538
+******* at place  1539
+******* at place  1540
+******* at place  1541
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0996119016817593790426908150064
+reltries are 15460
+redoing smoothness check after 110 new reltries
+******* at place  1542
+******* at place  1543
+******* at place  1544
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0991008349389852280025690430314
+reltries are 15570
+redoing smoothness check after 110 new reltries
+******* at place  1545
+******* at place  1546
+******* at place  1547
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0985969387755102040816326530612
+reltries are 15680
+redoing smoothness check after 110 new reltries
+******* at place  1548
+******* at place  1549
+******* at place  1550
+******* at place  1551
+******* at place  1552
+******* at place  1553
+******* at place  1554
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0983533882203926535782140595314
+reltries are 15790
+redoing smoothness check after 110 new reltries
+******* at place  1555
+******* at place  1556
+******* at place  1557
+******* at place  1558
+******* at place  1559
+******* at place  1560
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0980503144654088050314465408805
+reltries are 15900
+redoing smoothness check after 110 new reltries
+******* at place  1561
+******* at place  1562
+******* at place  1563
+******* at place  1564
+******* at place  1565
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0976889444097439100562148657089
+reltries are 16010
+redoing smoothness check after 110 new reltries
+******* at place  1566
+******* at place  1567
+******* at place  1568
+******* at place  1569
+******* at place  1570
+******* at place  1571
+******* at place  1572
+******* at place  1573
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0975186104218362282878411910670
+reltries are 16120
+redoing smoothness check after 110 new reltries
+******* at place  1574
+******* at place  1575
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0969808995686999383857054836722
+reltries are 16230
+redoing smoothness check after 110 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0963280293757649938800489596083
+reltries are 16340
+redoing smoothness check after 110 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0956838905775075987841945288754
+reltries are 16450
+redoing smoothness check after 110 new reltries
+******* at place  1576
+******* at place  1577
+******* at place  1578
+******* at place  1579
+******* at place  1580
+******* at place  1581
+******* at place  1582
+******* at place  1583
+******* at place  1584
+******* at place  1585
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0957125603864734299516908212561
+reltries are 16560
+redoing smoothness check after 110 new reltries
+******* at place  1586
+******* at place  1587
+******* at place  1588
+******* at place  1589
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0952609478104379124175164967007
+reltries are 16670
+redoing smoothness check after 110 new reltries
+******* at place  1590
+******* at place  1591
+******* at place  1592
+******* at place  1593
+******* at place  1594
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0949344457687723480333730631704
+reltries are 16780
+redoing smoothness check after 110 new reltries
+******* at place  1595
+******* at place  1596
+******* at place  1597
+******* at place  1598
+******* at place  1599
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0946121965660153937240970988750
+reltries are 16890
+redoing smoothness check after 110 new reltries
+******* at place  1600
+******* at place  1601
+******* at place  1602
+******* at place  1603
+******* at place  1604
+******* at place  1605
+******* at place  1606
+******* at place  1607
+******* at place  1608
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0945294117647058823529411764706
+reltries are 17000
+redoing smoothness check after 110 new reltries
+******* at place  1609
+******* at place  1610
+******* at place  1611
+******* at place  1612
+******* at place  1613
+******* at place  1614
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0942723553477498538866160140269
+reltries are 17110
+redoing smoothness check after 110 new reltries
+******* at place  1615
+******* at place  1616
+******* at place  1617
+******* at place  1618
+******* at place  1619
+******* at place  1620
+******* at place  1621
+******* at place  1622
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0941347270615563298490127758421
+reltries are 17220
+redoing smoothness check after 110 new reltries
+******* at place  1623
+******* at place  1624
+******* at place  1625
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0937103289094056549336410848240
+reltries are 17330
+redoing smoothness check after 110 new reltries
+******* at place  1626
+******* at place  1627
+******* at place  1628
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0932912844036697247706422018349
+reltries are 17440
+redoing smoothness check after 110 new reltries
+******* at place  1629
+******* at place  1630
+******* at place  1631
+******* at place  1632
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0929344729344729344729344729345
+reltries are 17550
+redoing smoothness check after 110 new reltries
+******* at place  1633
+******* at place  1634
+******* at place  1635
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0925254813137032842582106455266
+reltries are 17660
+redoing smoothness check after 110 new reltries
+******* at place  1636
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0920090039392234102419808666292
+reltries are 17770
+redoing smoothness check after 110 new reltries
+******* at place  1637
+******* at place  1638
+******* at place  1639
+******* at place  1640
+******* at place  1641
+******* at place  1642
+******* at place  1643
+******* at place  1644
+******* at place  1645
+******* at place  1646
+******* at place  1647
+******* at place  1648
+******* at place  1649
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0921700223713646532438478747204
+reltries are 17880
+redoing smoothness check after 110 new reltries
+******* at place  1650
+******* at place  1651
+******* at place  1652
+******* at place  1653
+******* at place  1654
+******* at place  1655
+******* at place  1656
+******* at place  1657
+******* at place  1658
+******* at place  1659
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0921623123957754307948860478044
+reltries are 17990
+redoing smoothness check after 110 new reltries
+******* at place  1660
+******* at place  1661
+******* at place  1662
+******* at place  1663
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0918232044198895027624309392265
+reltries are 18100
+redoing smoothness check after 110 new reltries
+******* at place  1664
+******* at place  1665
+******* at place  1666
+******* at place  1667
+******* at place  1668
+******* at place  1669
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0915980230642504118616144975288
+reltries are 18210
+redoing smoothness check after 110 new reltries
+******* at place  1670
+******* at place  1671
+******* at place  1672
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0912117903930131004366812227074
+reltries are 18320
+redoing smoothness check after 110 new reltries
+******* at place  1673
+******* at place  1674
+******* at place  1675
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0908301682040151926207270754205
+reltries are 18430
+redoing smoothness check after 120 new reltries
+******* at place  1676
+******* at place  1677
+******* at place  1678
+******* at place  1679
+******* at place  1680
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0905121293800539083557951482480
+reltries are 18550
+redoing smoothness check after 120 new reltries
+******* at place  1681
+******* at place  1682
+******* at place  1683
+******* at place  1684
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0901446170326727370112479914301
+reltries are 18670
+redoing smoothness check after 120 new reltries
+******* at place  1685
+******* at place  1686
+******* at place  1687
+******* at place  1688
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0897817988291644491750931346461
+reltries are 18790
+redoing smoothness check after 120 new reltries
+******* at place  1689
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0892649391856160761501850872554
+reltries are 18910
+redoing smoothness check after 120 new reltries
+******* at place  1690
+******* at place  1691
+******* at place  1692
+******* at place  1693
+******* at place  1694
+******* at place  1695
+******* at place  1696
+******* at place  1697
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0891749868628481345244351024698
+reltries are 19030
+redoing smoothness check after 120 new reltries
+******* at place  1698
+******* at place  1699
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0886684073107049608355091383812
+reltries are 19150
+redoing smoothness check after 120 new reltries
+******* at place  1700
+******* at place  1701
+******* at place  1702
+******* at place  1703
+******* at place  1704
+******* at place  1705
+******* at place  1706
+******* at place  1707
+******* at place  1708
+******* at place  1709
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0886351842241826673585884795018
+reltries are 19270
+redoing smoothness check after 120 new reltries
+******* at place  1710
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0881382155750386797318205260444
+reltries are 19390
+redoing smoothness check after 120 new reltries
+******* at place  1711
+******* at place  1712
+******* at place  1713
+******* at place  1714
+******* at place  1715
+******* at place  1716
+******* at place  1717
+******* at place  1718
+******* at place  1719
+******* at place  1720
+******* at place  1721
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0881599179907739620707329574577
+reltries are 19510
+redoing smoothness check after 120 new reltries
+******* at place  1722
+******* at place  1723
+******* at place  1724
+******* at place  1725
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0878247580234335201222618441161
+reltries are 19630
+redoing smoothness check after 120 new reltries
+******* at place  1726
+******* at place  1727
+******* at place  1728
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0874430379746835443037974683545
+reltries are 19750
+redoing smoothness check after 120 new reltries
+******* at place  1729
+******* at place  1730
+******* at place  1731
+******* at place  1732
+******* at place  1733
+******* at place  1734
+******* at place  1735
+******* at place  1736
+******* at place  1737
+******* at place  1738
+******* at place  1739
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0875188726723704076497232008053
+reltries are 19870
+redoing smoothness check after 120 new reltries
+******* at place  1740
+******* at place  1741
+******* at place  1742
+******* at place  1743
+******* at place  1744
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0871935967983991995997998999500
+reltries are 19990
+redoing smoothness check after 120 new reltries
+******* at place  1745
+******* at place  1746
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0867727498756837394331178518151
+reltries are 20110
+redoing smoothness check after 120 new reltries
+******* at place  1747
+******* at place  1748
+******* at place  1749
+******* at place  1750
+******* at place  1751
+******* at place  1752
+******* at place  1753
+******* at place  1754
+******* at place  1755
+******* at place  1756
+******* at place  1757
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0868017795353435491843796342066
+reltries are 20230
+redoing smoothness check after 120 new reltries
+******* at place  1758
+******* at place  1759
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0863882063882063882063882063882
+reltries are 20350
+redoing smoothness check after 120 new reltries
+******* at place  1760
+******* at place  1761
+******* at place  1762
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0860283341475329750854909623840
+reltries are 20470
+redoing smoothness check after 120 new reltries
+******* at place  1763
+******* at place  1764
+******* at place  1765
+******* at place  1766
+******* at place  1767
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0857697911607576493443419135502
+reltries are 20590
+redoing smoothness check after 120 new reltries
+******* at place  1768
+******* at place  1769
+******* at place  1770
+******* at place  1771
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0854659584741670690487687107677
+reltries are 20710
+redoing smoothness check after 120 new reltries
+******* at place  1772
+******* at place  1773
+******* at place  1774
+******* at place  1775
+******* at place  1776
+******* at place  1777
+******* at place  1778
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0853096495439270283245319251080
+reltries are 20830
+redoing smoothness check after 120 new reltries
+******* at place  1779
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0848687350835322195704057279236
+reltries are 20950
+redoing smoothness check after 120 new reltries
+******* at place  1780
+******* at place  1781
+******* at place  1782
+******* at place  1783
+******* at place  1784
+******* at place  1785
+******* at place  1786
+******* at place  1787
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0847650688182249644043663977218
+reltries are 21070
+redoing smoothness check after 120 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0842850401132609721566776781500
+reltries are 21190
+redoing smoothness check after 120 new reltries
+******* at place  1788
+******* at place  1789
+******* at place  1790
+******* at place  1791
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0839981229469732519943688409197
+reltries are 21310
+redoing smoothness check after 120 new reltries
+******* at place  1792
+******* at place  1793
+******* at place  1794
+******* at place  1795
+******* at place  1796
+******* at place  1797
+******* at place  1798
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0839010732617825478301446570229
+reltries are 21430
+redoing smoothness check after 120 new reltries
+******* at place  1799
+******* at place  1800
+******* at place  1801
+******* at place  1802
+******* at place  1803
+******* at place  1804
+******* at place  1805
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0837122969837587006960556844548
+reltries are 21550
+redoing smoothness check after 120 new reltries
+******* at place  1806
+******* at place  1807
+******* at place  1808
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0833871712044300876788186432856
+reltries are 21670
+redoing smoothness check after 120 new reltries
+******* at place  1809
+******* at place  1810
+******* at place  1811
+******* at place  1812
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0831115190454336851766865534649
+reltries are 21790
+redoing smoothness check after 130 new reltries
+******* at place  1813
+******* at place  1814
+******* at place  1815
+******* at place  1816
+******* at place  1817
+******* at place  1818
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0828923357664233576642335766424
+reltries are 21920
+redoing smoothness check after 130 new reltries
+******* at place  1819
+******* at place  1820
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0824943310657596371882086167800
+reltries are 22050
+redoing smoothness check after 130 new reltries
+******* at place  1821
+******* at place  1822
+******* at place  1823
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0821460775473399458972046889089
+reltries are 22180
+redoing smoothness check after 130 new reltries
+******* at place  1824
+******* at place  1825
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0817570596145226355894217839534
+reltries are 22310
+redoing smoothness check after 130 new reltries
+******* at place  1826
+******* at place  1827
+******* at place  1828
+******* at place  1829
+******* at place  1830
+******* at place  1831
+******* at place  1832
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0815953654188948306595365418895
+reltries are 22440
+redoing smoothness check after 130 new reltries
+******* at place  1833
+******* at place  1834
+******* at place  1835
+******* at place  1836
+******* at place  1837
+******* at place  1838
+******* at place  1839
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0814798404962339388568896765619
+reltries are 22570
+redoing smoothness check after 130 new reltries
+******* at place  1840
+******* at place  1841
+******* at place  1842
+******* at place  1843
+******* at place  1844
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0811894273127753303964757709251
+reltries are 22700
+redoing smoothness check after 130 new reltries
+******* at place  1845
+******* at place  1846
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0808147174770039421813403416557
+reltries are 22830
+redoing smoothness check after 130 new reltries
+******* at place  1847
+******* at place  1848
+******* at place  1849
+******* at place  1850
+******* at place  1851
+******* at place  1852
+******* at place  1853
+******* at place  1854
+******* at place  1855
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0807491289198606271777003484320
+reltries are 22960
+redoing smoothness check after 130 new reltries
+******* at place  1856
+******* at place  1857
+******* at place  1858
+******* at place  1859
+******* at place  1860
+******* at place  1861
+******* at place  1862
+******* at place  1863
+******* at place  1864
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0806842789086184495452576873105
+reltries are 23090
+redoing smoothness check after 130 new reltries
+******* at place  1865
+******* at place  1866
+******* at place  1867
+******* at place  1868
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0804048234280792420327304048234
+reltries are 23220
+redoing smoothness check after 130 new reltries
+******* at place  1869
+******* at place  1870
+******* at place  1871
+******* at place  1872
+******* at place  1873
+******* at place  1874
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0802141327623126338329764453962
+reltries are 23350
+redoing smoothness check after 130 new reltries
+******* at place  1875
+******* at place  1876
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0798551959114139693356047700171
+reltries are 23480
+redoing smoothness check after 130 new reltries
+******* at place  1877
+******* at place  1878
+******* at place  1879
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0795425667090216010165184243965
+reltries are 23610
+redoing smoothness check after 130 new reltries
+******* at place  1880
+******* at place  1881
+******* at place  1882
+******* at place  1883
+******* at place  1884
+******* at place  1885
+******* at place  1886
+******* at place  1887
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0794439764111204717775905644482
+reltries are 23740
+redoing smoothness check after 130 new reltries
+******* at place  1888
+******* at place  1889
+******* at place  1890
+******* at place  1891
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0791788856304985337243401759531
+reltries are 23870
+redoing smoothness check after 130 new reltries
+******* at place  1892
+******* at place  1893
+******* at place  1894
+******* at place  1895
+******* at place  1896
+******* at place  1897
+******* at place  1898
+******* at place  1899
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0790833333333333333333333333333
+reltries are 24000
+redoing smoothness check after 130 new reltries
+******* at place  1900
+******* at place  1901
+******* at place  1902
+******* at place  1903
+******* at place  1904
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0788644840447575631993369249897
+reltries are 24130
+redoing smoothness check after 130 new reltries
+******* at place  1905
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0784830997526793075020610057708
+reltries are 24260
+redoing smoothness check after 130 new reltries
+******* at place  1906
+******* at place  1907
+******* at place  1908
+******* at place  1909
+******* at place  1910
+******* at place  1911
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0783107831078310783107831078311
+reltries are 24390
+redoing smoothness check after 130 new reltries
+******* at place  1912
+******* at place  1913
+******* at place  1914
+******* at place  1915
+******* at place  1916
+******* at place  1917
+******* at place  1918
+******* at place  1919
+******* at place  1920
+******* at place  1921
+******* at place  1922
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0783442088091353996737357259380
+reltries are 24520
+redoing smoothness check after 130 new reltries
+******* at place  1923
+******* at place  1924
+******* at place  1925
+******* at place  1926
+******* at place  1927
+******* at place  1928
+******* at place  1929
+******* at place  1930
+******* at place  1931
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0782961460446247464503042596348
+reltries are 24650
+redoing smoothness check after 130 new reltries
+******* at place  1932
+******* at place  1933
+******* at place  1934
+******* at place  1935
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0780468119451170298627925746570
+reltries are 24780
+redoing smoothness check after 130 new reltries
+******* at place  1936
+******* at place  1937
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0777197912484945804897631473304
+reltries are 24910
+redoing smoothness check after 130 new reltries
+******* at place  1938
+******* at place  1939
+******* at place  1940
+******* at place  1941
+******* at place  1942
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0775159744408945686900958466454
+reltries are 25040
+redoing smoothness check after 130 new reltries
+******* at place  1943
+******* at place  1944
+******* at place  1945
+******* at place  1946
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0772745331744139849026618990862
+reltries are 25170
+redoing smoothness check after 130 new reltries
+******* at place  1947
+******* at place  1948
+******* at place  1949
+******* at place  1950
+******* at place  1951
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0770750988142292490118577075099
+reltries are 25300
+redoing smoothness check after 130 new reltries
+******* at place  1952
+******* at place  1953
+******* at place  1954
+******* at place  1955
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0768777034998033818324813212741
+reltries are 25430
+redoing smoothness check after 140 new reltries
+******* at place  1956
+******* at place  1957
+******* at place  1958
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0765350019554165037152913570590
+reltries are 25570
+redoing smoothness check after 140 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0761182419292104239595488136912
+reltries are 25710
+redoing smoothness check after 140 new reltries
+******* at place  1959
+******* at place  1960
+******* at place  1961
+******* at place  1962
+******* at place  1963
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0758994197292069632495164410058
+reltries are 25850
+redoing smoothness check after 140 new reltries
+******* at place  1964
+******* at place  1965
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0755675259715275105809926894960
+reltries are 25990
+redoing smoothness check after 140 new reltries
+******* at place  1966
+******* at place  1967
+******* at place  1968
+******* at place  1969
+******* at place  1970
+******* at place  1971
+******* at place  1972
+******* at place  1973
+******* at place  1974
+******* at place  1975
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0755453501722158438576349024110
+reltries are 26130
+redoing smoothness check after 140 new reltries
+******* at place  1976
+******* at place  1977
+******* at place  1978
+******* at place  1979
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0752950133231823372668443090979
+reltries are 26270
+redoing smoothness check after 140 new reltries
+******* at place  1980
+******* at place  1981
+******* at place  1982
+******* at place  1983
+******* at place  1984
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0750851950018932222642938280954
+reltries are 26410
+redoing smoothness check after 140 new reltries
+******* at place  1985
+******* at place  1986
+******* at place  1987
+******* at place  1988
+******* at place  1989
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0748775894538606403013182674200
+reltries are 26550
+redoing smoothness check after 140 new reltries
+******* at place  1990
+******* at place  1991
+******* at place  1992
+******* at place  1993
+******* at place  1994
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0746721618583739228175346571750
+reltries are 26690
+redoing smoothness check after 140 new reltries
+******* at place  1995
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0743197912784196794632873648900
+reltries are 26830
+redoing smoothness check after 140 new reltries
+******* at place  1996
+******* at place  1997
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0740081572117167222840192806822
+reltries are 26970
+redoing smoothness check after 140 new reltries
+******* at place  1998
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0736997417926964219845075617853
+reltries are 27110
+redoing smoothness check after 140 new reltries
+******* at place  1999
+******* at place  2000
+******* at place  2001
+******* at place  2002
+******* at place  2003
+******* at place  2004
+******* at place  2005
+******* at place  2006
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0735779816513761467889908256880
+reltries are 27250
+redoing smoothness check after 140 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0732018985031033223804308141657
+reltries are 27390
+redoing smoothness check after 140 new reltries
+******* at place  2007
+******* at place  2008
+******* at place  2009
+******* at place  2010
+******* at place  2011
+******* at place  2012
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0730475844533236469306211405739
+reltries are 27530
+redoing smoothness check after 140 new reltries
+******* at place  2013
+******* at place  2014
+******* at place  2015
+******* at place  2016
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0728225514998192988796530538490
+reltries are 27670
+redoing smoothness check after 140 new reltries
+******* at place  2017
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0724919093851132686084142394822
+reltries are 27810
+redoing smoothness check after 140 new reltries
+******* at place  2018
+******* at place  2019
+******* at place  2020
+******* at place  2021
+******* at place  2022
+******* at place  2023
+******* at place  2024
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0723792486583184257602862254025
+reltries are 27950
+redoing smoothness check after 140 new reltries
+******* at place  2025
+******* at place  2026
+******* at place  2027
+******* at place  2028
+******* at place  2029
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0721965112139551441794232823069
+reltries are 28090
+redoing smoothness check after 140 new reltries
+******* at place  2030
+******* at place  2031
+******* at place  2032
+******* at place  2033
+******* at place  2034
+******* at place  2035
+******* at place  2036
+******* at place  2037
+******* at place  2038
+******* at place  2039
+******* at place  2040
+******* at place  2041
+******* at place  2042
+******* at place  2043
+******* at place  2044
+******* at place  2045
+******* at place  2046
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0724406659582004959263195182430
+reltries are 28230
+redoing smoothness check after 140 new reltries
+******* at place  2047
+******* at place  2048
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0721536834684525907648924920691
+reltries are 28370
+redoing smoothness check after 140 new reltries
+******* at place  2049
+******* at place  2050
+******* at place  2051
+******* at place  2052
+******* at place  2053
+******* at place  2054
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0720098211153981059277446509997
+reltries are 28510
+redoing smoothness check after 140 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0716579406631762652705061082024
+reltries are 28650
+redoing smoothness check after 140 new reltries
+******* at place  2055
+******* at place  2056
+******* at place  2057
+******* at place  2058
+******* at place  2059
+******* at place  2060
+******* at place  2061
+******* at place  2062
+******* at place  2063
+******* at place  2064
+******* at place  2065
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0716915595692948940604376519625
+reltries are 28790
+redoing smoothness check after 140 new reltries
+******* at place  2066
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0713791911510542689249913584514
+reltries are 28930
+redoing smoothness check after 150 new reltries
+******* at place  2067
+******* at place  2068
+******* at place  2069
+******* at place  2070
+******* at place  2071
+******* at place  2072
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0712173314993122420907840440165
+reltries are 29080
+redoing smoothness check after 150 new reltries
+******* at place  2073
+******* at place  2074
+******* at place  2075
+******* at place  2076
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0709887102292165583304823811153
+reltries are 29230
+redoing smoothness check after 150 new reltries
+******* at place  2077
+******* at place  2078
+******* at place  2079
+******* at place  2080
+******* at place  2081
+******* at place  2082
+******* at place  2083
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0708645336963921034717494894486
+reltries are 29380
+redoing smoothness check after 150 new reltries
+******* at place  2084
+******* at place  2085
+******* at place  2086
+******* at place  2087
+******* at place  2088
+******* at place  2089
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0707077548256010836437521164917
+reltries are 29530
+redoing smoothness check after 150 new reltries
+******* at place  2090
+******* at place  2091
+******* at place  2092
+******* at place  2093
+******* at place  2094
+******* at place  2095
+******* at place  2096
+******* at place  2097
+******* at place  2098
+******* at place  2099
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0706873315363881401617250673854
+reltries are 29680
+redoing smoothness check after 150 new reltries
+******* at place  2100
+******* at place  2101
+******* at place  2102
+******* at place  2103
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0704659738518270197787462286289
+reltries are 29830
+redoing smoothness check after 150 new reltries
+******* at place  2104
+******* at place  2105
+******* at place  2106
+******* at place  2107
+******* at place  2108
+******* at place  2109
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0703468979319546364242828552368
+reltries are 29980
+redoing smoothness check after 150 new reltries
+******* at place  2110
+******* at place  2111
+******* at place  2112
+******* at place  2113
+******* at place  2114
+******* at place  2115
+******* at place  2116
+******* at place  2117
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0702290076335877862595419847328
+reltries are 30130
+redoing smoothness check after 150 new reltries
+******* at place  2118
+******* at place  2119
+******* at place  2120
+******* at place  2121
+******* at place  2122
+******* at place  2123
+******* at place  2124
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0701122853368560105680317040951
+reltries are 30280
+redoing smoothness check after 150 new reltries
+******* at place  2125
+******* at place  2126
+******* at place  2127
+******* at place  2128
+******* at place  2129
+******* at place  2130
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0699638514623726585606309562932
+reltries are 30430
+redoing smoothness check after 150 new reltries
+******* at place  2131
+******* at place  2132
+******* at place  2133
+******* at place  2134
+******* at place  2135
+******* at place  2136
+******* at place  2137
+******* at place  2138
+******* at place  2139
+******* at place  2140
+******* at place  2141
+******* at place  2142
+******* at place  2143
+******* at place  2144
+******* at place  2145
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0701111837802485284499672988882
+reltries are 30580
+redoing smoothness check after 150 new reltries
+******* at place  2146
+******* at place  2147
+******* at place  2148
+******* at place  2149
+******* at place  2150
+******* at place  2151
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0699967458509599739668076797918
+reltries are 30730
+redoing smoothness check after 150 new reltries
+******* at place  2152
+******* at place  2153
+******* at place  2154
+******* at place  2155
+******* at place  2156
+******* at place  2157
+******* at place  2158
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0698510362694300518134715025907
+reltries are 30880
+redoing smoothness check after 150 new reltries
+******* at place  2159
+******* at place  2160
+******* at place  2161
+******* at place  2162
+******* at place  2163
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0696745085401224621334192716725
+reltries are 31030
+redoing smoothness check after 150 new reltries
+******* at place  2164
+******* at place  2165
+******* at place  2166
+******* at place  2167
+******* at place  2168
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0694996792815907633098139833227
+reltries are 31180
+redoing smoothness check after 150 new reltries
+******* at place  2169
+******* at place  2170
+******* at place  2171
+******* at place  2172
+******* at place  2173
+******* at place  2174
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0693584423874880306415576125120
+reltries are 31330
+redoing smoothness check after 150 new reltries
+******* at place  2175
+******* at place  2176
+******* at place  2177
+******* at place  2178
+******* at place  2179
+******* at place  2180
+******* at place  2181
+******* at place  2182
+******* at place  2183
+******* at place  2184
+******* at place  2185
+******* at place  2186
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0694091486658195679796696315121
+reltries are 31480
+redoing smoothness check after 150 new reltries
+******* at place  2187
+******* at place  2188
+******* at place  2189
+******* at place  2190
+******* at place  2191
+******* at place  2192
+******* at place  2193
+******* at place  2194
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0693329117926019601644008852355
+reltries are 31630
+redoing smoothness check after 150 new reltries
+******* at place  2195
+******* at place  2196
+******* at place  2197
+******* at place  2198
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0691315292636878539962240402769
+reltries are 31780
+redoing smoothness check after 150 new reltries
+******* at place  2199
+******* at place  2200
+******* at place  2201
+******* at place  2202
+******* at place  2203
+******* at place  2204
+******* at place  2205
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0690259943626683369871594112120
+reltries are 31930
+redoing smoothness check after 150 new reltries
+******* at place  2206
+******* at place  2207
+******* at place  2208
+******* at place  2209
+******* at place  2210
+******* at place  2211
+******* at place  2212
+******* at place  2213
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0689526184538653366583541147132
+reltries are 32080
+redoing smoothness check after 150 new reltries
+******* at place  2214
+******* at place  2215
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0686937635743096493949736270555
+reltries are 32230
+redoing smoothness check after 150 new reltries
+******* at place  2216
+******* at place  2217
+******* at place  2218
+******* at place  2219
+******* at place  2220
+******* at place  2221
+******* at place  2222
+******* at place  2223
+******* at place  2224
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0686534898085237801111797405806
+reltries are 32380
+redoing smoothness check after 150 new reltries
+******* at place  2225
+******* at place  2226
+******* at place  2227
+******* at place  2228
+******* at place  2229
+******* at place  2230
+******* at place  2231
+******* at place  2232
+******* at place  2233
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0686135874577313249308330771595
+reltries are 32530
+redoing smoothness check after 150 new reltries
+******* at place  2234
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0683292533659730722154222766218
+reltries are 32680
+redoing smoothness check after 150 new reltries
+******* at place  2235
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0680475175144684739567468778556
+reltries are 32830
+redoing smoothness check after 150 new reltries
+******* at place  2236
+******* at place  2237
+******* at place  2238
+******* at place  2239
+******* at place  2240
+******* at place  2241
+******* at place  2242
+******* at place  2243
+******* at place  2244
+******* at place  2245
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0680412371134020618556701030928
+reltries are 32980
+redoing smoothness check after 150 new reltries
+******* at place  2246
+******* at place  2247
+******* at place  2248
+******* at place  2249
+******* at place  2250
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0678840929670993057651675218835
+reltries are 33130
+redoing smoothness check after 150 new reltries
+******* at place  2251
+******* at place  2252
+******* at place  2253
+******* at place  2254
+******* at place  2255
+******* at place  2256
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0677584134615384615384615384615
+reltries are 33280
+redoing smoothness check after 150 new reltries
+******* at place  2257
+******* at place  2258
+******* at place  2259
+******* at place  2260
+******* at place  2261
+******* at place  2262
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0676637750523481902482799880347
+reltries are 33430
+redoing smoothness check after 150 new reltries
+******* at place  2263
+******* at place  2264
+******* at place  2265
+******* at place  2266
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0674508636092912447885646217987
+reltries are 33580
+redoing smoothness check after 150 new reltries
+******* at place  2267
+******* at place  2268
+******* at place  2269
+******* at place  2270
+******* at place  2271
+******* at place  2272
+******* at place  2273
+******* at place  2274
+******* at place  2275
+******* at place  2276
+******* at place  2277
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0674770234212866884079454491551
+reltries are 33730
+redoing smoothness check after 150 new reltries
+******* at place  2278
+******* at place  2279
+******* at place  2280
+******* at place  2281
+******* at place  2282
+******* at place  2283
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0673553719008264462809917355372
+reltries are 33880
+redoing smoothness check after 150 new reltries
+******* at place  2284
+******* at place  2285
+******* at place  2286
+******* at place  2287
+******* at place  2288
+******* at place  2289
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0672347928298560094034675286512
+reltries are 34030
+redoing smoothness check after 150 new reltries
+******* at place  2290
+******* at place  2291
+******* at place  2292
+******* at place  2293
+******* at place  2294
+******* at place  2295
+******* at place  2296
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0671445289643066120538326506729
+reltries are 34180
+redoing smoothness check after 150 new reltries
+******* at place  2297
+******* at place  2298
+******* at place  2299
+******* at place  2300
+******* at place  2301
+******* at place  2302
+******* at place  2303
+******* at place  2304
+******* at place  2305
+******* at place  2306
+******* at place  2307
+******* at place  2308
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0672006990969997087095834547044
+reltries are 34330
+redoing smoothness check after 150 new reltries
+******* at place  2309
+******* at place  2310
+******* at place  2311
+******* at place  2312
+******* at place  2313
+******* at place  2314
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0670823665893271461716937354988
+reltries are 34480
+redoing smoothness check after 150 new reltries
+******* at place  2315
+******* at place  2316
+******* at place  2317
+******* at place  2318
+******* at place  2319
+******* at place  2320
+******* at place  2321
+******* at place  2322
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0670228125902396765809991336991
+reltries are 34630
+redoing smoothness check after 150 new reltries
+******* at place  2323
+******* at place  2324
+******* at place  2325
+******* at place  2326
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0668487636572742955721679125935
+reltries are 34780
+redoing smoothness check after 150 new reltries
+******* at place  2327
+******* at place  2328
+******* at place  2329
+******* at place  2330
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0666762095619811050672774119668
+reltries are 34930
+redoing smoothness check after 150 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0663911060433295324971493728620
+reltries are 35080
+redoing smoothness check after 160 new reltries
+******* at place  2331
+******* at place  2332
+******* at place  2333
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0661748013620885357548240635642
+reltries are 35240
+redoing smoothness check after 160 new reltries
+******* at place  2334
+******* at place  2335
+******* at place  2336
+******* at place  2337
+******* at place  2338
+******* at place  2339
+******* at place  2340
+******* at place  2341
+******* at place  2342
+******* at place  2343
+******* at place  2344
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0661864406779661016949152542373
+reltries are 35400
+redoing smoothness check after 160 new reltries
+******* at place  2345
+******* at place  2346
+******* at place  2347
+******* at place  2348
+******* at place  2349
+******* at place  2350
+******* at place  2351
+******* at place  2352
+******* at place  2353
+******* at place  2354
+******* at place  2355
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0661979752530933633295838020248
+reltries are 35560
+redoing smoothness check after 160 new reltries
+******* at place  2356
+******* at place  2357
+******* at place  2358
+******* at place  2359
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0660134378499440089585666293393
+reltries are 35720
+redoing smoothness check after 160 new reltries
+******* at place  2360
+******* at place  2361
+******* at place  2362
+******* at place  2363
+******* at place  2364
+******* at place  2365
+******* at place  2366
+******* at place  2367
+******* at place  2368
+******* at place  2369
+******* at place  2370
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0660256410256410256410256410256
+reltries are 35880
+redoing smoothness check after 160 new reltries
+******* at place  2371
+******* at place  2372
+******* at place  2373
+******* at place  2374
+******* at place  2375
+******* at place  2376
+******* at place  2377
+******* at place  2378
+******* at place  2379
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0659822419533851276359600443951
+reltries are 36040
+redoing smoothness check after 160 new reltries
+******* at place  2380
+******* at place  2381
+******* at place  2382
+******* at place  2383
+******* at place  2384
+******* at place  2385
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0658563535911602209944751381216
+reltries are 36200
+redoing smoothness check after 160 new reltries
+******* at place  2386
+******* at place  2387
+******* at place  2388
+******* at place  2389
+******* at place  2390
+******* at place  2391
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0657315731573157315731573157316
+reltries are 36360
+redoing smoothness check after 160 new reltries
+******* at place  2392
+******* at place  2393
+******* at place  2394
+******* at place  2395
+******* at place  2396
+******* at place  2397
+******* at place  2398
+******* at place  2399
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0656900328587075575027382256298
+reltries are 36520
+redoing smoothness check after 160 new reltries
+******* at place  2400
+******* at place  2401
+******* at place  2402
+******* at place  2403
+******* at place  2404
+******* at place  2405
+******* at place  2406
+******* at place  2407
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0655943293347873500545256270447
+reltries are 36680
+redoing smoothness check after 160 new reltries
+******* at place  2408
+******* at place  2409
+******* at place  2410
+******* at place  2411
+******* at place  2412
+******* at place  2413
+******* at place  2414
+******* at place  2415
+******* at place  2416
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0655537459283387622149837133550
+reltries are 36840
+redoing smoothness check after 160 new reltries
+******* at place  2417
+******* at place  2418
+******* at place  2419
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0653513513513513513513513513513
+reltries are 37000
+redoing smoothness check after 160 new reltries
+******* at place  2420
+******* at place  2421
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0651237890204520990312163616792
+reltries are 37160
+redoing smoothness check after 160 new reltries
+******* at place  2422
+******* at place  2423
+******* at place  2424
+******* at place  2425
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0649517684887459807073954983923
+reltries are 37320
+redoing smoothness check after 160 new reltries
+******* at place  2426
+******* at place  2427
+******* at place  2428
+******* at place  2429
+******* at place  2430
+******* at place  2431
+******* at place  2432
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0648612593383137673425827107791
+reltries are 37480
+redoing smoothness check after 160 new reltries
+******* at place  2433
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0646121147715196599362380446333
+reltries are 37640
+redoing smoothness check after 160 new reltries
+******* at place  2434
+******* at place  2435
+******* at place  2436
+******* at place  2437
+******* at place  2438
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0644708994708994708994708994709
+reltries are 37800
+redoing smoothness check after 160 new reltries
+******* at place  2439
+******* at place  2440
+******* at place  2441
+******* at place  2442
+******* at place  2443
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0643308746048472075869336143308
+reltries are 37960
+redoing smoothness check after 160 new reltries
+******* at place  2444
+******* at place  2445
+******* at place  2446
+******* at place  2447
+******* at place  2448
+******* at place  2449
+******* at place  2450
+******* at place  2451
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0642707240293809024134312696747
+reltries are 38120
+redoing smoothness check after 160 new reltries
+******* at place  2452
+******* at place  2453
+******* at place  2454
+******* at place  2455
+******* at place  2456
+******* at place  2457
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0641588296760710553814002089864
+reltries are 38280
+redoing smoothness check after 160 new reltries
+******* at place  2458
+******* at place  2459
+******* at place  2460
+******* at place  2461
+******* at place  2462
+******* at place  2463
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0640478668054110301768990634755
+reltries are 38440
+redoing smoothness check after 160 new reltries
+******* at place  2464
+******* at place  2465
+******* at place  2466
+******* at place  2467
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0638860103626943005181347150259
+reltries are 38600
+redoing smoothness check after 160 new reltries
+******* at place  2468
+******* at place  2469
+******* at place  2470
+******* at place  2471
+******* at place  2472
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0637512899896800825593395252838
+reltries are 38760
+redoing smoothness check after 160 new reltries
+******* at place  2473
+******* at place  2474
+******* at place  2475
+******* at place  2476
+******* at place  2477
+******* at place  2478
+******* at place  2479
+******* at place  2480
+******* at place  2481
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0637204522096608427543679342240
+reltries are 38920
+redoing smoothness check after 160 new reltries
+******* at place  2482
+******* at place  2483
+******* at place  2484
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0635363357215967246673490276356
+reltries are 39080
+redoing smoothness check after 160 new reltries
+******* at place  2485
+******* at place  2486
+******* at place  2487
+******* at place  2488
+******* at place  2489
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0634046890927624872579001019368
+reltries are 39240
+redoing smoothness check after 160 new reltries
+******* at place  2490
+******* at place  2491
+******* at place  2492
+******* at place  2493
+******* at place  2494
+******* at place  2495
+******* at place  2496
+******* at place  2497
+******* at place  2498
+******* at place  2499
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0634010152284263959390862944163
+reltries are 39400
+redoing smoothness check after 160 new reltries
+******* at place  2500
+******* at place  2501
+******* at place  2502
+******* at place  2503
+******* at place  2504
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0632709807886754297269969666330
+reltries are 39560
+redoing smoothness check after 160 new reltries
+******* at place  2505
+******* at place  2506
+******* at place  2507
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0630916414904330312185297079557
+reltries are 39720
+redoing smoothness check after 160 new reltries
+******* at place  2508
+******* at place  2509
+******* at place  2510
+******* at place  2511
+******* at place  2512
+******* at place  2513
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0629889669007021063189568706119
+reltries are 39880
+redoing smoothness check after 160 new reltries
+******* at place  2514
+******* at place  2515
+******* at place  2516
+******* at place  2517
+******* at place  2518
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0628621378621378621378621378621
+reltries are 40040
+redoing smoothness check after 160 new reltries
+******* at place  2519
+******* at place  2520
+******* at place  2521
+******* at place  2522
+******* at place  2523
+******* at place  2524
+******* at place  2525
+******* at place  2526
+******* at place  2527
+******* at place  2528
+******* at place  2529
+******* at place  2530
+******* at place  2531
+******* at place  2532
+******* at place  2533
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0629850746268656716417910447761
+reltries are 40200
+redoing smoothness check after 160 new reltries
+******* at place  2534
+******* at place  2535
+******* at place  2536
+******* at place  2537
+******* at place  2538
+******* at place  2539
+******* at place  2540
+******* at place  2541
+******* at place  2542
+******* at place  2543
+******* at place  2544
+******* at place  2545
+******* at place  2546
+******* at place  2547
+******* at place  2548
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0631070366699702675916749256690
+reltries are 40360
+redoing smoothness check after 160 new reltries
+******* at place  2549
+******* at place  2550
+******* at place  2551
+******* at place  2552
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0629565646594274432379072063179
+reltries are 40520
+redoing smoothness check after 160 new reltries
+******* at place  2553
+******* at place  2554
+******* at place  2555
+******* at place  2556
+******* at place  2557
+******* at place  2558
+******* at place  2559
+******* at place  2560
+******* at place  2561
+******* at place  2562
+******* at place  2563
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0630039331366764995083579154375
+reltries are 40680
+redoing smoothness check after 160 new reltries
+******* at place  2564
+******* at place  2565
+******* at place  2566
+******* at place  2567
+******* at place  2568
+******* at place  2569
+******* at place  2570
+******* at place  2571
+******* at place  2572
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0629529872673849167482859941234
+reltries are 40840
+redoing smoothness check after 160 new reltries
+******* at place  2573
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0627317073170731707317073170732
+reltries are 41000
+redoing smoothness check after 160 new reltries
+******* at place  2574
+******* at place  2575
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0625364431486880466472303206997
+reltries are 41160
+redoing smoothness check after 160 new reltries
+******* at place  2576
+******* at place  2577
+******* at place  2578
+******* at place  2579
+******* at place  2580
+******* at place  2581
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0624394966118102613746369796709
+reltries are 41320
+redoing smoothness check after 170 new reltries
+******* at place  2582
+******* at place  2583
+******* at place  2584
+******* at place  2585
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0623041696794408291154495059050
+reltries are 41490
+redoing smoothness check after 170 new reltries
+******* at place  2586
+******* at place  2587
+******* at place  2588
+******* at place  2589
+******* at place  2590
+******* at place  2591
+******* at place  2592
+******* at place  2593
+******* at place  2594
+******* at place  2595
+******* at place  2596
+******* at place  2597
+******* at place  2598
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0623379740758521363418146903505
+reltries are 41660
+redoing smoothness check after 170 new reltries
+******* at place  2599
+******* at place  2600
+******* at place  2601
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0621563471192923738943342098972
+reltries are 41830
+redoing smoothness check after 170 new reltries
+******* at place  2602
+******* at place  2603
+******* at place  2604
+******* at place  2605
+******* at place  2606
+******* at place  2607
+******* at place  2608
+******* at place  2609
+******* at place  2610
+******* at place  2611
+******* at place  2612
+******* at place  2613
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0621904761904761904761904761905
+reltries are 42000
+redoing smoothness check after 170 new reltries
+******* at place  2614
+******* at place  2615
+******* at place  2616
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0620109082285985297604932416410
+reltries are 42170
+redoing smoothness check after 170 new reltries
+******* at place  2617
+******* at place  2618
+******* at place  2619
+******* at place  2620
+******* at place  2621
+******* at place  2622
+******* at place  2623
+******* at place  2624
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0619744922059518186112423240434
+reltries are 42340
+redoing smoothness check after 170 new reltries
+******* at place  2625
+******* at place  2626
+******* at place  2627
+******* at place  2628
+******* at place  2629
+******* at place  2630
+******* at place  2631
+******* at place  2632
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0618913196894848270995059985886
+reltries are 42510
+redoing smoothness check after 170 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0616682286785379568884723523899
+reltries are 42680
+redoing smoothness check after 170 new reltries
+******* at place  2633
+******* at place  2634
+******* at place  2635
+******* at place  2636
+******* at place  2637
+******* at place  2638
+******* at place  2639
+******* at place  2640
+******* at place  2641
+******* at place  2642
+******* at place  2643
+******* at place  2644
+******* at place  2645
+******* at place  2646
+******* at place  2647
+******* at place  2648
+******* at place  2649
+******* at place  2650
+******* at place  2651
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0618436406067677946324387397900
+reltries are 42850
+redoing smoothness check after 170 new reltries
+******* at place  2652
+******* at place  2653
+******* at place  2654
+******* at place  2655
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0616922361692236169223616922362
+reltries are 43020
+redoing smoothness check after 170 new reltries
+******* at place  2656
+******* at place  2657
+******* at place  2658
+******* at place  2659
+******* at place  2660
+******* at place  2661
+******* at place  2662
+******* at place  2663
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0616346376476036119472100023153
+reltries are 43190
+redoing smoothness check after 170 new reltries
+******* at place  2664
+******* at place  2665
+******* at place  2666
+******* at place  2667
+******* at place  2668
+******* at place  2669
+******* at place  2670
+******* at place  2671
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0615774907749077490774907749077
+reltries are 43360
+redoing smoothness check after 170 new reltries
+******* at place  2672
+******* at place  2673
+******* at place  2674
+******* at place  2675
+******* at place  2676
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0614748449345279117849758787043
+reltries are 43530
+redoing smoothness check after 170 new reltries
+******* at place  2677
+******* at place  2678
+******* at place  2679
+******* at place  2680
+******* at place  2681
+******* at place  2682
+******* at place  2683
+******* at place  2684
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0613958810068649885583524027460
+reltries are 43700
+redoing smoothness check after 170 new reltries
+******* at place  2685
+******* at place  2686
+******* at place  2687
+******* at place  2688
+******* at place  2689
+******* at place  2690
+******* at place  2691
+******* at place  2692
+******* at place  2693
+******* at place  2694
+******* at place  2695
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0614087075450193754273991338044
+reltries are 43870
+redoing smoothness check after 170 new reltries
+******* at place  2696
+******* at place  2697
+******* at place  2698
+******* at place  2699
+******* at place  2700
+******* at place  2701
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0613079019073569482288828337875
+reltries are 44040
+redoing smoothness check after 170 new reltries
+******* at place  2702
+******* at place  2703
+******* at place  2704
+******* at place  2705
+******* at place  2706
+******* at place  2707
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0612304908391766568649626781271
+reltries are 44210
+redoing smoothness check after 170 new reltries
+******* at place  2708
+******* at place  2709
+******* at place  2710
+******* at place  2711
+******* at place  2712
+******* at place  2713
+******* at place  2714
+******* at place  2715
+******* at place  2716
+******* at place  2717
+******* at place  2718
+******* at place  2719
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0612438035150968904912122577738
+reltries are 44380
+redoing smoothness check after 170 new reltries
+******* at place  2720
+******* at place  2721
+******* at place  2722
+******* at place  2723
+******* at place  2724
+******* at place  2725
+******* at place  2726
+******* at place  2727
+******* at place  2728
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0612121212121212121212121212121
+reltries are 44550
+redoing smoothness check after 170 new reltries
+******* at place  2729
+******* at place  2730
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0610241502683363148479427549195
+reltries are 44720
+redoing smoothness check after 170 new reltries
+******* at place  2731
+******* at place  2732
+******* at place  2733
+******* at place  2734
+******* at place  2735
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0609044330585876587213187792381
+reltries are 44890
+redoing smoothness check after 170 new reltries
+******* at place  2736
+******* at place  2737
+******* at place  2738
+******* at place  2739
+******* at place  2740
+******* at place  2741
+******* at place  2742
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0608300044385264092321349312028
+reltries are 45060
+redoing smoothness check after 170 new reltries
+******* at place  2743
+******* at place  2744
+******* at place  2745
+******* at place  2746
+******* at place  2747
+******* at place  2748
+******* at place  2749
+******* at place  2750
+******* at place  2751
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0608003537475127128012381162945
+reltries are 45230
+redoing smoothness check after 170 new reltries
+******* at place  2752
+******* at place  2753
+******* at place  2754
+******* at place  2755
+******* at place  2756
+******* at place  2757
+******* at place  2758
+******* at place  2759
+******* at place  2760
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0607709251101321585903083700440
+reltries are 45400
+redoing smoothness check after 170 new reltries
+******* at place  2761
+******* at place  2762
+******* at place  2763
+******* at place  2764
+******* at place  2765
+******* at place  2766
+******* at place  2767
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0606978275181040157998683344305
+reltries are 45570
+redoing smoothness check after 170 new reltries
+******* at place  2768
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0604940970703979011805859204197
+reltries are 45740
+redoing smoothness check after 170 new reltries
+******* at place  2769
+******* at place  2770
+******* at place  2771
+******* at place  2772
+******* at place  2773
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0603790023959921585711174036158
+reltries are 45910
+redoing smoothness check after 170 new reltries
+******* at place  2774
+******* at place  2775
+******* at place  2776
+******* at place  2777
+******* at place  2778
+******* at place  2779
+******* at place  2780
+******* at place  2781
+******* at place  2782
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0603515625000000000000000000000
+reltries are 46080
+redoing smoothness check after 170 new reltries
+******* at place  2783
+******* at place  2784
+******* at place  2785
+******* at place  2786
+******* at place  2787
+******* at place  2788
+******* at place  2789
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0602810810810810810810810810811
+reltries are 46250
+redoing smoothness check after 170 new reltries
+******* at place  2790
+******* at place  2791
+******* at place  2792
+******* at place  2793
+******* at place  2794
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0601680310211115898319689788884
+reltries are 46420
+redoing smoothness check after 170 new reltries
+******* at place  2795
+******* at place  2796
+******* at place  2797
+******* at place  2798
+******* at place  2799
+******* at place  2800
+******* at place  2801
+******* at place  2802
+******* at place  2803
+******* at place  2804
+******* at place  2805
+******* at place  2806
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0602060528010302640051513200257
+reltries are 46590
+redoing smoothness check after 170 new reltries
+******* at place  2807
+******* at place  2808
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0600299401197604790419161676647
+reltries are 46760
+redoing smoothness check after 170 new reltries
+******* at place  2809
+******* at place  2810
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0598551033454080545493287875559
+reltries are 46930
+redoing smoothness check after 170 new reltries
+******* at place  2811
+******* at place  2812
+******* at place  2813
+******* at place  2814
+******* at place  2815
+******* at place  2816
+******* at place  2817
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0597876857749469214437367303609
+reltries are 47100
+redoing smoothness check after 170 new reltries
+******* at place  2818
+******* at place  2819
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0596149777871800296170932938439
+reltries are 47270
+redoing smoothness check after 170 new reltries
+******* at place  2820
+******* at place  2821
+******* at place  2822
+******* at place  2823
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0594856661045531197301854974705
+reltries are 47440
+redoing smoothness check after 170 new reltries
+******* at place  2824
+******* at place  2825
+******* at place  2826
+******* at place  2827
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0593572778827977315689981096408
+reltries are 47610
+redoing smoothness check after 170 new reltries
+******* at place  2828
+******* at place  2829
+******* at place  2830
+******* at place  2831
+******* at place  2832
+******* at place  2833
+******* at place  2834
+******* at place  2835
+******* at place  2836
+******* at place  2837
+******* at place  2838
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0593763080786940142318961908749
+reltries are 47780
+redoing smoothness check after 170 new reltries
+******* at place  2839
+******* at place  2840
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0592075078206465067778936392075
+reltries are 47950
+redoing smoothness check after 170 new reltries
+******* at place  2841
+******* at place  2842
+******* at place  2843
+******* at place  2844
+******* at place  2845
+******* at place  2846
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0591230257689110556940980881130
+reltries are 48120
+redoing smoothness check after 170 new reltries
+******* at place  2847
+******* at place  2848
+******* at place  2849
+******* at place  2850
+******* at place  2851
+******* at place  2852
+******* at place  2853
+******* at place  2854
+******* at place  2855
+******* at place  2856
+******* at place  2857
+******* at place  2858
+******* at place  2859
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0591840960861462000414164423276
+reltries are 48290
+redoing smoothness check after 170 new reltries
+******* at place  2860
+******* at place  2861
+******* at place  2862
+******* at place  2863
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0590590177465951300041271151465
+reltries are 48460
+redoing smoothness check after 170 new reltries
+******* at place  2864
+******* at place  2865
+******* at place  2866
+******* at place  2867
+******* at place  2868
+******* at place  2869
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0589759407772979642196175200493
+reltries are 48630
+redoing smoothness check after 170 new reltries
+******* at place  2870
+******* at place  2871
+******* at place  2872
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0588319672131147540983606557377
+reltries are 48800
+redoing smoothness check after 170 new reltries
+******* at place  2873
+******* at place  2874
+******* at place  2875
+******* at place  2876
+******* at place  2877
+******* at place  2878
+******* at place  2879
+******* at place  2880
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0587910965897488258117214621197
+reltries are 48970
+redoing smoothness check after 180 new reltries
+******* at place  2881
+******* at place  2882
+******* at place  2883
+******* at place  2884
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0586571719226856561546286876907
+reltries are 49150
+redoing smoothness check after 180 new reltries
+******* at place  2885
+******* at place  2886
+******* at place  2887
+******* at place  2888
+******* at place  2889
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585444962497466045003040745996
+reltries are 49330
+redoing smoothness check after 180 new reltries
+******* at place  2890
+******* at place  2891
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583720460513027671177539890931
+reltries are 49510
+redoing smoothness check after 180 new reltries
+******* at place  2892
+******* at place  2893
+******* at place  2894
+******* at place  2895
+******* at place  2896
+******* at place  2897
+******* at place  2898
+******* at place  2899
+******* at place  2900
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583417186556651237673576172268
+reltries are 49690
+redoing smoothness check after 180 new reltries
+******* at place  2901
+******* at place  2902
+******* at place  2903
+******* at place  2904
+******* at place  2905
+******* at place  2906
+******* at place  2907
+******* at place  2908
+******* at place  2909
+******* at place  2910
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583316623220372969721275315821
+reltries are 49870
+redoing smoothness check after 180 new reltries
+******* at place  2911
+******* at place  2912
+******* at place  2913
+******* at place  2914
+******* at place  2915
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582217782217782217782217782218
+reltries are 50050
+redoing smoothness check after 180 new reltries
+******* at place  2916
+******* at place  2917
+******* at place  2918
+******* at place  2919
+******* at place  2920
+******* at place  2921
+******* at place  2922
+******* at place  2923
+******* at place  2924
+******* at place  2925
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582122237706549870595261795740
+reltries are 50230
+redoing smoothness check after 180 new reltries
+******* at place  2926
+******* at place  2927
+******* at place  2928
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0580638762150366990676453084706
+reltries are 50410
+redoing smoothness check after 180 new reltries
+******* at place  2929
+******* at place  2930
+******* at place  2931
+******* at place  2932
+******* at place  2933
+******* at place  2934
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0579758845621664360545562364103
+reltries are 50590
+redoing smoothness check after 180 new reltries
+******* at place  2935
+******* at place  2936
+******* at place  2937
+******* at place  2938
+******* at place  2939
+******* at place  2940
+******* at place  2941
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0579082135119164861138467598976
+reltries are 50770
+redoing smoothness check after 180 new reltries
+******* at place  2942
+******* at place  2943
+******* at place  2944
+******* at place  2945
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0577821393523061825318940137390
+reltries are 50950
+redoing smoothness check after 180 new reltries
+******* at place  2946
+******* at place  2947
+******* at place  2948
+******* at place  2949
+******* at place  2950
+******* at place  2951
+******* at place  2952
+******* at place  2953
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0577351848230001955798943868570
+reltries are 51130
+redoing smoothness check after 180 new reltries
+******* at place  2954
+******* at place  2955
+******* at place  2956
+******* at place  2957
+******* at place  2958
+******* at place  2959
+******* at place  2960
+******* at place  2961
+******* at place  2962
+******* at place  2963
+******* at place  2964
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0577470278698109530305983239135
+reltries are 51310
+redoing smoothness check after 180 new reltries
+******* at place  2965
+******* at place  2966
+******* at place  2967
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0576034181394445523402602447077
+reltries are 51490
+redoing smoothness check after 180 new reltries
+******* at place  2968
+******* at place  2969
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0574414553899748403328817495645
+reltries are 51670
+redoing smoothness check after 180 new reltries
+******* at place  2970
+******* at place  2971
+******* at place  2972
+******* at place  2973
+******* at place  2974
+******* at place  2975
+******* at place  2976
+******* at place  2977
+******* at place  2978
+******* at place  2979
+******* at place  2980
+******* at place  2981
+******* at place  2982
+******* at place  2983
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0575120540019286403085824493732
+reltries are 51850
+redoing smoothness check after 180 new reltries
+******* at place  2984
+******* at place  2985
+******* at place  2986
+******* at place  2987
+******* at place  2988
+******* at place  2989
+******* at place  2990
+******* at place  2991
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0574668460503555640976359792428
+reltries are 52030
+redoing smoothness check after 180 new reltries
+******* at place  2992
+******* at place  2993
+******* at place  2994
+******* at place  2995
+******* at place  2996
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0573644895613867075272936219115
+reltries are 52210
+redoing smoothness check after 180 new reltries
+******* at place  2997
+******* at place  2998
+******* at place  2999
+******* at place  3000
+******* at place  3001
+******* at place  3002
+******* at place  3003
+******* at place  3004
+******* at place  3005
+******* at place  3006
+******* at place  3007
+******* at place  3008
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0573964497041420118343195266272
+reltries are 52390
+redoing smoothness check after 180 new reltries
+******* at place  3009
+******* at place  3010
+******* at place  3011
+******* at place  3012
+******* at place  3013
+******* at place  3014
+******* at place  3015
+******* at place  3016
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0573521019592923720753281339167
+reltries are 52570
+redoing smoothness check after 180 new reltries
+******* at place  3017
+******* at place  3018
+******* at place  3019
+******* at place  3020
+******* at place  3021
+******* at place  3022
+******* at place  3023
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0572890995260663507109004739337
+reltries are 52750
+redoing smoothness check after 180 new reltries
+******* at place  3024
+******* at place  3025
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0571320612129227281314944266012
+reltries are 52930
+redoing smoothness check after 180 new reltries
+******* at place  3026
+******* at place  3027
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0569760873658444737337601205046
+reltries are 53110
+redoing smoothness check after 180 new reltries
+******* at place  3028
+******* at place  3029
+******* at place  3030
+******* at place  3031
+******* at place  3032
+******* at place  3033
+******* at place  3034
+******* at place  3035
+******* at place  3036
+******* at place  3037
+******* at place  3038
+******* at place  3039
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0570275849127416025520735597673
+reltries are 53290
+redoing smoothness check after 180 new reltries
+******* at place  3040
+******* at place  3041
+******* at place  3042
+******* at place  3043
+******* at place  3044
+******* at place  3045
+******* at place  3046
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0569478212081541051056667290069
+reltries are 53470
+redoing smoothness check after 180 new reltries
+******* at place  3047
+******* at place  3048
+******* at place  3049
+******* at place  3050
+******* at place  3051
+******* at place  3052
+******* at place  3053
+******* at place  3054
+******* at place  3055
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0569245107176141658900279589935
+reltries are 53650
+redoing smoothness check after 180 new reltries
+******* at place  3056
+******* at place  3057
+******* at place  3058
+******* at place  3059
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0568084711127624001486160133754
+reltries are 53830
+redoing smoothness check after 180 new reltries
+******* at place  3060
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0566376596926495093501203480837
+reltries are 54010
+redoing smoothness check after 180 new reltries
+******* at place  3061
+******* at place  3062
+******* at place  3063
+******* at place  3064
+******* at place  3065
+******* at place  3066
+******* at place  3067
+******* at place  3068
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0565971581472596420003690717844
+reltries are 54190
+redoing smoothness check after 180 new reltries
+******* at place  3069
+******* at place  3070
+******* at place  3071
+******* at place  3072
+******* at place  3073
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0565017472871068604009564097848
+reltries are 54370
+redoing smoothness check after 180 new reltries
+******* at place  3074
+******* at place  3075
+******* at place  3076
+******* at place  3077
+******* at place  3078
+******* at place  3079
+******* at place  3080
+******* at place  3081
+******* at place  3082
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0564986251145737855178735105408
+reltries are 54550
+redoing smoothness check after 180 new reltries
+******* at place  3083
+******* at place  3084
+******* at place  3085
+******* at place  3086
+******* at place  3087
+******* at place  3088
+******* at place  3089
+******* at place  3090
+******* at place  3091
+******* at place  3092
+******* at place  3093
+******* at place  3094
+******* at place  3095
+******* at place  3096
+******* at place  3097
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0565686095377306778731956879226
+reltries are 54730
+redoing smoothness check after 180 new reltries
+******* at place  3098
+******* at place  3099
+******* at place  3100
+******* at place  3101
+******* at place  3102
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0564742305590967036969586596248
+reltries are 54910
+redoing smoothness check after 180 new reltries
+******* at place  3103
+******* at place  3104
+******* at place  3105
+******* at place  3106
+******* at place  3107
+******* at place  3108
+******* at place  3109
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0564167725540025412960609911054
+reltries are 55090
+redoing smoothness check after 180 new reltries
+******* at place  3110
+******* at place  3111
+******* at place  3112
+******* at place  3113
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0563054098064049212954586574995
+reltries are 55270
+redoing smoothness check after 180 new reltries
+******* at place  3114
+******* at place  3115
+******* at place  3116
+******* at place  3117
+******* at place  3118
+******* at place  3119
+******* at place  3120
+******* at place  3121
+******* at place  3122
+******* at place  3123
+******* at place  3124
+******* at place  3125
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0563390441839495040577096483318
+reltries are 55450
+redoing smoothness check after 180 new reltries
+******* at place  3126
+******* at place  3127
+******* at place  3128
+******* at place  3129
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0562286536041704116483911558511
+reltries are 55630
+redoing smoothness check after 180 new reltries
+******* at place  3130
+******* at place  3131
+******* at place  3132
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0561010571582153735889625515141
+reltries are 55810
+redoing smoothness check after 180 new reltries
+******* at place  3133
+******* at place  3134
+******* at place  3135
+******* at place  3136
+******* at place  3137
+******* at place  3138
+******* at place  3139
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0560457224504375781389533845329
+reltries are 55990
+redoing smoothness check after 180 new reltries
+******* at place  3140
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0558839238027416770518070144205
+reltries are 56170
+redoing smoothness check after 180 new reltries
+******* at place  3141
+******* at place  3142
+******* at place  3143
+******* at place  3144
+******* at place  3145
+******* at place  3146
+******* at place  3147
+******* at place  3148
+******* at place  3149
+******* at place  3150
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0558828748890860692102928127773
+reltries are 56350
+redoing smoothness check after 180 new reltries
+******* at place  3151
+******* at place  3152
+******* at place  3153
+******* at place  3154
+******* at place  3155
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0557933840438705112329736423138
+reltries are 56530
+redoing smoothness check after 180 new reltries
+******* at place  3156
+******* at place  3157
+******* at place  3158
+******* at place  3159
+******* at place  3160
+******* at place  3161
+******* at place  3162
+******* at place  3163
+******* at place  3164
+******* at place  3165
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0557926291659319344031035090813
+reltries are 56710
+redoing smoothness check after 180 new reltries
+******* at place  3166
+******* at place  3167
+******* at place  3168
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0556688345930743540165231147829
+reltries are 56890
+redoing smoothness check after 180 new reltries
+******* at place  3169
+******* at place  3170
+******* at place  3171
+******* at place  3172
+******* at place  3173
+******* at place  3174
+******* at place  3175
+******* at place  3176
+******* at place  3177
+******* at place  3178
+******* at place  3179
+******* at place  3180
+******* at place  3181
+******* at place  3182
+******* at place  3183
+******* at place  3184
+******* at place  3185
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0557911336954617136849483090941
+reltries are 57070
+redoing smoothness check after 180 new reltries
+******* at place  3186
+******* at place  3187
+******* at place  3188
+******* at place  3189
+******* at place  3190
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0557030567685589519650655021834
+reltries are 57250
+redoing smoothness check after 180 new reltries
+******* at place  3191
+******* at place  3192
+******* at place  3193
+******* at place  3194
+******* at place  3195
+******* at place  3196
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0556329444541180567647570955946
+reltries are 57430
+redoing smoothness check after 180 new reltries
+******* at place  3197
+******* at place  3198
+******* at place  3199
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0555111959729213678180871376497
+reltries are 57610
+redoing smoothness check after 190 new reltries
+******* at place  3200
+******* at place  3201
+******* at place  3202
+******* at place  3203
+******* at place  3204
+******* at place  3205
+******* at place  3206
+******* at place  3207
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0554671280276816608996539792388
+reltries are 57800
+redoing smoothness check after 190 new reltries
+******* at place  3208
+******* at place  3209
+******* at place  3210
+******* at place  3211
+******* at place  3212
+******* at place  3213
+******* at place  3214
+******* at place  3215
+******* at place  3216
+******* at place  3217
+******* at place  3218
+******* at place  3219
+******* at place  3220
+******* at place  3221
+******* at place  3222
+******* at place  3223
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0555613036730470770822555613037
+reltries are 57990
+redoing smoothness check after 180 new reltries
+******* at place  3224
+******* at place  3225
+******* at place  3226
+******* at place  3227
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0554581399346742307031115695376
+reltries are 58170
+redoing smoothness check after 190 new reltries
+******* at place  3228
+******* at place  3229
+******* at place  3230
+******* at place  3231
+******* at place  3232
+******* at place  3233
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0553803975325565455791638108293
+reltries are 58360
+redoing smoothness check after 190 new reltries
+******* at place  3234
+******* at place  3235
+******* at place  3236
+******* at place  3237
+******* at place  3238
+******* at place  3239
+******* at place  3240
+******* at place  3241
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0553373185311699402220324508967
+reltries are 58550
+redoing smoothness check after 190 new reltries
+******* at place  3242
+******* at place  3243
+******* at place  3244
+******* at place  3245
+******* at place  3246
+******* at place  3247
+******* at place  3248
+******* at place  3249
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0552945182158665304732720463058
+reltries are 58740
+redoing smoothness check after 190 new reltries
+******* at place  3250
+******* at place  3251
+******* at place  3252
+******* at place  3253
+******* at place  3254
+******* at place  3255
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0552180553198710334294926183608
+reltries are 58930
+redoing smoothness check after 190 new reltries
+******* at place  3256
+******* at place  3257
+******* at place  3258
+******* at place  3259
+******* at place  3260
+******* at place  3261
+******* at place  3262
+******* at place  3263
+******* at place  3264
+******* at place  3265
+******* at place  3266
+******* at place  3267
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0552435723951285520974289580514
+reltries are 59120
+redoing smoothness check after 190 new reltries
+******* at place  3268
+******* at place  3269
+******* at place  3270
+******* at place  3271
+******* at place  3272
+******* at place  3273
+******* at place  3274
+******* at place  3275
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0552014837295565671893441240937
+reltries are 59310
+redoing smoothness check after 190 new reltries
+******* at place  3276
+******* at place  3277
+******* at place  3278
+******* at place  3279
+******* at place  3280
+******* at place  3281
+******* at place  3282
+******* at place  3283
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0551596638655462184873949579832
+reltries are 59500
+redoing smoothness check after 190 new reltries
+******* at place  3284
+******* at place  3285
+******* at place  3286
+******* at place  3287
+******* at place  3288
+******* at place  3289
+******* at place  3290
+******* at place  3291
+******* at place  3292
+******* at place  3293
+******* at place  3294
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0551683699112079075221980231194
+reltries are 59690
+redoing smoothness check after 190 new reltries
+******* at place  3295
+******* at place  3296
+******* at place  3297
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0550434201736806947227788911156
+reltries are 59880
+redoing smoothness check after 190 new reltries
+******* at place  3298
+******* at place  3299
+******* at place  3300
+******* at place  3301
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0549359081072082570334609622107
+reltries are 60070
+redoing smoothness check after 190 new reltries
+******* at place  3302
+******* at place  3303
+******* at place  3304
+******* at place  3305
+******* at place  3306
+******* at place  3307
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0548622635247261865250580816462
+reltries are 60260
+redoing smoothness check after 190 new reltries
+******* at place  3308
+******* at place  3309
+******* at place  3310
+******* at place  3311
+******* at place  3312
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0547725392886683209263854425145
+reltries are 60450
+redoing smoothness check after 190 new reltries
+******* at place  3313
+******* at place  3314
+******* at place  3315
+******* at place  3316
+******* at place  3317
+******* at place  3318
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546998680738786279683377308707
+reltries are 60640
+redoing smoothness check after 190 new reltries
+******* at place  3319
+******* at place  3320
+******* at place  3321
+******* at place  3322
+******* at place  3323
+******* at place  3324
+******* at place  3325
+******* at place  3326
+******* at place  3327
+******* at place  3328
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546934078579648199901364458327
+reltries are 60830
+redoing smoothness check after 190 new reltries
+******* at place  3329
+******* at place  3330
+******* at place  3331
+******* at place  3332
+******* at place  3333
+******* at place  3334
+******* at place  3335
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546378236643723369387086201246
+reltries are 61020
+redoing smoothness check after 190 new reltries
+******* at place  3336
+******* at place  3337
+******* at place  3338
+******* at place  3339
+******* at place  3340
+******* at place  3341
+******* at place  3342
+******* at place  3343
+******* at place  3344
+******* at place  3345
+******* at place  3346
+******* at place  3347
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546642705440287534716549583402
+reltries are 61210
+redoing smoothness check after 190 new reltries
+******* at place  3348
+******* at place  3349
+******* at place  3350
+******* at place  3351
+******* at place  3352
+******* at place  3353
+******* at place  3354
+******* at place  3355
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546254071661237785016286644951
+reltries are 61400
+redoing smoothness check after 190 new reltries
+******* at place  3356
+******* at place  3357
+******* at place  3358
+******* at place  3359
+******* at place  3360
+******* at place  3361
+******* at place  3362
+******* at place  3363
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0545867835687611625263841532716
+reltries are 61590
+redoing smoothness check after 190 new reltries
+******* at place  3364
+******* at place  3365
+******* at place  3366
+******* at place  3367
+******* at place  3368
+******* at place  3369
+******* at place  3370
+******* at place  3371
+******* at place  3372
+******* at place  3373
+******* at place  3374
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0545969569439948203302039494982
+reltries are 61780
+redoing smoothness check after 190 new reltries
+******* at place  3375
+******* at place  3376
+******* at place  3377
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0544779732128449249636921090851
+reltries are 61970
+redoing smoothness check after 190 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0543114543114543114543114543115
+reltries are 62160
+redoing smoothness check after 190 new reltries
+******* at place  3378
+******* at place  3379
+******* at place  3380
+******* at place  3381
+******* at place  3382
+******* at place  3383
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0542421812349639133921411387330
+reltries are 62350
+redoing smoothness check after 190 new reltries
+******* at place  3384
+******* at place  3385
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0541093700031979533098816757275
+reltries are 62540
+redoing smoothness check after 190 new reltries
+******* at place  3386
+******* at place  3387
+******* at place  3388
+******* at place  3389
+******* at place  3390
+******* at place  3391
+******* at place  3392
+******* at place  3393
+******* at place  3394
+******* at place  3395
+******* at place  3396
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0541208353260003188267176789415
+reltries are 62730
+redoing smoothness check after 190 new reltries
+******* at place  3397
+******* at place  3398
+******* at place  3399
+******* at place  3400
+******* at place  3401
+******* at place  3402
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0540527654164017800381436745073
+reltries are 62920
+redoing smoothness check after 190 new reltries
+******* at place  3403
+******* at place  3404
+******* at place  3405
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0539375693234035810489621296150
+reltries are 63110
+redoing smoothness check after 190 new reltries
+******* at place  3406
+******* at place  3407
+******* at place  3408
+******* at place  3409
+******* at place  3410
+******* at place  3411
+******* at place  3412
+******* at place  3413
+******* at place  3414
+******* at place  3415
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0539336492890995260663507109005
+reltries are 63300
+redoing smoothness check after 190 new reltries
+******* at place  3416
+******* at place  3417
+******* at place  3418
+******* at place  3419
+******* at place  3420
+******* at place  3421
+******* at place  3422
+******* at place  3423
+******* at place  3424
+******* at place  3425
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0539297527169633013072924870058
+reltries are 63490
+redoing smoothness check after 190 new reltries
+******* at place  3426
+******* at place  3427
+******* at place  3428
+******* at place  3429
+******* at place  3430
+******* at place  3431
+******* at place  3432
+******* at place  3433
+******* at place  3434
+******* at place  3435
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0539415829145728643216080402010
+reltries are 63680
+redoing smoothness check after 190 new reltries
+******* at place  3436
+******* at place  3437
+******* at place  3438
+******* at place  3439
+******* at place  3440
+******* at place  3441
+******* at place  3442
+******* at place  3443
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0538907155158916549240645060278
+reltries are 63870
+redoing smoothness check after 190 new reltries
+******* at place  3444
+******* at place  3445
+******* at place  3446
+******* at place  3447
+******* at place  3448
+******* at place  3449
+******* at place  3450
+******* at place  3451
+******* at place  3452
+******* at place  3453
+******* at place  3454
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0539025913206369029035279425539
+reltries are 64060
+redoing smoothness check after 190 new reltries
+******* at place  3455
+******* at place  3456
+******* at place  3457
+******* at place  3458
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0538054474708171206225680933852
+reltries are 64250
+redoing smoothness check after 190 new reltries
+******* at place  3459
+******* at place  3460
+******* at place  3461
+******* at place  3462
+******* at place  3463
+******* at place  3464
+******* at place  3465
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0537554314090626939788950962135
+reltries are 64440
+redoing smoothness check after 190 new reltries
+******* at place  3466
+******* at place  3467
+******* at place  3468
+******* at place  3469
+******* at place  3470
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0536747640414668110784465418536
+reltries are 64630
+redoing smoothness check after 190 new reltries
+******* at place  3471
+******* at place  3472
+******* at place  3473
+******* at place  3474
+******* at place  3475
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0535945695772909595803764270287
+reltries are 64820
+redoing smoothness check after 190 new reltries
+******* at place  3476
+******* at place  3477
+******* at place  3478
+******* at place  3479
+******* at place  3480
+******* at place  3481
+******* at place  1
+******* at place  2
+******* at place  3
+******* at place  4
+******* at place  5
+******* at place  6
+******* at place  7
+******* at place  8
+******* at place  9
+******* at place  10
+******* at place  11
+******* at place  12
+******* at place  13
+******* at place  14
+******* at place  15
+******* at place  16
+******* at place  17
+******* at place  18
+******* at place  19
+******* at place  20
+******* at place  21
+******* at place  22
+******* at place  23
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0538840178434087063528687894170
+reltries are 65010
+redoing smoothness check after 190 new reltries
+******* at place  24
+******* at place  25
+******* at place  26
+******* at place  27
+******* at place  28
+******* at place  29
+******* at place  30
+******* at place  31
+******* at place  32
+******* at place  33
+******* at place  34
+******* at place  35
+******* at place  36
+******* at place  37
+******* at place  38
+******* at place  39
+******* at place  40
+******* at place  41
+******* at place  42
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0540337423312883435582822085890
+reltries are 65200
+redoing smoothness check after 190 new reltries
+******* at place  43
+******* at place  44
+******* at place  45
+******* at place  46
+******* at place  47
+******* at place  48
+******* at place  49
+******* at place  50
+******* at place  51
+******* at place  52
+******* at place  53
+******* at place  54
+******* at place  55
+******* at place  56
+******* at place  57
+******* at place  58
+******* at place  59
+******* at place  60
+******* at place  61
+******* at place  62
+******* at place  63
+******* at place  64
+******* at place  65
+******* at place  66
+******* at place  67
+******* at place  68
+******* at place  69
+******* at place  70
+******* at place  71
+******* at place  72
+******* at place  73
+******* at place  74
+******* at place  75
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0543661110261507875821991130142
+reltries are 65390
+redoing smoothness check after 190 new reltries
+******* at place  76
+******* at place  77
+******* at place  78
+******* at place  79
+******* at place  80
+******* at place  81
+******* at place  82
+******* at place  83
+******* at place  84
+******* at place  85
+******* at place  86
+******* at place  87
+******* at place  88
+******* at place  89
+******* at place  90
+******* at place  91
+******* at place  92
+******* at place  93
+******* at place  94
+******* at place  95
+******* at place  96
+******* at place  97
+******* at place  98
+******* at place  99
+******* at place  100
+******* at place  101
+******* at place  102
+******* at place  103
+******* at place  104
+******* at place  105
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0546660567246111619396157365050
+reltries are 65580
+redoing smoothness check after 190 new reltries
+******* at place  106
+******* at place  107
+******* at place  108
+******* at place  109
+******* at place  110
+******* at place  111
+******* at place  112
+******* at place  113
+******* at place  114
+******* at place  115
+******* at place  116
+******* at place  117
+******* at place  118
+******* at place  119
+******* at place  120
+******* at place  121
+******* at place  122
+******* at place  123
+******* at place  124
+******* at place  125
+******* at place  126
+******* at place  127
+******* at place  128
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0548578379200243272008514520298
+reltries are 65770
+redoing smoothness check after 190 new reltries
+******* at place  129
+******* at place  130
+******* at place  131
+******* at place  132
+******* at place  133
+******* at place  134
+******* at place  135
+******* at place  136
+******* at place  137
+******* at place  138
+******* at place  139
+******* at place  140
+******* at place  141
+******* at place  142
+******* at place  143
+******* at place  144
+******* at place  145
+******* at place  146
+******* at place  147
+******* at place  148
+******* at place  149
+******* at place  150
+******* at place  151
+******* at place  152
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0550636749545178896300788356580
+reltries are 65960
+redoing smoothness check after 190 new reltries
+******* at place  153
+******* at place  154
+******* at place  155
+******* at place  156
+******* at place  157
+******* at place  158
+******* at place  159
+******* at place  160
+******* at place  161
+******* at place  162
+******* at place  163
+******* at place  164
+******* at place  165
+******* at place  166
+******* at place  167
+******* at place  168
+******* at place  169
+******* at place  170
+******* at place  171
+******* at place  172
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0552078609221466364323507180650
+reltries are 66150
+redoing smoothness check after 190 new reltries
+******* at place  173
+******* at place  174
+******* at place  175
+******* at place  176
+******* at place  177
+******* at place  178
+******* at place  179
+******* at place  180
+******* at place  181
+******* at place  182
+******* at place  183
+******* at place  184
+******* at place  185
+******* at place  186
+******* at place  187
+******* at place  188
+******* at place  189
+******* at place  190
+******* at place  191
+******* at place  192
+******* at place  193
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0553662948447392221887247512813
+reltries are 66340
+redoing smoothness check after 190 new reltries
+******* at place  194
+******* at place  195
+******* at place  196
+******* at place  197
+******* at place  198
+******* at place  199
+******* at place  200
+******* at place  201
+******* at place  202
+******* at place  203
+******* at place  204
+******* at place  205
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0553885465203667518412746129566
+reltries are 66530
+redoing smoothness check after 190 new reltries
+******* at place  206
+******* at place  207
+******* at place  208
+******* at place  209
+******* at place  210
+******* at place  211
+******* at place  212
+******* at place  213
+******* at place  214
+******* at place  215
+******* at place  216
+******* at place  217
+******* at place  218
+******* at place  219
+******* at place  220
+******* at place  221
+******* at place  222
+******* at place  223
+******* at place  224
+******* at place  225
+******* at place  226
+******* at place  227
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0555605515587529976019184652278
+reltries are 66720
+redoing smoothness check after 180 new reltries
+******* at place  228
+******* at place  229
+******* at place  230
+******* at place  231
+******* at place  232
+******* at place  233
+******* at place  234
+******* at place  235
+******* at place  236
+******* at place  237
+******* at place  238
+******* at place  239
+******* at place  240
+******* at place  241
+******* at place  242
+******* at place  243
+******* at place  244
+******* at place  245
+******* at place  246
+******* at place  247
+******* at place  248
+******* at place  249
+******* at place  250
+******* at place  251
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0557698056801195814648729446936
+reltries are 66900
+redoing smoothness check after 180 new reltries
+******* at place  252
+******* at place  253
+******* at place  254
+******* at place  255
+******* at place  256
+******* at place  257
+******* at place  258
+******* at place  259
+******* at place  260
+******* at place  261
+******* at place  262
+******* at place  263
+******* at place  264
+******* at place  265
+******* at place  266
+******* at place  267
+******* at place  268
+******* at place  269
+******* at place  270
+******* at place  271
+******* at place  272
+******* at place  273
+******* at place  274
+******* at place  275
+******* at place  276
+******* at place  277
+******* at place  278
+******* at place  279
+******* at place  280
+******* at place  281
+******* at place  282
+******* at place  283
+******* at place  284
+******* at place  285
+******* at place  286
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0561419200954084675014907573047
+reltries are 67080
+redoing smoothness check after 180 new reltries
+******* at place  287
+******* at place  288
+******* at place  289
+******* at place  290
+******* at place  291
+******* at place  292
+******* at place  293
+******* at place  294
+******* at place  295
+******* at place  296
+******* at place  297
+******* at place  298
+******* at place  299
+******* at place  300
+******* at place  301
+******* at place  302
+******* at place  303
+******* at place  304
+******* at place  305
+******* at place  306
+******* at place  307
+******* at place  308
+******* at place  309
+******* at place  310
+******* at place  311
+******* at place  312
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0563782337198929527207850133809
+reltries are 67260
+redoing smoothness check after 180 new reltries
+******* at place  313
+******* at place  314
+******* at place  315
+******* at place  316
+******* at place  317
+******* at place  318
+******* at place  319
+******* at place  320
+******* at place  321
+******* at place  322
+******* at place  323
+******* at place  324
+******* at place  325
+******* at place  326
+******* at place  327
+******* at place  328
+******* at place  329
+******* at place  330
+******* at place  331
+******* at place  332
+******* at place  333
+******* at place  334
+******* at place  335
+******* at place  336
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0565836298932384341637010676156
+reltries are 67440
+redoing smoothness check after 180 new reltries
+******* at place  337
+******* at place  338
+******* at place  339
+******* at place  340
+******* at place  341
+******* at place  342
+******* at place  343
+******* at place  344
+******* at place  345
+******* at place  346
+******* at place  347
+******* at place  348
+******* at place  349
+******* at place  350
+******* at place  351
+******* at place  352
+******* at place  353
+******* at place  354
+******* at place  355
+******* at place  356
+******* at place  357
+******* at place  358
+******* at place  359
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0567731440402247855664004732328
+reltries are 67620
+redoing smoothness check after 180 new reltries
+******* at place  360
+******* at place  361
+******* at place  362
+******* at place  363
+******* at place  364
+******* at place  365
+******* at place  366
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0567256637168141592920353982301
+reltries are 67800
+redoing smoothness check after 180 new reltries
+******* at place  367
+******* at place  368
+******* at place  369
+******* at place  370
+******* at place  371
+******* at place  372
+******* at place  373
+******* at place  374
+******* at place  375
+******* at place  376
+******* at place  377
+******* at place  378
+******* at place  379
+******* at place  380
+******* at place  381
+******* at place  382
+******* at place  383
+******* at place  384
+******* at place  385
+******* at place  386
+******* at place  387
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0568843777581641659311562224184
+reltries are 67980
+redoing smoothness check after 180 new reltries
+******* at place  388
+******* at place  389
+******* at place  390
+******* at place  391
+******* at place  392
+******* at place  393
+******* at place  394
+******* at place  395
+******* at place  396
+******* at place  397
+******* at place  398
+******* at place  399
+******* at place  400
+******* at place  401
+******* at place  402
+******* at place  403
+******* at place  404
+******* at place  405
+******* at place  406
+******* at place  407
+******* at place  408
+******* at place  409
+******* at place  410
+******* at place  411
+******* at place  412
+******* at place  413
+******* at place  414
+******* at place  415
+******* at place  416
+******* at place  417
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0571889671361502347417840375587
+reltries are 68160
+redoing smoothness check after 180 new reltries
+******* at place  418
+******* at place  419
+******* at place  420
+******* at place  421
+******* at place  422
+******* at place  423
+******* at place  424
+******* at place  425
+******* at place  426
+******* at place  427
+******* at place  428
+******* at place  429
+******* at place  430
+******* at place  431
+******* at place  432
+******* at place  433
+******* at place  434
+******* at place  435
+******* at place  436
+******* at place  437
+******* at place  438
+******* at place  439
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0573456248170910155106818846942
+reltries are 68340
+redoing smoothness check after 180 new reltries
+******* at place  440
+******* at place  441
+******* at place  442
+******* at place  443
+******* at place  444
+******* at place  445
+******* at place  446
+******* at place  447
+******* at place  448
+******* at place  449
+******* at place  450
+******* at place  451
+******* at place  452
+******* at place  453
+******* at place  454
+******* at place  455
+******* at place  456
+******* at place  457
+******* at place  458
+******* at place  459
+******* at place  460
+******* at place  461
+******* at place  462
+******* at place  463
+******* at place  464
+******* at place  465
+******* at place  466
+******* at place  467
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0576036193812025685931115002919
+reltries are 68520
+redoing smoothness check after 180 new reltries
+******* at place  468
+******* at place  469
+******* at place  470
+******* at place  471
+******* at place  472
+******* at place  473
+******* at place  474
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0575545851528384279475982532751
+reltries are 68700
+redoing smoothness check after 180 new reltries
+******* at place  475
+******* at place  476
+******* at place  477
+******* at place  478
+******* at place  479
+******* at place  480
+******* at place  481
+******* at place  482
+******* at place  483
+******* at place  484
+******* at place  485
+******* at place  486
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0575783972125435540069686411150
+reltries are 68880
+redoing smoothness check after 180 new reltries
+******* at place  487
+******* at place  488
+******* at place  489
+******* at place  490
+******* at place  491
+******* at place  492
+******* at place  493
+******* at place  494
+******* at place  495
+******* at place  496
+******* at place  497
+******* at place  498
+******* at place  499
+******* at place  500
+******* at place  501
+******* at place  502
+******* at place  503
+******* at place  504
+******* at place  505
+******* at place  506
+******* at place  507
+******* at place  508
+******* at place  509
+******* at place  510
+******* at place  511
+******* at place  512
+******* at place  513
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0578192875760208514335360556038
+reltries are 69060
+redoing smoothness check after 180 new reltries
+******* at place  514
+******* at place  515
+******* at place  516
+******* at place  517
+******* at place  518
+******* at place  519
+******* at place  520
+******* at place  521
+******* at place  522
+******* at place  523
+******* at place  524
+******* at place  525
+******* at place  526
+******* at place  527
+******* at place  528
+******* at place  529
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0579000577700751010976314269208
+reltries are 69240
+redoing smoothness check after 180 new reltries
+******* at place  530
+******* at place  531
+******* at place  532
+******* at place  533
+******* at place  534
+******* at place  535
+******* at place  536
+******* at place  537
+******* at place  538
+******* at place  539
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0579083837510803802938634399309
+reltries are 69420
+redoing smoothness check after 180 new reltries
+******* at place  540
+******* at place  541
+******* at place  542
+******* at place  543
+******* at place  544
+******* at place  545
+******* at place  546
+******* at place  547
+******* at place  548
+******* at place  549
+******* at place  550
+******* at place  551
+******* at place  552
+******* at place  553
+******* at place  554
+******* at place  555
+******* at place  556
+******* at place  557
+******* at place  558
+******* at place  559
+******* at place  560
+******* at place  561
+******* at place  562
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0580747126436781609195402298851
+reltries are 69600
+redoing smoothness check after 180 new reltries
+******* at place  563
+******* at place  564
+******* at place  565
+******* at place  566
+******* at place  567
+******* at place  568
+******* at place  569
+******* at place  570
+******* at place  571
+******* at place  572
+******* at place  573
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0580825451418744625967325881341
+reltries are 69780
+redoing smoothness check after 180 new reltries
+******* at place  574
+******* at place  575
+******* at place  576
+******* at place  577
+******* at place  578
+******* at place  579
+******* at place  580
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0580331618067467124070897655803
+reltries are 69960
+redoing smoothness check after 180 new reltries
+******* at place  581
+******* at place  582
+******* at place  583
+******* at place  584
+******* at place  585
+******* at place  586
+******* at place  587
+******* at place  588
+******* at place  589
+******* at place  590
+******* at place  591
+******* at place  592
+******* at place  593
+******* at place  594
+******* at place  595
+******* at place  596
+******* at place  597
+******* at place  598
+******* at place  599
+******* at place  600
+******* at place  601
+******* at place  602
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0581978899344168805246649558027
+reltries are 70140
+redoing smoothness check after 180 new reltries
+******* at place  603
+******* at place  604
+******* at place  605
+******* at place  606
+******* at place  607
+******* at place  608
+******* at place  609
+******* at place  610
+******* at place  611
+******* at place  612
+******* at place  613
+******* at place  614
+******* at place  615
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582337883959044368600682593857
+reltries are 70320
+redoing smoothness check after 180 new reltries
+******* at place  616
+******* at place  617
+******* at place  618
+******* at place  619
+******* at place  620
+******* at place  621
+******* at place  622
+******* at place  623
+******* at place  624
+******* at place  625
+******* at place  626
+******* at place  627
+******* at place  628
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582695035460992907801418439717
+reltries are 70500
+redoing smoothness check after 180 new reltries
+******* at place  629
+******* at place  630
+******* at place  631
+******* at place  632
+******* at place  633
+******* at place  634
+******* at place  635
+******* at place  636
+******* at place  637
+******* at place  638
+******* at place  639
+******* at place  640
+******* at place  641
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583191850594227504244482173175
+reltries are 70680
+redoing smoothness check after 180 new reltries
+******* at place  642
+******* at place  643
+******* at place  644
+******* at place  645
+******* at place  646
+******* at place  647
+******* at place  648
+******* at place  649
+******* at place  650
+******* at place  651
+******* at place  652
+******* at place  653
+******* at place  654
+******* at place  655
+******* at place  656
+******* at place  657
+******* at place  658
+******* at place  659
+******* at place  660
+******* at place  661
+******* at place  662
+******* at place  663
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584674005080440304826418289585
+reltries are 70860
+redoing smoothness check after 180 new reltries
+******* at place  664
+******* at place  665
+******* at place  666
+******* at place  667
+******* at place  668
+******* at place  669
+******* at place  670
+******* at place  671
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584318693693693693693693693694
+reltries are 71040
+redoing smoothness check after 180 new reltries
+******* at place  672
+******* at place  673
+******* at place  674
+******* at place  675
+******* at place  676
+******* at place  677
+******* at place  678
+******* at place  679
+******* at place  680
+******* at place  681
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584245998315080033698399326032
+reltries are 71220
+redoing smoothness check after 180 new reltries
+******* at place  682
+******* at place  683
+******* at place  684
+******* at place  685
+******* at place  686
+******* at place  687
+******* at place  688
+******* at place  689
+******* at place  690
+******* at place  691
+******* at place  692
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584453781512605042016806722689
+reltries are 71400
+redoing smoothness check after 180 new reltries
+******* at place  693
+******* at place  694
+******* at place  695
+******* at place  696
+******* at place  697
+******* at place  698
+******* at place  699
+******* at place  700
+******* at place  701
+******* at place  702
+******* at place  703
+******* at place  704
+******* at place  705
+******* at place  706
+******* at place  707
+******* at place  708
+******* at place  709
+******* at place  710
+******* at place  711
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585498742665549036043587594300
+reltries are 71580
+redoing smoothness check after 180 new reltries
+******* at place  712
+******* at place  713
+******* at place  714
+******* at place  715
+******* at place  716
+******* at place  717
+******* at place  718
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585005574136008918617614269788
+reltries are 71760
+redoing smoothness check after 180 new reltries
+******* at place  719
+******* at place  720
+******* at place  721
+******* at place  722
+******* at place  723
+******* at place  724
+******* at place  725
+******* at place  726
+******* at place  727
+******* at place  728
+******* at place  729
+******* at place  730
+******* at place  731
+******* at place  732
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585487906588824020016680567139
+reltries are 71940
+redoing smoothness check after 180 new reltries
+******* at place  733
+******* at place  734
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584303937881308929561841375485
+reltries are 72120
+redoing smoothness check after 180 new reltries
+******* at place  735
+******* at place  736
+******* at place  737
+******* at place  738
+******* at place  739
+******* at place  740
+******* at place  741
+******* at place  742
+******* at place  743
+******* at place  744
+******* at place  745
+******* at place  746
+******* at place  747
+******* at place  748
+******* at place  749
+******* at place  750
+******* at place  751
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585200553250345781466113416321
+reltries are 72300
+redoing smoothness check after 180 new reltries
+******* at place  752
+******* at place  753
+******* at place  754
+******* at place  755
+******* at place  756
+******* at place  757
+******* at place  758
+******* at place  759
+******* at place  760
+******* at place  761
+******* at place  762
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585264900662251655629139072848
+reltries are 72480
+redoing smoothness check after 180 new reltries
+******* at place  763
+******* at place  764
+******* at place  765
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584365538122763556289567850261
+reltries are 72660
+redoing smoothness check after 180 new reltries
+******* at place  766
+******* at place  767
+******* at place  768
+******* at place  769
+******* at place  770
+******* at place  771
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583607907742998352553542009884
+reltries are 72840
+redoing smoothness check after 180 new reltries
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582169268693508627773212818406
+reltries are 73020
+redoing smoothness check after 180 new reltries
+******* at place  772
+******* at place  773
+******* at place  774
+******* at place  775
+******* at place  776
+******* at place  777
+******* at place  778
+******* at place  779
+******* at place  780
+******* at place  781
+******* at place  782
+******* at place  783
+******* at place  784
+******* at place  785
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0582650273224043715846994535519
+reltries are 73200
+redoing smoothness check after 180 new reltries
+******* at place  786
+******* at place  787
+******* at place  788
+******* at place  789
+******* at place  790
+******* at place  791
+******* at place  792
+******* at place  793
+******* at place  794
+******* at place  795
+******* at place  796
+******* at place  797
+******* at place  798
+******* at place  799
+******* at place  800
+******* at place  801
+******* at place  802
+******* at place  803
+******* at place  804
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0583810302534750613246116107931
+reltries are 73380
+redoing smoothness check after 180 new reltries
+******* at place  805
+******* at place  806
+******* at place  807
+******* at place  808
+******* at place  809
+******* at place  810
+******* at place  811
+******* at place  812
+******* at place  813
+******* at place  814
+******* at place  815
+******* at place  816
+******* at place  817
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0584148994018488308863512778684
+reltries are 73560
+redoing smoothness check after 180 new reltries
+******* at place  818
+******* at place  819
+******* at place  820
+******* at place  821
+******* at place  822
+******* at place  823
+******* at place  824
+******* at place  825
+******* at place  826
+******* at place  827
+******* at place  828
+******* at place  829
+******* at place  830
+******* at place  831
+******* at place  832
+******* at place  833
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585028478437754271765663140765
+reltries are 73740
+redoing smoothness check after 180 new reltries
+******* at place  834
+******* at place  835
+******* at place  836
+******* at place  837
+******* at place  838
+******* at place  839
+******* at place  840
+******* at place  841
+******* at place  842
+******* at place  843
+******* at place  844
+******* at place  845
+******* at place  846
+******* at place  847
+******* at place  848
+******* at place  849
+******* at place  850
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585768398268398268398268398269
+reltries are 73920
+redoing smoothness check after 180 new reltries
+******* at place  851
+******* at place  852
+******* at place  853
+******* at place  854
+******* at place  855
+******* at place  856
+******* at place  857
+******* at place  858
+******* at place  859
+******* at place  860
+******* at place  861
+******* at place  862
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585964912280701754385964912281
+reltries are 74100
+redoing smoothness check after 180 new reltries
+******* at place  863
+******* at place  864
+******* at place  865
+******* at place  866
+******* at place  867
+******* at place  868
+******* at place  869
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0585487345180398492191707054389
+reltries are 74280
+redoing smoothness check after 180 new reltries
+******* at place  870
+******* at place  871
+******* at place  872
+******* at place  873
+******* at place  874
+******* at place  875
+******* at place  876
+******* at place  877
+******* at place  878
+******* at place  879
+******* at place  880
+******* at place  881
+******* at place  882
+******* at place  883
+******* at place  884
+******* at place  885
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0586220789685737308622078968574
+reltries are 74460
+redoing smoothness check after 180 new reltries
+******* at place  886
+******* at place  887
+******* at place  888
+******* at place  889
+******* at place  890
+******* at place  891
+******* at place  892
+******* at place  893
+******* at place  894
+******* at place  895
+******* at place  896
+******* at place  897
+******* at place  898
+******* at place  899
+******* at place  900
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0586816720257234726688102893891
+reltries are 74640
+redoing smoothness check after 180 new reltries
+******* at place  901
+******* at place  902
+******* at place  903
+******* at place  904
+******* at place  905
+******* at place  906
+******* at place  907
+******* at place  908
+******* at place  909
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0586607858861267040898155573376
+reltries are 74820
+redoing smoothness check after 180 new reltries
+******* at place  910
+******* at place  911
+******* at place  912
+******* at place  913
+******* at place  914
+******* at place  915
+******* at place  916
+******* at place  917
+******* at place  918
+******* at place  919
+******* at place  920
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0586800000000000000000000000000
+reltries are 75000
+redoing smoothness check after 180 new reltries
+******* at place  921
+******* at place  922
+******* at place  923
+******* at place  924
+******* at place  925
+******* at place  926
+******* at place  927
+******* at place  928
+******* at place  929
+******* at place  930
+******* at place  931
+******* at place  932
+******* at place  933
+******* at place  934
+******* at place  935
+******* at place  936
+******* at place  937
+******* at place  938
+******* at place  939
+******* at place  940
+******* at place  941
+******* at place  942
+******* at place  943
+####### checking value of rels ...
+the rank is 3480
+rankrelratio is 0.842267847306591942131338341609
+redoing check of relations after 1 new relations
+******* at place  944
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.0588454376163873370577281191806
+reltries are 75180
+redoing smoothness check after 170 new reltries
+####### checking value of rels ...
+the determinant is 134097116106800
+total number of tried rels is 75194
+result proven by bounds
+NONIC62_N31_PROVEN_PRESENTATION_READY invariants=[ 2, 2, 10, 3352427902670, 0 ] fb_size=3481 relation_rows=4391 fb_bound=9 native_proven=true time=1104.580
+NONIC62_N31_PRESENTATION_COMPLETE N=31 fb_size=3481 relation_rows=4391 no_place_mapping_started=true time=1109.480

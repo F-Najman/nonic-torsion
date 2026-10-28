@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "sources": [
+    {
+      "source": 1,
+      "source_degree": 7,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        28
+      ]
+    },
+    {
+      "source": 2,
+      "source_degree": 7,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        28
+      ]
+    },
+    {
+      "source": 3,
+      "source_degree": 8,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        16,
+        16
+      ]
+    },
+    {
+      "source": 4,
+      "source_degree": 8,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        16,
+        16
+      ]
+    },
+    {
+      "source": 5,
+      "source_degree": 9,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        36
+      ]
+    },
+    {
+      "source": 6,
+      "source_degree": 9,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        36
+      ]
+    },
+    {
+      "source": 7,
+      "source_degree": 9,
+      "kernel_polynomials": 4,
+      "target_degrees": [
+        36
+      ]
+    }
+  ],
+  "independent_actual3_isogenies": 28,
+  "all65_level_transports_exact": true
+}

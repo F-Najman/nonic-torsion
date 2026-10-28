@@ -1,0 +1,15 @@
+Loading "vh_deg9.m"
+ENTRY idx=17 srcline=193 N=40 extra=
+FIELDPOLY t^9 - 6*t^8 + 14*t^7 - 17*t^6 + 12*t^5 - 4*t^4 - t^3 + 3*t^2 - 2*t + 1
+POINT_ORDER 40
+ORDER_CHECK N=40 exact=true
+FIELD_DISC 30626693 = [ <30626693, 1> ]
+SIGNATURE (1,4)
+GALOIS order=362880 transitive_id=9T34
+SUBFIELD_DEGREES [ 9 ]
+J_DEGREE 9
+J_INTEGRAL false
+CM false (j not integral)
+REDUCTION_GCD 40 from 41 places; first: [ <3, 4, 80>, <3, 5, 240>, <5, 3, 120>, <5, 6, 15720>, <7, 3, 360>, <7, 6, 117120>, <11, 9, 2357943000>, <13, 4, 28800> ]
+TORSION_SUBGROUP [ 40 ]
+DONE idx=17 time=0.400

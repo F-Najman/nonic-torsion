@@ -1,0 +1,7 @@
+Loading "work/degree9/parallel_expansion_20261026/N93_source_units/canonical_unit_data.m"
+Loading "work/degree9/parallel_expansion_20261026/N93_f9/records.m"
+NONIC93_HEC5_TARGET degree=18 norm_multiplicity=1 time=2.320
+NONIC93_HEC5_TARGET degree=18 norm_multiplicity=1 time=3.420
+NONIC93_HEC5_TARGET degree=18 norm_multiplicity=1 time=4.520
+NONIC93_ELLIPTIC_HECKE_JETS_SOURCE source_degree9=true target_closed_degrees=[ 18, 18, 18 ] norm_multiplicities=[ 1, 1, 1 ] all_unit_recovery_ranks260=true psi93_derivative_nonzero=true jet_precision5=true time=4.520
+NONIC93_ELLIPTIC_HECKE_JETS_STAGE2_COMPLETE

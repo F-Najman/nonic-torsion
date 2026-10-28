@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "prime": 5,
+  "target": "X1(2,18)",
+  "target_image_index": 12,
+  "single_supports": 11800,
+  "pair_supports": 11784,
+  "triple_supports": 2352,
+  "total_supports": 25936,
+  "normalized_source_image_degrees_checked": 15592,
+  "remaining": 2064
+}

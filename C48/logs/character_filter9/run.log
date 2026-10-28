@@ -1,0 +1,27 @@
+Loading "work/degree9/realizations/continuation/C48/portable_inputs.m"
+Loading "work/degree9/realizations/continuation/C48/character_filter9/functions.m"
+Loading "work/degree9/realizations/continuation/C48/parameter9/records.m"
+NONIC48_CHARACTER9_PROGRESS tested=1000 excluded=844 remaining=48 fallback=0 time=3.510
+NONIC48_CHARACTER9_PROGRESS tested=1500 excluded=1243 remaining=77 fallback=0 time=3.820
+NONIC48_CHARACTER9_PROGRESS tested=2000 excluded=1644 remaining=106 fallback=0 time=4.140
+NONIC48_CHARACTER9_PROGRESS tested=2500 excluded=2074 remaining=132 fallback=0 time=4.490
+NONIC48_CHARACTER9_PROGRESS tested=3000 excluded=2488 remaining=157 fallback=0 time=4.800
+NONIC48_CHARACTER9_PROGRESS tested=3500 excluded=2897 remaining=185 fallback=0 time=5.100
+NONIC48_CHARACTER9_PROGRESS tested=4000 excluded=3307 remaining=210 fallback=0 time=5.400
+NONIC48_CHARACTER9_PROGRESS tested=4500 excluded=3709 remaining=243 fallback=0 time=5.710
+NONIC48_CHARACTER9_PROGRESS tested=5000 excluded=4150 remaining=261 fallback=0 time=6.020
+NONIC48_CHARACTER9_PROGRESS tested=5500 excluded=4563 remaining=289 fallback=0 time=6.330
+NONIC48_CHARACTER9_PROGRESS tested=6000 excluded=4983 remaining=312 fallback=0 time=6.630
+NONIC48_CHARACTER9_PROGRESS tested=6500 excluded=5390 remaining=335 fallback=0 time=6.920
+NONIC48_CHARACTER9_PROGRESS tested=7500 excluded=6219 remaining=376 fallback=0 time=7.500
+NONIC48_CHARACTER9_PROGRESS tested=8000 excluded=6621 remaining=408 fallback=0 time=7.810
+NONIC48_CHARACTER9_PROGRESS tested=8500 excluded=7047 remaining=425 fallback=0 time=8.100
+NONIC48_CHARACTER9_PROGRESS tested=9000 excluded=7453 remaining=449 fallback=0 time=8.400
+NONIC48_CHARACTER9_PROGRESS tested=9500 excluded=7872 remaining=471 fallback=0 time=8.690
+NONIC48_CHARACTER9_PROGRESS tested=10000 excluded=8289 remaining=487 fallback=0 time=8.990
+NONIC48_CHARACTER9_PROGRESS tested=11000 excluded=9133 remaining=542 fallback=0 time=9.590
+NONIC48_CHARACTER9_PROGRESS tested=11500 excluded=9534 remaining=584 fallback=0 time=9.890
+NONIC48_CHARACTER9_PROGRESS tested=12000 excluded=9935 remaining=613 fallback=0 time=10.170
+NONIC48_CHARACTER9_PROGRESS tested=12500 excluded=10352 remaining=642 fallback=0 time=10.480
+NONIC48_CHARACTER9_PROGRESS tested=13000 excluded=10751 remaining=670 fallback=0 time=10.760
+NONIC48_CHARACTER9_DONE tested=13513 no_source=1644 excluded=11173 remaining=696 weighted_source_remaining=12560 fallback=0 complete=true time=11.130

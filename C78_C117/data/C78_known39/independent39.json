@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "global_exact_point_order": 39,
+  "full_global_torsion_order": 39,
+  "good_unramified_prime": 29,
+  "rational_residue_root": 10,
+  "F29_direct_pairs_enumerated": 841,
+  "F29_order": 39,
+  "F512_trace_count": 468,
+  "global_trace_orbits": 4,
+  "physical_multiplier_bindings": 12,
+  "all_global_automorphisms_checked": 3,
+  "all_Frobenius_keys_checked": true
+}

@@ -1,0 +1,74 @@
+{
+  "complete": true,
+  "level": 65,
+  "prime": 2,
+  "source_geometric_cusps": 96,
+  "source_global_signature": {
+    "1": 24,
+    "24": 1,
+    "4": 6,
+    "12": 2
+  },
+  "source_F2_signature": {
+    "1": 24,
+    "6": 4,
+    "4": 6,
+    "12": 2
+  },
+  "source_small_cusps_globally_intact": true,
+  "non_global_sextic_cusps": 4,
+  "all_project_to_dual_width65_with_norm6": true,
+  "quotient_genus": 9,
+  "quotient_geometric_cusps": 8,
+  "quotient_width_rows": [
+    {
+      "dual_width": 1,
+      "global_degrees": [
+        1,
+        1
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    },
+    {
+      "dual_width": 5,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "dual_width": 13,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        2
+      ]
+    },
+    {
+      "dual_width": 65,
+      "global_degrees": [
+        2
+      ],
+      "finite_degrees": [
+        1,
+        1
+      ]
+    }
+  ],
+  "finite_J_invariants": [
+    4,
+    16,
+    336
+  ],
+  "finite_alpha_cusp_image_order": 32,
+  "mu_A3_boundary_and_base_corrections_independently_recomputed": true,
+  "mu_A3_kernel_order": 8,
+  "both_split_cusp_norm6_classes_excluded": true,
+  "all_non_global_allbad_reductions_excluded": true
+}

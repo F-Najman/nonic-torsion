@@ -1,0 +1,9 @@
+TORSION n=49 p=2 : k with Z/49 over F_p^k = [ 9 ] ; k with Z/2xZ/49 = []
+TORSION n=61 p=2 : k with Z/61 over F_p^k = [ 7, 8, 9 ] ; k with Z/2xZ/61 = []
+TORSION n=67 p=2 : k with Z/67 over F_p^k = [ 7, 8, 9 ] ; k with Z/2xZ/67 = []
+TORSION n=71 p=2 : k with Z/71 over F_p^k = [ 7, 8 ] ; k with Z/2xZ/71 = []
+TORSION n=73 p=2 : k with Z/73 over F_p^k = [ 6, 7 ] ; k with Z/2xZ/73 = []
+TORSION n=79 p=2 : k with Z/79 over F_p^k = [ 9 ] ; k with Z/2xZ/79 = []
+TORSION n=83 p=2 : k with Z/83 over F_p^k = [ 9 ] ; k with Z/2xZ/83 = []
+TORSION n=89 p=2 : k with Z/89 over F_p^k = [ 9 ] ; k with Z/2xZ/89 = []
+NONIC_PRIME_FINITE_FIELD_ENUMERATION_COMPLETE

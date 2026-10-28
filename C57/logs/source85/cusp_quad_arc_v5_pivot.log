@@ -1,0 +1,9 @@
+Loading "work/degree9/cyclic/continuation_20261026/C57_source85/canonical_unit_data.m"
+NONIC57_SOURCE85_CANONICAL_UNIT_STAGE1_DATA_READY
+NONIC57_QUADRATIC_CUSP_ARC_SOLVE_START precision=800 time=0.090
+NONIC57_CUSP_ARC_VALUATION_PIVOT k=20 total=0 time=1.850
+NONIC57_CUSP_ARC_VALUATION_PIVOT k=40 total=0 time=3.170
+NONIC57_CUSP_ARC_VALUATION_PIVOT k=60 total=0 time=3.810
+NONIC57_CUSP_ARC_VALUATION_PIVOT k=80 total=49 time=4.000
+NONIC57_CUSP_ARC_VALUATION_PIVOT k=84 total=95 time=4.010
+NONIC57_SOURCE85_QUADRATIC_CUSP_ARC_COMPLETE normalized_pivot=1 all96relations=true canonical_tangent_nonzero=true jet_precision20=true time=4.120

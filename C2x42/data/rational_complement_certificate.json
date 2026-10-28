@@ -1,0 +1,182 @@
+{
+  "complete": true,
+  "source_cusps_below_degree6": [
+    1,
+    2,
+    3
+  ],
+  "only_nonrational_option_single_split_cubic": true,
+  "split_cubic_image_coset": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "split_cubic_image_order": 2,
+  "nonCM_cases": [
+    {
+      "descriptor": [
+        1,
+        4,
+        5
+      ],
+      "complement_degree": 5,
+      "normalized_image_class": [
+        1,
+        2,
+        1,
+        14,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        1,
+        6,
+        39
+      ],
+      "complement_degree": 3,
+      "normalized_image_class": [
+        1,
+        4,
+        5,
+        28,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        2,
+        4,
+        3,
+        4,
+        55
+      ],
+      "complement_degree": 1,
+      "normalized_image_class": [
+        0,
+        2,
+        4,
+        44,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        2,
+        4,
+        3,
+        4,
+        65
+      ],
+      "complement_degree": 1,
+      "normalized_image_class": [
+        0,
+        2,
+        4,
+        44,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        2,
+        4,
+        3,
+        5,
+        260
+      ],
+      "complement_degree": 0,
+      "normalized_image_class": [
+        0,
+        3,
+        0,
+        18,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        2,
+        4,
+        3,
+        5,
+        461
+      ],
+      "complement_degree": 0,
+      "normalized_image_class": [
+        0,
+        3,
+        0,
+        18,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "descriptor": [
+        2,
+        4,
+        3,
+        5,
+        589
+      ],
+      "complement_degree": 0,
+      "normalized_image_class": [
+        0,
+        3,
+        0,
+        18,
+        0
+      ],
+      "coset": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "CM_cases": [
+    1,
+    2,
+    6,
+    8
+  ],
+  "all_11_complements_globally_rational": true
+}

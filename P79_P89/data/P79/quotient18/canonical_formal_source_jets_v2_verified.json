@@ -1,0 +1,112 @@
+{
+  "status": "PASS",
+  "representatives": 4,
+  "all_quadric_jet_equations_verified": 300,
+  "precision": 5,
+  "records": [
+    {
+      "source_representative": 1,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 18,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "Jacobian_rank": 16,
+      "jet_precision": 5
+    },
+    {
+      "source_representative": 2,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 18,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "Jacobian_rank": 16,
+      "jet_precision": 5
+    },
+    {
+      "source_representative": 4,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 18,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "Jacobian_rank": 16,
+      "jet_precision": 5
+    },
+    {
+      "source_representative": 6,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 18,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "Jacobian_rank": 16,
+      "jet_precision": 5
+    }
+  ],
+  "canonical_data_sha256": "75ca6dd5356552d47e0e5530e13fec93bed428261f8bdf270058b14c95a4f415",
+  "source_places_sha256": "eee44ffc90f78e5f695a4987d3af87fe522cb0b1f8d498132095e21e65324e0a",
+  "jet_data_sha256": "3744f36f010c5f7d88752472a6e286d454a4b630cb5da2369c07c7b3bbda59c2",
+  "elapsed_seconds": 0.15236106608062983
+}

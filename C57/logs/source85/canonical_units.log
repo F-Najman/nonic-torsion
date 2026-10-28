@@ -1,0 +1,19 @@
+NONIC57_SOURCE85_CANONICAL_UNIT_NEWFORMS dimensions=[ 1, 1, 1, 1, 2, 4, 1, 6, 6, 6, 8, 12, 24 ] time=0.180
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=1 time=0.340
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=2 time=0.490
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=4 time=0.650
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=5 time=0.660
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=2 accumulated=7 time=0.890
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=4 accumulated=11 time=1.070
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=23 time=1.290
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=29 time=1.530
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=35 time=1.570
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=41 time=1.720
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=8 accumulated=49 time=1.880
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=12 accumulated=61 time=1.910
+NONIC57_SOURCE85_CANONICAL_UNIT_EIGENFORM dimension=24 accumulated=85 time=1.970
+NONIC57_SOURCE85_CANONICAL_UNIT_SATURATED_BASIS rank85=true precision1100=true Sturm_weight2=240 diamond5order18=true time=2.180
+NONIC57_SOURCE85_TATE_UNIT_SERIES valuation_x=-1 valuation_y=-1 absolute_precision_x=1492 absolute_precision_y=1491 time=2.200
+NONIC57_SOURCE85_CANONICAL_UNIT_RELATIONS x=49 y=47 exact_global_order_lower_bound=1098 section_degree_bounds_pending_pole_audit=true time=2.370
+NONIC57_SOURCE85_CANONICAL_UNIT_FINITE_RANK rank=84 expected84 time=2.400
+NONIC57_SOURCE85_CANONICAL_UNIT_STAGE1_COMPLETE generic_rank84=true no_function_field_normalization=true time=2.400

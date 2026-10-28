@@ -1,0 +1,35 @@
+Independent final structural audit of Phi(9),27October2026.
+
+The51groups are C_n for n=1,...,34,36,39,40,42, and C2xC_(2n)
+for n=1,...,13. These are the42published infinite-family groups and
+nine additional fully certified realizations. Their38cyclic exponents
+have maximum42; all51types form a subgroup-closed set.
+
+The prime bound is89. The Weil pairing gives phi(m)|9; since phi(m)
+is even for m>2, normalized rank-two torsion has first invariant1or2.
+For a subgroup minimal outside the known set, every proper subgroup
+is known. In the cyclic case n/p<=42 for each prime p|n, so n<=3738.
+In the noncyclic case its cyclic subgroup C_n is proper and known,
+so n<=42. These bound MINIMAL obstructions, without imposing an
+unproved uniform bound on full torsion orders.
+
+A third independent enumeration scans the entire proved interval
+for both first invariants and tests maximal subgroup types via
+index-prime coordinate deletions and gcd/lcm normalization. It uses
+no symbolic algebra and does not import candidates.py. It finds
+exactly94minimal obstructions:87cyclic and7noncyclic. They agree
+with the separately generated frontier, and all94have accepted
+forbidden-subgroup proofs. There are no remaining types.
+
+The normalized embedding criterion C_a x C_b -> C_m x C_n is
+a|m and b|n. Coordinate embeddings prove sufficiency; exponents
+and p^(u+1)-torsion cardinalities prove necessity. Thus every
+eligible torsion group outside the51known types contains an
+excluded minimal subgroup. The occurrence certificates give the
+reverse inclusion, completing Phi(9).
+
+The evidence files of the accepted ledger that are kept byte for byte
+have the SHA-256 recorded in the ledger. The ledger and generated
+candidates were read only.
+The JSON gives the complete classification, frontier, input hashes,
+evidence counts and explicit mathematical verification boundary.

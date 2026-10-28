@@ -1,0 +1,6 @@
+NONIC65_CONSTITUENT level=65 coefficient_dimension=1 old_divisors=[ 1 ] symbol_dimension=1 time=0.160
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.260
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.360
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.370
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.380
+NONIC65_QUOTIENT_DIAMOND3_COMPLETE rank=4 time=0.460

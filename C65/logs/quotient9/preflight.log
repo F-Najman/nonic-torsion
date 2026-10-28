@@ -1,0 +1,16 @@
+NONIC65_QUOTIENT_PREFLIGHT genus=9 minus_rank=4 time=0.030
+NONIC65_QUOTIENT_FACTOR dim=1 level=65 delta3=1 winding_nonzero=false
+NONIC65_QUOTIENT_FACTOR dim=2 level=65 delta3=-1 winding_nonzero=true
+NONIC65_QUOTIENT_FACTOR dim=2 level=65 delta3=1 winding_nonzero=true
+NONIC65_QUOTIENT_FACTOR dim=2 level=65 delta3=1 winding_nonzero=true
+NONIC65_QUOTIENT_FACTOR dim=2 level=65 delta3=-1 winding_nonzero=true
+NONIC65_PRYM_ORDER prime=2 order=64 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=3 order=64 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=7 order=4096 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=11 order=10816 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=17 order=65536 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=19 order=129600 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=23 order=270400 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=29 order=331776 gcd=64 time=0.070
+NONIC65_PRYM_ORDER prime=31 order=876096 gcd=64 time=0.070
+NONIC65_QUOTIENT_PREFLIGHT_COMPLETE

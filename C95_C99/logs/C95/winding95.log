@@ -1,0 +1,11 @@
+WINDING N=95 order=1 conductor=1 relative_dimension=9 winding_dimension=9 coefficient_degree=1 time=0.040
+WINDING N=95 order=2 conductor=5 relative_dimension=8 winding_dimension=8 coefficient_degree=1 time=0.010
+WINDING N=95 order=36 conductor=95 relative_dimension=8 winding_dimension=8 coefficient_degree=12 time=0.020
+WINDING N=95 order=9 conductor=19 relative_dimension=8 winding_dimension=8 coefficient_degree=6 time=0.020
+WINDING N=95 order=18 conductor=95 relative_dimension=8 winding_dimension=8 coefficient_degree=6 time=0.020
+WINDING N=95 order=12 conductor=95 relative_dimension=8 winding_dimension=7 coefficient_degree=4 time=0.020
+WINDING N=95 order=3 conductor=19 relative_dimension=8 winding_dimension=8 coefficient_degree=2 time=0.010
+WINDING N=95 order=6 conductor=95 relative_dimension=8 winding_dimension=8 coefficient_degree=2 time=0.010
+WINDING N=95 order=4 conductor=95 relative_dimension=8 winding_dimension=8 coefficient_degree=2 time=0.010
+WINDING_FINAL N=95 genus=289 total_dimension=289 bad_orders=[ 12 ] admissible=[ 11, 26, 69, 84 ]
+WINDING_CHARACTER_PROBE_DONE

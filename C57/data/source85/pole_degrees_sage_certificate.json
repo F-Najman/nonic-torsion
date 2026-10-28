@@ -1,0 +1,256 @@
+{
+  "complete": true,
+  "level": 57,
+  "prime": 2,
+  "Tate_precision": 700,
+  "geometric_cusps": 72,
+  "Tate_nonconstant_cusps": [
+    {
+      "width": 57,
+      "exponent": 1,
+      "vx": -1,
+      "vy": -1
+    },
+    {
+      "width": 57,
+      "exponent": 2,
+      "vx": -2,
+      "vy": -2
+    },
+    {
+      "width": 57,
+      "exponent": 4,
+      "vx": -4,
+      "vy": -4
+    },
+    {
+      "width": 57,
+      "exponent": 5,
+      "vx": -5,
+      "vy": -5
+    },
+    {
+      "width": 57,
+      "exponent": 7,
+      "vx": -7,
+      "vy": -1
+    },
+    {
+      "width": 57,
+      "exponent": 8,
+      "vx": -1,
+      "vy": 0
+    },
+    {
+      "width": 57,
+      "exponent": 10,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "width": 57,
+      "exponent": 11,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "width": 57,
+      "exponent": 13,
+      "vx": 0,
+      "vy": -5
+    },
+    {
+      "width": 57,
+      "exponent": 14,
+      "vx": 0,
+      "vy": -1
+    },
+    {
+      "width": 57,
+      "exponent": 16,
+      "vx": 7,
+      "vy": 0
+    },
+    {
+      "width": 57,
+      "exponent": 17,
+      "vx": 6,
+      "vy": 0
+    },
+    {
+      "width": 57,
+      "exponent": 20,
+      "vx": -3,
+      "vy": 6
+    },
+    {
+      "width": 57,
+      "exponent": 22,
+      "vx": -4,
+      "vy": 13
+    },
+    {
+      "width": 57,
+      "exponent": 23,
+      "vx": 1,
+      "vy": 10
+    },
+    {
+      "width": 57,
+      "exponent": 25,
+      "vx": 7,
+      "vy": -4
+    },
+    {
+      "width": 57,
+      "exponent": 26,
+      "vx": 5,
+      "vy": -5
+    },
+    {
+      "width": 57,
+      "exponent": 28,
+      "vx": 1,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 1,
+      "vx": -1,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 2,
+      "vx": -2,
+      "vy": -2
+    },
+    {
+      "width": 19,
+      "exponent": 3,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 4,
+      "vx": 0,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 5,
+      "vx": 1,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 6,
+      "vx": 1,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 7,
+      "vx": -2,
+      "vy": 4
+    },
+    {
+      "width": 19,
+      "exponent": 8,
+      "vx": 2,
+      "vy": 1
+    },
+    {
+      "width": 19,
+      "exponent": 9,
+      "vx": 1,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 10,
+      "vx": 1,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 11,
+      "vx": 2,
+      "vy": 1
+    },
+    {
+      "width": 19,
+      "exponent": 12,
+      "vx": -2,
+      "vy": 4
+    },
+    {
+      "width": 19,
+      "exponent": 13,
+      "vx": 1,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 14,
+      "vx": 1,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 15,
+      "vx": 0,
+      "vy": -1
+    },
+    {
+      "width": 19,
+      "exponent": 16,
+      "vx": 0,
+      "vy": 0
+    },
+    {
+      "width": 19,
+      "exponent": 17,
+      "vx": -2,
+      "vy": -2
+    },
+    {
+      "width": 19,
+      "exponent": 18,
+      "vx": -1,
+      "vy": -1
+    }
+  ],
+  "toric_constant_cusps": [
+    {
+      "toric_order": 19,
+      "representatives": 9,
+      "geometric_cusps": 18,
+      "unit_valuations": [
+        0,
+        0
+      ]
+    },
+    {
+      "toric_order": 57,
+      "representatives": 18,
+      "geometric_cusps": 18,
+      "unit_valuations": [
+        0,
+        0
+      ]
+    }
+  ],
+  "pole_degrees": [
+    37,
+    39
+  ],
+  "canonical_section_degree_bounds": [
+    205,
+    207
+  ],
+  "plane_model_used": false,
+  "canonical_relations_used": false,
+  "birational_Tate_inverse_over_Q": true
+}

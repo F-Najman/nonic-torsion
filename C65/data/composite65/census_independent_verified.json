@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "scope": "ordinary curves and both twists only; supersingular degree6 handled separately",
+  "ordinary_all_j_and_twists_by_character_sum": [
+    {
+      "degree": 6,
+      "ordinary_qualified_j_values": 0,
+      "orders": []
+    },
+    {
+      "degree": 7,
+      "ordinary_qualified_j_values": 14,
+      "orders": [
+        130
+      ]
+    },
+    {
+      "degree": 8,
+      "ordinary_qualified_j_values": 16,
+      "orders": [
+        260
+      ]
+    },
+    {
+      "degree": 9,
+      "ordinary_qualified_j_values": 27,
+      "orders": [
+        520
+      ]
+    }
+  ],
+  "ordinary_j_orbits_by_degree": {
+    "7": 2,
+    "8": 2,
+    "9": 3
+  },
+  "diamond_orbit_length": 24,
+  "ordinary_closed_points_by_degree": {
+    "7": 48,
+    "8": 48,
+    "9": 72
+  },
+  "ordinary_closed_points_total": 168
+}

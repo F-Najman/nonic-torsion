@@ -1,0 +1,6 @@
+Loading "work/degree9/realizations/continuation/C48/retained/two_isogeny_48_to_2_24.m"
+NONIC48_GENUS0_GENERIC_VERIFIED degree_j=48 order8=true independent2=true
+NONIC48_GENUS0_FINITE_CONTROL degree=3 curves=5 target_Aut16_orbits=1 targetclosed=16 sourceclosed=16 all_complete=true time=0.010
+NONIC48_GENUS0_FINITE_CONTROL degree=4 curves=25 target_Aut16_orbits=10 targetclosed=96 sourceclosed=64 all_complete=true time=0.030
+NONIC48_GENUS0_FINITE_CONTROL degree=5 curves=78 target_Aut16_orbits=42 targetclosed=672 sourceclosed=656 all_complete=true time=0.110
+NONIC48_PARAMETER_PILOT_DONE generic_j_degree48=true all_small_source_and_target_Newton_counts_matched=true complete=true time=0.110

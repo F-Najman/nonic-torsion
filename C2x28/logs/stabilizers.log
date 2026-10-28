@@ -1,0 +1,38 @@
+Loading "work/degree9/noncyclic/C228_completion_20261026/four_quotients_survivors.m"
+C228_EXACT_STABILIZER 6 1 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_EXACT_STABILIZER 7 10 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_EXACT_STABILIZER 8 15 [*
+    [ 0, 0, 1, 0 ],
+    [ 1, 0, 13, 4 ]
+*]
+C228_EXACT_STABILIZER 8 24 [*
+    [ 0, 0, 1, 0 ],
+    [ 0, 0, 13, 4 ]
+*]
+C228_EXACT_STABILIZER 8 28 [*
+    [ 0, 0, 1, 0 ],
+    [ 0, 0, 13, 4 ]
+*]
+C228_EXACT_STABILIZER 8 29 [*
+    [ 0, 0, 1, 0 ],
+    [ 1, 1, 1, 6 ],
+    [ 0, 0, 13, 4 ],
+    [ 1, 1, 13, 2 ]
+*]
+C228_EXACT_STABILIZER 9 10 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_EXACT_STABILIZER 9 19 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_EXACT_STABILIZER 9 46 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_EXACT_STABILIZER 9 66 [*
+    [ 0, 0, 1, 0 ]
+*]
+C228_STABILIZERS_DONE complete=true

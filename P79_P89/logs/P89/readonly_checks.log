@@ -1,0 +1,22 @@
+CHECK verify_q_identities_complete.py
+NONIC89_CANONICAL_Q_IDENTITIES_INDEPENDENT_PASS {"H_index": 4, "N": 89, "auxiliary_G_space_dimension": 30, "canonical_data_sha256": "8fc0c2d666d93b4243464a0f93e788bc0cfcfbdaad7a9153159d5891452ef4a8", "canonical_diamond3_exact_order": 4, "degree8_canonical_product_rank": 390, "genus": 27, "j_denominator_equals_Delta_times_G": true, "j_numerator_equals_E4cubed_times_G": true, "jmap_data_sha256": "5867fee6bf7b0caaff2c9e89806c2ed2e8eb56f23b43c55a1401317c8d09cdac", "q_basis_rank_through_Sturm60": 27, "quadratic_product_rank": 78, "quadratic_relation_rank": 300, "status": "Q_IDENTITIES_PASS; finite geometric j-map checks separately required", "verified_q_precision": 600, "weight16_Sturm_bound": 480, "weight4_Sturm_bound": 120}
+CHECK verify_winding.py
+NONIC89_FINITE_IMAGE_WINDING_INDEPENDENT_PASS {"T3_factor_degrees": [1, 1, 5, 6, 14], "alpha_annihilates_every_winding_zero_factor": true, "alpha_rank": 20, "diamond3_invariant_dimension": 7, "diamond3_minimal_polynomials": [["-1", "1"], ["-1", "1"], ["-1", "1"], ["1", "1"], ["1", "0", "1"]], "finite_image_operator": "diamond3-1", "genus": 27, "status": "PASS", "winding_zero_flags": [false, true, false, false, false]}
+CHECK verify_finite_keys_jv.py
+NONIC89_FINITE_CANONICAL_KEYS_INDEPENDENT_PASS {"canonical_j_identity_checked_at_all_keys": true, "canonical_quadrics_checked": 300, "source_diamond_orbits": 6, "source_orbit_lengths": [4, 4, 4, 4, 4, 4], "source_places": 24, "status": "PASS", "target_fibers_checked": {"1": 8, "2": 8, "3": 8}}
+CHECK verify_canonical_ring_tensor_readonly.py
+NONIC89_CANONICAL_RING_BASES_READY 130 234
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 0 time 0.371913671027869
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 20 time 0.7829810651019216
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 40 time 1.242186295101419
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 60 time 1.7051041070371866
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 80 time 2.1706526970956475
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 100 time 2.595809505088255
+NONIC89_CANONICAL_RING_TENSOR_PROGRESS 120 time 3.2359573950525373
+NONIC89_CANONICAL_RING_TENSOR_READONLY_PASS 10140 30420 q_precision600_Sturm480
+CHECK verify_small_multiplication_certificate_readonly.py
+NONIC89_CANONICAL_JETS_INDEPENDENT_PASS 6 smooth_points_and_transported_jets 24
+NONIC89_CANONICAL_LOCAL_EVALUATIONS_READY 3.13283339003101
+NONIC89_SMALL_MULTIPLICATION_CERTIFICATE_READONLY_PASS cases=96 rank=130 matrix=130x264 explicit_sections_vanish_positive=true time= 6.725147101096809
+CHECK verify_small_ranks_m4ri.py
+NONIC89_SMALL_MATRICES_SAGE_M4RI_PASS cases=96 rank=130 time= 0.8716448228806257

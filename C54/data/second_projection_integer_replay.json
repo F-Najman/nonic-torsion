@@ -1,0 +1,8 @@
+{
+  "mixed_inert23_tests": 30,
+  "mixed_inert23_members": 0,
+  "second_projection_tests": 13,
+  "all_second_classes_outside_H5": true,
+  "all_first_survivors_exactly_bound_to_native_inputs": true,
+  "complete": true
+}

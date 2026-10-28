@@ -1,0 +1,6 @@
+presentations_equal True H_equal True low_equals_high True
+baseA [[801, 1]]
+D9_comps [1, 5, 23, 75, 178, 378, 661, 1065, 1487, 1859]
+newlow_passcounts {'[3, 5]': 4, '[4, 4]': 16} total 20
+newhigh_passcounts Counter({6: 14, 7: 8, 8: 6}) total 28
+inputs_written

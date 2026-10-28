@@ -1,0 +1,61 @@
+PARI stack size set to 2000000000 bytes, maximum size set to 2000003072
+entry_01.log | idx=1 srcline=57 N=29 extra=
+   polredabs x^9 - x^8 - 5*x^7 + 5*x^6 + 7*x^5 - 8*x^4 - 2*x^3 + 4*x^2 - x - 1  disc 507490937  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.5.507490937.1 galois 9T34 class_number 1
+entry_02.log | idx=2 srcline=68 N=31 extra=degj = 3,
+   polredabs x^9 - 3*x^8 + 4*x^7 - x^6 - 7*x^5 + 11*x^4 - 9*x^3 + 3*x^2 - x + 1  disc -114479303  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.114479303.1 galois 9T20 class_number 1
+entry_03.log | idx=3 srcline=76 N=32 extra=
+   polredabs x^9 - x^7 - x^6 + 2*x^5 + 2*x^4 - x^3 - 2*x^2 + 1  disc 32344469  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.1.32344469.1 galois 9T34 class_number 1
+entry_04.log | idx=4 srcline=77 N=32 extra=
+   polredabs x^9 - 3*x^8 + 4*x^7 - 4*x^6 + x^5 + 2*x^4 - 3*x^3 + 4*x^2 - 2*x + 1  disc -139751219  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.139751219.1 galois 9T34 class_number 1
+entry_05.log | idx=5 srcline=78 N=32 extra=
+   polredabs x^9 - 3*x^7 + 4*x^5 - x^4 - 6*x^3 + 2*x^2 + 4*x - 2  disc -526235392  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.526235392.1 galois 9T34 class_number 1
+entry_06.log | idx=6 srcline=79 N=32 extra=
+   polredabs x^9 - x^8 - 2*x^7 + 3*x^6 - x^5 - 4*x^4 + 4*x^3 + x^2 - 3*x + 1  disc -308842096  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.308842096.1 galois 9T34 class_number 1
+entry_07.log | idx=7 srcline=80 N=32 extra=
+   polredabs x^9 - 4*x^8 + 8*x^7 - 11*x^6 + 12*x^5 - 11*x^4 + 8*x^3 - 6*x^2 + 4*x - 2  disc 125057024  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.1.125057024.1 galois 9T34 class_number 1
+entry_08.log | idx=8 srcline=81 N=32 extra=
+   polredabs x^9 - x^8 - 5*x^7 + 5*x^6 + 13*x^5 - 6*x^4 - 17*x^3 - 4*x^2 + 8*x + 4  disc -4329098896  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.4329098896.1 galois 9T34 class_number 1
+entry_09.log | idx=9 srcline=82 N=32 extra=
+   polredabs x^9 - x^8 - 2*x^7 + 4*x^6 - 4*x^5 + 7*x^3 - 18*x^2 - 2*x + 16  disc 17608598828  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.5.17608598828.1 galois 9T34 class_number 1
+entry_10.log | idx=10 srcline=83 N=32 extra=
+   polredabs x^9 - x^8 + 2*x^6 - 4*x^5 + 4*x^4 - 7*x^2 + 2*x + 2  disc 2159425756  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.5.2159425756.1 galois 9T34 class_number 1
+entry_11.log | idx=11 srcline=89 N=33 extra=
+   polredabs x^9 - 2*x^8 + x^6 + x^5 - 3*x^3 + x^2 - x + 1  disc -393718863  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.393718863.1 galois 9T34 class_number 1
+entry_12.log | idx=12 srcline=105 N=34 extra=
+   polredabs x^9 - 2*x^7 - 2*x^6 + 4*x^4 + 2*x^3 - x^2 - 2*x - 1  disc -131123051  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.131123051.1 galois 9T34 class_number 1
+entry_13.log | idx=13 srcline=106 N=34 extra=
+   polredabs x^9 - 4*x^7 - 6*x^6 + 6*x^5 + 11*x^4 + 2*x^3 - 7*x^2 - 2*x + 1  disc 2266066613  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.5.2266066613.1 galois 9T34 class_number 1
+entry_14.log | idx=14 srcline=107 N=34 extra=
+   polredabs x^9 - 2*x^7 - 2*x^6 + 4*x^4 + 2*x^3 - x^2 - 2*x - 1  disc -131123051  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.131123051.1 galois 9T34 class_number 1
+entry_15.log | idx=15 srcline=108 N=34 extra=
+   polredabs x^9 - 4*x^7 - 6*x^6 + 6*x^5 + 11*x^4 + 2*x^3 - 7*x^2 - 2*x + 1  disc 2266066613  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.5.2266066613.1 galois 9T34 class_number 1
+entry_16.log | idx=16 srcline=171 N=39 extra=degj = 3,
+   polredabs x^9 - 4*x^7 + 9*x^5 - 5*x^4 - 8*x^3 + 6*x^2 + x - 1  disc -195458751  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.195458751.1 galois 9T20 class_number 1
+entry_17.log | idx=17 srcline=193 N=40 extra=
+   polredabs x^9 - x^6 - 2*x^5 - x^4 + 2*x^2 + x + 1  disc 30626693  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.1.30626693.1 galois 9T34 class_number 1
+entry_18.log | idx=18 srcline=271 N=42 extra=degj = 1, j = -140625/8,
+   polredabs x^9 - 3*x^8 + 7*x^6 - 3*x^5 - 9*x^4 + 3*x^3 + 6*x^2 - 1  disc -272097792  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.272097792.1 galois 9T4 class_number 1
+entry_19.log | idx=19 srcline=272 N=42 extra=degj = 3,
+   polredabs x^9 - 3*x^8 + 7*x^6 - 3*x^5 - 9*x^4 + 3*x^3 + 6*x^2 - 1  disc -272097792  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.272097792.1 galois 9T4 class_number 1
+entry_20.log | idx=20 C2xC26 explicit (Prop 3.44)
+   polredabs x^9 - x^8 + x^7 - 2*x^6 + 2*x^5 + x^4 - 5*x^3 + 3*x^2 - 1  disc -157505216  LMFDB rows with this |disc|: 1
+   LMFDB label: 9.3.157505216.1 galois 9T20 class_number 1

@@ -1,0 +1,50 @@
+WINDING_SPACE_READY N=713 order=1 dimension=63 time=0.040
+WINDING N=713 order=1 conductor=1 relative_dimension=63 winding_dimension=41 coefficient_degree=1 time=0.190
+WINDING_SPACE_READY N=713 order=11 dimension=62 time=0.050
+WINDING N=713 order=11 conductor=23 relative_dimension=62 winding_dimension=62 coefficient_degree=10 time=5.110
+WINDING_SPACE_READY N=713 order=330 dimension=62 time=0.130
+WINDING_T2_READY N=713 order=330 time=4.530
+WINDING_GOOD_PRIME p=331 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=713 chi_index=3 order=330 path=work/degree9/realizations/large_global/krylov_N713_chi3_order330.json
+WINDING_KRYLOV N=713 order=330 span_rank=62 dimension=62 verified=true time=4.800
+WINDING N=713 order=330 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=80 time=4.800
+WINDING_SPACE_READY N=713 order=30 dimension=62 time=0.050
+WINDING N=713 order=30 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=8 time=4.510
+WINDING_SPACE_READY N=713 order=15 dimension=62 time=0.050
+WINDING N=713 order=15 conductor=31 relative_dimension=62 winding_dimension=62 coefficient_degree=8 time=4.940
+WINDING_SPACE_READY N=713 order=165 dimension=62 time=0.160
+WINDING_T2_READY N=713 order=165 time=17.800
+WINDING_GOOD_PRIME p=661 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=713 chi_index=6 order=165 path=work/degree9/realizations/large_global/krylov_N713_chi6_order165.json
+WINDING_KRYLOV N=713 order=165 span_rank=62 dimension=62 verified=true time=18.140
+WINDING N=713 order=165 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=80 time=18.140
+WINDING_SPACE_READY N=713 order=110 dimension=62 time=0.070
+WINDING_T2_READY N=713 order=110 time=1.250
+WINDING_GOOD_PRIME p=331 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=713 chi_index=7 order=110 path=work/degree9/realizations/large_global/krylov_N713_chi7_order110.json
+WINDING_KRYLOV N=713 order=110 span_rank=62 dimension=62 verified=true time=1.400
+WINDING N=713 order=110 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=40 time=1.400
+WINDING_SPACE_READY N=713 order=10 dimension=62 time=0.040
+WINDING N=713 order=10 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=4 time=3.030
+WINDING_SPACE_READY N=713 order=66 dimension=62 time=0.060
+WINDING_T2_READY N=713 order=66 time=0.360
+WINDING_GOOD_PRIME p=67 all_denominators_invertible=true
+WINDING_KRYLOV_MATRIX N=713 chi_index=9 order=66 path=work/degree9/realizations/large_global/krylov_N713_chi9_order66.json
+WINDING_KRYLOV N=713 order=66 span_rank=62 dimension=62 verified=true time=0.450
+WINDING N=713 order=66 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=20 time=0.450
+WINDING_SPACE_READY N=713 order=6 dimension=62 time=0.040
+WINDING N=713 order=6 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=2 time=1.610
+WINDING_SPACE_READY N=713 order=5 dimension=62 time=0.040
+WINDING N=713 order=5 conductor=31 relative_dimension=62 winding_dimension=62 coefficient_degree=4 time=1.830
+WINDING_SPACE_READY N=713 order=55 dimension=62 time=0.080
+WINDING N=713 order=55 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=40 time=57.470
+WINDING_SPACE_READY N=713 order=3 dimension=62 time=0.040
+WINDING N=713 order=3 conductor=31 relative_dimension=62 winding_dimension=61 coefficient_degree=2 time=1.130
+WINDING_SPACE_READY N=713 order=33 dimension=62 time=0.060
+WINDING N=713 order=33 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=20 time=15.070
+WINDING_SPACE_READY N=713 order=22 dimension=62 time=0.040
+WINDING N=713 order=22 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=10 time=7.190
+WINDING_SPACE_READY N=713 order=2 dimension=62 time=0.040
+WINDING N=713 order=2 conductor=713 relative_dimension=62 winding_dimension=62 coefficient_degree=1 time=0.260
+WINDING_FINAL N=713 genus=20461 total_dimension=20461 bad_orders=[ 1, 3 ] admissible=[ 2, 4, 8, 15, 16, 27, 29, 30, 32, 33, 35, 39, 47, 54, 58, 60, 61, 63, 64, 66, 70, 77, 78, 85, 89, 91, 94, 95, 97, 101, 108, 109, 116, 120, 122, 123, 125, 126, 128, 132, 139, 140, 147, 151, 153, 154, 156, 157, 159, 163, 170, 171, 178, 182, 185, 187, 188, 190, 194, 201, 202, 209, 213, 215, 216, 218, 219, 221, 225, 232, 233, 240, 244, 246, 247, 249, 250, 252, 256, 263, 264, 271, 275, 277, 278, 280, 281, 283, 287, 294, 295, 302, 306, 308, 309, 311, 312, 314, 318, 325, 326, 333, 337, 339, 340, 342, 343, 349, 356, 357, 364, 370, 371, 373, 374, 376, 380, 387, 388, 395, 399, 401, 402, 404, 405, 407, 411, 418, 419, 426, 430, 432, 433, 435, 436, 438, 442, 449, 450, 457, 461, 463, 464, 466, 467, 469, 473, 480, 481, 488, 492, 494, 495, 497, 498, 500, 504, 511, 512, 519, 523, 525, 526, 528, 531, 535, 542, 543, 550, 554, 556, 557, 559, 560, 562, 566, 573, 574, 581, 585, 587, 588, 590, 591, 593, 597, 604, 605, 612, 616, 618, 619, 622, 624, 628, 635, 636, 643, 647, 649, 650, 652, 653, 655, 659, 666, 674, 678, 680, 681, 683, 684, 686, 697, 698, 705, 709, 711 ]
+WINDING_CHARACTER_PROBE_DONE

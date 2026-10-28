@@ -1,0 +1,28 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    99
+  ],
+  "proof": "exclusion99.tex",
+  "method": "all-cuspidal dyadic reduction, finite diamond image, Parent reduction exponent2, geometric gonality",
+  "good_reduction_degrees_through9": [],
+  "diamond": 2,
+  "diamond_order": 15,
+  "genus": 281,
+  "principal_function_degree_bound": 36,
+  "gonality_lower_bound": "43875/1024",
+  "minimum_CM_degree": 60,
+  "files": {
+    "certify99.py": "fcc5fc7ed895dd122abf0a16e68e7b3087d14681826b4c8f11af75548adc51ba",
+    "check_diamond99.log": "15760709e0e433819666cf8c87154f01f9250f2660bfd3dd129568fc48318e41",
+    "check_diamond99.m": "0ec5981979382f3373a95b81ec41b95d60d7ce32d99a9c53edaef12de69174d9",
+    "dcm_list_all_min_orders_X1_10k.m": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc",
+    "exclusion99.tex": "05c0860f7851a4291a6b34617eb56f8e491885f886dc2bd58d0fea6913f2dd0a",
+    "finite_trace_certificate.json": "f0bd349dcf84ea755eedffad3bae6e4c809d52a543c9da0a5c17d29ed22a7ebc",
+    "finite_trace_check.log": "aaa42a38a6d033f9674e3e8371020a91b3872bf2dd84b7fed66a336a9aad6165",
+    "finite_trace_check.py": "f14a875c4925f832183f72e77b7fb763e370663f83ce3594e8359caa79d40e40",
+    "winding99.log": "8751df1995334d2627dc7e66dc1b59b97b3c79720b5ad739a07cb96583b65163",
+    "winding_probe.m": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+  }
+}

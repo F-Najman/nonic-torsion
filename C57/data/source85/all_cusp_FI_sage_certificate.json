@@ -1,0 +1,50 @@
+{
+  "complete": true,
+  "level": 57,
+  "prime": 2,
+  "genus": 85,
+  "annihilating_differential_dimension": 82,
+  "rational_cusps": 18,
+  "quadratic_cusps": 9,
+  "quadratic_tate_arc_verified": true,
+  "all_normalized_configurations": 796111,
+  "by_maximum_rational_multiplicity": [
+    {
+      "max_rational_multiplicity": 1,
+      "configurations": 265729
+    },
+    {
+      "max_rational_multiplicity": 2,
+      "configurations": 370481
+    },
+    {
+      "max_rational_multiplicity": 3,
+      "configurations": 122514
+    },
+    {
+      "max_rational_multiplicity": 4,
+      "configurations": 29818
+    },
+    {
+      "max_rational_multiplicity": 5,
+      "configurations": 6267
+    },
+    {
+      "max_rational_multiplicity": 6,
+      "configurations": 1122
+    },
+    {
+      "max_rational_multiplicity": 7,
+      "configurations": 162
+    },
+    {
+      "max_rational_multiplicity": 8,
+      "configurations": 17
+    },
+    {
+      "max_rational_multiplicity": 9,
+      "configurations": 1
+    }
+  ],
+  "all_FI_ranks_equal9": true
+}

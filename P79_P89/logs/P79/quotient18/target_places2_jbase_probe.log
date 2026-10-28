@@ -1,0 +1,15 @@
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/finite_common.m"
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/plane_model_reviewed_data.m"
+NONIC79_LOW_DEGREE_MODEL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/isogeny5_target_data.m"
+NONIC79_NATIVE5_TARGET_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P79/quotient18/jbase_relation_data.m"
+NONIC79_JV_RELATION_READY
+NONIC79_JV_TARGET_BASE fiber=2 degree_parameter=240 rational_v_roots=6 distinct_base_polynomials=6 degrees=[ 54, 54, 54, 54, 54, 54 ] time=1.290
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=3 targets_so_far=1 time=1.440
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=4 targets_so_far=2 time=1.610
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=5 targets_so_far=3 time=1.760
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=6 targets_so_far=4 time=1.920
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=5 targets_so_far=5 time=2.070
+NONIC79_JV_TARGET_BASE_DONE fiber=2 base_degree=54 candidates=6 targets_so_far=6 time=2.210
+NONIC79_TARGET_PLACES_JV_COMPLETE fiber=2 places=6 sigma_permutation=[ 5, 4, 2, 3, 6, 1 ] all_target_places_included=true time=2.540

@@ -1,0 +1,36 @@
+{
+  "level": 29,
+  "excluded_cyclic_order": 58,
+  "degree": 9,
+  "relations": 4440,
+  "FB_places": 3535,
+  "finite_points_verified": 3521,
+  "field_and_all_ideal_basis_bindings": true,
+  "distinct_Frobenius_orbits": 3521,
+  "complete_target_and_source_counts": true,
+  "primary_image_orders": [
+    32768,
+    9
+  ],
+  "rational_primary_image_orders": [
+    64,
+    3
+  ],
+  "rational_image_index": 1536,
+  "eligible_counts": [
+    0,
+    0,
+    14,
+    0,
+    0,
+    84,
+    168,
+    476,
+    1582
+  ],
+  "tests": 2324,
+  "survivors": 0,
+  "supports_exclusion": true,
+  "complete": true,
+  "elapsed_seconds": 16.857
+}

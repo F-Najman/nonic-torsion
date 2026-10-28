@@ -1,0 +1,10 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(5*10^9);tt:=Cputime();AttachSpec("mdmagma/v2/mdmagma.spec");Attach("common/fast_hecke.m");load "common/pair_af_place_linear.m";load "C48/data/hecke7_1/inputs.m";
+X:=MDX1(48,GF(5));FC:=FunctionField(Curve(X));F,am:=AlgorithmicFunctionField(FC);coords:=[am(FC.i):i in [1..2]];assert Genus(F) eq 37;R:=PolynomialRing(GF(5));K<z>:=ext<GF(5)|R!SourceFieldPolynomial>;out:=Open("C48/data/hecke7_1/results.py","w");fprintf out,"q=7\ntests=[\n";remaining:=[];
+for k in [1..#Cases] do
+ rec:=Cases[k];bc:=[Evaluate(R!rec[j],z):j in [2,3]];b,c:=Explode(bc);E:=EllipticCurve([1-c,-b,-b,K!0,K!0]);P:=E![0,0];assert 48*P eq E!0 and 24*P ne E!0 and 16*P ne E!0;pp:=C48PairAFPlaceLinear(coords,TateNormalForm_xy(E,P));assert Degree(pp) eq 9;DD:=DivisorGroup(F)!0;
+ images:=MDIsogeniesFast(E,P,7);printf "NONIC48_HEC7_INPUT case=%o kernel_orbits=%o time=%o\n",CaseIDs[k],#images,Cputime(tt);
+ for z in images do EG,PG,e:=Explode(z);image:=C48PairAFPlaceLinear(coords,TateNormalForm_xy(EG,PG));mult:=e*9/Degree(image);assert Denominator(mult) eq 1;DD+:=(Integers()!mult)*Divisor(image);printf "NONIC48_HEC7_IMAGE case=%o kernel_orbit=%o image_degree=%o weight=%o time=%o\n",CaseIDs[k],e,Degree(image),mult,Cputime(tt);end for;
+ assert Degree(DD) eq 72;dp:=C48PairAFPlaceLinear(coords,TateNormalForm_xy(E,7*P));assert Degree(dp) eq 9;AA:=DD-Divisor(pp)-7*Divisor(dp);assert Degree(AA) eq 0;printf "NONIC48_HEC7_RR_START case=%o time=%o\n",CaseIDs[k],Cputime(tt);
+ bs:=Basis(AA:Reduction:=false,Simplification:="None");assert #bs in [0,1];if #bs ne 0 then Append(~remaining,CaseIDs[k]);end if;fprintf out,"[%o,%o,%o],\n",CaseIDs[k],rec[1],#bs;Flush(out);printf "NONIC48_HEC7_CASE_DONE case=%o h0=%o time=%o\n",CaseIDs[k],#bs,Cputime(tt);
+end for;
+fprintf out,"]\nremaining=%o\ncomplete=True\n",remaining;delete out;printf "NONIC48_HEC7_BATCH_DONE tested=%o remaining=%o exact_degree9_weights=true direct_RR=true complete=true time=%o\n",#Cases,#remaining,Cputime(tt);quit;

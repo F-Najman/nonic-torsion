@@ -1,0 +1,8 @@
+NONIC81_WINDING order=1 conductor=1 dimension=4 winding=4 coefficient_degree=1 time=0.050
+NONIC81_WINDING order=27 conductor=81 dimension=8 winding=8 coefficient_degree=18 time=0.080
+NONIC81_WINDING order=9 conductor=27 dimension=6 winding=6 coefficient_degree=6 time=0.100
+NONIC81_WINDING order=3 conductor=9 dimension=3 winding=3 coefficient_degree=2 time=0.110
+NONIC81_RANK_ZERO 190
+NONIC81_RATIONAL_TWO q=5 integral_homology_rank=380 joint_kernel_dimension=8 time=212.640
+NONIC81_RATIONAL_TWO q=7 integral_homology_rank=380 joint_kernel_dimension=0 time=213.820
+NONIC81_NATIVE_DONE

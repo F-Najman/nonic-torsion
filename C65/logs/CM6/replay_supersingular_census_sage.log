@@ -1,0 +1,5 @@
+C65_SUPERSINGULAR_CENSUS_DEGREE_PASS 6 12 6
+C65_SUPERSINGULAR_CENSUS_DEGREE_PASS 7 4 0
+C65_SUPERSINGULAR_CENSUS_DEGREE_PASS 8 12 0
+C65_SUPERSINGULAR_CENSUS_DEGREE_PASS 9 4 0
+C65_SUPERSINGULAR_COMPLETE_CENSUS_INDEPENDENT_PASS {"complete": true, "level": 65, "prime": 2, "all_supersingular_degrees_6_through_9": [{"degree": 6, "supersingular_containing_models": 12, "qualified_models": 6, "qualified_orders": [65], "all_j0_coefficients_covered_by_cube_additive_cosets": true}, {"degree": 7, "supersingular_containing_models": 4, "qualified_models": 0, "qualified_orders": [], "all_j0_coefficients_covered_by_cube_additive_cosets": true}, {"degree": 8, "supersingular_containing_models": 12, "qualified_models": 0, "qualified_orders": [], "all_j0_coefficients_covered_by_cube_additive_cosets": true}, {"degree": 9, "supersingular_containing_models": 4, "qualified_models": 0, "qualified_orders": [], "all_j0_coefficients_covered_by_cube_additive_cosets": true}], "unique_eligible_F64_isomorphism_class_matches_native": true, "eligible_F64_group_cyclic65": true} seconds 0.5578884370625019

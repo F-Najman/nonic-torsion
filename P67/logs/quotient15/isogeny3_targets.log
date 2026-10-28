@@ -1,0 +1,6 @@
+NONIC67_NATIVE3_TARGET source_index=1 degree=7 curve_order=134 maps=4 target_degrees=[ 28 ] norm_weights_all1=true time=0.040
+NONIC67_NATIVE3_TARGET source_index=2 degree=8 curve_order=268 maps=4 target_degrees=[ 8, 24 ] norm_weights_all1=true time=0.170
+NONIC67_NATIVE3_TARGET source_index=3 degree=8 curve_order=268 maps=4 target_degrees=[ 8, 24 ] norm_weights_all1=true time=0.170
+NONIC67_NATIVE3_TARGET source_index=4 degree=9 curve_order=536 maps=4 target_degrees=[ 36 ] norm_weights_all1=true time=0.670
+NONIC67_NATIVE3_TARGET source_index=5 degree=9 curve_order=536 maps=4 target_degrees=[ 36 ] norm_weights_all1=true time=0.680
+NONIC67_NATIVE3_TARGETS_COMPLETE

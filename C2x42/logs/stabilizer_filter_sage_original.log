@@ -1,0 +1,1 @@
+C242_EVEN_STABILIZER_SUPPORT_REPLAY_PASS {"complete": true, "source_action_order": 36, "even_order_elements": 27, "input_supports": 919, "degree8_supports_checked": 354, "excluded_by_stabilizer": 96}

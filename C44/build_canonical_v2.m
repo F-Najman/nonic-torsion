@@ -1,0 +1,17 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(20*10^9);tt:=Cputime();
+AttachSpec("mdmagma/v2/mdmagma.spec");X:=MDX1(44,GF(3));C:=Curve(X);FF:=FunctionField(C);AF,am:=AlgorithmicFunctionField(FF);assert Genus(AF) eq 36;K:=BaseField(AF);d:=Degree(AF);
+printf "NONIC44_CANONICAL_SOURCE_READY fielddegree=%o time=%o\n",d,Cputime(tt);
+Om,om:=SpaceOfHolomorphicDifferentials(AF);B:=[om(w):w in Basis(Om)];assert #B eq 36;eta:=Differential(AF!K.1);BC:=[w/eta:w in B];
+f:=DefiningPolynomial(AF);fy:=&+[AF!Coefficient(f,i)*AF.1^(i-1)*(i mod 3):i in [1..Degree(f)]];assert fy ne 0;Z:=[fy*w:w in BC];DD:=LCM([Denominator(c):c in Eltseq(w),w in Z]);Z:=[AF!DD*w:w in Z];assert &and[Degree(Denominator(c)) eq 0:c in Eltseq(w),w in Z];
+PF:=PolynomialRing(GF(3));gg:=GCD([PF!Numerator(c):c in Eltseq(w),w in Z]);if Degree(gg) gt 0 then Z:=[w/(AF!gg):w in Z];end if;
+printf "NONIC44_ADJOINTS_READY maxcoefdegree=%o time=%o\n",Max([Degree(Numerator(c)):c in Eltseq(w),w in Z]),Cputime(tt);
+pairs:=[<i,j>:i,j in [1..36]|j ge i];prod:=[Z[p[1]]*Z[p[2]]:p in pairs];den:=K!LCM([Denominator(c):c in Eltseq(w),w in prod]);maxdeg:=Max([Degree(Numerator(den*c)):c in Eltseq(w),w in prod]);rows:=[];
+for w in prod do co:=Eltseq(w);co cat:=[K!0:i in [#co+1..d]];rr:=[];for c in co do cc:=den*c;assert Degree(Denominator(cc)) eq 0;pp:=PF!cc;rr cat:=[Coefficient(pp,k):k in [0..maxdeg]];end for;Append(~rows,rr);end for;
+MM:=Matrix(GF(3),rows);assert Rank(MM) eq 105;rels:=BasisMatrix(Kernel(MM));assert Nrows(rels) eq 561;
+P:=ProjectiveSpace(GF(3),35);R:=CoordinateRing(P);mons:=[R.(p[1])*R.(p[2]):p in pairs];eqs:=[&+[v[i]*mons[i]:i in [1..666]]:v in Rows(rels)];CC:=Curve(P,eqs);assert Dimension(CC) eq 1 and Degree(CC) eq 70 and ArithmeticGenus(CC) eq 36;
+function CodeK(w)return <[Integers()!a:a in Eltseq(Numerator(w))],[Integers()!a:a in Eltseq(Denominator(w))]>;end function;
+function CodeAF(w)return [CodeK(c):c in Eltseq(w)];end function;
+bcoord:=0;if am(FF.1) eq AF!K.1 and am(FF.2) eq AF.1 then bcoord:=1;elif am(FF.2) eq AF!K.1 and am(FF.1) eq AF.1 then bcoord:=2;end if;
+out:="C44/data/canonical_data.m";
+PrintFile(out,Sprintf("N:=44;p:=3;genus:=36;AF_degree:=%o;AFBaseCoordinate:=%o;AFPolynomialData:=%o;ModularCoordinateData:=%o;CanonicalCoordinateData:=%o;pairs:=%o;QuadRelations:=Matrix(GF(3),561,666,%o);",d,bcoord,[CodeK(w):w in Eltseq(DefiningPolynomial(AF))],[CodeAF(am(FF.i)):i in [1..2]],[CodeAF(w):w in Z],pairs,Eltseq(rels)):Overwrite:=true);
+printf "NONIC44_CANONICAL_MODEL_CERTIFIED genus36=true degree70=true quadrics561=true AFbasecoordinate=%o time=%o\n",bcoord,Cputime(tt);quit;

@@ -1,0 +1,7 @@
+C57_ALL_RING12_IDENTITIES_SAGE_PASS 9.46
+C57_ALL_RING24_IDENTITIES_SAGE_PASS 30.39
+C57_ALL_GLOBAL_UNIT_AND_POINT_DIAMOND_IDENTITIES_SAGE_PASS 31.69
+C57_RR_NONPRINCIPAL_DIVISOR_SAGE_PASS 6 1 42 32.65
+C57_RR_NONPRINCIPAL_DIVISOR_SAGE_PASS 6 2 42 32.89
+C57_RR_NONPRINCIPAL_DIVISOR_SAGE_PASS 8 1 88 33.12
+C57_CANONICAL_RING_AND_ALL_RR_OBSTRUCTIONS_INDEPENDENT_SAGE_PASS {"complete": true, "level": 57, "prime": 2, "genus": 85, "canonical_q_precision": 1100, "weight4_Sturm_bound": 480, "weight8_Sturm_bound": 960, "ring_dimensions": [85, 252, 588], "all_R1_products": 3655, "all_R2_products": 31878, "all_q_product_identities_exact": true, "global_R1_and_R2_unit_identities": true, "physical_point5_is_canonical_diamond_inverse": true, "nonprincipal_divisors": [{"source_degree": 6, "source_index": 1, "positive_degree": 42, "negative_degree": 42, "positive_vanishing_rank": 42, "negative_vanishing_rank": 42, "multiplication_by_F_rank": 252, "final_criterion_rank": 252, "H_sections": 1}, {"source_degree": 6, "source_index": 2, "positive_degree": 42, "negative_degree": 42, "positive_vanishing_rank": 42, "negative_vanishing_rank": 42, "multiplication_by_F_rank": 252, "final_criterion_rank": 252, "H_sections": 1}, {"source_degree": 8, "source_index": 1, "positive_degree": 88, "negative_degree": 88, "positive_vanishing_rank": 88, "negative_vanishing_rank": 88, "multiplication_by_F_rank": 252, "final_criterion_rank": 252, "H_sections": 1}], "full_good_reduction_obstruction": true} seconds 33.123649468878284

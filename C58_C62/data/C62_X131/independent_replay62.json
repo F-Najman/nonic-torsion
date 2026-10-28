@@ -1,0 +1,44 @@
+{
+  "level": 31,
+  "candidate_cyclic_order": 62,
+  "degree": 9,
+  "relations": 4391,
+  "FB_places": 3481,
+  "finite_points_verified": 3466,
+  "field_and_all_ideal_basis_bindings": true,
+  "distinct_Frobenius_orbits": 3466,
+  "complete_target_and_source_counts": true,
+  "primary_image_orders": [
+    16,
+    31,
+    61
+  ],
+  "rational_primary_image_orders": [
+    4,
+    1,
+    1
+  ],
+  "rational_image_index": 7564,
+  "eligible_counts": [
+    0,
+    0,
+    0,
+    0,
+    90,
+    90,
+    180,
+    630,
+    1200
+  ],
+  "tests": 2190,
+  "survivor_FB_indices": [
+    1878,
+    2248,
+    3105,
+    3225,
+    3323
+  ],
+  "class_sieve_verified": true,
+  "complete": true,
+  "elapsed_seconds": 23.401
+}

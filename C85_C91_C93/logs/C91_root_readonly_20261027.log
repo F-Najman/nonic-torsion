@@ -1,0 +1,13 @@
+CHECK_PASS verify_inputs_readonly.py
+CHECK_PASS verify_stage1_readonly.py
+CHECK_PASS verify_stage2_readonly.py
+CHECK_PASS verify_hecke_transport_readonly.py
+CHECK_PASS verify_census_readonly.py
+CHECK_PASS verify_CM8_action.py
+CHECK_PASS verify_cusp_pole_degrees.py
+CHECK_PASS verify_cusp_action_readonly.py
+CHECK_PASS build_R1_product_tensor.py
+CHECK_PASS canonical_R1_sieve.py
+CHECK_PASS verify_R1_ranks_m4ri.py
+NONIC91_ALL_COMPONENTS_READONLY_PASS cases288 rank265 CM8h27=true elapsed 49.251109841046855
+NONIC91_COMPLETE_READONLY_CERTIFICATE_PASS {"binary_cases": 288, "elapsed_seconds": 49.30934316618368, "files": 301, "manifest_sha256": "a54411b8cbee50f372b5c95d0c15a176ca8b11f6776a8e8aa485117d03781022", "matrix_rank": 265, "matrix_shape": [265, 590], "selected_native_exits_zero": 10, "special_degree8_closed_points": 3}

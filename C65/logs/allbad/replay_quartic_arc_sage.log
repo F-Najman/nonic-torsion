@@ -1,0 +1,7 @@
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 20 0 64.51
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 40 0 123.4
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 60 0 161.72
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 80 0 182.51
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 100 8 190.62
+C65_QUARTIC_ARC_INDEPENDENT_PIVOT 120 98 191.97
+C65_QUARTIC_CUSP_ARC_INDEPENDENT_SAGE_PASS {"complete": true, "level": 65, "prime": 2, "genus": 121, "source_Tate_width": 13, "dual_j_width": 5, "toric_root_order": 5, "independent_Tate_precision": 180, "canonical_coordinates": 121, "all_unit_relations": 137, "normalized_coordinate": 1, "independent_selected_minor_valuation": 98, "verified_canonical_jets": 20, "nonzero_tangent": true, "genuine_Tate_family": true} seconds 196.83363938098773

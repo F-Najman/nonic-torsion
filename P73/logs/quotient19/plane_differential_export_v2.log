@@ -1,0 +1,8 @@
+Loading "work/degree9/prime_orders/continued_20261026/P73/quotient19/canonical_data.m"
+NONIC73_QUOTIENT_CANONICAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P73/quotient19/jmap_q_data.m"
+NONIC73_QUOTIENT_JMAP_Q_DATA_READY
+NONIC73_PLANE_PROJECTION q_orders=[ 17, 19, 22 ] max_plane_degree=20 separable=true time=1.880
+NONIC73_PLANE_AF_COORDINATES degree=10 ubase=true vbase=false ugen=false vgen=true time=3.750
+NONIC73_PLANE_MODEL genus=19 plane_degree=19 AF_degree=10 time=3.750
+NONIC73_PLANE_DIFFERENTIAL_DATA_COMPLETE genus=19 plane_degree=19 AF_degree=10 basis_dimension=19 coefficient_base_coordinate=1 time=3.810

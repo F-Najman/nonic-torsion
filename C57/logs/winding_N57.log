@@ -1,0 +1,15 @@
+NONIC_CHARACTER_PROBE_START N=57 genus=85 time=0.060
+NONIC_CHARACTER_FACTOR N=57 dim=1 newlevel=57 winding_nonzero=0 character_order=1 kernel_size=36 time=0.200
+NONIC_CHARACTER_FACTOR N=57 dim=1 newlevel=57 winding_nonzero=1 character_order=1 kernel_size=36 time=0.220
+NONIC_CHARACTER_FACTOR N=57 dim=1 newlevel=19 winding_nonzero=1 character_order=1 kernel_size=36 time=0.220
+NONIC_CHARACTER_FACTOR N=57 dim=1 newlevel=57 winding_nonzero=1 character_order=1 kernel_size=36 time=0.230
+NONIC_CHARACTER_FACTOR N=57 dim=2 newlevel=57 winding_nonzero=1 character_order=3 kernel_size=12 time=0.250
+NONIC_CHARACTER_FACTOR N=57 dim=4 newlevel=57 winding_nonzero=1 character_order=2 kernel_size=18 time=0.290
+NONIC_CHARACTER_FACTOR N=57 dim=1 newlevel=19 winding_nonzero=1 character_order=9 kernel_size=4 time=0.290
+NONIC_CHARACTER_FACTOR N=57 dim=6 newlevel=57 winding_nonzero=1 character_order=18 kernel_size=2 time=0.340
+NONIC_CHARACTER_FACTOR N=57 dim=6 newlevel=57 winding_nonzero=1 character_order=3 kernel_size=12 time=0.390
+NONIC_CHARACTER_FACTOR N=57 dim=6 newlevel=57 winding_nonzero=1 character_order=9 kernel_size=4 time=0.440
+NONIC_CHARACTER_FACTOR N=57 dim=8 newlevel=57 winding_nonzero=1 character_order=6 kernel_size=6 time=0.500
+NONIC_CHARACTER_FACTOR N=57 dim=12 newlevel=57 winding_nonzero=1 character_order=9 kernel_size=4 time=0.600
+NONIC_CHARACTER_FACTOR N=57 dim=24 newlevel=57 winding_nonzero=1 character_order=18 kernel_size=2 time=0.760
+NONIC_CHARACTER_PROBE_COMPLETE N=57 genus=85 zero_L_factors=1 finite_diamond_order=18 units=[ 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 20, 22, 23, 25, 26, 28, 29, 31, 32, 34, 35, 37, 40, 41, 43, 44, 46, 47, 49, 50, 52, 53, 55, 56 ] time=0.760

@@ -1,0 +1,32 @@
+{
+  "level": 29,
+  "geometric_cusps": 28,
+  "global_signature": {
+    "1": 14,
+    "14": 1
+  },
+  "F3_signature": {
+    "1": 14,
+    "14": 1
+  },
+  "global_and_F3_orbit_partitions_equal": true,
+  "all_F3_cusps_lift_to_same_global_degree": true,
+  "FB_cusp_degrees": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "missing_FB_cusp_degree": 14,
+  "complete": true
+}

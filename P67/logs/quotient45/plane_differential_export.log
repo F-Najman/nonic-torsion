@@ -1,0 +1,8 @@
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/canonical_data.m"
+NONIC67_QUOTIENT_CANONICAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/jmap_q_data.m"
+NONIC67H3_QUOTIENT_JMAP_Q_DATA_READY
+NONIC67H3_PLANE_PROJECTION q_orders=[ 43, 45, 47 ] max_plane_degree=46 separable=true time=15.500
+NONIC67H3_PLANE_AF_COORDINATES degree=42 ubase=true vbase=false ugen=false vgen=true time=365.880
+NONIC67H3_PLANE_MODEL genus=45 plane_degree=46 AF_degree=42 time=365.880
+NONIC67H3_PLANE_DIFFERENTIAL_DATA_COMPLETE genus=45 plane_degree=46 AF_degree=42 basis_dimension=45 coefficient_base_coordinate=1 time=382.420

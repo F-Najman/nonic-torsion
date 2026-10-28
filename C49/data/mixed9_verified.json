@@ -1,0 +1,22 @@
+{
+  "level": 49,
+  "degree": 9,
+  "source_genus": 69,
+  "Cartier_image_dimension": 68,
+  "one_common_differential_basis": true,
+  "selected_rational_cusps": 18,
+  "omitted_rational_cusps": 3,
+  "all_cubic_cusps": 6,
+  "tested_divisors": 629678,
+  "by_cubic_degree": {
+    "3": 605682,
+    "6": 23940,
+    "9": 56
+  },
+  "exceptions": [],
+  "exceptions_count": 0,
+  "rank_all": 9,
+  "geometry_sha256": "8eb9eff4283c65c0389512c5800b59b509198e7475932d79bfb3e147c0740147",
+  "elapsed_seconds": 1.0493133219424635,
+  "status": "PASS"
+}

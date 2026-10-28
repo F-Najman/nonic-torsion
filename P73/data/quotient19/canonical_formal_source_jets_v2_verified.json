@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "representatives": 2,
+  "all_quadric_jet_equations_verified": 300,
+  "precision": 5,
+  "records": [
+    {
+      "source_representative": 1,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 19,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "Jacobian_rank": 17,
+      "jet_precision": 5
+    },
+    {
+      "source_representative": 4,
+      "normalized_coordinate": 1,
+      "uniformizer_coordinate": 19,
+      "independent_equations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "Jacobian_rank": 17,
+      "jet_precision": 5
+    }
+  ],
+  "canonical_data_sha256": "18898362af4b687e29f5569e00c2ddd2947b9e69ee36ca6bf0bb885e541466d7",
+  "source_places_sha256": "280c631202d8a96a61902b61982bdd24b6a6f2ee225e6aef884a89bdac26263e",
+  "jet_data_sha256": "22963d891270c5338c582ea562a186371ea73f24fc0a86edb6a14510c332498a",
+  "elapsed_seconds": 0.2852307381108403
+}

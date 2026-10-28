@@ -1,0 +1,23 @@
+DIRECT_ORDINARY_CENSUS {'degree': 8, 'ordinary_j_checked': 255, 'qualifying_j_twists': 0, 'qualifying_j_orbits': 0, 'jzero_orders': [225, 241, 257, 273, 289], 'jzero_all_normal_forms_checked': True}
+DIRECT_ORDINARY_CENSUS {'degree': 9, 'ordinary_j_checked': 511, 'qualifying_j_twists': 36, 'qualifying_j_orbits': 4, 'jzero_orders': [481, 513, 545], 'jzero_all_normal_forms_checked': True}
+PHI5_AND_SOURCE_POINT {'source_index': 1, 'source_degree': 9, 'target_degree': 54, 'six_distinct_isogeny_j_values': True, 'Frob9_cycle_length': 6, 'norm_multiplicity': 1, 'point_order': 87, 'curve_order': 522}
+PHI5_AND_SOURCE_POINT {'source_index': 2, 'source_degree': 9, 'target_degree': 54, 'six_distinct_isogeny_j_values': True, 'Frob9_cycle_length': 6, 'norm_multiplicity': 1, 'point_order': 87, 'curve_order': 522}
+PHI5_AND_SOURCE_POINT {'source_index': 3, 'source_degree': 9, 'target_degree': 54, 'six_distinct_isogeny_j_values': True, 'Frob9_cycle_length': 6, 'norm_multiplicity': 1, 'point_order': 87, 'curve_order': 522}
+PHI5_AND_SOURCE_POINT {'source_index': 4, 'source_degree': 9, 'target_degree': 54, 'six_distinct_isogeny_j_values': True, 'Frob9_cycle_length': 6, 'norm_multiplicity': 1, 'point_order': 87, 'curve_order': 522}
+NONIC87_INDEPENDENT_PHI5_REPLAY_COMPLETE
+NONIC87_DIRECT5_READONLY_CERTIFICATE_PASS source_j_orbits=4 target_j_degrees=54 no_degree8_source=true
+NONIC87_MODULAR_NORM_PROGRESS primes 10 degree 120 elapsed 0.2719642058946192
+NONIC87_MODULAR_NORM_PROGRESS primes 20 degree 240 elapsed 0.4638379458338022
+NONIC87_MODULAR_NORM_PROGRESS primes 30 degree 360 elapsed 0.6851972700096667
+NONIC87_MODULAR_NORM_PROGRESS primes 40 degree 480 elapsed 0.87742889393121
+NONIC87_MODULAR_NORM_PROGRESS primes 50 degree 600 elapsed 1.0744660298805684
+NONIC87_MODULAR_NORM_PROGRESS primes 60 degree 720 elapsed 1.2729085418395698
+NONIC87_MODULAR_NORM_PROGRESS primes 70 degree 840 elapsed 1.4709421950392425
+NONIC87_MODULAR_NORM_PROGRESS primes 80 degree 960 elapsed 1.673243077006191
+NONIC87_MODULAR_NORM_CRT_CERTIFICATE_PASS primes81 modulusdegree972 height480 bidegree31x480 elapsed 1.8040514029562473
+C87_CANONICAL_JET_REPLAY source 1 rank31 precision6 all465quadrics=true
+C87_CANONICAL_JET_REPLAY source 2 rank31 precision6 all465quadrics=true
+C87_CANONICAL_JET_REPLAY source 3 rank31 precision6 all465quadrics=true
+C87_CANONICAL_JET_REPLAY source 4 rank31 precision6 all465quadrics=true
+C87_CANONICAL64_READONLY_RESULT 64 excluded 0 unresolved elapsed 2.478075558086857
+NONIC87_COMPLETE_READONLY_CERTIFICATE_PASS degree9=true cases64=true native_RR_zero64=true independent_canonical_rank96=true no_classgroup_dependency=true

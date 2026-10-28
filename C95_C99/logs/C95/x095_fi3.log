@@ -1,0 +1,3 @@
+NONIC_95_X0_MODEL genus9=true cusp_widths=[ 19, 95, 1, 5 ] time=6.120
+NONIC_95_X0_CARTIER rank=7 image_dimension=8 time=6.450
+NONIC_95_X0_FI3_COMPLETE tested=20 exceptions=0 bad=[] time=12.850

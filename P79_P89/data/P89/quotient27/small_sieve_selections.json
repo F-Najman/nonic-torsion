@@ -1,0 +1,872 @@
+{
+  "seed": 20261026,
+  "selections": [
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xccc71d0cc456"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xac433a456cc0"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xd277220bddeb"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x678b7c6dca51"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x16ef8abd75da"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xd5080238c1a9"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x94ad668a70d1"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x548c5acb6473"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x31325770da53"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x9be5a59dcc67"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xff4545634580"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xfdc67f84525e"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xb11057741c54"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xae36e2a76364"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x5f57f3626bab"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 1,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xf4140d8aeda0"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x5f9937ff0cf3"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xfbeb7f101c70"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x34f49e93d364"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x7f0cf445eb5b"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xc547210b9c5c"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x68ba633a3d59"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xc4c9e71cbebc"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x37bb4ed28747"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x8657c133dbed"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x6e916451bb9a"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x48eb5294581a"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x569a11ec10c7"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xdcf0cbe88a55"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x5f87c07e612c"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x6c4225f9136a"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 2,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x4ea052431964"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xda2a9598f3d3"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xe7a2b75da3f6"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xecdfeb193e1a"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xf0d67a546bd5"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x77b15e56b83c"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x32b3568a71a7"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xe68ef27e7d7"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x8c84271cf9d7"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x905e345eee45"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x395327db3ae7"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xb0b579dd9fbb"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xc1343d607b9b"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xd81f0f8e5484"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xb0446cd68f8c"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x1cb064a14934"
+      ]
+    },
+    {
+      "fiber": 2,
+      "source": 3,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x4f49650c7cbf"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xa0e4fa743474"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x2be88edb2ba"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x8190ab9d960d"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xd5a9d71fca52"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x11a039394102"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xac4b73de4932"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x641420aa2c55"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xe342a10eed8"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xf2a9477eb2d6"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x4626b8238311"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x9aded300f786"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x19dca5621010"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xb9fd5b0951ae"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xf82e1862e7ac"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xb5c097e32816"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 5,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x40a0ffcc79e9"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xb74e4b5a4c1c"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x762db7c18965"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xd538a582a0c3"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x69ef14cabb4b"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x4bd314772c3c"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x4d2d02a29fb7"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x507d86936f6d"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x91b514bc10e5"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x9331445e3a3f"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xcb43e1747eb8"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x919ee0e992e5"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x3080c6af580"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xd50d8081a543"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x1c320ebe7aa8"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xf3f0e0cf4c35"
+      ]
+    },
+    {
+      "fiber": 1,
+      "source": 6,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x5a29ea3b0cae"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 1,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xc415f9117f5f"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 1,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xda0da61c00cf"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 2,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xfa4ffd46feec"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 2,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x72922f4b0164"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 3,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x64165a38ef07"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 3,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x9057e32ec0d"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 4,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x154a37569502"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 4,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x493a71b4f780"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 5,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x50d68d4b6819"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 5,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xa3adcb25f8ec"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 6,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0xd00c7d93e642"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 6,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0xefd46f8d8248"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 7,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x5cee2c4b6394"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 7,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x4d53b0874050"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 8,
+      "convention": 1,
+      "auxiliary_combinations": [
+        "0x737b61f09aa3"
+      ]
+    },
+    {
+      "fiber": 3,
+      "source": 8,
+      "target": 8,
+      "convention": 2,
+      "auxiliary_combinations": [
+        "0x6dfde3340e80"
+      ]
+    }
+  ],
+  "auxiliary_vector_count_distribution": {
+    "1": 96
+  }
+}

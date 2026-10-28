@@ -1,0 +1,25 @@
+{
+  "level": 49,
+  "degree": 9,
+  "geometric_cusps": 60,
+  "rational_cusps": 21,
+  "cubic_closed_cusps": 6,
+  "rational_diamond2_cycle": 21,
+  "cubic_diamond2_cycles": [
+    3,
+    3
+  ],
+  "each_global_sextic_cusp_splits_into_one_cusp_from_each_cycle": true,
+  "required_base_cusps": {
+    "rational": 1,
+    "cubic": 2
+  },
+  "selected_rational": 18,
+  "omitted_rational": 3,
+  "mixed_rational_support_at_most": 6,
+  "forbidden_translations_at_most": 18,
+  "rational_2primary_order": 2,
+  "quotient_degree": 21,
+  "elliptic_two_point_nonzero_reduction": true,
+  "status": "PASS"
+}

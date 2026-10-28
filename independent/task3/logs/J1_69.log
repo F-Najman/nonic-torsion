@@ -1,0 +1,12 @@
+FACTOR M=23 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=2 winding_full=true
+FACTOR M=23 chi_order=11 chi_cond=23 degQchi=10 dim=1 absdim=10 mult=2 winding_full=true
+FACTOR M=69 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=1 winding_full=true
+FACTOR M=69 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=true
+FACTOR M=69 chi_order=22 chi_cond=69 degQchi=10 dim=6 absdim=60 mult=1 winding_full=true
+FACTOR M=69 chi_order=11 chi_cond=23 degQchi=10 dim=1 absdim=10 mult=1 winding_full=true
+FACTOR M=69 chi_order=11 chi_cond=23 degQchi=10 dim=1 absdim=10 mult=1 winding_full=true
+FACTOR M=69 chi_order=11 chi_cond=23 degQchi=10 dim=2 absdim=20 mult=1 winding_full=true
+FACTOR M=69 chi_order=2 chi_cond=69 degQchi=1 dim=6 absdim=6 mult=1 winding_full=true
+GENUS_GAMMA1 133
+SUMMARY Kind=J1 N=69 weighted_dim=133 genus=133 allfull=true time=0.180
+RANKCHECK_DONE

@@ -1,0 +1,35 @@
+Loading "work/degree9/realizations/continuation/C54/mixed_inert23/inputs.m"
+Loading "work/degree9/realizations/continuation/C54/mixed_inert23/preflight_ordinary_snapshot.m"
+NONIC54_F2_CLASSES [ 3, 3, 52497, 0 ]
+[ 3, 3, 52497 ]
+6.110
+NONIC54_F2_NC_DEGREE 1 0 6.180
+NONIC54_F2_NC_DEGREE 2 0 6.190
+NONIC54_F2_NC_DEGREE 3 0 6.190
+NONIC54_F2_NC_DEGREE 4 0 6.190
+NONIC54_F2_NC_DEGREE 5 0 6.190
+NONIC54_F2_NC_DEGREE 6 9 6.190
+NONIC54_F2_NC_DEGREE 7 9 6.200
+NONIC54_F2_NC_DEGREE 8 18 6.210
+NONIC54_F2_NC_DEGREE 9 91 6.250
+NONIC54_ORDINARY_FILTER degree=6 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=7 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=8 all=18 retained=18
+NONIC54_ORDINARY_FILTER degree=9 all=91 retained=90
+NONIC54_F2_ORDINARY_CANDIDATES 2412 [ <6, 9, 192>, <7, 9, 48>, <8, 18, 9>, <9, 90, 1> ]
+45.610
+NONIC54_F5_CLASSES [ 3, 3, 342175446, 0 ]
+[ 3, 3, 52497 ]
+cuspidal_relations_equal=true 76.460
+NONIC54_F5_CUSP_CLASSES 0 1 77.340
+NONIC54_F5_CUSP_CLASSES 1 9 78.220
+NONIC54_F5_CUSP_CLASSES 2 48 79.090
+NONIC54_F5_CUSP_CLASSES 3 192 79.970
+NONIC54_F5_CUSP_CLASSES 4 636 80.840
+NONIC54_F5_CUSP_CLASSES 5 1836 81.750
+NONIC54_F5_CUSP_CLASSES 6 4763 83.820
+NONIC54_CROSSPRIME_PREFLIGHT_DONE 83.820
+NONIC54_F2_CUSP_DEGREES [ 2, 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1 ]
+NONIC54_F5_CUSP_DEGREES [ 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1, 2 ]
+Loading "work/degree9/realizations/continuation/C54/retained/pair_af_place_linear.m"
+NONIC54_MIXED_INERT23_DONE representatives=1 good3=30 tests=30 members=0 first_passes=0 second_passes=0 complete=true time=85.410

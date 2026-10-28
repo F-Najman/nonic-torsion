@@ -1,0 +1,5 @@
+FACTOR M=59 chi_order=1 chi_cond=1 degQchi=1 dim=5 absdim=5 mult=1 winding_full=true
+FACTOR M=59 chi_order=29 chi_cond=59 degQchi=28 dim=4 absdim=112 mult=1 winding_full=true
+GENUS_GAMMA1 117
+SUMMARY Kind=J1 N=59 weighted_dim=117 genus=117 allfull=true time=0.320
+RANKCHECK_DONE

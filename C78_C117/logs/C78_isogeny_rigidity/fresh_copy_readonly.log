@@ -1,0 +1,3 @@
+C78_LIGHT_READ_ONLY_REPLAY_PASS replay_dyadic_injection39.py 0.217
+C78_LIGHT_READ_ONLY_REPLAY_PASS census39_F512.py 0.085
+C78_D9_COMPLETE_READ_ONLY_CERTIFICATE_PASS excluded=C78 new_P9_Magma_filter_used=false CM_classification_used=false known_nonic39_model_used=false files=254

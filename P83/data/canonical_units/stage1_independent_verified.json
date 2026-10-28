@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "canonical_genus": 247,
+  "q_precision": 1300,
+  "Sturm_weight2": 574,
+  "canonical_basis_rank": 247,
+  "unit_relations": [
+    158,
+    153
+  ],
+  "global_relation_section_degree_bounds": [
+    582,
+    587
+  ],
+  "global_zero_order_lower_bound": 1298,
+  "sample_finite_rank": 246,
+  "sample_level_order": 83,
+  "diamond_order": 41,
+  "diamond_minus_identity_rank": 240,
+  "canonical_matrix_corresponds_to_point_diamond2_exponent": -1,
+  "global_diamond_point2_certificate_zero_orders": [
+    1297,
+    1297
+  ],
+  "native_data_sha256": "30d15259e579eb3b055e266408bb1a45c7418b4c1670d668a1916931da35df47",
+  "elapsed_seconds": 1.8286243709735572
+}

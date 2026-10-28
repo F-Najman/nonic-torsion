@@ -1,0 +1,10 @@
+NONIC48_D9_INTEGER_REPLAY_PASS {"nonpure9_source_cases": 20882, "new_mixed36_cases": 5424, "pure9_character_tests": 13513, "full_class_queries": 696, "pure9_target_survivors": 11, "nonpure9_source_survivors": 48, "complete": true, "global_exclusion_claimed": false}
+NONIC48_SOURCE_COVERAGE_REPLAY_PASS {"fresh_direct_RR_tests": 68, "retained_valid_A29_tests": 4, "all72_source_cases_excluded": true, "q29_all_cusps_fixed": true, "q13_degree1_cusps_fixed": true, "q13_degree2_not_assumed_fixed": true, "complete": true}
+SAGE_CHARACTER_PROGRESS 2000 14.35
+SAGE_CHARACTER_PROGRESS 4000 28.66
+SAGE_CHARACTER_PROGRESS 6000 43.07
+SAGE_CHARACTER_PROGRESS 8000 57.2
+SAGE_CHARACTER_PROGRESS 10000 71.39
+SAGE_CHARACTER_PROGRESS 12000 85.76
+NONIC48_SAGE_CHARACTER_REPLAY_PASS {"records": 13513, "all_function_evaluations_independently_recomputed": true, "source_free_orbits": 1644, "quadratic_exclusions": 11173, "full_queries": 696, "complete": true}
+NONIC48_CERTIFICATE_PASS complete_exclusion=true remaining_source_cases=0

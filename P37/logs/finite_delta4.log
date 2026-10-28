@@ -1,0 +1,4 @@
+NONIC37_FINITE_DELTA4_CONTROL degree=6 closed_places=21 fixed_by_delta4=0 diamond_orbits=2 complete=true time=0.030
+NONIC37_FINITE_DELTA4_CONTROL degree=7 closed_places=18 fixed_by_delta4=0 diamond_orbits=1 complete=true time=0.080
+NONIC37_FINITE_DELTA4_CONTROL degree=9 closed_places=39 fixed_by_delta4=3 diamond_orbits=4 complete=true time=0.610
+NONIC37_FINITE_DELTA4_CONTROL_COMPLETE

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "sources": 5,
+  "ordinary_83_torsion_families": 20,
+  "precision": 5,
+  "unit_relations": [
+    158,
+    153
+  ],
+  "all_finite_unit_ranks": 246,
+  "all_psi83_derivatives_nonzero": true,
+  "all_canonical_tangents_nonzero": true,
+  "native_data_sha256": "64f41d88c7d0754f25fe1e76a90c25140b5e9d0abbb2388def9bb10bf7c413d6",
+  "elapsed_seconds": 16.853816498070955
+}

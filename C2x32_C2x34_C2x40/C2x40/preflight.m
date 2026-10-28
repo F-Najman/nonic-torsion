@@ -1,0 +1,3 @@
+SetColumns(0);SetQuitOnError(true);tt:=Cputime();fp:=FrobeniusPolynomial(JH(80,[41]),3);g:=Degree(fp) div 2;cs:=eval Read("C2x32_C2x34_C2x40/data/C2x40/cusp_degrees.txt");assert 12*(g-1)+6*(&+cs) eq 1152;tr:=[];closed:=[];
+for n in [1..9] do z:=-n*Coefficient(fp,2*g-n);for j in [1..n-1] do z-:=Coefficient(fp,2*g-j)*tr[n-j];end for;Append(~tr,Integers()!z);num:=3^n+1-Integers()!z;for d in Divisors(n) do if d lt n then num-:=d*closed[d];end if;end for;assert num mod n eq 0;Append(~closed,num div n);end for;
+nc:=[closed[d]-#[x:x in cs|x eq d]:d in [1..9]];print "C240_D9_FRESH_PREFLIGHT",g,nc,Cputime(tt);Write("C2x32_C2x34_C2x40/data/C2x40/source_frobenius.txt",Sprint([*Coefficients(fp),cs,nc*]):Overwrite:=true);print "C240_D9_FRESH_PREFLIGHT_DONE complete=true";quit;

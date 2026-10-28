@@ -1,0 +1,19 @@
+NONIC_REMAINING_PRIME_CENSUS N=61 degree=7 closed_places=30 diamond_orbit_sizes=[ 30 ] j_degrees=[ 7 ] delta2_fixed=0 complete=true time=0.060
+NONIC_REMAINING_PRIME_CENSUS N=61 degree=8 closed_places=90 diamond_orbit_sizes=[ 30, 30, 30 ] j_degrees=[ 8, 8, 8 ] delta2_fixed=0 complete=true time=0.300
+NONIC_REMAINING_PRIME_CENSUS N=61 degree=9 closed_places=30 diamond_orbit_sizes=[ 30 ] j_degrees=[ 9 ] delta2_fixed=0 complete=true time=0.870
+NONIC_REMAINING_PRIME_CENSUS N=67 degree=7 closed_places=33 diamond_orbit_sizes=[ 33 ] j_degrees=[ 7 ] delta2_fixed=0 complete=true time=0.940
+NONIC_REMAINING_PRIME_CENSUS N=67 degree=8 closed_places=66 diamond_orbit_sizes=[ 33, 33 ] j_degrees=[ 8, 8 ] delta2_fixed=0 complete=true time=1.140
+NONIC_REMAINING_PRIME_CENSUS N=67 degree=9 closed_places=77 diamond_orbit_sizes=[ 33, 33, 11 ] j_degrees=[ 9, 9, 3 ] delta2_fixed=0 complete=true time=1.770
+NONIC_REMAINING_PRIME_CENSUS N=71 degree=7 closed_places=40 diamond_orbit_sizes=[ 35, 5 ] j_degrees=[ 7, 1 ] delta2_fixed=0 complete=true time=1.840
+NONIC_REMAINING_PRIME_CENSUS N=71 degree=8 closed_places=35 diamond_orbit_sizes=[ 35 ] j_degrees=[ 8 ] delta2_fixed=0 complete=true time=2.020
+NONIC_REMAINING_PRIME_CENSUS N=71 degree=9 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=2.530
+NONIC_REMAINING_PRIME_CENSUS N=79 degree=7 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=2.560
+NONIC_REMAINING_PRIME_CENSUS N=79 degree=8 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=2.700
+NONIC_REMAINING_PRIME_CENSUS N=79 degree=9 closed_places=78 diamond_orbit_sizes=[ 39, 39 ] j_degrees=[ 9, 9 ] delta2_fixed=0 complete=true time=3.320
+NONIC_REMAINING_PRIME_CENSUS N=83 degree=7 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=3.350
+NONIC_REMAINING_PRIME_CENSUS N=83 degree=8 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=3.490
+NONIC_REMAINING_PRIME_CENSUS N=83 degree=9 closed_places=205 diamond_orbit_sizes=[ 41, 41, 41, 41, 41 ] j_degrees=[ 9, 9, 9, 9, 9 ] delta2_fixed=0 complete=true time=4.240
+NONIC_REMAINING_PRIME_CENSUS N=89 degree=7 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=4.280
+NONIC_REMAINING_PRIME_CENSUS N=89 degree=8 closed_places=0 diamond_orbit_sizes=[] j_degrees=[] delta2_fixed=0 complete=true time=4.410
+NONIC_REMAINING_PRIME_CENSUS N=89 degree=9 closed_places=132 diamond_orbit_sizes=[ 44, 44, 44 ] j_degrees=[ 9, 9, 9 ] delta2_fixed=0 complete=true time=5.100
+NONIC_REMAINING_PRIME_CENSUS_COMPLETE

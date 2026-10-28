@@ -1,0 +1,8 @@
+FACTOR M=71 chi_order=1 chi_cond=1 degQchi=1 dim=3 absdim=3 mult=1 winding_full=true
+FACTOR M=71 chi_order=1 chi_cond=1 degQchi=1 dim=3 absdim=3 mult=1 winding_full=true
+FACTOR M=71 chi_order=35 chi_cond=71 degQchi=24 dim=5 absdim=120 mult=1 winding_full=true
+FACTOR M=71 chi_order=7 chi_cond=71 degQchi=6 dim=5 absdim=30 mult=1 winding_full=true
+FACTOR M=71 chi_order=5 chi_cond=71 degQchi=4 dim=5 absdim=20 mult=1 winding_full=true
+GENUS_GAMMA1 176
+SUMMARY Kind=J1 N=71 weighted_dim=176 genus=176 allfull=true time=0.140
+RANKCHECK_DONE

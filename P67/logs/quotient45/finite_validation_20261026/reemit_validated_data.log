@@ -1,0 +1,27 @@
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/canonical_data.m"
+NONIC67_QUOTIENT_CANONICAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/jmap_q_data.m"
+NONIC67H3_QUOTIENT_JMAP_Q_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/plane_model_certified_data.m"
+NONIC67H3_LOW_DEGREE_MODEL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/isogeny3_target_data.m"
+NONIC67_NATIVE3_TARGET_DATA_READY
+NONIC67_FRESH_MODEL_BINDING canonical_degree88=true arithmetic_genus45=true quadrics903=true time=0.650
+NONIC67_FRESH_ELLIPTIC_SOURCE_AND_ALL3_ISOGENY_PATTERNS_COMPLETE
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/source_places_data.m"
+NONIC67_FRESH_SOURCE_KEYS_COMPLETE count55=true distinct=true source_orbits5_by11=true time=2.160
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places1_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=1 degree=28 count11=true distinct=true Frobenius_line_count11=true time=2.710
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places2_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=2 degree=8 count11=true distinct=true Frobenius_line_count11=true time=3.020
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places3_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=3 degree=24 count11=true distinct=true Frobenius_line_count11=true time=3.570
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places4_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=4 degree=8 count11=true distinct=true Frobenius_line_count11=true time=3.880
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places5_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=5 degree=24 count11=true distinct=true Frobenius_line_count11=true time=4.390
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places6_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=6 degree=36 count11=true distinct=true Frobenius_line_count11=true time=4.930
+Loading "work/degree9/prime_orders/continued_20261026/P67/quotient45/target_places7_jbase_data.m"
+NONIC67_FRESH_TARGET_KEYS_COMPLETE fiber=7 degree=36 count11=true distinct=true Frobenius_line_count11=true time=5.440
+NONIC67_STANDALONE_FINITE_DATA_PRODUCER_COMPLETE sources55=true targets77=true all_fibers_independently_complete=true

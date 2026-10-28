@@ -1,0 +1,17 @@
+Loading "work/degree9/realizations/inputs/vanhoeij_nonic_input.m"
+NONIC_TWO_ISOGENY_CERTIFIED index=3 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.020
+NONIC_TWO_ISOGENY_CERTIFIED index=4 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.020
+NONIC_TWO_ISOGENY_CERTIFIED index=5 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.030
+NONIC_TWO_ISOGENY_CERTIFIED index=6 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.040
+NONIC_TWO_ISOGENY_CERTIFIED index=7 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.060
+NONIC_TWO_ISOGENY_CERTIFIED index=8 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.070
+NONIC_TWO_ISOGENY_CERTIFIED index=9 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.080
+NONIC_TWO_ISOGENY_CERTIFIED index=10 N=32 image_point_order=16 target_invariants=[ 2, 16 ] target_order_bound=32 exact=true time=0.090
+NONIC_TWO_ISOGENY_CERTIFIED index=12 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.100
+NONIC_TWO_ISOGENY_CERTIFIED index=13 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.100
+NONIC_TWO_ISOGENY_CERTIFIED index=14 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.110
+NONIC_TWO_ISOGENY_CERTIFIED index=15 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.120
+NONIC_TWO_ISOGENY_CERTIFIED index=17 N=40 image_point_order=20 target_invariants=[ 2, 20 ] target_order_bound=40 exact=true time=0.130
+NONIC_TWO_ISOGENY_CERTIFIED index=18 N=42 image_point_order=21 target_invariants=[ 42 ] target_order_bound=42 exact=true time=0.140
+NONIC_TWO_ISOGENY_CERTIFIED index=19 N=42 image_point_order=21 target_invariants=[ 42 ] target_order_bound=42 exact=true time=0.150
+NONIC_TWO_ISOGENIES_DONE targets=15 complete=true time=0.150

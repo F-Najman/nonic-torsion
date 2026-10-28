@@ -1,0 +1,7 @@
+Loading "work/degree9/cyclic/continuation_20261026/C87_quotient33/plane_model_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_quotient33/canonical_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_quotient33/jmap_q_data.m"
+NONIC87_ADJOINT_COORDINATES_READY maxcoefdegree=29 time=17.570
+NONIC87_JMAP_AND_CUSPS_CERTIFIED jdegree480=true cusp_degree_width=[ <1, 1>, <1, 1>, <1, 1>, <1, 1>, <2, 3>, <2, 3>, <4, 29>, <4, 87> ] time=44.130
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/finite_j_model_snapshot.m"
+NONIC87_FINITE_MODEL_SNAPSHOT_REBOUND_PASS genus33 jdegree480 canonical_quadrics465 inverse_projection=true snapshot_exact=true

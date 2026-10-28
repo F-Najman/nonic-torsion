@@ -1,0 +1,17 @@
+{
+  "p": 83,
+  "degree": 9,
+  "H_index": 41,
+  "Tn": 2,
+  "diamond_generator": 2,
+  "input_rows": 169,
+  "input_columns": 61009,
+  "full_binary_rank": 169,
+  "relation_kernel_dimension": 0,
+  "checked_nonzero_relations": 0,
+  "minimum_prefix_mass": null,
+  "prefix_configurations": 134858144,
+  "rank_all": 9,
+  "method": "exhaustive complete relation kernel; every relation needs prefix mass>9",
+  "status": "PASS"
+}

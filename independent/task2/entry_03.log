@@ -1,0 +1,15 @@
+Loading "vh_deg9.m"
+ENTRY idx=3 srcline=76 N=32 extra=
+FIELDPOLY t^9 - t^7 - t^6 + 2*t^5 + 2*t^4 - t^3 - 2*t^2 + 1
+POINT_ORDER 32
+ORDER_CHECK N=32 exact=true
+FIELD_DISC 32344469 = [ <53, 1>, <89, 1>, <6857, 1> ]
+SIGNATURE (1,4)
+GALOIS order=362880 transitive_id=9T34
+SUBFIELD_DEGREES [ 9 ]
+J_DEGREE 9
+J_INTEGRAL false
+CM false (j not integral)
+REDUCTION_GCD 32 from 40 places; first: [ <3, 3, 32>, <3, 6, 704>, <5, 2, 32>, <5, 3, 128>, <5, 4, 640>, <7, 3, 320>, <7, 6, 117632>, <11, 9, 2357970560> ]
+TORSION_SUBGROUP [ 32 ]
+DONE idx=3 time=63.830

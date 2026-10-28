@@ -1,0 +1,231 @@
+Loading "work/degree9/cyclic/continuation_20261026/C44_canonical_ring/export_fi\
+nite_jets_v2.m"
+Loading "work/degree9/cyclic/continuation_20261026/C44_canonical_ring/canonical_data.m"
+NONIC44_FINITE_JET_SETUP cases=226 genus36=true complete_source_counts=true time=90.390
+NONIC44_FINITE_JET_CASE index=1 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=10 time=90.470
+NONIC44_FINITE_JET_CASE index=2 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=20 time=90.540
+NONIC44_FINITE_JET_CASE index=3 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=30 time=90.620
+NONIC44_FINITE_JET_CASE index=4 T_supports=1 orbit_sizes=[ 6 ] source_keys=40 time=90.710
+NONIC44_FINITE_JET_CASE index=5 T_supports=1 orbit_sizes=[ 6 ] source_keys=50 time=90.800
+NONIC44_FINITE_JET_CASE index=6 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=60 time=90.890
+NONIC44_FINITE_JET_CASE index=7 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=70 time=90.980
+NONIC44_FINITE_JET_CASE index=8 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=80 time=91.060
+NONIC44_FINITE_JET_CASE index=9 T_supports=1 orbit_sizes=[ 6 ] source_keys=90 time=91.170
+NONIC44_FINITE_JET_CASE index=10 T_supports=1 orbit_sizes=[ 6 ] source_keys=100 time=91.260
+NONIC44_FINITE_JET_CASE index=11 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=110 time=91.330
+NONIC44_FINITE_JET_CASE index=12 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=120 time=91.420
+NONIC44_FINITE_JET_CASE index=13 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=130 time=91.500
+NONIC44_FINITE_JET_CASE index=14 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=140 time=91.580
+NONIC44_FINITE_JET_CASE index=15 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=150 time=91.660
+NONIC44_FINITE_JET_CASE index=16 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=160 time=91.750
+NONIC44_FINITE_JET_CASE index=17 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=170 time=91.830
+NONIC44_FINITE_JET_CASE index=18 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=180 time=91.900
+NONIC44_FINITE_JET_CASE index=19 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=190 time=92.000
+NONIC44_FINITE_JET_CASE index=20 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=200 time=92.090
+NONIC44_FINITE_JET_CASE index=21 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=210 time=92.160
+NONIC44_FINITE_JET_CASE index=22 T_supports=1 orbit_sizes=[ 6 ] source_keys=220 time=92.260
+NONIC44_FINITE_JET_CASE index=23 T_supports=1 orbit_sizes=[ 6 ] source_keys=230 time=92.370
+NONIC44_FINITE_JET_CASE index=24 T_supports=1 orbit_sizes=[ 6 ] source_keys=240 time=92.480
+NONIC44_FINITE_JET_CASE index=25 T_supports=1 orbit_sizes=[ 6 ] source_keys=250 time=92.580
+NONIC44_FINITE_JET_CASE index=26 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=260 time=92.660
+NONIC44_FINITE_JET_CASE index=27 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=270 time=92.740
+NONIC44_FINITE_JET_CASE index=28 T_supports=1 orbit_sizes=[ 6 ] source_keys=280 time=92.830
+NONIC44_FINITE_JET_CASE index=29 T_supports=1 orbit_sizes=[ 6 ] source_keys=290 time=92.970
+NONIC44_FINITE_JET_CASE index=30 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=300 time=93.060
+NONIC44_FINITE_JET_CASE index=31 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=310 time=93.110
+NONIC44_FINITE_JET_CASE index=32 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=320 time=93.180
+NONIC44_FINITE_JET_CASE index=33 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=330 time=93.260
+NONIC44_FINITE_JET_CASE index=34 T_supports=1 orbit_sizes=[ 6 ] source_keys=340 time=93.360
+NONIC44_FINITE_JET_CASE index=35 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=350 time=93.430
+NONIC44_FINITE_JET_CASE index=36 T_supports=1 orbit_sizes=[ 6 ] source_keys=360 time=93.520
+NONIC44_FINITE_JET_CASE index=37 T_supports=1 orbit_sizes=[ 6 ] source_keys=370 time=93.650
+NONIC44_FINITE_JET_CASE index=38 T_supports=1 orbit_sizes=[ 6 ] source_keys=380 time=93.750
+NONIC44_FINITE_JET_CASE index=39 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=390 time=93.830
+NONIC44_FINITE_JET_CASE index=40 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=400 time=93.910
+NONIC44_FINITE_JET_CASE index=41 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=410 time=93.990
+NONIC44_FINITE_JET_CASE index=42 T_supports=1 orbit_sizes=[ 6 ] source_keys=420 time=94.090
+NONIC44_FINITE_JET_CASE index=43 T_supports=1 orbit_sizes=[ 6 ] source_keys=430 time=94.200
+NONIC44_FINITE_JET_CASE index=44 T_supports=1 orbit_sizes=[ 6 ] source_keys=440 time=94.290
+NONIC44_FINITE_JET_CASE index=45 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=450 time=94.360
+NONIC44_FINITE_JET_CASE index=46 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=460 time=94.460
+NONIC44_FINITE_JET_CASE index=47 T_supports=1 orbit_sizes=[ 6 ] source_keys=470 time=94.610
+NONIC44_FINITE_JET_CASE index=48 T_supports=1 orbit_sizes=[ 6 ] source_keys=480 time=94.700
+NONIC44_FINITE_JET_CASE index=49 T_supports=1 orbit_sizes=[ 6 ] source_keys=490 time=94.820
+NONIC44_FINITE_JET_CASE index=50 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=500 time=94.900
+NONIC44_FINITE_JET_CASE index=51 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=510 time=94.980
+NONIC44_FINITE_JET_CASE index=52 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=520 time=95.060
+NONIC44_FINITE_JET_CASE index=53 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=530 time=95.150
+NONIC44_FINITE_JET_CASE index=54 T_supports=1 orbit_sizes=[ 6 ] source_keys=540 time=95.240
+NONIC44_FINITE_JET_CASE index=55 T_supports=1 orbit_sizes=[ 6 ] source_keys=550 time=95.340
+NONIC44_FINITE_JET_CASE index=56 T_supports=1 orbit_sizes=[ 6 ] source_keys=560 time=95.440
+NONIC44_FINITE_JET_CASE index=57 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=570 time=95.520
+NONIC44_FINITE_JET_CASE index=58 T_supports=1 orbit_sizes=[ 6 ] source_keys=580 time=95.620
+NONIC44_FINITE_JET_CASE index=59 T_supports=1 orbit_sizes=[ 6 ] source_keys=590 time=95.720
+NONIC44_FINITE_JET_CASE index=60 T_supports=1 orbit_sizes=[ 6 ] source_keys=600 time=95.830
+NONIC44_FINITE_JET_CASE index=61 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=610 time=95.910
+NONIC44_FINITE_JET_CASE index=62 T_supports=1 orbit_sizes=[ 6 ] source_keys=620 time=96.020
+NONIC44_FINITE_JET_CASE index=63 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=630 time=96.100
+NONIC44_FINITE_JET_CASE index=64 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=640 time=96.180
+NONIC44_FINITE_JET_CASE index=65 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=650 time=96.260
+NONIC44_FINITE_JET_CASE index=66 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=660 time=96.330
+NONIC44_FINITE_JET_CASE index=67 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=670 time=96.410
+NONIC44_FINITE_JET_CASE index=68 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=680 time=96.510
+NONIC44_FINITE_JET_CASE index=69 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=690 time=96.590
+NONIC44_FINITE_JET_CASE index=70 T_supports=1 orbit_sizes=[ 6 ] source_keys=700 time=96.680
+NONIC44_FINITE_JET_CASE index=71 T_supports=1 orbit_sizes=[ 6 ] source_keys=710 time=96.790
+NONIC44_FINITE_JET_CASE index=72 T_supports=1 orbit_sizes=[ 6 ] source_keys=720 time=96.880
+NONIC44_FINITE_JET_CASE index=73 T_supports=1 orbit_sizes=[ 6 ] source_keys=730 time=96.980
+NONIC44_FINITE_JET_CASE index=74 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=740 time=97.060
+NONIC44_FINITE_JET_CASE index=75 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=750 time=97.150
+NONIC44_FINITE_JET_CASE index=76 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=760 time=97.230
+NONIC44_FINITE_JET_CASE index=77 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=770 time=97.320
+NONIC44_FINITE_JET_CASE index=78 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=780 time=97.390
+NONIC44_FINITE_JET_CASE index=79 T_supports=1 orbit_sizes=[ 6 ] source_keys=790 time=97.480
+NONIC44_FINITE_JET_CASE index=80 T_supports=1 orbit_sizes=[ 6 ] source_keys=800 time=97.610
+NONIC44_FINITE_JET_CASE index=81 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=810 time=97.700
+NONIC44_FINITE_JET_CASE index=82 T_supports=1 orbit_sizes=[ 6 ] source_keys=820 time=97.790
+NONIC44_FINITE_JET_CASE index=83 T_supports=1 orbit_sizes=[ 6 ] source_keys=830 time=97.890
+NONIC44_FINITE_JET_CASE index=84 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=840 time=97.970
+NONIC44_FINITE_JET_CASE index=85 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=850 time=98.060
+NONIC44_FINITE_JET_CASE index=86 T_supports=1 orbit_sizes=[ 6 ] source_keys=860 time=98.150
+NONIC44_FINITE_JET_CASE index=87 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=870 time=98.230
+NONIC44_FINITE_JET_CASE index=88 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=880 time=98.320
+NONIC44_FINITE_JET_CASE index=89 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=890 time=98.410
+NONIC44_FINITE_JET_CASE index=90 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=900 time=98.490
+NONIC44_FINITE_JET_CASE index=91 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=910 time=98.570
+NONIC44_FINITE_JET_CASE index=92 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=920 time=98.650
+NONIC44_FINITE_JET_CASE index=93 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=930 time=98.750
+NONIC44_FINITE_JET_CASE index=94 T_supports=1 orbit_sizes=[ 6 ] source_keys=940 time=98.860
+NONIC44_FINITE_JET_CASE index=95 T_supports=1 orbit_sizes=[ 6 ] source_keys=950 time=98.970
+NONIC44_FINITE_JET_CASE index=96 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=960 time=99.040
+NONIC44_FINITE_JET_CASE index=97 T_supports=1 orbit_sizes=[ 6 ] source_keys=970 time=99.160
+NONIC44_FINITE_JET_CASE index=98 T_supports=1 orbit_sizes=[ 6 ] source_keys=980 time=99.280
+NONIC44_FINITE_JET_CASE index=99 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=990 time=99.350
+NONIC44_FINITE_JET_CASE index=100 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1000 time=99.420
+NONIC44_FINITE_JET_CASE index=101 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1010 time=99.500
+NONIC44_FINITE_JET_CASE index=102 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1020 time=99.600
+NONIC44_FINITE_JET_CASE index=103 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1030 time=99.680
+NONIC44_FINITE_JET_CASE index=104 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1040 time=99.770
+NONIC44_FINITE_JET_CASE index=105 T_supports=1 orbit_sizes=[ 6 ] source_keys=1050 time=99.860
+NONIC44_FINITE_JET_CASE index=106 T_supports=1 orbit_sizes=[ 6 ] source_keys=1060 time=99.970
+NONIC44_FINITE_JET_CASE index=107 T_supports=1 orbit_sizes=[ 6 ] source_keys=1070 time=100.040
+NONIC44_FINITE_JET_CASE index=108 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1080 time=100.090
+NONIC44_FINITE_JET_CASE index=109 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1090 time=100.150
+NONIC44_FINITE_JET_CASE index=110 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1100 time=100.240
+NONIC44_FINITE_JET_CASE index=111 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1110 time=100.320
+NONIC44_FINITE_JET_CASE index=112 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1120 time=100.400
+NONIC44_FINITE_JET_CASE index=113 T_supports=1 orbit_sizes=[ 6 ] source_keys=1130 time=100.510
+NONIC44_FINITE_JET_CASE index=114 T_supports=1 orbit_sizes=[ 6 ] source_keys=1140 time=100.600
+NONIC44_FINITE_JET_CASE index=115 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1150 time=100.690
+NONIC44_FINITE_JET_CASE index=116 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1160 time=100.770
+NONIC44_FINITE_JET_CASE index=117 T_supports=1 orbit_sizes=[ 6 ] source_keys=1170 time=100.870
+NONIC44_FINITE_JET_CASE index=118 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1180 time=100.970
+NONIC44_FINITE_JET_CASE index=119 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1190 time=101.060
+NONIC44_FINITE_JET_CASE index=120 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1200 time=101.150
+NONIC44_FINITE_JET_CASE index=121 T_supports=1 orbit_sizes=[ 6 ] source_keys=1210 time=101.290
+NONIC44_FINITE_JET_CASE index=122 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1220 time=101.360
+NONIC44_FINITE_JET_CASE index=123 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1230 time=101.450
+NONIC44_FINITE_JET_CASE index=124 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1240 time=101.520
+NONIC44_FINITE_JET_CASE index=125 T_supports=1 orbit_sizes=[ 6 ] source_keys=1250 time=101.620
+NONIC44_FINITE_JET_CASE index=126 T_supports=1 orbit_sizes=[ 6 ] source_keys=1260 time=101.740
+NONIC44_FINITE_JET_CASE index=127 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1270 time=101.840
+NONIC44_FINITE_JET_CASE index=128 T_supports=1 orbit_sizes=[ 6 ] source_keys=1280 time=101.950
+NONIC44_FINITE_JET_CASE index=129 T_supports=1 orbit_sizes=[ 6 ] source_keys=1290 time=102.030
+NONIC44_FINITE_JET_CASE index=130 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1300 time=102.100
+NONIC44_FINITE_JET_CASE index=131 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1310 time=102.160
+NONIC44_FINITE_JET_CASE index=132 T_supports=1 orbit_sizes=[ 6 ] source_keys=1320 time=102.250
+NONIC44_FINITE_JET_CASE index=133 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1330 time=102.320
+NONIC44_FINITE_JET_CASE index=134 T_supports=1 orbit_sizes=[ 6 ] source_keys=1340 time=102.410
+NONIC44_FINITE_JET_CASE index=135 T_supports=1 orbit_sizes=[ 6 ] source_keys=1350 time=102.490
+NONIC44_FINITE_JET_CASE index=136 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1360 time=102.590
+NONIC44_FINITE_JET_CASE index=137 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1370 time=102.660
+NONIC44_FINITE_JET_CASE index=138 T_supports=1 orbit_sizes=[ 6 ] source_keys=1380 time=102.770
+NONIC44_FINITE_JET_CASE index=139 T_supports=1 orbit_sizes=[ 6 ] source_keys=1390 time=102.870
+NONIC44_FINITE_JET_CASE index=140 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1400 time=102.940
+NONIC44_FINITE_JET_CASE index=141 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1410 time=103.020
+NONIC44_FINITE_JET_CASE index=142 T_supports=1 orbit_sizes=[ 6 ] source_keys=1420 time=103.110
+NONIC44_FINITE_JET_CASE index=143 T_supports=1 orbit_sizes=[ 6 ] source_keys=1430 time=103.240
+NONIC44_FINITE_JET_CASE index=144 T_supports=1 orbit_sizes=[ 6 ] source_keys=1440 time=103.330
+NONIC44_FINITE_JET_CASE index=145 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1450 time=103.420
+NONIC44_FINITE_JET_CASE index=146 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1460 time=103.500
+NONIC44_FINITE_JET_CASE index=147 T_supports=1 orbit_sizes=[ 6 ] source_keys=1470 time=103.610
+NONIC44_FINITE_JET_CASE index=148 T_supports=1 orbit_sizes=[ 6 ] source_keys=1480 time=103.720
+NONIC44_FINITE_JET_CASE index=149 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1490 time=103.810
+NONIC44_FINITE_JET_CASE index=150 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1500 time=103.880
+NONIC44_FINITE_JET_CASE index=151 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1510 time=103.950
+NONIC44_FINITE_JET_CASE index=152 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1520 time=104.030
+NONIC44_FINITE_JET_CASE index=153 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1530 time=104.110
+NONIC44_FINITE_JET_CASE index=154 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1540 time=104.190
+NONIC44_FINITE_JET_CASE index=155 T_supports=1 orbit_sizes=[ 6 ] source_keys=1550 time=104.290
+NONIC44_FINITE_JET_CASE index=156 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1560 time=104.380
+NONIC44_FINITE_JET_CASE index=157 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1570 time=104.460
+NONIC44_FINITE_JET_CASE index=158 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1580 time=104.550
+NONIC44_FINITE_JET_CASE index=159 T_supports=1 orbit_sizes=[ 6 ] source_keys=1590 time=104.630
+NONIC44_FINITE_JET_CASE index=160 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1600 time=104.710
+NONIC44_FINITE_JET_CASE index=161 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1610 time=104.790
+NONIC44_FINITE_JET_CASE index=162 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1620 time=104.870
+NONIC44_FINITE_JET_CASE index=163 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1630 time=104.960
+NONIC44_FINITE_JET_CASE index=164 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1640 time=105.030
+NONIC44_FINITE_JET_CASE index=165 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1650 time=105.110
+NONIC44_FINITE_JET_CASE index=166 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1660 time=105.210
+NONIC44_FINITE_JET_CASE index=167 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1670 time=105.300
+NONIC44_FINITE_JET_CASE index=168 T_supports=1 orbit_sizes=[ 6 ] source_keys=1680 time=105.410
+NONIC44_FINITE_JET_CASE index=169 T_supports=1 orbit_sizes=[ 6 ] source_keys=1690 time=105.510
+NONIC44_FINITE_JET_CASE index=170 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1700 time=105.600
+NONIC44_FINITE_JET_CASE index=171 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1710 time=105.680
+NONIC44_FINITE_JET_CASE index=172 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1720 time=105.760
+NONIC44_FINITE_JET_CASE index=173 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1730 time=105.840
+NONIC44_FINITE_JET_CASE index=174 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1740 time=105.940
+NONIC44_FINITE_JET_CASE index=175 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1750 time=106.020
+NONIC44_FINITE_JET_CASE index=176 T_supports=1 orbit_sizes=[ 6 ] source_keys=1760 time=106.140
+NONIC44_FINITE_JET_CASE index=177 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1770 time=106.230
+NONIC44_FINITE_JET_CASE index=178 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1780 time=106.330
+NONIC44_FINITE_JET_CASE index=179 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1790 time=106.410
+NONIC44_FINITE_JET_CASE index=180 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1800 time=106.490
+NONIC44_FINITE_JET_CASE index=181 T_supports=1 orbit_sizes=[ 6 ] source_keys=1810 time=106.590
+NONIC44_FINITE_JET_CASE index=182 T_supports=1 orbit_sizes=[ 6 ] source_keys=1820 time=106.700
+NONIC44_FINITE_JET_CASE index=183 T_supports=1 orbit_sizes=[ 6 ] source_keys=1830 time=106.790
+NONIC44_FINITE_JET_CASE index=184 T_supports=1 orbit_sizes=[ 6 ] source_keys=1840 time=106.890
+NONIC44_FINITE_JET_CASE index=185 T_supports=1 orbit_sizes=[ 6 ] source_keys=1850 time=106.970
+NONIC44_FINITE_JET_CASE index=186 T_supports=1 orbit_sizes=[ 6 ] source_keys=1860 time=107.060
+NONIC44_FINITE_JET_CASE index=187 T_supports=1 orbit_sizes=[ 6 ] source_keys=1870 time=107.170
+NONIC44_FINITE_JET_CASE index=188 T_supports=1 orbit_sizes=[ 6 ] source_keys=1880 time=107.250
+NONIC44_FINITE_JET_CASE index=189 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1890 time=107.330
+NONIC44_FINITE_JET_CASE index=190 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1900 time=107.420
+NONIC44_FINITE_JET_CASE index=191 T_supports=3 orbit_sizes=[ 2, 2, 2 ] source_keys=1910 time=107.520
+NONIC44_FINITE_JET_CASE index=192 T_supports=1 orbit_sizes=[ 6 ] source_keys=1920 time=107.640
+NONIC44_FINITE_JET_CASE index=193 T_supports=1 orbit_sizes=[ 6 ] source_keys=1930 time=107.730
+NONIC44_FINITE_JET_CASE index=194 T_supports=1 orbit_sizes=[ 6 ] source_keys=1940 time=107.820
+NONIC44_FINITE_JET_CASE index=195 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1950 time=107.900
+NONIC44_FINITE_JET_CASE index=196 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1960 time=107.990
+NONIC44_FINITE_JET_CASE index=197 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1970 time=108.070
+NONIC44_FINITE_JET_CASE index=198 T_supports=1 orbit_sizes=[ 6 ] source_keys=1980 time=108.160
+NONIC44_FINITE_JET_CASE index=199 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=1990 time=108.240
+NONIC44_FINITE_JET_CASE index=200 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2000 time=108.320
+NONIC44_FINITE_JET_CASE index=201 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2010 time=108.400
+NONIC44_FINITE_JET_CASE index=202 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2020 time=108.480
+NONIC44_FINITE_JET_CASE index=203 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2030 time=108.550
+NONIC44_FINITE_JET_CASE index=204 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2040 time=108.640
+NONIC44_FINITE_JET_CASE index=205 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2050 time=108.720
+NONIC44_FINITE_JET_CASE index=206 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2060 time=108.810
+NONIC44_FINITE_JET_CASE index=207 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2070 time=108.890
+NONIC44_FINITE_JET_CASE index=208 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2080 time=108.980
+NONIC44_FINITE_JET_CASE index=209 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2090 time=109.050
+NONIC44_FINITE_JET_CASE index=210 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2100 time=109.130
+NONIC44_FINITE_JET_CASE index=211 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2110 time=109.220
+NONIC44_FINITE_JET_CASE index=212 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2120 time=109.310
+NONIC44_FINITE_JET_CASE index=213 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2130 time=109.390
+NONIC44_FINITE_JET_CASE index=214 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2140 time=109.480
+NONIC44_FINITE_JET_CASE index=215 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2150 time=109.560
+NONIC44_FINITE_JET_CASE index=216 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2160 time=109.650
+NONIC44_FINITE_JET_CASE index=217 T_supports=1 orbit_sizes=[ 6 ] source_keys=2170 time=109.750
+NONIC44_FINITE_JET_CASE index=218 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2180 time=109.830
+NONIC44_FINITE_JET_CASE index=219 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2190 time=109.920
+NONIC44_FINITE_JET_CASE index=220 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2200 time=110.010
+NONIC44_FINITE_JET_CASE index=221 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2210 time=110.090
+NONIC44_FINITE_JET_CASE index=222 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2220 time=110.170
+NONIC44_FINITE_JET_CASE index=223 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2230 time=110.250
+NONIC44_FINITE_JET_CASE index=224 T_supports=1 orbit_sizes=[ 6 ] source_keys=2240 time=110.390
+NONIC44_FINITE_JET_CASE index=225 T_supports=1 orbit_sizes=[ 6 ] source_keys=2250 time=110.480
+NONIC44_FINITE_JET_CASE index=226 T_supports=3 orbit_sizes=[ 1, 1, 4 ] source_keys=2260 time=110.550
+NONIC44_FINITE_JETS_COMPLETE cases=226 source_distinct_keys=2260 all226=true time=110.640

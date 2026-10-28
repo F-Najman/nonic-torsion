@@ -1,0 +1,9 @@
+Z133_WINDING order=1 conductor=1 dimension=11 winding=7 field_degree=1
+Z133_DIAMOND_RECURRENCE order=1 scalar=1 exact=true
+Z133_TRIVIAL_FINITE_ANNIHILATOR coefficients=[-3,-8,1,4,1] exact=true
+Z133_POSITIVE_T2 order=1 rational_dimension=4 matrix=[ -1, 1, -1, 0, 1, -1, 0, -1, 0, 1, -2, -1, 1, -1, -2, 0 ] cubic_minimal_polynomial=[ -27, -476, 154, 28, 1 ]
+Z133_WINDING order=3 conductor=7 dimension=12 winding=11 field_degree=2
+Z133_DIAMOND_RECURRENCE order=3 scalar=-zeta_3 - 1 exact=true
+Z133_POSITIVE_LINEAR_CHECK a2=2*zeta_3 chi2=-zeta_3 - 1 ratio=zeta_3
+Z133_POSITIVE_T2 order=3 rational_dimension=2 matrix=[ 0, 2, -2, -2 ] cubic_minimal_polynomial=[ -8, 1 ]
+Z133_SPLIT_FINITE_OPERATORS_VERIFIED coefficients=[ 216, 3781, -1708, -70, 20, 1 ] degree=5 genus=35 time=0.080 complete=true

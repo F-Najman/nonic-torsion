@@ -1,0 +1,5 @@
+Loading "work/degree9/prime_orders/continued_20261026/P37/input_records.m"
+NONIC37_SEXTIC_LIFT factor_mod2=PF.1^6 + PF.1^5 + PF.1^4 + PF.1 + 1 residue_degree=6 global_point_degree=6 time=0.660
+NONIC37_SEXTIC_LIFT factor_mod2=PF.1^6 + PF.1^5 + PF.1^2 + PF.1 + 1 residue_degree=6 global_point_degree=6 time=0.660
+NONIC37_SEXTIC_LIFT factor_mod2=PF.1^6 + PF.1^5 + PF.1^3 + PF.1^2 + 1 residue_degree=6 global_point_degree=6 time=0.660
+NONIC37_SEXTIC_LIFTS_COMPLETE all_three_residue_classes_lift=true rational37isogeny_verified=true

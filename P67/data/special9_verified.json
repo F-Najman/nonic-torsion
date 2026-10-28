@@ -1,0 +1,59 @@
+{
+  "N": 67,
+  "degree": 9,
+  "source_degree9_closed_points": 77,
+  "diamond_orbits": [
+    33,
+    33,
+    11
+  ],
+  "j_degrees": [
+    9,
+    9,
+    3
+  ],
+  "special_points": 11,
+  "full_diamond_order": 33,
+  "diamond_generator": 2,
+  "special_stabilizer_generator": 38,
+  "special_stabilizer_order": 3,
+  "fixed_by_h": 11,
+  "cubic_X067_fields": [
+    [
+      -3,
+      1,
+      -1,
+      1
+    ],
+    [
+      5,
+      -3,
+      -1,
+      1
+    ]
+  ],
+  "shifted_polynomials_Eisenstein_at_2": [
+    [
+      -2,
+      2,
+      2,
+      1
+    ],
+    [
+      2,
+      -2,
+      2,
+      1
+    ]
+  ],
+  "cubic_field_residue_degrees_at_2": [
+    1,
+    1
+  ],
+  "gonality_bound_exact": [
+    182325,
+    8192
+  ],
+  "complete_C67_exclusion": false,
+  "status": "PASS"
+}

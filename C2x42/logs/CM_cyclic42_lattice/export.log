@@ -1,0 +1,8 @@
+Loading "work/degree9/noncyclic/C230/deps/pair_af_place_linear.m"
+C242_SCALAR_CUSP_AUDIT_PASS [* [* 2, 2, 7 *], [* 1, 1, 21 *], [* 1, 1, 21 *], [* 1, 1, 42 *], [* 1, 1, 42 *], [* 3, 6, 2 *], [* 1, 1, 42 *], [* 1, 1, 21 *], [* 1, 1, 42 *], [* 3, 6, 2 *], [* 1, 1, 42 *], [* 2, 2, 7 *], [* 2, 2, 14 *], [* 1, 1, 42 *], [* 1, 1, 21 *], [* 3, 6, 1 *], [* 2, 2, 14 *], [* 1, 1, 21 *], [* 2, 2, 7 *], [* 3, 6, 1 *], [* 1, 1, 21 *], [* 2, 2, 14 *] *] 76.480
+C242_A11_SEVEN_MODEL_BASES_READY 15 76.500
+C242_CM_LATTICE_EXPORTED 1 82.960
+C242_CM_LATTICE_EXPORTED 2 88.400
+C242_CM_LATTICE_EXPORTED 6 94.850
+C242_CM_LATTICE_EXPORTED 8 101.220
+C242_CM_LATTICE_EXPORT_DONE complete=true 101.220

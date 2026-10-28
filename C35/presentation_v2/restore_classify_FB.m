@@ -1,0 +1,27 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(16*10^9);tt:=Cputime();
+load "C35/data/presentation_v2/verification_inputs.m";
+assert N eq 35 and p eq 3 and ExpectedGenus eq 25 and KnownOrder eq 14529850982400;
+assert ClassGroupGenerationBound(p,ExpectedGenus) eq 9;
+k:=GF(p);K<t>:=RationalFunctionField(k);P<z>:=PolynomialRing(K);Pr:=PolynomialRing(k);
+function DecRat35(v)return K!(Pr!v[1])/(K!(Pr!v[2]));end function;
+f:=P![DecRat35(a):a in FieldPolynomialData];assert IsMonic(f);
+F<u>:=FunctionField(f);assert Genus(F) eq ExpectedGenus;
+function DecElt35(v)return F![DecRat35(a):a in v];end function;
+coords:=[DecElt35(a):a in ModularCoordinatesData];
+OF:=MaximalOrderFinite(F);OI:=MaximalOrderInfinite(F);fb:=[];
+for i in [1..#FBDegrees] do
+ O:=FBFinite[i] select OF else OI;J:=ideal<O|[DecElt35(a):a in FBBases[i]]>;
+ assert IsPrime(J);Q:=Place(J);assert Degree(Q) eq FBDegrees[i] and IsFinite(Q) eq FBFinite[i];Append(~fb,Q);
+ if i mod 250 eq 0 then printf "NONIC35_FB_RESTORE_PROGRESS places=%o/%o time=%o\n",i,#FBDegrees,Cputime(tt);end if;
+end for;
+m:=#fb;assert m eq 3592 and #Seqset(fb) eq m and Maximum(FBDegrees) eq 9;
+assert [#[d:d in FBDegrees|d eq e]:e in [1..9]] eq [12,0,12,3,36,128,348,813,2240];
+printf "NONIC35_FB_PRIMES_RESTORED places=3592 all_degrees_le9=true universal_generation_bound=9 time=%o\n",Cputime(tt);
+save "C35/data/presentation_v2/restored_FB_only.workspace";
+Z:=FreeAbelianGroup(m);G,q:=quo<Z|[Z!row:row in RawRelations]>;assert Invariants(G) eq CandidateInvariants and Invariants(G) eq [4,4,8,520,218297040,0];
+assert &*[a:a in Invariants(G)|a ne 0] eq KnownOrder;
+printf "NONIC35_PROVEN_PRESENTATION_RESTORED invariants=%o order=%o time=%o\n",Invariants(G),KnownOrder,Cputime(tt);
+delete RawRelations;delete FBBases;delete FieldPolynomialData;delete ModularCoordinatesData;
+save "C35/data/presentation_v2/restored_field_group.workspace";
+printf "NONIC35_NATIVE_WORKSPACE_SAVED maps_preserved=true before_all_classification=true time=%o\n",Cputime(tt);
+load "C35/presentation_v2/classify_FB_tail.m";

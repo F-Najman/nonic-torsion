@@ -1,0 +1,8 @@
+Loading "work/degree9/noncyclic/C230/deps/native_group_generators.m"
+Loading "work/degree9/noncyclic/C230/deps/class_group_direct_RR_checked_v4_fastfb.m"
+Loading "work/degree9/cyclic/continuation_20261026/C65_quotient9/finite_j_model_data.m"
+Loading "work/degree9/cyclic/continuation_20261026/C65_quotient9/diamond3_data.m"
+NONIC65_CUSP_DIAMOND_EXACT permutation=[ 6, 3, 2, 4, 5, 1 ] time=0.110
+NONIC65_NONGLOBAL_SEXTIC_CUSP_TESTS [ <2, false>, <3, false> ] Horder=32 Korder=8
+NONIC65_FINITE_ALPHA_A3_KERNEL G=[ 4, 16, 336, 0 ] cuspgroup=[ 2, 8, 336 ] alpha_cusps=[ 4, 8 ] A3kernel=[ 8 ] widths=[ 1, 65, 65, 13, 5, 1 ] frob5=[ 1, 3, 2, 4, 5, 6 ] time=0.560
+NONIC65_FINITE_A3_COMPLETE

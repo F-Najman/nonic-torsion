@@ -1,0 +1,16 @@
+NONIC_PRIME_MODEL N=59 genus=117 alpha_diamond=1 time=1332.890
+NONIC_PRIME_ENUM N=59 degree=7 all_places=58 diamond_reps=2 time=1365.730
+NONIC_PRIME_TEST_START N=59 degree=7 index=1 q=3 time=1366.490
+NONIC_PRIME_TEST_RESULT N=59 degree=7 index=1 q=3 principal=false time=1396.070
+NONIC_PRIME_TEST_START N=59 degree=7 index=2 q=3 time=1396.830
+NONIC_PRIME_TEST_RESULT N=59 degree=7 index=2 q=3 principal=false time=1426.390
+NONIC_PRIME_DEGREE_SUMMARY N=59 degree=7 all_places=58 diamond_reps=2 surviving_indices=[] time=1426.390
+NONIC_PRIME_ENUM N=59 degree=8 all_places=29 diamond_reps=1 time=1444.350
+NONIC_PRIME_TEST_START N=59 degree=8 index=1 q=3 time=1445.370
+NONIC_PRIME_TEST_RESULT N=59 degree=8 index=1 q=3 principal=false time=1477.120
+NONIC_PRIME_DEGREE_SUMMARY N=59 degree=8 all_places=29 diamond_reps=1 surviving_indices=[] time=1477.120
+NONIC_PRIME_ENUM N=59 degree=9 all_places=29 diamond_reps=1 time=1506.300
+NONIC_PRIME_TEST_START N=59 degree=9 index=1 q=3 time=1507.130
+NONIC_PRIME_TEST_RESULT N=59 degree=9 index=1 q=3 principal=false time=1537.140
+NONIC_PRIME_DEGREE_SUMMARY N=59 degree=9 all_places=29 diamond_reps=1 surviving_indices=[] time=1537.140
+NONIC_PRIME_GOOD_BRANCHES_COMPLETED N=59 summary=[ <7, 58, 2, 0>, <8, 29, 1, 0>, <9, 29, 1, 0> ] time=1539.260

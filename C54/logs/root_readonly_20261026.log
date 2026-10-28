@@ -1,0 +1,5 @@
+NONIC54_PREFLIGHT_INTEGER_REPLAY {"candidate_classes": 2413, "all_NC6to9_and_cusp_complements_recomputed": true, "cross_prime_cusp_graph_order": 472473, "H5_index": 6518, "complete": true}
+NONIC54_QUADRATIC_INTEGER_REPLAY {"records": 16135, "nonsquare_certificates": 8087, "remaining": 8048, "fallback": 0, "all_finite_field_arithmetic_independently_recomputed": true, "complete": true}
+NONIC54_COMPLETE_INTEGER_REPLAY {"lower": {"tests": 278876, "members": 641, "passes": 10, "survivors": [[3, 6, 17, 1531], [4, 5, 102, 364], [4, 5, 23, 190]]}, "octic_total": 3579, "octic_H5_members": 0, "pure9_queries": 8048, "quadratic_exclusions": 8087, "pure9_survivors": [5164, 6206, 6913, 7101], "all_first_projection_classes_replayed": true, "complete": true}
+NONIC54_SECOND_COMPLETE_INTEGER_REPLAY {"mixed_inert23_tests": 30, "mixed_inert23_members": 0, "second_projection_tests": 13, "all_second_classes_outside_H5": true, "all_first_survivors_exactly_bound_to_native_inputs": true, "complete": true}
+NONIC54_CERTIFICATE_PASS complete_exclusion=true final_survivors=0

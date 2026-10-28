@@ -1,0 +1,23 @@
+Loading "work/degree9/parallel_expansion_20261026/character_probes/N85_winding_data.m"
+NONIC85_CANONICAL_UNIT_NEWFORMS dimensions=[ 1, 1, 2, 2, 2, 2, 1, 6, 8, 8, 12, 12, 24, 24, 56, 56 ] time=0.290
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=17 dimension=1 accumulated_with_old_degeneracies=2 time=0.430
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=1 accumulated_with_old_degeneracies=3 time=0.560
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=2 accumulated_with_old_degeneracies=5 time=0.710
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=2 accumulated_with_old_degeneracies=7 time=0.920
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=2 accumulated_with_old_degeneracies=9 time=0.940
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=2 accumulated_with_old_degeneracies=11 time=1.140
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=17 dimension=1 accumulated_with_old_degeneracies=19 time=1.320
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=6 accumulated_with_old_degeneracies=25 time=1.480
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=8 accumulated_with_old_degeneracies=33 time=1.650
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=8 accumulated_with_old_degeneracies=41 time=1.820
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=12 accumulated_with_old_degeneracies=53 time=2.080
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=12 accumulated_with_old_degeneracies=65 time=2.150
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=24 accumulated_with_old_degeneracies=89 time=2.430
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=24 accumulated_with_old_degeneracies=113 time=2.710
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=56 accumulated_with_old_degeneracies=169 time=3.100
+NONIC85_CANONICAL_UNIT_EIGENFORM newlevel=85 dimension=56 accumulated_with_old_degeneracies=225 time=3.510
+NONIC85_CANONICAL_UNIT_SATURATED_BASIS rank225=true precision1300=true Sturm_weight2=576 diamonds2_3_orders8_16=true grouporder32=true time=5.560
+NONIC85_CANONICAL_UNIT_RELATIONS x=136 y=131 exact_global_zero_order=1298 section_degree_bounds=[538,543] product_R2_rank_pending_independent_tensor=true time=6.890
+Loading "work/degree9/parallel_expansion_20261026/N85_f9/records.m"
+NONIC85_CANONICAL_UNIT_FINITE_RANK rank=224 expected224 time=6.930
+NONIC85_CANONICAL_UNIT_STAGE1_COMPLETE generic_rank224=true no_function_field_normalization=true time=6.960

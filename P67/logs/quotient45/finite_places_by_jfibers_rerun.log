@@ -1,0 +1,21 @@
+Loading "P67/quotient45/finite_common_quick.m"
+Loading "P67/data/quotient45/plane_model_certified_data.m"
+NONIC67H3_LOW_DEGREE_MODEL_DATA_READY
+Loading "P67/data/quotient15/isogeny3_target_data.m"
+NONIC67_NATIVE3_TARGET_DATA_READY
+Loading "P67/data/quotient45/jbase_relation_modular_data.m"
+NONIC67H3_MODULAR_JBASE_RELATION_READY
+NONIC67H3_SOURCE_JFIBER_COMPLETE index=1 degree=7 places=11 time=305.310
+NONIC67H3_SOURCE_JFIBER_COMPLETE index=2 degree=8 places=11 time=409.340
+NONIC67H3_SOURCE_JFIBER_COMPLETE index=3 degree=8 places=11 time=518.620
+NONIC67H3_SOURCE_JFIBER_COMPLETE index=4 degree=9 places=11 time=625.280
+NONIC67H3_SOURCE_JFIBER_COMPLETE index=5 degree=9 places=11 time=736.900
+NONIC67H3_SOURCE_PLACES_COMPLETE places=55 sigma_orbits=5 j_multiplicities=[11,11,11,11,11] both_eigenlines_if_applicable=true time=737.560
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=1 degree=28 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=945.980
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=2 degree=8 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=1135.390
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=3 degree=24 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=1340.610
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=4 degree=8 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=1530.280
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=5 degree=24 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=1734.110
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=6 degree=36 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=1951.340
+NONIC67H3_TARGET_PLACES_COMPLETE fiber=7 degree=36 places=11 finite_base_values=11 infinity_checked=true all_target_places_included=true time=2170.710
+NONIC67H3_FINITE_PLACES_ALL_COMPLETE

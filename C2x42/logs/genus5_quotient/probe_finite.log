@@ -1,0 +1,7 @@
+Loading "work/degree9/noncyclic/C230/deps/native_group_generators.m"
+Loading "work/degree9/noncyclic/C230/deps/class_group_direct_RR_checked_v4_fastfb.m"
+C242_GENUS5_TATE7_DESCENT_IDENTITIES_PASS p=5 cpu=0.010
+C242_GENUS5_PROVEN_FINITE_GROUP p=5 G=[ 2, 6, 6, 48, 0 ] Hfinite=[ 2, 2, 2, 16 ] Hrational_cusps_candidate=[ 2, 2, 8 ] order=3456 cpu=7.720
+C242_GENUS5_TATE7_DESCENT_IDENTITIES_PASS p=11 cpu=7.730
+C242_GENUS5_PROVEN_FINITE_GROUP p=11 G=[ 2, 10, 20, 360, 0 ] Hfinite=[ 2, 2, 4, 8 ] Hrational_cusps_candidate=[ 2, 2, 8 ] order=144000 cpu=60.930
+C242_GENUS5_QUOTIENT_FINITE_PROBE_DONE complete=true 60.950

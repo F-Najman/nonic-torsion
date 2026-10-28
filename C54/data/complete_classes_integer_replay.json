@@ -1,0 +1,39 @@
+{
+  "lower": {
+    "tests": 278876,
+    "members": 641,
+    "passes": 10,
+    "survivors": [
+      [
+        3,
+        6,
+        17,
+        1531
+      ],
+      [
+        4,
+        5,
+        102,
+        364
+      ],
+      [
+        4,
+        5,
+        23,
+        190
+      ]
+    ]
+  },
+  "octic_total": 3579,
+  "octic_H5_members": 0,
+  "pure9_queries": 8048,
+  "quadratic_exclusions": 8087,
+  "pure9_survivors": [
+    5164,
+    6206,
+    6913,
+    7101
+  ],
+  "all_first_projection_classes_replayed": true,
+  "complete": true
+}

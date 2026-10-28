@@ -1,0 +1,27 @@
+NONIC133_Z_DIRECT_EQUATION degree20=true exact_j19=true time=0.030
+NONIC133_Z_GENUS genus=35 exact_X019_embedding=true time=287.550
+Loading "C133/reproduce_FI3_tail.m"
+NONIC133_Z_SPLIT_COTANGENT genus=35 U0=2 U3=20 combined_U=22 exact_delta2=true time=303.390
+Loading "C133/reproduce_FI3_rr.m"
+NONIC133_Z_CUSPS degrees=[ 1, 1, 1, 1, 3, 3, 1, 1 ] jdegree=480 time=303.670
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=1 rank=1 time=433.860
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=2 rank=2 time=552.690
+NONIC133_Z_RR cusp=1 degree=1 multiplicity=3 rank=3 time=670.310
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=1 rank=1 time=804.130
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=2 rank=2 time=923.060
+NONIC133_Z_RR cusp=2 degree=1 multiplicity=3 rank=3 time=1050.160
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=1 rank=1 time=1180.540
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=2 rank=2 time=1305.000
+NONIC133_Z_RR cusp=3 degree=1 multiplicity=3 rank=3 time=1445.930
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=1 rank=1 time=1573.490
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=2 rank=2 time=1692.030
+NONIC133_Z_RR cusp=4 degree=1 multiplicity=3 rank=3 time=1819.540
+NONIC133_Z_RR cusp=5 degree=3 multiplicity=1 rank=3 time=1938.980
+NONIC133_Z_RR cusp=6 degree=3 multiplicity=1 rank=3 time=2056.040
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=1 rank=1 time=2187.960
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=2 rank=2 time=2332.860
+NONIC133_Z_RR cusp=7 degree=1 multiplicity=3 rank=3 time=2471.680
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=1 rank=1 time=2601.620
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=2 rank=2 time=2752.900
+NONIC133_Z_RR cusp=8 degree=1 multiplicity=3 rank=3 time=2901.270
+NONIC133_Z_FI_DONE degree=3 tested=58 exceptions=0 complete=true time=2901.850

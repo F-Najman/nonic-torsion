@@ -1,0 +1,14 @@
+WINDING N=203 order=1 conductor=1 relative_dimension=19 winding_dimension=15 coefficient_degree=1 time=0.060
+WINDING N=203 order=3 conductor=7 relative_dimension=18 winding_dimension=17 coefficient_degree=2 time=0.030
+WINDING N=203 order=84 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=24 time=0.680
+WINDING N=203 order=28 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=12 time=0.220
+WINDING N=203 order=14 conductor=29 relative_dimension=18 winding_dimension=18 coefficient_degree=6 time=0.140
+WINDING N=203 order=42 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=12 time=0.340
+WINDING N=203 order=7 conductor=29 relative_dimension=18 winding_dimension=18 coefficient_degree=6 time=0.120
+WINDING N=203 order=21 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=12 time=0.220
+WINDING N=203 order=12 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=4 time=0.080
+WINDING N=203 order=4 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=2 time=0.040
+WINDING N=203 order=2 conductor=29 relative_dimension=18 winding_dimension=18 coefficient_degree=1 time=0.030
+WINDING N=203 order=6 conductor=203 relative_dimension=18 winding_dimension=18 coefficient_degree=2 time=0.060
+WINDING_FINAL N=203 genus=1513 total_dimension=1513 bad_orders=[ 1, 3 ] admissible=[ 6, 8, 13, 15, 20, 22, 27, 34, 36, 41, 43, 48, 50, 55, 57, 62, 64, 69, 71, 76, 78, 83, 85, 90, 92, 97, 99, 104, 106, 111, 113, 118, 120, 125, 127, 132, 134, 139, 141, 146, 148, 153, 155, 160, 162, 167, 169, 176, 181, 183, 188, 190, 195, 197 ]
+WINDING_CHARACTER_PROBE_DONE

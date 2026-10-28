@@ -1,0 +1,32 @@
+NONIC55_X0_JACOBIAN order=100 factorization=[ <2, 2>, <5, 2> ]
+Loading "work/degree9/cyclic/continuation_20261026/N55_geometry/large_levels/C55_builtin_model.m"
+NONIC55_X0_MODEL genus5=true rational_base_degree4=true modular_polynomials5and11_verified=true cusp_widths=[ 11, 5, 1, 55 ] time=0.270
+NONIC55_PICARD invariants=[ 5, 20, 0 ] time=0.390
+NONIC55_CUSP_CLASS index=1 class=[ 0, 0, 1 ] time=0.390
+NONIC55_CUSP_CLASS index=2 class=[ 0, 9, 1 ] time=0.400
+NONIC55_CUSP_CLASS index=3 class=[ 4, 2, 1 ] time=0.410
+NONIC55_CUSP_CLASS index=4 class=[ 4, 3, 1 ] time=0.420
+NONIC55_C4_CUSP_CHARACTERS count=1 images=[
+[ 0, 1, 1 ]
+] time=0.420
+NONIC55_C4_CONSTRUCTED degree4=true cyclic4_verified=true time=0.650
+NONIC55_SIMPLE_WITT_MODEL exact_inverse_maps=true cyclic4=true time=0.680
+NONIC55_WITT_FROBENIUS degree=1 class=[ 0, 0, 1 ] actual=3 expected=1 generated_order=4 quotient_order=16 time=0.680
+NONIC55_WITT_FROBENIUS degree=1 class=[ 0, 9, 1 ] actual=2 expected=2 generated_order=16 quotient_order=16 time=0.690
+NONIC55_WITT_CHARACTER_VERIFIED samples=2 orientation_units={ 3 } all_Picard_mod4=true time=0.690
+NONIC55_CUSP_FIBRE width=11 expected_frobenius_order=4 degrees=[ 4 ] time=1.810
+NONIC55_CUSP_FIBRE width=5 expected_frobenius_order=2 degrees=[ 2, 2 ] time=1.880
+NONIC55_CUSP_FIBRE width=1 expected_frobenius_order=4 degrees=[ 4 ] time=12.870
+NONIC55_CUSP_FIBRE width=55 expected_frobenius_order=1 degrees=[ 1, 1, 1, 1 ] time=12.990
+NONIC55_COVER_GEOMETRY genus17=true split_rational_cusp=true unramified_by_RH=true time=13.030
+NONIC55_VERIFIED_GENUS17_MODEL_DONE
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 0, 1, 8, 0 ] h0=1 time=13.760
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 0, 2, 1, 6 ] h0=1 time=14.370
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 0, 8, 1, 0 ] h0=1 time=15.050
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 1, 0, 0, 8 ] h0=1 time=15.800
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 1, 0, 6, 2 ] h0=1 time=16.400
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 2, 6, 0, 1 ] h0=1 time=16.980
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 6, 1, 2, 0 ] h0=1 time=17.570
+NONIC55_EXCEPTION_ORDINARY_RR vector=[ 0, 8, 0, 0, 1 ] h0=1 time=18.290
+NONIC55_QUOTIENT_CUSP_IMAGE G=[ 5, 5, 10, 1200, 0 ] H=[ 5, 10, 1200 ] two_primary_order=32 time=741.940
+NONIC55_QUOTIENT_INJECTIVITY_AND_RR_DONE

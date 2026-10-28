@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "CM_supports_tested": 8,
+  "exact_chart_tests": 6,
+  "conservative_pole_chart_tests": 2,
+  "pole_candidates_per_test": 4,
+  "excluded_CM_supports": [
+    3,
+    4,
+    5,
+    7
+  ],
+  "remaining_CM_supports": [
+    1,
+    2,
+    6,
+    8
+  ],
+  "forced_nonrational_cubic_complement_verified": true,
+  "primitive_cubic_descent_verified": true,
+  "independent_checked_11_isogenies": 36
+}

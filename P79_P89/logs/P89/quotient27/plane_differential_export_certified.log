@@ -1,0 +1,8 @@
+Loading "work/degree9/prime_orders/continued_20261026/P89/quotient27/canonical_data.m"
+NONIC89_QUOTIENT_CANONICAL_DATA_READY
+Loading "work/degree9/prime_orders/continued_20261026/P89/quotient27/jmap_q_data.m"
+NONIC89_QUOTIENT_JMAP_Q_DATA_READY
+NONIC89_PLANE_PROJECTION q_orders=[ 25, 26, 29 ] max_plane_degree=28 separable=true time=2.400
+NONIC89_PLANE_AF_COORDINATES degree=25 ubase=false vbase=true ugen=true vgen=false time=24.970
+NONIC89_PLANE_MODEL genus=27 plane_degree=28 AF_degree=25 time=24.970
+NONIC89_PLANE_DIFFERENTIAL_DATA_COMPLETE genus=27 plane_degree=28 AF_degree=25 basis_dimension=27 coefficient_base_coordinate=2 time=28.780

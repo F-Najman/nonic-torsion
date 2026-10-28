@@ -1,0 +1,13 @@
+{
+  "N": 71,
+  "integral_homology_rank": 352,
+  "actual_JOne": true,
+  "sign": 0,
+  "q_operators": [
+    3
+  ],
+  "common_binary_kernel_dimension": 0,
+  "diamond32_difference_rank_on_kernel": 0,
+  "diamond_order": 7,
+  "status": "PASS"
+}

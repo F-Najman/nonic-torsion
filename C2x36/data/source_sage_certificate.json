@@ -1,0 +1,27 @@
+{
+  "complete": true,
+  "degree": 9,
+  "prime": 5,
+  "closed_place_counts": [
+    0,
+    0,
+    48,
+    120,
+    720,
+    2904,
+    10416,
+    50334,
+    218080
+  ],
+  "full_orbit_counts": [
+    2,
+    5,
+    30,
+    126,
+    434,
+    2115,
+    9088
+  ],
+  "pure_orbits": 11800,
+  "full_action_order": 24
+}

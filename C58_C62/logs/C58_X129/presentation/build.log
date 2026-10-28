@@ -1,0 +1,3 @@
+PRESENTATION_MODEL N=29 p=3 genus=22 integral_monic_degree=11 natural_pole_degree=11 known_Pic_order=1583363948544 time=7.090
+NONIC58_N29_PROVEN_PRESENTATION_READY invariants=[ 4, 4, 4, 8, 8, 386563464, 0 ] fb_size=3535 relation_rows=4440 fb_bound=9 native_proven=true time=392.350
+NONIC58_N29_PRESENTATION_COMPLETE N=29 fb_size=3535 relation_rows=4440 no_place_mapping_started=true time=395.850

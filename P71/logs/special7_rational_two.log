@@ -1,0 +1,8 @@
+RATIONAL_TWO_START N=71 Qs=[ 3, 5 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=71 dimension=176 time=8.260
+RATIONAL_TWO_HOMOLOGY N=71 rank=352 time=8.260
+RATIONAL_TWO_DIAMOND N=71 dimension=352 time=153.680
+RATIONAL_TWO_HECKE_START N=71 q=3 time=153.700
+RATIONAL_TWO_KERNEL N=71 q=3 kernel_dimension=0 diamond_difference_rank=0 time=154.480
+NONIC_ODD_DIAMOND_NORM N=71 a=32 power=5 order=7 verified=true
+RATIONAL_TWO_DONE N=71 kernel_dimension=0 diamond_trivial=true time=154.500

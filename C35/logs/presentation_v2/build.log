@@ -1,0 +1,3 @@
+PRESENTATION_MODEL N=35 p=3 genus=25 integral_monic_degree=15 natural_pole_degree=15 known_Pic_order=14529850982400 time=50.720
+PRESENTATION_RELATIONS_READY invariants=[ 4, 4, 8, 520, 218297040, 0 ] fb_size=3592 relation_rows=4519 fb_bound=9 native_proven=true time=2060.570
+PRESENTATION_CHECKPOINT_SAVED N=35 fb_size=3592 relation_rows=4519 no_place_mapping_started=true time=2071.980

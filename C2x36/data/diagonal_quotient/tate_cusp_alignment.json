@@ -1,0 +1,66 @@
+{
+  "complete": true,
+  "global_closed_cusps": {
+    "1": 4,
+    "2": 10,
+    "4": 2
+  },
+  "reduction5_closed_cusps": {
+    "1": 8,
+    "2": 12
+  },
+  "signature_functions": 13,
+  "distinct_global_signatures": 16,
+  "alignment_assignments_checked": 16,
+  "alignment_independent": true,
+  "gamma7": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    6,
+    8,
+    10,
+    9,
+    11,
+    12,
+    13,
+    14,
+    16,
+    15,
+    17,
+    19,
+    18,
+    20
+  ],
+  "diamond7": [
+    2,
+    1,
+    4,
+    3,
+    5,
+    7,
+    6,
+    8,
+    10,
+    9,
+    11,
+    13,
+    12,
+    14,
+    16,
+    15,
+    20,
+    19,
+    18,
+    17
+  ],
+  "globally_rational_cusp_indices": [
+    1,
+    2,
+    17,
+    20
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "degree": 9,
+  "group": [
+    1,
+    85
+  ],
+  "status": "PORTABLE FINAL LAUNCHER",
+  "portable_manifest_sha256": "adb9fb0a356af3f1a8ba471e8af71d49a5eef7c2635660ed7359b750e5a9c389",
+  "independent_checker": "prime_orders/continued_20261026/certify_85_final_readonly.py",
+  "files": [
+    {
+      "path": "prime_orders/continued_20261026/certify_85_final_readonly.py",
+      "sha256": "c6276113cc0b63380aa841911249f99d0177bfcb04aa429d65d4388f9575cd0a"
+    },
+    {
+      "path": "prime_orders/continued_20261026/composite85/portability_supplement/launcher_provenance.tex",
+      "sha256": "ecdc292fb1b37c0ed7a96399cb05911dc3c7a4a487f0e0911d096797778dc034"
+    }
+  ]
+}

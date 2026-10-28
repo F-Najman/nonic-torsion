@@ -1,0 +1,20 @@
+{
+  "complete": true,
+  "source_example": 11,
+  "global_point_degree": 9,
+  "global_field_polynomial_irreducible": true,
+  "global_field_discriminant_5adic_valuation": 0,
+  "prime": 5,
+  "residue_polynomial": [
+    4,
+    2,
+    1
+  ],
+  "residue_degree": 2,
+  "good_reduction": true,
+  "direct_enumerated_affine_pairs": 625,
+  "curve_order": 33,
+  "point_order": 33,
+  "full_global_torsion_order": 33,
+  "reason": "Unramified odd-prime good reduction injects torsion; characteristic-zero point order33 is independently verified in the complete native classification."
+}

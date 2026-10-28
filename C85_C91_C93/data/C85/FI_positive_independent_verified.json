@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "rational_cusps": 32,
+  "candidate_rows": 133,
+  "columns": 225,
+  "rank": 122,
+  "relation_kernel_dimension": 11,
+  "nonzero_kernel_vectors_exhausted": 2047,
+  "minimum_cusp_prefix_cost": 32,
+  "kernel_prefix_cost_histogram": {
+    "32": 3,
+    "40": 4,
+    "48": 14,
+    "56": 24,
+    "64": 34,
+    "72": 52,
+    "80": 124,
+    "84": 64,
+    "88": 184,
+    "92": 64,
+    "96": 456,
+    "100": 256,
+    "104": 288,
+    "112": 288,
+    "120": 128,
+    "128": 64
+  },
+  "all_degree9_prefix_configurations_independent": true,
+  "normalized_configurations_by_maximum_at_first_cusp": {
+    "1": 7888725,
+    "2": 8872231,
+    "3": 1932416,
+    "4": 324601,
+    "5": 46376,
+    "6": 5456,
+    "7": 496,
+    "8": 31,
+    "9": 1
+  },
+  "normalized_configurations_total": 19070333,
+  "finite_image_polynomial_T3": [
+    4,
+    12,
+    12,
+    6,
+    1
+  ],
+  "q_Hecke_relations_verified": true,
+  "independent_M4RI_rank": 122,
+  "input_sha256": {
+    "canonical_unit_stage1_data.m": "bf635c22984ede0b0186299a0167c2176891b6f87c05c23524f1681b2105949e",
+    "FI_positive_data.m": "4d3a166c3586a4e4c0a492646cfc65706df73942b27368017b44233b2ebbcad1",
+    "FI_positive_rows.txt": "d6ffb21b3642b59e0abfb1be1123cf9e8c4d26624ad937764f914499b07838b4"
+  }
+}

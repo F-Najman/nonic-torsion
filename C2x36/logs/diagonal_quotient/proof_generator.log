@@ -1,0 +1,21 @@
+Loading "work/degree9/noncyclic/C236_completion_20261026/diagonal_quotient/cusp_units_model.m"
+Loading "work/degree9/noncyclic/C236_completion_20261026/diagonal_quotient/model.m"
+C236_DELTA13_QUOTIENT_CUBIC_FACTORS [ 1, 3 ]
+0.060
+Loading "work/degree9/noncyclic/C236_completion_20261026/diagonal_quotient/cusp_permutations.m"
+C236_DELTA13_CUBIC_AUT_ORBITS [ 1, 3, 5, 11 ]
+2.020
+C236_DELTA13_UNTOUCHED_FULL_NATIVE_T7_CONTROL_EQUAL degree=24 10.500
+C236_DELTA13_A7_CLASS_ORDERS 1 8 8
+C236_DELTA13_A7_EXACT_ORDER8_DIRECT_RR_PASS
+C236_DELTA13_JACOBIAN_IMAGE_COSETS [ 3, 3, 3, 24, 24, 24 ]
+[]
+[ 0 ]
+C236_DELTA13_GLOBAL_RATIONAL_CUSP_GROUP [ 3, 12, 12, 24 ]
+false
+C236_DELTA13_FULL_FINITE_A7_HOM_PASS [ 3, 3, 3, 24, 24, 24 ]
+[ 8 ]
+index 8
+C236_DELTA13_CUBIC_T7_CASE 1 9 false 12.480
+C236_DELTA13_PROOF_GENERATOR_CERTIFICATE_DONE remaining []
+complete=true 12.490

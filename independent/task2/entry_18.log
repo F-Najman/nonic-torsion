@@ -1,0 +1,43 @@
+Loading "vh_deg9.m"
+ENTRY idx=18 srcline=271 N=42 extra=degj = 1, j = -140625/8,
+FIELDPOLY t^9 + 7*t^6 - 3*t^4 + 4*t^3 - 3*t^2 + 3*t - 1
+POINT_ORDER 42
+ORDER_CHECK N=42 exact=true
+FIELD_DISC -272097792 = [ <2, 9>, <3, 12> ]
+SIGNATURE (3,3)
+GALOIS order=18 transitive_id=9T4
+SUBFIELD_DEGREES [ 9, 3, 3 ]
+CUBIC_SUBFIELD t^3 + 3*t^2 + 8 disc -648
+CUBIC_SUBFIELD t^3 + 6*t^2 + 3*t - 1 disc 81
+J_DEGREE 1
+J_MINPOLY t + 140625/8
+J_INTEGRAL false
+J_RATIONAL -140625/8
+CM false (j not integral)
+BASECHANGE subfield_deg=1 j_in_subfield=true twist_class_in_subfield=true
+BASECHANGE_ISOMORPHIC true
+BASECHANGE_MODEL_OVER_Q [ 1, -1, 1, -5, 5 ] conductor 162
+BASECHANGE_TORSION_OVER_Q [ 3 ]
+BASECHANGE subfield_deg=3 j_in_subfield=true twist_class_in_subfield=true
+BASECHANGE_ISOMORPHIC true
+BASECHANGE_MODEL_OVER_SUBFIELD [
+0,
+0,
+0,
+1/66027374655255421875*(-434*F.1^2 + 266*F.1 - 961),
+1/2660153168897818959504638671875*(75606*F.1^2 - 46338*F.1 + 167414)
+]
+BASECHANGE_TORSION_OVER_SUBFIELD [ 6 ]
+BASECHANGE subfield_deg=3 j_in_subfield=true twist_class_in_subfield=true
+BASECHANGE_ISOMORPHIC true
+BASECHANGE_MODEL_OVER_SUBFIELD [
+0,
+0,
+0,
+1/198082123965766265625*(2538371*F.1^2 + 13160927*F.1 - 3113773),
+1/2660153168897818959504638671875*(-3406387958*F.1^2 - 17661414842*F.1 + 4178553420)
+]
+BASECHANGE_TORSION_OVER_SUBFIELD [ 21 ]
+REDUCTION_GCD 42 from 41 places; first: [ <5, 3, 126>, <5, 6, 15876>, <7, 3, 378>, <7, 6, 117180>, <11, 3, 1260>, <11, 3, 1260>, <11, 3, 1260>, <13, 3, 2268> ]
+TORSION_SUBGROUP [ 42 ]
+DONE idx=18 time=0.520

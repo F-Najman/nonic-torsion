@@ -1,0 +1,25 @@
+NONIC33_D9_FROBENIUS_ORDER order=635604750 time=0.330
+NONIC33_D9_MODEL_READY genus=21 Q_cusp_orbits=17 finite_cusps=18 time=7.770
+NONIC33_D9_GROUP_READY invariants=[ 15, 42373650, 0 ] rational_image=[ 5, 42373650 ] time=133.720
+NONIC33_D9_COUNTS_VERIFIED noncuspidal=[ 0, 0, 0, 0, 2, 20, 30, 25, 50 ] all_places=[ 10, 5, 0, 0, 4, 20, 30, 25, 50 ] time=134.780
+NONIC33_D9_KNOWN_CLASSES septic_plus_degree2cusp=600 octic_plus_cusp=50 nonic=10 time=135.600
+NONIC33_D9_Q_EFFECTIVE divisors=144250 classes=144250 time=135.750
+NONIC33_D9_ALL_CUSPS divisors=146260 classes=146260 time=135.910
+NONIC33_D9_COMPLEMENTS degree=0 divisors=1 classes=1
+NONIC33_D9_COMPLEMENTS degree=1 divisors=10 classes=10
+NONIC33_D9_COMPLEMENTS degree=2 divisors=60 classes=60
+NONIC33_D9_COMPLEMENTS degree=3 divisors=270 classes=270
+NONIC33_D9_COMPLEMENTS degree=4 divisors=1005 classes=1005
+NONIC33_D9_TEST_TYPE noncuspidal_degree=0 total=146260 in_rational_image=144250 rational_effective=144250 candidates=0 time=136.420
+NONIC33_D9_TEST_TYPE noncuspidal_degree=5 total=2010 in_rational_image=0 rational_effective=0 candidates=0 time=136.430
+NONIC33_D9_TYPE_PROGRESS degree=6 place=20/20 time=136.440
+NONIC33_D9_TEST_TYPE noncuspidal_degree=6 total=5400 in_rational_image=0 rational_effective=0 candidates=0 time=136.440
+NONIC33_D9_TYPE_PROGRESS degree=7 place=20/30 time=136.440
+NONIC33_D9_TEST_TYPE noncuspidal_degree=7 total=1800 in_rational_image=600 rational_effective=0 candidates=600 time=136.450
+NONIC33_D9_TYPE_PROGRESS degree=8 place=20/25 time=136.450
+NONIC33_D9_TEST_TYPE noncuspidal_degree=8 total=250 in_rational_image=50 rational_effective=0 candidates=650 time=136.450
+NONIC33_D9_TYPE_PROGRESS degree=9 place=20/50 time=137.880
+NONIC33_D9_TYPE_PROGRESS degree=9 place=40/50 time=139.270
+NONIC33_D9_TEST_TYPE noncuspidal_degree=9 total=50 in_rational_image=20 rational_effective=0 candidates=670 time=140.000
+NONIC33_D9_CLASSIFICATION_COMPLETE candidates=670 septic_plus_degree2cusp=600 octic_plus_cusp=50 nonic_classes=10 unknown=10 complete_enumeration=true time=140.030
+NONIC33_D9_TYPE_COUNTS [ <0, 146260, 144250, 144250>, <5, 2010, 0, 0>, <6, 5400, 0, 0>, <7, 1800, 600, 0>, <8, 250, 50, 0>, <9, 50, 20, 0> ]

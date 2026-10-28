@@ -1,0 +1,5 @@
+NONIC55_GOOD9_SETUP genus=81 all_places=40 representatives=2 time=373.590
+NONIC55_GOOD9_CASE index=1 principal=false time=448.740
+NONIC55_FULL_NATIVE_EQUAL degree=36 time=788.050
+NONIC55_GOOD9_CASE index=2 principal=false time=870.070
+NONIC55_GOOD9_DONE all_places=40 representatives=2 complete=true time=870.520

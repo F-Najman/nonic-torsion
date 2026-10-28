@@ -1,0 +1,18 @@
+{
+  "level": 247,
+  "H_generator": 40,
+  "H_order": 18,
+  "H_fixes_P13": true,
+  "source_cusp_count": 432,
+  "H_free_on_source_cusps": true,
+  "quotient_cusp_count": 24,
+  "global_signature": {
+    "1": 12,
+    "6": 2
+  },
+  "F2_signature": {
+    "1": 12,
+    "6": 2
+  },
+  "all_F2_cusps_lift_to_same_global_degree": true
+}

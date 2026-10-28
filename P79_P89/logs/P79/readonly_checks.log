@@ -1,0 +1,22 @@
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_q_identities_complete.py']
+NONIC79_CANONICAL_Q_IDENTITIES_INDEPENDENT_PASS {"H_index": 3, "N": 79, "auxiliary_G_space_dimension": 15, "canonical_data_sha256": "75ca6dd5356552d47e0e5530e13fec93bed428261f8bdf270058b14c95a4f415", "canonical_diamond3_exact_order": 3, "degree8_canonical_product_rank": 255, "genus": 18, "j_denominator_equals_Delta_times_G": true, "j_numerator_equals_E4cubed_times_G": true, "jmap_data_sha256": "ce67a4333860971c90704a1a901f87b5316d8b634bb5010cae522054a8906951", "q_basis_rank_through_Sturm40": 18, "quadratic_product_rank": 51, "quadratic_relation_rank": 120, "status": "Q_IDENTITIES_PASS; finite geometric j-map checks separately required", "verified_q_precision": 600, "weight16_Sturm_bound": 320, "weight4_Sturm_bound": 80}
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_winding.py']
+NONIC79_FINITE_IMAGE_WINDING_INDEPENDENT_PASS {"T3_factor_degrees": [1, 5, 12], "alpha_annihilates_every_winding_zero_factor": true, "alpha_rank": 12, "diamond3_invariant_dimension": 6, "diamond3_minimal_polynomials": [["-1", "1"], ["-1", "1"], ["1", "1", "1"]], "finite_image_operator": "diamond3-1", "genus": 18, "status": "PASS", "winding_zero_flags": [true, false, false]}
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_finite_keys.py']
+NONIC79_FINITE_CANONICAL_KEYS_INDEPENDENT_PASS {"canonical_j_identity_checked_at_all_keys": true, "canonical_quadrics_checked": 120, "source_diamond_orbits": 4, "source_orbit_lengths": [3, 3, 3, 3], "source_places": 12, "status": "PASS", "target_fibers_checked": {"1": 6, "2": 6}}
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_canonical_ring_tensor_readonly.py']
+NONIC79_CANONICAL_TENSOR_PROGRESS 0 0.13708654302172363
+NONIC79_CANONICAL_TENSOR_PROGRESS 20 0.28487162408418953
+NONIC79_CANONICAL_TENSOR_PROGRESS 40 0.46303226007148623
+NONIC79_CANONICAL_TENSOR_PROGRESS 60 0.6654915430117399
+NONIC79_CANONICAL_TENSOR_PROGRESS 80 0.9973707660101354
+NONIC79_CANONICAL_TENSOR_PROGRESS 100 1.387788678985089
+NONIC79_CANONICAL_RING_TENSOR_READONLY_PASS products=14161 q_precision600 Sturm320
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_multiplication_certificate_readonly.py']
+NONIC79_CANONICAL_JETS_INDEPENDENT_PASS representatives=4 smooth_rank16 source_orbit_jets=12
+NONIC79_CANONICAL_EVALUATIONS_READY 0.19670699816197157
+NONIC79_MULTIPLICATION_CERTIFICATE_READONLY_PASS cases=48 rank119 explicit_sections_vanish_positive=true time= 0.4701620121486485
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/P79/quotient18/verify_ranks_m4ri.py']
+NONIC79_SMALL_MATRICES_SAGE_M4RI_PASS cases=48 rank=119 time= 0.3066698289476335
+CHECK ['/opt/sage/envs/sage/bin/python3', 'work/degree9/prime_orders/continued_20261026/verify_FI_relations.py', 'work/degree9/prime_orders/continued_20261026/P79/FI_rows.txt']
+NONIC_INDEPENDENT_FI_RELATION_KERNEL_PASS {"H_index": 13, "Tn": 2, "checked_nonzero_relations": 15, "degree": 9, "diamond_generator": 3, "full_binary_rank": 53, "input_columns": 4356, "input_rows": 57, "method": "exhaustive complete relation kernel; every relation needs prefix mass>9", "minimum_prefix_mass": 13, "p": 79, "prefix_configurations": 34347, "rank_all": 9, "relation_kernel_dimension": 4, "status": "PASS"}

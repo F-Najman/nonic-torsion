@@ -1,0 +1,38 @@
+{
+  "degree": 9,
+  "complete": true,
+  "excluded_cyclic_orders": [
+    95
+  ],
+  "proof": "exclusion95.tex",
+  "method": "finite order3 diamond stability; push trace todegree3 onX0(95); all20 Cartier formal-immersion restrictions",
+  "source_genus": 289,
+  "source_diamond": 11,
+  "source_diamond_order": 3,
+  "source_gonality_bound": "43875/1024",
+  "source_principal_degree_bound": 36,
+  "X0_genus": 9,
+  "X0_rational_rank": 0,
+  "Cartier_rank": 7,
+  "Cartier_minus_one_dimension": 8,
+  "cuspidal_degree3_configurations": 20,
+  "FI_exceptions": 0,
+  "files": {
+    "exclusion95.tex": "28d32f47ed788fe0eff241e94a8ff14e305a3c989520c11d66f18a2f3d8ec17a",
+    "dyadic_lemma95.tex": "768cbdecfcdb33617d23c72d31fe69c231e10c4c77abc2c9dacd34bc8fa13599",
+    "x095_fi3.m": "7d7cb4ee56fee3728536bf57456c9c092cb94a9bbf94505ec3a8ed00df12cd55",
+    "x095_fi3.log": "91cb43d3d0a8c1dfc5b7685bf4d569d5c4748c3d70985cb4b5d5048e0698f41e",
+    "fi3_data.json": "7d6d5a2fade277f8e6b85cd6572c5ebcbe2aa6ce6c884563ba69d1230bae8234",
+    "replay_fi95.py": "f9c652b51d8986ed72503da1d956221294a0256d1e5d18e59a9cb9e011c2805d",
+    "replay_fi95.log": "4a56491837c374f0ad2675b83b13d3442ffc4d953944e6e8ced206cb56f3ff27",
+    "winding_probe.m": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01",
+    "winding95.log": "f381c586e13f3e825034ee9100e39e3b7184568177039ad0e0b14d1fc9de648f",
+    "check_diamond95.m": "6dbb46158133f5c9b3d8bd70d728e9fb312a3b76d93675f5788b51f377f25e5b",
+    "check_diamond95.log": "8129fb4a98eccc202dbd3b826b200b21eb954654142b09b2c1469e05b89f353f",
+    "finite_trace_check95.py": "1e003004743df260248c1c81a2d8a5537a3945435bd106198d036f38c170dd43",
+    "finite_trace_check95.log": "86352fb76dc097faeaf579ccd3da0e562cce74835ccba081622fe48bb3d8c4a0",
+    "finite_trace_certificate.json": "b878f1136883384719299c790c37cbd804058ce2a8582c7964b33d08da1db83d",
+    "certify95.py": "6053cf0f171e9859a71dcc8cbc6d82d8ad763c416098334004ed91b1324982f4",
+    "dcm_list_all_min_orders_X1_10k.m": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+  }
+}

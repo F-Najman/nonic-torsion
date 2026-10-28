@@ -1,0 +1,13 @@
+{
+  "degree": 9,
+  "source_order": 51,
+  "geometry_file_sha256": "dac58b2d2b6e306e7bd198620e09a4f73f3c8810db5a2a085ff76f7915d4c9cf",
+  "tested_divisors": 3333248,
+  "exceptions_count": 0,
+  "exceptions": [],
+  "pure9_rational_cusps_separate_control": 16,
+  "all_cuspidal_divisors": 3333264,
+  "complete_enumeration": true,
+  "elapsed_seconds": 2.2948134450707585,
+  "status": "FULL_RANK"
+}

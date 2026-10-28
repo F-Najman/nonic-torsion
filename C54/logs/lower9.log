@@ -1,0 +1,58 @@
+Loading "work/degree9/realizations/continuation/C54/preflight_module9.m"
+NONIC54_F2_CLASSES [ 3, 3, 52497, 0 ]
+[ 3, 3, 52497 ]
+5.760
+NONIC54_F2_NC_DEGREE 1 0 5.820
+NONIC54_F2_NC_DEGREE 2 0 5.840
+NONIC54_F2_NC_DEGREE 3 0 5.840
+NONIC54_F2_NC_DEGREE 4 0 5.840
+NONIC54_F2_NC_DEGREE 5 0 5.840
+NONIC54_F2_NC_DEGREE 6 9 5.840
+NONIC54_F2_NC_DEGREE 7 9 5.850
+NONIC54_F2_NC_DEGREE 8 18 5.860
+NONIC54_F2_NC_DEGREE 9 91 5.900
+NONIC54_F2_CANDIDATES 2413 [ <6, 9, 192>, <7, 9, 48>, <8, 18, 9>, <9, 91, 1> ]
+46.260
+NONIC54_F5_CLASSES [ 3, 3, 342175446, 0 ]
+[ 3, 3, 52497 ]
+cuspidal_relations_equal=true 81.270
+NONIC54_F5_CUSP_CLASSES 0 1 82.540
+NONIC54_F5_CUSP_CLASSES 1 9 83.750
+NONIC54_F5_CUSP_CLASSES 2 48 84.970
+NONIC54_F5_CUSP_CLASSES 3 192 86.210
+NONIC54_F5_CUSP_CLASSES 4 636 87.440
+NONIC54_F5_CUSP_CLASSES 5 1836 88.750
+NONIC54_F5_CUSP_CLASSES 6 4763 90.850
+NONIC54_CROSSPRIME_PREFLIGHT_DONE 90.850
+NONIC54_F2_CUSP_DEGREES [ 2, 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1 ]
+NONIC54_F5_CUSP_DEGREES [ 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1, 2 ]
+Loading "work/degree9/realizations/continuation/C54/retained/pair_af_place_linear.m"
+NONIC54_LOWER_POINTS degree=2 all=9 rational2=0 inert=9 time=92.490
+NONIC54_LOWER_POINTS degree=3 all=57 rational2=30 inert=27 time=92.530
+NONIC54_LOWER_POINTS degree=4 all=171 rational2=171 inert=0 time=92.660
+NONIC54_LOWER_POINTS degree=5 all=612 rational2=396 inert=216 time=94.160
+NONIC54_LOWER_POINTS degree=6 all=2700 rational2=1890 inert=810 time=102.160
+NONIC54_LOWER_CLASSES degree=3 places=30 diamond_reps=4 time=102.930
+NONIC54_LOWER_CLASSES degree=4 places=171 diamond_reps=19 time=107.610
+NONIC54_LOWER_CLASSES degree=5 places=396 diamond_reps=44 time=352.030
+NONIC54_LOWER_CLASSES degree=6 places=1890 diamond_reps=212 time=1771.660
+NONIC54_LOWER_SINGLE_DONE degree=3 checked=19052 members=0 passing=0 time=1771.830
+NONIC54_LOWER_SINGLE_DONE degree=4 checked=53936 members=0 passing=0 time=1771.940
+NONIC54_LOWER_SINGLE_DONE degree=5 checked=81920 members=0 passing=0 time=1772.050
+NONIC54_LOWER_SINGLE_DONE degree=6 checked=122624 members=0 passing=0 time=1772.210
+NONIC54_LOWER_MIXED_DONE degrees=<3, 3> checked=145859 members=576 passing=3 time=1772.650
+NONIC54_LOWER_MIXED_DONE degrees=<3, 4> checked=178691 members=576 passing=3 time=1772.780
+NONIC54_LOWER_MIXED_DONE degrees=<3, 5> checked=192947 members=576 passing=3 time=1772.840
+NONIC54_LOWER_MIXED_DONE degrees=<3, 6> checked=200507 members=588 passing=7 time=1772.870
+NONIC54_LOWER_MIXED_DONE degrees=<4, 4> checked=229748 members=588 passing=7 time=1772.990
+NONIC54_LOWER_MIXED_DONE degrees=<4, 5> checked=237272 members=591 passing=9 time=1773.030
+NONIC54_LOWER_TRIPLES_DONE checked=239132 members=593 passing=10 time=1773.080
+NONIC54_GOOD7_PROGRESS tested=100 checked=243932 members=593 passing=10 time=1852.050
+NONIC54_GOOD7_PROGRESS tested=200 checked=248732 members=593 passing=10 time=1930.650
+NONIC54_GOOD7_PROGRESS tested=300 checked=253532 members=593 passing=10 time=2001.930
+NONIC54_GOOD7_PROGRESS tested=400 checked=258332 members=641 passing=10 time=2093.690
+NONIC54_GOOD7_PROGRESS tested=500 checked=263132 members=641 passing=10 time=2179.390
+NONIC54_GOOD7_PROGRESS tested=600 checked=267932 members=641 passing=10 time=2260.580
+NONIC54_GOOD7_PROGRESS tested=700 checked=272732 members=641 passing=10 time=2329.380
+NONIC54_GOOD7_PROGRESS tested=800 checked=277532 members=641 passing=10 time=2414.000
+NONIC54_LOWER_DONE good7=828 weighted7=11412 checked=278876 members=641 passing=10 complete=true time=2433.850

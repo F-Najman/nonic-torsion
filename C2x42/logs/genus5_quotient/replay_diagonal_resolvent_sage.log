@@ -1,0 +1,3 @@
+C242_G5_Q_DESCENT_IDENTITIES_SAGE_PASS
+C242_DIAGONAL_RESOLVENT_Q_FUNCTIONFIELD_IDENTITY_PASS
+C242_DIAGONAL_RESOLVENT_INDEPENDENT_SAGE_PASS {"complete": true, "characteristic_zero_resolvent_identity": true, "finite_source_checks": [{"source_orbit": 2, "quotient_degrees": [9, 3]}, {"source_orbit": 5, "quotient_degrees": [3, 9]}, {"source_orbit": 8, "quotient_degrees": [3, 9]}]}

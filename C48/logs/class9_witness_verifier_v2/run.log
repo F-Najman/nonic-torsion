@@ -1,0 +1,17 @@
+Loading "work/degree9/realizations/continuation/C48/portable_inputs.m"
+Loading "work/degree9/realizations/continuation/C48/parameter9/records.m"
+Loading "work/degree9/realizations/continuation/C48/class9_witness_verifier_v2/inputs.m"
+NONIC48_CLASS9_WITNESS_PROGRESS checked=50 time=12.960
+NONIC48_CLASS9_WITNESS_PROGRESS checked=100 time=20.240
+NONIC48_CLASS9_WITNESS_PROGRESS checked=150 time=27.680
+NONIC48_CLASS9_WITNESS_PROGRESS checked=200 time=34.570
+NONIC48_CLASS9_WITNESS_PROGRESS checked=250 time=41.760
+NONIC48_CLASS9_WITNESS_PROGRESS checked=300 time=48.660
+NONIC48_CLASS9_WITNESS_PROGRESS checked=350 time=56.010
+NONIC48_CLASS9_WITNESS_PROGRESS checked=400 time=63.010
+NONIC48_CLASS9_WITNESS_PROGRESS checked=450 time=70.170
+NONIC48_CLASS9_WITNESS_PROGRESS checked=500 time=77.170
+NONIC48_CLASS9_WITNESS_PROGRESS checked=550 time=84.310
+NONIC48_CLASS9_WITNESS_PROGRESS checked=600 time=91.470
+NONIC48_CLASS9_WITNESS_PROGRESS checked=650 time=98.360
+NONIC48_CLASS9_WITNESS_VERIFIER_DONE checked696=true both_orders_exact=true actual_point_bindings=true class_coordinates_recomputed=true no_RR_or_class_search=true complete=true time=104.590

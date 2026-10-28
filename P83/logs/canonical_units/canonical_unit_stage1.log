@@ -1,0 +1,9 @@
+NONIC83_CANONICAL_UNIT_NEWFORMS dimensions=[ 1, 6, 240 ] time=0.610
+NONIC83_CANONICAL_UNIT_EIGENFORM dimension=1 accumulated=1 time=0.850
+NONIC83_CANONICAL_UNIT_EIGENFORM dimension=6 accumulated=7 time=0.880
+NONIC83_CANONICAL_UNIT_EIGENFORM dimension=240 accumulated=247 time=3.710
+NONIC83_CANONICAL_UNIT_SATURATED_BASIS rank247=true precision1300=true Sturm_weight2=574 diamond2order41=true time=6.650
+NONIC83_TATE_UNIT_SERIES valuation_x=-1 valuation_y=-1 absolute_precision_x=1792 absolute_precision_y=1791 time=6.660
+NONIC83_CANONICAL_UNIT_RELATIONS x=158 y=153 exact_global_order_lower_bound=1298 section_degree_bounds=[582,587] time=8.290
+NONIC83_CANONICAL_UNIT_FINITE_RANK rank=246 expected246 time=8.330
+NONIC83_CANONICAL_UNIT_STAGE1_COMPLETE generic_rank246=true no_function_field_normalization=true time=8.360

@@ -1,0 +1,2 @@
+Loading "work/degree9/realizations/continuation/C35/known_octic35.m"
+NONIC35_GLOBAL_OCTIC_VERIFIED degree8=true exact_P35=true F3_inert=true field_polynomial=[ 5, -5, -25, 35, 19, -55, 36, -10, 1 ] curve_point=(a : -6*a^7 + 65*a^6 - 268*a^5 + 531*a^4 - 473*a^3 + 49*a^2 + 177*a - 74 : 1)

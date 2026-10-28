@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "source_places": 55,
+  "source_diamond_orbits": 5,
+  "source_orbit_lengths": [
+    11,
+    11,
+    11,
+    11,
+    11
+  ],
+  "canonical_quadrics_checked": 903,
+  "canonical_j_identity_checked_at_all_keys": true,
+  "target_fibers_checked": {
+    "1": 11,
+    "2": 11,
+    "3": 11,
+    "4": 11,
+    "5": 11,
+    "6": 11,
+    "7": 11
+  }
+}

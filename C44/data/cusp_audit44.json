@@ -1,0 +1,110 @@
+{
+  "level": 44,
+  "geometric_cusps": 50,
+  "global_signature": {
+    "1": 15,
+    "2": 5,
+    "5": 1,
+    "10": 2
+  },
+  "F3_signature": {
+    "1": 15,
+    "2": 5,
+    "5": 3,
+    "10": 1
+  },
+  "width_rows": [
+    {
+      "width": 1,
+      "global_degrees": [
+        10
+      ],
+      "finite_degrees": [
+        10
+      ]
+    },
+    {
+      "width": 2,
+      "global_degrees": [
+        5
+      ],
+      "finite_degrees": [
+        5
+      ]
+    },
+    {
+      "width": 4,
+      "global_degrees": [
+        10
+      ],
+      "finite_degrees": [
+        5,
+        5
+      ]
+    },
+    {
+      "width": 11,
+      "global_degrees": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "finite_degrees": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "width": 22,
+      "global_degrees": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "finite_degrees": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "width": 44,
+      "global_degrees": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "finite_degrees": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "all_F3_cusps_degree_le4_lift_as_rational_closed_divisors": true,
+  "all_cyclotomic_operators_fix_each_relevant_finite_orbit": true,
+  "complete": true
+}

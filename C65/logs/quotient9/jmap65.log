@@ -1,0 +1,22 @@
+Loading "work/degree9/cyclic/continuation_20261026/C65_quotient9/canonical_data.m"
+NONIC65_JMAP_E4_SECTION a=3 dimension=0 time=0.040
+NONIC65_JMAP_E4_SECTION a=4 dimension=8 time=0.070
+NONIC65_JMAP_BOTH_SECTION a=4 dimension=0 time=0.220
+NONIC65_JMAP_E4_SECTION a=5 dimension=24 time=0.260
+NONIC65_JMAP_BOTH_SECTION a=5 dimension=3 time=0.700
+NONIC65_JMAP_Q_CERTIFIED E4cubed_mod2_equals1=true weight=22 Sturm=528 precision=650 time=0.710
+Loading "work/degree9/cyclic/continuation_20261026/C65_quotient9/plane_model_data.m"
+NONIC65_FINITE_J_MODEL_READY jdegree168=true cusp_degree_width=[ <1, 1>, <1, 1>, <1, 65>, <1, 65>, <2, 5>, <2, 13> ] time=0.840
+NONIC65_RATIONAL_ORDER_BOUND prime=2 order=21504 gcd_so_far=21504 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=3 order=32256 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=7 order=49545216 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=11 order=2353128960 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=17 order=128245039104 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=19 order=449194636800 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=23 order=2039454144000 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=29 order=10353513332736 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=31 order=16996675917312 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=37 order=191919009300480 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=41 order=534630667124736 gcd_so_far=10752 time=0.870
+NONIC65_RATIONAL_ORDER_BOUND prime=43 order=370961156160000 gcd_so_far=10752 time=0.870
+NONIC65_JMODEL_AND_BOUNDS_COMPLETE

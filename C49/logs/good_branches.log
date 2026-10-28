@@ -1,0 +1,8 @@
+NONIC_PRIME_MODEL N=49 genus=69 alpha_diamond=1 time=149.230
+NONIC_PRIME_ENUM N=49 degree=9 all_places=42 diamond_reps=2 time=162.500
+NONIC_PRIME_TEST_START N=49 degree=9 index=1 q=3 time=162.860
+NONIC_PRIME_TEST_RESULT N=49 degree=9 index=1 q=3 principal=false time=186.280
+NONIC_PRIME_TEST_START N=49 degree=9 index=2 q=3 time=186.620
+NONIC_PRIME_TEST_RESULT N=49 degree=9 index=2 q=3 principal=false time=210.100
+NONIC_PRIME_DEGREE_SUMMARY N=49 degree=9 all_places=42 diamond_reps=2 surviving_indices=[] time=210.100
+NONIC_PRIME_GOOD_BRANCHES_COMPLETED N=49 summary=[ <9, 42, 2, 0> ] time=210.290

@@ -1,0 +1,5 @@
+Loading "work/degree9/parallel_expansion_20261026/N65_source_units/canonical_unit_data.m"
+Loading "work/degree9/parallel_expansion_20261026/N65_f9/records.m"
+NONIC65_HEC3_TARGET source=1 degree=36 norm_multiplicity=1 time=0.650
+NONIC65_ELLIPTIC_HECKE_JETS_SOURCE source=1 source_degree9=true target_closed_degrees=[ 36 ] norm_multiplicities=[ 1 ] all_unit_recovery_ranks120=true psi65_derivative_nonzero=true jet_precision5=true time=0.650
+NONIC65_ELLIPTIC_HECKE_JETS_STAGE2_COMPLETE

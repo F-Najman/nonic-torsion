@@ -1,0 +1,45 @@
+{
+  "complete": true,
+  "degree": 9,
+  "excluded_groups": [
+    [
+      2,
+      34
+    ],
+    [
+      1,
+      68
+    ]
+  ],
+  "source_counts": [
+    0,
+    0,
+    0,
+    36,
+    48,
+    48,
+    144,
+    738,
+    2160
+  ],
+  "source_orbit_counts": [
+    2,
+    1,
+    2,
+    3,
+    18,
+    45
+  ],
+  "full_action_order": 48,
+  "source_places": 3174,
+  "supports": 239,
+  "singles": 71,
+  "mixed44": 72,
+  "mixed45": 96,
+  "checked_map_variants": 243,
+  "normed_summands": 415,
+  "distinct_actual_images": 157,
+  "independent_velu2_images": 0,
+  "target_index": 128,
+  "remaining": 0
+}

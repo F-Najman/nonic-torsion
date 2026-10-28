@@ -1,0 +1,14 @@
+{'level': 55, 'genus': 17, 'cartier_image_dimension': 15, 'cusps': 5, 'projected_jet_matrices': 38, 'independent_projection_replay': True}
+{'level': 55, 'genus': 17, 'exact_kernel_equalities': 38, 'transported_blocks': 0, 'independent_kernel_transport_replay': True}
+FI_REPLAY_EXCEPTION {"index": 19, "rank": 8, "vector": [0, 0, 1, 8, 0], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 21, "rank": 8, "vector": [0, 0, 2, 1, 6], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 54, "rank": 8, "vector": [0, 0, 8, 1, 0], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 56, "rank": 8, "vector": [0, 1, 0, 0, 8], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 62, "rank": 8, "vector": [0, 1, 0, 6, 2], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 134, "rank": 8, "vector": [0, 2, 6, 0, 1], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 207, "rank": 8, "vector": [0, 6, 1, 2, 0], "orbit_size": 1}
+FI_REPLAY_EXCEPTION {"index": 217, "rank": 8, "vector": [0, 8, 0, 0, 1], "orbit_size": 1}
+FI_REPLAY_DONE {"level": 55, "diamonds": [], "degree": 9, "jet_factor": 1, "representatives": 280, "covered": 280, "enumerated": 280, "exceptions": 8, "complete": true}
+NONIC_ORDER5_QUOTIENT_CUSP_AUDIT_DONE 55
+NONIC55_CUSPIDAL_IMAGE_HNF_REPLAY_PASS
+NONIC55_READONLY_CERTIFICATE_PASS genus81 quotient17 good9_orbits2 all280_FI8exceptions_resolved rational2image32 complete=true

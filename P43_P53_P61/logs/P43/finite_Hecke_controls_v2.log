@@ -1,0 +1,15 @@
+Loading "work/degree9/prime_orders/continued_20261026/P43/input_records.m"
+Loading "work/degree9/prime_orders/continued_20261026/finite_and_Hecke_controls\
+_v2.m"
+NONIC_INDEPENDENT_FINITE_COVERAGE N=43 degree=7 all_closed_points=3 source_reps=1 qualifying_twists=1 time=0.040
+NONIC_INDEPENDENT_FINITE_COVERAGE N=43 degree=8 all_closed_points=42 source_reps=2 qualifying_twists=16 time=0.200
+NONIC_INDEPENDENT_FINITE_COVERAGE N=43 degree=9 all_closed_points=105 source_reps=5 qualifying_twists=45 time=0.810
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=7 index=1 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 14, 7 ] observations=[ 2, 2 ] weights=[ 1, 2 ] alpha=3 agrees=true time=0.820
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=8 index=1 native_maps=4 fast_orbits=2 weighted_image_degrees=[ 8, 24 ] observations=[ 1, 3 ] weights=[ 1, 1 ] alpha=3 agrees=true time=0.840
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=8 index=2 native_maps=4 fast_orbits=2 weighted_image_degrees=[ 24, 8 ] observations=[ 3, 1 ] weights=[ 1, 1 ] alpha=3 agrees=true time=0.850
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=9 index=1 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 18, 9, 9 ] observations=[ 2, 1, 1 ] weights=[ 1, 1, 1 ] alpha=3 agrees=true time=0.880
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=9 index=2 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 9, 9, 18 ] observations=[ 1, 1, 2 ] weights=[ 1, 1, 1 ] alpha=3 agrees=true time=0.890
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=9 index=3 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 9, 9, 18 ] observations=[ 1, 1, 2 ] weights=[ 1, 1, 1 ] alpha=3 agrees=true time=0.920
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=9 index=4 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 9, 9, 18 ] observations=[ 1, 1, 2 ] weights=[ 1, 1, 1 ] alpha=3 agrees=true time=0.950
+NONIC_INDEPENDENT_HECKE_CONTROL N=43 degree=9 index=5 native_maps=4 fast_orbits=3 weighted_image_degrees=[ 9, 18, 9 ] observations=[ 1, 2, 1 ] weights=[ 1, 1, 1 ] alpha=3 agrees=true time=0.970
+NONIC_FINITE_AND_HECKE_CONTROLS_COMPLETE N=43 inputs=8 time=0.970

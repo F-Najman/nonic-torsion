@@ -1,0 +1,25 @@
+C57_GENUINE_R1_R2_JETS_PASS 6/1/P ambient 6 closed 6 rank 84 seconds 2.15
+C57_GENUINE_R1_R2_JETS_PASS 6/1/5P ambient 6 closed 6 rank 84 seconds 2.36
+C57_GENUINE_R1_R2_JETS_PASS 6/1/25P ambient 6 closed 6 rank 84 seconds 2.56
+C57_GENUINE_R1_R2_JETS_PASS 6/1/T1 ambient 18 closed 18 rank 84 seconds 3.03
+C57_GENUINE_R1_R2_JETS_PASS 6/1/5T1 ambient 18 closed 18 rank 84 seconds 3.49
+C57_GENUINE_R1_R2_JETS_PASS 6/1/T2 ambient 18 closed 9 rank 84 seconds 3.98
+C57_GENUINE_R1_R2_JETS_PASS 6/1/5T2 ambient 18 closed 9 rank 84 seconds 4.45
+C57_ALL_SIX_KERNELS_AND_LEVEL_IMAGES_PASS 6 1
+C57_GENUINE_R1_R2_JETS_PASS 6/2/P ambient 6 closed 6 rank 84 seconds 4.68
+C57_GENUINE_R1_R2_JETS_PASS 6/2/5P ambient 6 closed 6 rank 84 seconds 4.9
+C57_GENUINE_R1_R2_JETS_PASS 6/2/25P ambient 6 closed 6 rank 84 seconds 5.11
+C57_GENUINE_R1_R2_JETS_PASS 6/2/T1 ambient 18 closed 9 rank 84 seconds 5.59
+C57_GENUINE_R1_R2_JETS_PASS 6/2/5T1 ambient 18 closed 9 rank 84 seconds 6.06
+C57_GENUINE_R1_R2_JETS_PASS 6/2/T2 ambient 18 closed 18 rank 84 seconds 6.54
+C57_GENUINE_R1_R2_JETS_PASS 6/2/5T2 ambient 18 closed 18 rank 84 seconds 7.01
+C57_ALL_SIX_KERNELS_AND_LEVEL_IMAGES_PASS 6 2
+C57_GENUINE_R1_R2_JETS_PASS 8/1/P ambient 8 closed 8 rank 84 seconds 8.33
+C57_GENUINE_R1_R2_JETS_PASS 8/1/5P ambient 8 closed 8 rank 84 seconds 8.55
+C57_GENUINE_R1_R2_JETS_PASS 8/1/25P ambient 8 closed 8 rank 84 seconds 8.75
+C57_GENUINE_R1_R2_JETS_PASS 8/1/T1 ambient 24 closed 24 rank 84 seconds 9.21
+C57_GENUINE_R1_R2_JETS_PASS 8/1/5T1 ambient 24 closed 24 rank 84 seconds 9.67
+C57_GENUINE_R1_R2_JETS_PASS 8/1/T2 ambient 24 closed 24 rank 84 seconds 10.14
+C57_GENUINE_R1_R2_JETS_PASS 8/1/5T2 ambient 24 closed 24 rank 84 seconds 10.61
+C57_ALL_SIX_KERNELS_AND_LEVEL_IMAGES_PASS 8 1
+C57_GOOD_HECKE_AND_GENUINE_JETS_INDEPENDENT_SAGE_PASS {"complete": true, "level": 57, "prime": 2, "genus": 85, "canonical_jet_precision": 16, "independent_genuine_R1_R2_arcs": 21, "source_cases": [{"source_degree": 6, "source_index": 1, "Hecke_closed_degrees": [18, 9], "Hecke_norm_weights": [1, 2]}, {"source_degree": 6, "source_index": 2, "Hecke_closed_degrees": [9, 18], "Hecke_norm_weights": [2, 1]}, {"source_degree": 8, "source_index": 1, "Hecke_closed_degrees": [24, 24], "Hecke_norm_weights": [1, 1]}], "independent_kernel_orbits": 6, "geometric_cyclic5_kernels": 18, "all_division_polynomial_norms_exact": true, "all_actual_P_5P_25P_images_verified": true, "supersingular_a1_deformation": true, "ordinary_a6_deformation": true, "all_unit_recovery_ranks84": true, "all_canonical_tangents_nonzero": true} seconds 10.626935050822794

@@ -1,0 +1,10 @@
+NONIC65_CONSTITUENT level=65 coefficient_dimension=1 old_divisors=[ 1 ] symbol_dimension=1 time=0.190
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.290
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.390
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.400
+NONIC65_CONSTITUENT level=65 coefficient_dimension=2 old_divisors=[ 1 ] symbol_dimension=2 time=0.410
+NONIC65_CANONICAL_MODEL_READY genus9=true degree16=true saturated_mod2=true all_old_divisors=true time=0.490
+NONIC65_PLANE_PROJECTION orders=[ 12, 8, 7 ] maxdegree=10 separable=true time=0.490
+NONIC65_PLANE_EQUATION_READY degree=9 time=0.520
+NONIC65_PLANE_NORMALIZATION_READY genus=9 AFdegree=6 time=0.570
+NONIC65_MODEL_CERTIFIED genus9=true all21canonical_quadrics=true inverse_projection=true time=0.640

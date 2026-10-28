@@ -1,0 +1,48 @@
+FACTOR M=19 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=2 winding_full=true
+FACTOR M=19 chi_order=9 chi_cond=19 degQchi=6 dim=1 absdim=6 mult=2 winding_full=true
+FACTOR M=133 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=false
+FACTOR M=133 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=true
+FACTOR M=133 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=false
+FACTOR M=133 chi_order=1 chi_cond=1 degQchi=1 dim=3 absdim=3 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=7 degQchi=2 dim=1 absdim=2 mult=1 winding_full=false
+FACTOR M=133 chi_order=3 chi_cond=7 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=7 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=7 degQchi=2 dim=7 absdim=14 mult=1 winding_full=true
+FACTOR M=133 chi_order=18 chi_cond=133 degQchi=6 dim=11 absdim=66 mult=1 winding_full=true
+FACTOR M=133 chi_order=18 chi_cond=133 degQchi=6 dim=12 absdim=72 mult=1 winding_full=true
+FACTOR M=133 chi_order=18 chi_cond=133 degQchi=6 dim=11 absdim=66 mult=1 winding_full=true
+FACTOR M=133 chi_order=9 chi_cond=19 degQchi=6 dim=5 absdim=30 mult=1 winding_full=true
+FACTOR M=133 chi_order=9 chi_cond=19 degQchi=6 dim=5 absdim=30 mult=1 winding_full=true
+FACTOR M=133 chi_order=9 chi_cond=133 degQchi=6 dim=11 absdim=66 mult=1 winding_full=true
+FACTOR M=133 chi_order=9 chi_cond=133 degQchi=6 dim=11 absdim=66 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=8 absdim=16 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=6 absdim=12 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=1 absdim=2 mult=1 winding_full=false
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=8 absdim=16 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=19 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=19 degQchi=2 dim=3 absdim=6 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=19 degQchi=2 dim=5 absdim=10 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=133 degQchi=2 dim=12 absdim=24 mult=1 winding_full=true
+FACTOR M=133 chi_order=3 chi_cond=133 degQchi=2 dim=12 absdim=24 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=3 absdim=6 mult=1 winding_full=true
+FACTOR M=133 chi_order=6 chi_cond=133 degQchi=2 dim=3 absdim=6 mult=1 winding_full=true
+FACTOR M=133 chi_order=2 chi_cond=133 degQchi=1 dim=2 absdim=2 mult=1 winding_full=true
+FACTOR M=133 chi_order=2 chi_cond=133 degQchi=1 dim=4 absdim=4 mult=1 winding_full=true
+FACTOR M=133 chi_order=2 chi_cond=133 degQchi=1 dim=4 absdim=4 mult=1 winding_full=true
+GENUS_GAMMA1 613
+SUMMARY Kind=J1 N=133 weighted_dim=613 genus=613 allfull=false time=0.760
+NONFULL M=133 chi_order=1 chi_cond=1 absdim=2 chi_trivial_at=[ 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 75, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 92, 93, 94, 96, 97, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 113, 115, 116, 117, 118, 120, 121, 122, 123, 124, 125, 127, 128, 129, 130, 131, 132 ]
+NONFULL M=133 chi_order=1 chi_cond=1 absdim=2 chi_trivial_at=[ 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 20, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 75, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 92, 93, 94, 96, 97, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 113, 115, 116, 117, 118, 120, 121, 122, 123, 124, 125, 127, 128, 129, 130, 131, 132 ]
+NONFULL M=133 chi_order=3 chi_cond=7 absdim=2 chi_trivial_at=[ 6, 8, 13, 15, 20, 22, 27, 29, 34, 36, 41, 43, 48, 50, 55, 62, 64, 69, 71, 78, 83, 85, 90, 92, 97, 99, 104, 106, 111, 113, 118, 120, 125, 127, 132 ]
+NONFULL M=133 chi_order=6 chi_cond=133 absdim=2 chi_trivial_at=[ 3, 9, 23, 27, 44, 52, 59, 64, 69, 74, 81, 89, 106, 110, 124, 130, 132 ]
+RANKCHECK_DONE

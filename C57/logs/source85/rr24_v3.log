@@ -1,0 +1,4 @@
+NONIC57_SOURCE85_RR24_CASE case=6 index=1 degree=42 positive_rank=42 negative_rank=42 multiplication_rank252=true final_rank=252 H_trials=[ 252 ] time=1.090
+NONIC57_SOURCE85_RR24_CASE case=6 index=2 degree=42 positive_rank=42 negative_rank=42 multiplication_rank252=true final_rank=252 H_trials=[ 252 ] time=1.130
+NONIC57_SOURCE85_RR24_CASE case=8 index=1 degree=88 positive_rank=88 negative_rank=88 multiplication_rank252=true final_rank=252 H_trials=[ 252 ] time=1.160
+NONIC57_SOURCE85_RR24_ALL_EXCLUSIONS_COMPLETE cases=3 time=1.180

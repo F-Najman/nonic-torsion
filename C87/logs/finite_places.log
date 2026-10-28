@@ -1,0 +1,151 @@
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/finite_common.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/finite_j_model_snapshot.m"
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/direct5/isogeny5_target_data.m"
+NONIC87_NATIVE5_TARGET_DATA_READY
+Loading "work/degree9/cyclic/continuation_20261026/C87_canonical33/jbase_relation_modular_data.m"
+NONIC87_MODULAR_JBASE_RELATION_READY
+NONIC87_FINITE_FIBER degree=9 places=4 finite_parameter_roots=4 infinity_checked=true time=22.320
+NONIC87_SOURCE_FIBER_COMPLETE index=1 degree9=true four_diamond_places=true time=24.770
+NONIC87_FINITE_FIBER degree=9 places=4 finite_parameter_roots=4 infinity_checked=true time=28.360
+NONIC87_SOURCE_FIBER_COMPLETE index=2 degree9=true four_diamond_places=true time=30.800
+NONIC87_FINITE_FIBER degree=9 places=4 finite_parameter_roots=4 infinity_checked=true time=34.380
+NONIC87_SOURCE_FIBER_COMPLETE index=3 degree9=true four_diamond_places=true time=36.830
+NONIC87_FINITE_FIBER degree=9 places=4 finite_parameter_roots=4 infinity_checked=true time=40.270
+NONIC87_SOURCE_FIBER_COMPLETE index=4 degree9=true four_diamond_places=true time=42.720
+NONIC87_FINITE_FIBER degree=54 places=16 finite_parameter_roots=16 infinity_checked=true time=77.540
+NONIC87_TARGET_FIBER_COMPLETE index=1 degree54=true all16_levels=true time=77.550
+NONIC87_FINITE_FIBER degree=54 places=16 finite_parameter_roots=16 infinity_checked=true time=112.030
+NONIC87_TARGET_FIBER_COMPLETE index=2 degree54=true all16_levels=true time=112.030
+NONIC87_FINITE_FIBER degree=54 places=16 finite_parameter_roots=16 infinity_checked=true time=146.890
+NONIC87_TARGET_FIBER_COMPLETE index=3 degree54=true all16_levels=true time=146.900
+NONIC87_FINITE_FIBER degree=54 places=16 finite_parameter_roots=16 infinity_checked=true time=182.190
+NONIC87_TARGET_FIBER_COMPLETE index=4 degree54=true all16_levels=true time=182.190
+NONIC87_DIRECT_A5_RR_START source=1 target=1 time=182.220
+NONIC87_DIRECT_A5_RR_DONE source=1 target=1 dimension=0 time=198.360
+NONIC87_DIRECT_A5_RR_START source=1 target=2 time=198.360
+NONIC87_DIRECT_A5_RR_DONE source=1 target=2 dimension=0 time=221.020
+NONIC87_DIRECT_A5_RR_START source=1 target=3 time=221.020
+NONIC87_DIRECT_A5_RR_DONE source=1 target=3 dimension=0 time=233.910
+NONIC87_DIRECT_A5_RR_START source=1 target=4 time=233.910
+NONIC87_DIRECT_A5_RR_DONE source=1 target=4 dimension=0 time=259.030
+NONIC87_DIRECT_A5_RR_START source=1 target=5 time=259.030
+NONIC87_DIRECT_A5_RR_DONE source=1 target=5 dimension=0 time=274.220
+NONIC87_DIRECT_A5_RR_START source=1 target=6 time=274.220
+NONIC87_DIRECT_A5_RR_DONE source=1 target=6 dimension=0 time=291.990
+NONIC87_DIRECT_A5_RR_START source=1 target=7 time=291.990
+NONIC87_DIRECT_A5_RR_DONE source=1 target=7 dimension=0 time=303.650
+NONIC87_DIRECT_A5_RR_START source=1 target=8 time=303.650
+NONIC87_DIRECT_A5_RR_DONE source=1 target=8 dimension=0 time=319.020
+NONIC87_DIRECT_A5_RR_START source=1 target=9 time=319.020
+NONIC87_DIRECT_A5_RR_DONE source=1 target=9 dimension=0 time=336.710
+NONIC87_DIRECT_A5_RR_START source=1 target=10 time=336.710
+NONIC87_DIRECT_A5_RR_DONE source=1 target=10 dimension=0 time=368.230
+NONIC87_DIRECT_A5_RR_START source=1 target=11 time=368.230
+NONIC87_DIRECT_A5_RR_DONE source=1 target=11 dimension=0 time=382.850
+NONIC87_DIRECT_A5_RR_START source=1 target=12 time=382.850
+NONIC87_DIRECT_A5_RR_DONE source=1 target=12 dimension=0 time=400.740
+NONIC87_DIRECT_A5_RR_START source=1 target=13 time=400.740
+NONIC87_DIRECT_A5_RR_DONE source=1 target=13 dimension=0 time=411.570
+NONIC87_DIRECT_A5_RR_START source=1 target=14 time=411.570
+NONIC87_DIRECT_A5_RR_DONE source=1 target=14 dimension=0 time=427.290
+NONIC87_DIRECT_A5_RR_START source=1 target=15 time=427.290
+NONIC87_DIRECT_A5_RR_DONE source=1 target=15 dimension=0 time=441.960
+NONIC87_DIRECT_A5_RR_START source=1 target=16 time=441.960
+NONIC87_DIRECT_A5_RR_DONE source=1 target=16 dimension=0 time=469.140
+NONIC87_DIRECT_A5_RR_START source=2 target=1 time=469.150
+NONIC87_DIRECT_A5_RR_DONE source=2 target=1 dimension=0 time=488.870
+NONIC87_DIRECT_A5_RR_START source=2 target=2 time=488.870
+NONIC87_DIRECT_A5_RR_DONE source=2 target=2 dimension=0 time=505.870
+NONIC87_DIRECT_A5_RR_START source=2 target=3 time=505.870
+NONIC87_DIRECT_A5_RR_DONE source=2 target=3 dimension=0 time=523.320
+NONIC87_DIRECT_A5_RR_START source=2 target=4 time=523.320
+NONIC87_DIRECT_A5_RR_DONE source=2 target=4 dimension=0 time=545.680
+NONIC87_DIRECT_A5_RR_START source=2 target=5 time=545.680
+NONIC87_DIRECT_A5_RR_DONE source=2 target=5 dimension=0 time=568.780
+NONIC87_DIRECT_A5_RR_START source=2 target=6 time=568.780
+NONIC87_DIRECT_A5_RR_DONE source=2 target=6 dimension=0 time=584.620
+NONIC87_DIRECT_A5_RR_START source=2 target=7 time=584.620
+NONIC87_DIRECT_A5_RR_DONE source=2 target=7 dimension=0 time=600.060
+NONIC87_DIRECT_A5_RR_START source=2 target=8 time=600.060
+NONIC87_DIRECT_A5_RR_DONE source=2 target=8 dimension=0 time=618.080
+NONIC87_DIRECT_A5_RR_START source=2 target=9 time=618.080
+NONIC87_DIRECT_A5_RR_DONE source=2 target=9 dimension=0 time=635.480
+NONIC87_DIRECT_A5_RR_START source=2 target=10 time=635.480
+NONIC87_DIRECT_A5_RR_DONE source=2 target=10 dimension=0 time=649.070
+NONIC87_DIRECT_A5_RR_START source=2 target=11 time=649.070
+NONIC87_DIRECT_A5_RR_DONE source=2 target=11 dimension=0 time=662.250
+NONIC87_DIRECT_A5_RR_START source=2 target=12 time=662.250
+NONIC87_DIRECT_A5_RR_DONE source=2 target=12 dimension=0 time=683.190
+NONIC87_DIRECT_A5_RR_START source=2 target=13 time=683.190
+NONIC87_DIRECT_A5_RR_DONE source=2 target=13 dimension=0 time=701.410
+NONIC87_DIRECT_A5_RR_START source=2 target=14 time=701.410
+NONIC87_DIRECT_A5_RR_DONE source=2 target=14 dimension=0 time=716.620
+NONIC87_DIRECT_A5_RR_START source=2 target=15 time=716.620
+NONIC87_DIRECT_A5_RR_DONE source=2 target=15 dimension=0 time=743.850
+NONIC87_DIRECT_A5_RR_START source=2 target=16 time=743.850
+NONIC87_DIRECT_A5_RR_DONE source=2 target=16 dimension=0 time=784.870
+NONIC87_DIRECT_A5_RR_START source=3 target=1 time=784.870
+NONIC87_DIRECT_A5_RR_DONE source=3 target=1 dimension=0 time=798.230
+NONIC87_DIRECT_A5_RR_START source=3 target=2 time=798.230
+NONIC87_DIRECT_A5_RR_DONE source=3 target=2 dimension=0 time=812.060
+NONIC87_DIRECT_A5_RR_START source=3 target=3 time=812.060
+NONIC87_DIRECT_A5_RR_DONE source=3 target=3 dimension=0 time=824.550
+NONIC87_DIRECT_A5_RR_START source=3 target=4 time=824.550
+NONIC87_DIRECT_A5_RR_DONE source=3 target=4 dimension=0 time=839.050
+NONIC87_DIRECT_A5_RR_START source=3 target=5 time=839.050
+NONIC87_DIRECT_A5_RR_DONE source=3 target=5 dimension=0 time=852.300
+NONIC87_DIRECT_A5_RR_START source=3 target=6 time=852.300
+NONIC87_DIRECT_A5_RR_DONE source=3 target=6 dimension=0 time=867.090
+NONIC87_DIRECT_A5_RR_START source=3 target=7 time=867.090
+NONIC87_DIRECT_A5_RR_DONE source=3 target=7 dimension=0 time=880.240
+NONIC87_DIRECT_A5_RR_START source=3 target=8 time=880.240
+NONIC87_DIRECT_A5_RR_DONE source=3 target=8 dimension=0 time=898.150
+NONIC87_DIRECT_A5_RR_START source=3 target=9 time=898.150
+NONIC87_DIRECT_A5_RR_DONE source=3 target=9 dimension=0 time=911.700
+NONIC87_DIRECT_A5_RR_START source=3 target=10 time=911.700
+NONIC87_DIRECT_A5_RR_DONE source=3 target=10 dimension=0 time=927.970
+NONIC87_DIRECT_A5_RR_START source=3 target=11 time=927.970
+NONIC87_DIRECT_A5_RR_DONE source=3 target=11 dimension=0 time=941.490
+NONIC87_DIRECT_A5_RR_START source=3 target=12 time=941.490
+NONIC87_DIRECT_A5_RR_DONE source=3 target=12 dimension=0 time=958.680
+NONIC87_DIRECT_A5_RR_START source=3 target=13 time=958.680
+NONIC87_DIRECT_A5_RR_DONE source=3 target=13 dimension=0 time=969.330
+NONIC87_DIRECT_A5_RR_START source=3 target=14 time=969.330
+NONIC87_DIRECT_A5_RR_DONE source=3 target=14 dimension=0 time=981.600
+NONIC87_DIRECT_A5_RR_START source=3 target=15 time=981.600
+NONIC87_DIRECT_A5_RR_DONE source=3 target=15 dimension=0 time=993.490
+NONIC87_DIRECT_A5_RR_START source=3 target=16 time=993.490
+NONIC87_DIRECT_A5_RR_DONE source=3 target=16 dimension=0 time=1011.820
+NONIC87_DIRECT_A5_RR_START source=4 target=1 time=1011.820
+NONIC87_DIRECT_A5_RR_DONE source=4 target=1 dimension=0 time=1027.950
+NONIC87_DIRECT_A5_RR_START source=4 target=2 time=1027.950
+NONIC87_DIRECT_A5_RR_DONE source=4 target=2 dimension=0 time=1044.990
+NONIC87_DIRECT_A5_RR_START source=4 target=3 time=1044.990
+NONIC87_DIRECT_A5_RR_DONE source=4 target=3 dimension=0 time=1060.260
+NONIC87_DIRECT_A5_RR_START source=4 target=4 time=1060.260
+NONIC87_DIRECT_A5_RR_DONE source=4 target=4 dimension=0 time=1090.210
+NONIC87_DIRECT_A5_RR_START source=4 target=5 time=1090.210
+NONIC87_DIRECT_A5_RR_DONE source=4 target=5 dimension=0 time=1104.730
+NONIC87_DIRECT_A5_RR_START source=4 target=6 time=1104.730
+NONIC87_DIRECT_A5_RR_DONE source=4 target=6 dimension=0 time=1123.830
+NONIC87_DIRECT_A5_RR_START source=4 target=7 time=1123.830
+NONIC87_DIRECT_A5_RR_DONE source=4 target=7 dimension=0 time=1142.400
+NONIC87_DIRECT_A5_RR_START source=4 target=8 time=1142.400
+NONIC87_DIRECT_A5_RR_DONE source=4 target=8 dimension=0 time=1162.380
+NONIC87_DIRECT_A5_RR_START source=4 target=9 time=1162.380
+NONIC87_DIRECT_A5_RR_DONE source=4 target=9 dimension=0 time=1179.190
+NONIC87_DIRECT_A5_RR_START source=4 target=10 time=1179.190
+NONIC87_DIRECT_A5_RR_DONE source=4 target=10 dimension=0 time=1190.620
+NONIC87_DIRECT_A5_RR_START source=4 target=11 time=1190.620
+NONIC87_DIRECT_A5_RR_DONE source=4 target=11 dimension=0 time=1208.080
+NONIC87_DIRECT_A5_RR_START source=4 target=12 time=1208.080
+NONIC87_DIRECT_A5_RR_DONE source=4 target=12 dimension=0 time=1221.350
+NONIC87_DIRECT_A5_RR_START source=4 target=13 time=1221.350
+NONIC87_DIRECT_A5_RR_DONE source=4 target=13 dimension=0 time=1236.920
+NONIC87_DIRECT_A5_RR_START source=4 target=14 time=1236.920
+NONIC87_DIRECT_A5_RR_DONE source=4 target=14 dimension=0 time=1254.560
+NONIC87_DIRECT_A5_RR_START source=4 target=15 time=1254.560
+NONIC87_DIRECT_A5_RR_DONE source=4 target=15 dimension=0 time=1272.330
+NONIC87_DIRECT_A5_RR_START source=4 target=16 time=1272.330
+NONIC87_DIRECT_A5_RR_DONE source=4 target=16 dimension=0 time=1291.090
+NONIC87_DIRECT_A5_COMPLETE cases=64 survivors=[] time=1291.570

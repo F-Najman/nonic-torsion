@@ -1,0 +1,3 @@
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/verification_inputs.m"
+NONIC35_DUAL16_READY generators=9 kernel_size=16384 image_order=16384 exact_relations=true time=8.910
+NONIC35_PRIMARY_CHARACTERS_DONE full_primary_image_order=409600 native_proven_Pic_order=14529850982400 complete=true time=9.480

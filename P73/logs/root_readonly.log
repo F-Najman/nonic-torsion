@@ -1,0 +1,9 @@
+CHECK_PASS verify_q_identities.py
+CHECK_PASS verify_winding.py
+CHECK_PASS verify_finite_keys.py
+CHECK_PASS verify_canonical_ring_tensor_readonly.py
+CHECK_PASS verify_multiplication_certificate_readonly.py
+CHECK_PASS verify_ranks_m4ri.py
+CHECK_PASS verify_FI_relations.py
+CHECK_PASS replay_rational_two.py
+NONIC73_COMPLETE_READONLY_CERTIFICATE_PASS {"binary_matrices": 32, "claim": "C73 excluded over every degree9 field", "elapsed_seconds": 4.966197640867904, "files": 369, "manifest_sha256": "9dc4b295d9f3aba6ef856ce47b84614220791a90f0225dea9d88a717d9053ca2", "matrix_shape": [90, 164], "native_exits_zero": 14, "rank": 90, "source_partial_files": 299}

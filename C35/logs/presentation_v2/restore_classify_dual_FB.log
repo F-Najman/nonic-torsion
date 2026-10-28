@@ -1,0 +1,29 @@
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/verification_inputs.m"
+NONIC35_FB_RESTORE_PROGRESS places=250/3592 time=63.610
+NONIC35_FB_RESTORE_PROGRESS places=500/3592 time=72.720
+NONIC35_FB_RESTORE_PROGRESS places=750/3592 time=82.270
+NONIC35_FB_RESTORE_PROGRESS places=1000/3592 time=91.850
+NONIC35_FB_RESTORE_PROGRESS places=1250/3592 time=101.520
+NONIC35_FB_RESTORE_PROGRESS places=1500/3592 time=111.360
+NONIC35_FB_RESTORE_PROGRESS places=1750/3592 time=121.700
+NONIC35_FB_RESTORE_PROGRESS places=2000/3592 time=132.050
+NONIC35_FB_RESTORE_PROGRESS places=2250/3592 time=142.320
+NONIC35_FB_RESTORE_PROGRESS places=2500/3592 time=152.740
+NONIC35_FB_RESTORE_PROGRESS places=2750/3592 time=162.760
+NONIC35_FB_RESTORE_PROGRESS places=3000/3592 time=172.870
+NONIC35_FB_RESTORE_PROGRESS places=3250/3592 time=182.970
+NONIC35_FB_RESTORE_PROGRESS places=3500/3592 time=193.740
+NONIC35_FB_PRIMES_RESTORED places=3592 all_degrees_le9=true universal_generation_bound=9 time=198.020
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/classify_dual_FB_tail.m"
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/dual_characters_data.m"
+Loading "work/degree9/realizations/continuation/C35/presentation_v2/deps/pair_af_place_linear.m"
+NONIC35_PRIMARY_RATIONAL_IMAGES full2_order=16384 full5_order=25 cusp2_order=8 cusp5_order=5 quotient_index=10240 exact=true time=221.490
+Loading "work/degree9/realizations/continuation/C35/known_octic35.m"
+NONIC35_PRIMARY_KNOWN_OCTIC places=6 exact_FB_indices=[ 1061, 1109, 793, 695, 761, 1172 ] time=227.150
+NONIC35_PRIMARY_PURE_DONE degree=3 places=12 unexpected=0 time=228.420
+NONIC35_PRIMARY_PURE_DONE degree=5 places=36 unexpected=0 time=228.420
+NONIC35_PRIMARY_PURE_DONE degree=6 places=126 unexpected=0 time=228.420
+NONIC35_PRIMARY_PURE_DONE degree=7 places=348 unexpected=0 time=228.420
+NONIC35_PRIMARY_PURE_DONE degree=8 places=813 unexpected=0 time=228.430
+NONIC35_PRIMARY_PURE_DONE degree=9 places=2240 unexpected=0 time=228.610
+NONIC35_PRIMARY_CLASSIFICATION_DONE tests=5961 unexpected=0 known_octic_places=6 complete=true time=229.730

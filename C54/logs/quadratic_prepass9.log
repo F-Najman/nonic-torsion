@@ -1,0 +1,37 @@
+Loading "work/degree9/realizations/continuation/C54/preflight_ordinary_module9.m"
+NONIC54_F2_CLASSES [ 3, 3, 52497, 0 ]
+[ 3, 3, 52497 ]
+5.980
+NONIC54_F2_NC_DEGREE 1 0 6.050
+NONIC54_F2_NC_DEGREE 2 0 6.070
+NONIC54_F2_NC_DEGREE 3 0 6.070
+NONIC54_F2_NC_DEGREE 4 0 6.070
+NONIC54_F2_NC_DEGREE 5 0 6.070
+NONIC54_F2_NC_DEGREE 6 9 6.070
+NONIC54_F2_NC_DEGREE 7 9 6.080
+NONIC54_F2_NC_DEGREE 8 18 6.090
+NONIC54_F2_NC_DEGREE 9 91 6.130
+NONIC54_ORDINARY_FILTER degree=6 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=7 all=9 retained=9
+NONIC54_ORDINARY_FILTER degree=8 all=18 retained=18
+NONIC54_ORDINARY_FILTER degree=9 all=91 retained=90
+NONIC54_F2_ORDINARY_CANDIDATES 2412 [ <6, 9, 192>, <7, 9, 48>, <8, 18, 9>, <9, 90, 1> ]
+45.990
+NONIC54_F5_CLASSES [ 3, 3, 342175446, 0 ]
+[ 3, 3, 52497 ]
+cuspidal_relations_equal=true 83.070
+NONIC54_F5_CUSP_CLASSES 0 1 84.300
+NONIC54_F5_CUSP_CLASSES 1 9 85.640
+NONIC54_F5_CUSP_CLASSES 2 48 86.980
+NONIC54_F5_CUSP_CLASSES 3 192 88.320
+NONIC54_F5_CUSP_CLASSES 4 636 89.590
+NONIC54_F5_CUSP_CLASSES 5 1836 90.930
+NONIC54_F5_CUSP_CLASSES 6 4763 92.510
+NONIC54_CROSSPRIME_PREFLIGHT_DONE 92.520
+NONIC54_F2_CUSP_DEGREES [ 2, 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1 ]
+NONIC54_F5_CUSP_DEGREES [ 1, 2, 1, 1, 1, 1, 2, 6, 1, 1, 1, 9, 1, 2 ]
+Loading "work/degree9/realizations/continuation/C54/quadratic_character.m"
+NONIC54_QUADRATIC_CHARACTER_READY exact_even_divisor=true both_orders_exact=true base_cusp_signature=[ -7, 5 ] base_value=2 function_degree=28 time=98.780
+Saving Magma state to "work/degree9/realizations/continuation/C54/class_preflight.workspace"
+NONIC54_CLASS_PREFLIGHT_NATIVE_WORKSPACE_SAVED maps_preserved=true before_all_point_queries=true time=98.940
+NONIC54_QUADRATIC_PREPASS_DONE records=16135 nonsquare=8087 remaining=8048 fallback=0 all_exact=true complete=true time=100.720

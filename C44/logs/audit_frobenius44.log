@@ -1,0 +1,1 @@
+C44_FROBENIUS_AUDIT_PASS {"level": 44, "p": 3, "local_J_order": 10863413200701600000, "Frobenius_traces": [-11, -15, 13, 57, -86, -255, 493, -823, -671], "closed_place_counts": [15, 5, 0, 0, 63, 160, 240, 920, 2260], "noncuspidal_closed_counts": [0, 0, 0, 0, 60, 160, 240, 920, 2260], "independent_rational_matrix_replay": true, "complete": true}

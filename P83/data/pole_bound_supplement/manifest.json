@@ -1,0 +1,46 @@
+{
+  "degree": 9,
+  "group": [
+    1,
+    83
+  ],
+  "status": "REVIEWED SUPPLEMENT TO COMPLETE EXCLUSION",
+  "base_manifest_sha256": "7d089ece84e98c2f5441e765664c03cdf599741f40e73b6de69a5997122d6a4d",
+  "proof_wrapper": "prime_orders/continued_20261026/P83/pole_bound_supplement/reviewed_exclusion.tex",
+  "independent_checker": "prime_orders/continued_20261026/P83/pole_bound_supplement/certify_supplement_readonly.py",
+  "primary_source": "Derickx\u2013vanHoeij arXiv1307.5719v3,Sections2/2.1",
+  "files": [
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/verify_cusp_orders.py",
+      "sha256": "4d7f7060021d6b79f2d2c12b279076a1fa8821c6a3b4d0690c5e00a8b0d5b6c9"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/cusp_orders_verified.json",
+      "sha256": "50ffbefe70dd50410ecd9d9bdedf60521a20c58213d746ff7c639cfae48526f3"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/pole_degrees.tex",
+      "sha256": "d732e9abbc7af71e3a7456c4b0faf90b51ff456d82a6a78210d58b54b68cc93c"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/formal_immersion_clarification.tex",
+      "sha256": "fa6f5e60f9535a223dcf111c88d848ea250a525b689389f57b6a94778f037758"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/reviewed_exclusion.tex",
+      "sha256": "7eb42f46c497c3029710f5a72936ad605e45114ebfbc1439b0e3f557900ea582"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/DvH_1307.5719v3.pdf",
+      "sha256": "d75c879465ce89c4f7af7f3752b112e113f4fac070474c80bae42bdcd93122d3"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/DvH_1307.5719v3.txt",
+      "sha256": "77105ad5927f9c101dfa9c95189970173e6665ccdfc2fe2d71c046550c45b2e8"
+    },
+    {
+      "path": "prime_orders/continued_20261026/P83/pole_bound_supplement/certify_supplement_readonly.py",
+      "sha256": "954e1243828bc0d72cbb559c78ed894dab78637ab4cb3521c6b7789537bbc150"
+    }
+  ]
+}

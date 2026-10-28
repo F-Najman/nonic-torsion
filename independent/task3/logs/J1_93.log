@@ -1,0 +1,26 @@
+FACTOR M=31 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=2 winding_full=true
+FACTOR M=31 chi_order=15 chi_cond=31 degQchi=8 dim=2 absdim=16 mult=2 winding_full=true
+FACTOR M=31 chi_order=5 chi_cond=31 degQchi=4 dim=1 absdim=4 mult=2 winding_full=true
+FACTOR M=31 chi_order=3 chi_cond=31 degQchi=2 dim=2 absdim=4 mult=2 winding_full=true
+FACTOR M=93 chi_order=1 chi_cond=1 degQchi=1 dim=2 absdim=2 mult=1 winding_full=false
+FACTOR M=93 chi_order=1 chi_cond=1 degQchi=1 dim=3 absdim=3 mult=1 winding_full=true
+FACTOR M=93 chi_order=30 chi_cond=93 degQchi=8 dim=1 absdim=8 mult=1 winding_full=true
+FACTOR M=93 chi_order=30 chi_cond=93 degQchi=8 dim=8 absdim=64 mult=1 winding_full=true
+FACTOR M=93 chi_order=15 chi_cond=31 degQchi=8 dim=2 absdim=16 mult=1 winding_full=true
+FACTOR M=93 chi_order=15 chi_cond=31 degQchi=8 dim=3 absdim=24 mult=1 winding_full=true
+FACTOR M=93 chi_order=10 chi_cond=93 degQchi=4 dim=8 absdim=32 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=93 chi_order=6 chi_cond=93 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=93 chi_order=5 chi_cond=31 degQchi=4 dim=2 absdim=8 mult=1 winding_full=true
+FACTOR M=93 chi_order=5 chi_cond=31 degQchi=4 dim=4 absdim=16 mult=1 winding_full=true
+FACTOR M=93 chi_order=3 chi_cond=31 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+FACTOR M=93 chi_order=3 chi_cond=31 degQchi=2 dim=3 absdim=6 mult=1 winding_full=true
+FACTOR M=93 chi_order=2 chi_cond=93 degQchi=1 dim=8 absdim=8 mult=1 winding_full=true
+GENUS_GAMMA1 261
+SUMMARY Kind=J1 N=93 weighted_dim=261 genus=261 allfull=false time=0.240
+NONFULL M=93 chi_order=1 chi_cond=1 absdim=2 chi_trivial_at=[ 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 32, 34, 35, 37, 38, 40, 41, 43, 44, 46, 47, 49, 50, 52, 53, 55, 56, 58, 59, 61, 64, 65, 67, 68, 70, 71, 73, 74, 76, 77, 79, 80, 82, 83, 85, 86, 88, 89, 91, 92 ]
+RANKCHECK_DONE

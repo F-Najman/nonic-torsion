@@ -1,0 +1,8 @@
+{
+  "native_export_sha256": "0cb79d320dbc37971fd5f2c8d16b79e66416f6bd2a2a320e9fa810942fd0a650",
+  "literal_input_sha256": "367f36a87d42762eb091dd84c5291633b37af7835af15ea1732a70df488ff436",
+  "literal_input_generator_snapshot_sha256": "046db16794bff5e565c3a2e990ab57b26471b8ebbbeaa7e685cfcbc834352199",
+  "native_export_snapshot_sha256": "dad3bb86c1f6fa80579285839c448f341450df8a702c67d1f4b0093df70618f5",
+  "proof_status": "native_proven_by_unconditional_generation_bound",
+  "RAM_workspace_required": false
+}

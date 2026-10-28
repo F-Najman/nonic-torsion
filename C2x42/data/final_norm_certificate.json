@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "prime": 5,
+  "target": "X1(42)",
+  "independent_kernel_orbits": 90,
+  "geometric_kernel_count": 180,
+  "source_summands": 8,
+  "nonCM_cases": 7,
+  "alternative_maps": 3,
+  "CM_cases": 4,
+  "all_plane_equations_and_norms": true,
+  "all_14_case_divisors_reconstructed": true,
+  "all_source_case_links": true,
+  "x_nonprimitive_points": 1,
+  "ramified_y_points": 0
+}

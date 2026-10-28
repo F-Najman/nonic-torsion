@@ -1,0 +1,11 @@
+FACTOR M=18 chi_order=3 chi_cond=9 degQchi=2 dim=1 absdim=2 mult=3 winding_full=true
+FACTOR M=24 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=2 winding_full=true
+FACTOR M=36 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=2 winding_full=true
+FACTOR M=36 chi_order=6 chi_cond=36 degQchi=2 dim=4 absdim=8 mult=2 winding_full=true
+FACTOR M=36 chi_order=3 chi_cond=9 degQchi=2 dim=1 absdim=2 mult=2 winding_full=true
+FACTOR M=36 chi_order=2 chi_cond=12 degQchi=1 dim=2 absdim=2 mult=2 winding_full=true
+FACTOR M=72 chi_order=1 chi_cond=1 degQchi=1 dim=1 absdim=1 mult=1 winding_full=true
+FACTOR M=72 chi_order=3 chi_cond=9 degQchi=2 dim=1 absdim=2 mult=1 winding_full=true
+FACTOR M=72 chi_order=3 chi_cond=9 degQchi=2 dim=2 absdim=4 mult=1 winding_full=true
+SUMMARY Kind=J22 N=18 weighted_dim=41 genus=41 allfull=true time=0.210
+RANKCHECK_DONE
